@@ -29,7 +29,7 @@ An automated pipeline for analyzing podcast audio using AI. This project process
 └── requirements.txt      # Python dependencies
 ```
 
-## 🛠️ Installation
+##  Installation
 
 1. **Clone the repository**:
    ```bash
