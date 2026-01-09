@@ -1,0 +1,113 @@
+{
+  "text": " What time do you have breakfast? From Monday to Friday I have breakfast at 7 a.m. And on Saturdays and Sundays I have breakfast at 10 o'clock. What do you usually have for breakfast? It depends on...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 12.200000000000001,
+      "text": " What time do you have breakfast? From Monday to Friday I have breakfast at 7 a.m.",
+      "tokens": [
+        50364,
+        708,
+        565,
+        360,
+        291,
+        362,
+        8201,
+        30,
+        3358,
+        8138,
+        281,
+        6984,
+        286,
+        362,
+        8201,
+        412,
+        1614,
+        257,
+        13,
+        76,
+        13,
+        50974
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3128887967365544,
+      "compression_ratio": 1.3396226415094339,
+      "no_speech_prob": 0.05801363289356232
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 12.200000000000001,
+      "end": 22.56,
+      "text": " And on Saturdays and Sundays I have breakfast at 10 o'clock.",
+      "tokens": [
+        50974,
+        400,
+        322,
+        8803,
+        82,
+        293,
+        44857,
+        286,
+        362,
+        8201,
+        412,
+        1266,
+        277,
+        6,
+        9023,
+        13,
+        51492
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3128887967365544,
+      "compression_ratio": 1.3396226415094339,
+      "no_speech_prob": 0.05801363289356232
+    },
+    {
+      "id": 2,
+      "seek": 2256,
+      "start": 23.119999999999997,
+      "end": 27.759999999999998,
+      "text": " What do you usually have for breakfast?",
+      "tokens": [
+        50392,
+        708,
+        360,
+        291,
+        2673,
+        362,
+        337,
+        8201,
+        30,
+        50624
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6023552838493796,
+      "compression_ratio": 0.8888888888888888,
+      "no_speech_prob": 0.09101074934005737
+    },
+    {
+      "id": 3,
+      "seek": 2256,
+      "start": 27.759999999999998,
+      "end": 29.759999999999998,
+      "text": " It depends on...",
+      "tokens": [
+        50624,
+        467,
+        5946,
+        322,
+        485,
+        50724
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6023552838493796,
+      "compression_ratio": 0.8888888888888888,
+      "no_speech_prob": 0.09101074934005737
+    }
+  ],
+  "language": "en"
+}

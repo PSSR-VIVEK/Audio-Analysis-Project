@@ -1,0 +1,212 @@
+{
+  "text": " and I can even start using an Italian tutor and having a conversation in Italian, 100% in Italian. So this method works, and I will recommend it to the English speakers that have been asking me how to learn Spanish. So I'm happy to say that this method that works, I'm satisfied with it. Obviously, you don't just stop.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.32,
+      "text": " and I can even start using an Italian tutor",
+      "tokens": [
+        50364,
+        293,
+        286,
+        393,
+        754,
+        722,
+        1228,
+        364,
+        10003,
+        35613,
+        50580
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15971757158821012,
+      "compression_ratio": 1.5513513513513513,
+      "no_speech_prob": 0.05324190482497215
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.32,
+      "end": 8.64,
+      "text": " and having a conversation in Italian,",
+      "tokens": [
+        50580,
+        293,
+        1419,
+        257,
+        3761,
+        294,
+        10003,
+        11,
+        50796
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15971757158821012,
+      "compression_ratio": 1.5513513513513513,
+      "no_speech_prob": 0.05324190482497215
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.64,
+      "end": 10.96,
+      "text": " 100% in Italian.",
+      "tokens": [
+        50796,
+        2319,
+        4,
+        294,
+        10003,
+        13,
+        50912
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15971757158821012,
+      "compression_ratio": 1.5513513513513513,
+      "no_speech_prob": 0.05324190482497215
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.96,
+      "end": 13.36,
+      "text": " So this method works,",
+      "tokens": [
+        50912,
+        407,
+        341,
+        3170,
+        1985,
+        11,
+        51032
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15971757158821012,
+      "compression_ratio": 1.5513513513513513,
+      "no_speech_prob": 0.05324190482497215
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 13.36,
+      "end": 18.04,
+      "text": " and I will recommend it to the English speakers",
+      "tokens": [
+        51032,
+        293,
+        286,
+        486,
+        2748,
+        309,
+        281,
+        264,
+        3669,
+        9518,
+        51266
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15971757158821012,
+      "compression_ratio": 1.5513513513513513,
+      "no_speech_prob": 0.05324190482497215
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 18.04,
+      "end": 21.44,
+      "text": " that have been asking me how to learn Spanish.",
+      "tokens": [
+        51266,
+        300,
+        362,
+        668,
+        3365,
+        385,
+        577,
+        281,
+        1466,
+        8058,
+        13,
+        51436
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15971757158821012,
+      "compression_ratio": 1.5513513513513513,
+      "no_speech_prob": 0.05324190482497215
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 21.44,
+      "end": 26.2,
+      "text": " So I'm happy to say that this method that works,",
+      "tokens": [
+        51436,
+        407,
+        286,
+        478,
+        2055,
+        281,
+        584,
+        300,
+        341,
+        3170,
+        300,
+        1985,
+        11,
+        51674
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15971757158821012,
+      "compression_ratio": 1.5513513513513513,
+      "no_speech_prob": 0.05324190482497215
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 26.2,
+      "end": 28.080000000000002,
+      "text": " I'm satisfied with it.",
+      "tokens": [
+        51674,
+        286,
+        478,
+        11239,
+        365,
+        309,
+        13,
+        51768
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15971757158821012,
+      "compression_ratio": 1.5513513513513513,
+      "no_speech_prob": 0.05324190482497215
+    },
+    {
+      "id": 8,
+      "seek": 2808,
+      "start": 28.08,
+      "end": 30.32,
+      "text": " Obviously, you don't just stop.",
+      "tokens": [
+        50364,
+        7580,
+        11,
+        291,
+        500,
+        380,
+        445,
+        1590,
+        13,
+        50476
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5386801199479536,
+      "compression_ratio": 0.7948717948717948,
+      "no_speech_prob": 0.08041854202747345
+    }
+  ],
+  "language": "en"
+}

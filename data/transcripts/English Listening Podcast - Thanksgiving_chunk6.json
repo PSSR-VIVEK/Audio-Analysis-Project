@@ -1,0 +1,208 @@
+{
+  "text": " It's listening time. Okay, let's talk about Thanksgiving. First, let me talk a little bit about the origins of Thanksgiving, where it came from. So it's generally believed that Thanksgiving originated in the year 1621. So what was happening at that time? Well, there were English settlers and aindand calls for name.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.84,
+      "text": " It's listening time.",
+      "tokens": [
+        50364,
+        467,
+        311,
+        4764,
+        565,
+        13,
+        50506
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20761465414976463,
+      "compression_ratio": 1.5157894736842106,
+      "no_speech_prob": 0.20023733377456665
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.84,
+      "end": 5.68,
+      "text": " Okay, let's talk about Thanksgiving.",
+      "tokens": [
+        50506,
+        1033,
+        11,
+        718,
+        311,
+        751,
+        466,
+        21230,
+        13,
+        50648
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20761465414976463,
+      "compression_ratio": 1.5157894736842106,
+      "no_speech_prob": 0.20023733377456665
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.68,
+      "end": 9.64,
+      "text": " First, let me talk a little bit about the origins",
+      "tokens": [
+        50648,
+        2386,
+        11,
+        718,
+        385,
+        751,
+        257,
+        707,
+        857,
+        466,
+        264,
+        22721,
+        50846
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20761465414976463,
+      "compression_ratio": 1.5157894736842106,
+      "no_speech_prob": 0.20023733377456665
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 9.64,
+      "end": 13.120000000000001,
+      "text": " of Thanksgiving, where it came from.",
+      "tokens": [
+        50846,
+        295,
+        21230,
+        11,
+        689,
+        309,
+        1361,
+        490,
+        13,
+        51020
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20761465414976463,
+      "compression_ratio": 1.5157894736842106,
+      "no_speech_prob": 0.20023733377456665
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 13.120000000000001,
+      "end": 18.12,
+      "text": " So it's generally believed that Thanksgiving originated",
+      "tokens": [
+        51020,
+        407,
+        309,
+        311,
+        5101,
+        7847,
+        300,
+        21230,
+        31129,
+        51270
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20761465414976463,
+      "compression_ratio": 1.5157894736842106,
+      "no_speech_prob": 0.20023733377456665
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 19.080000000000002,
+      "end": 22.6,
+      "text": " in the year 1621.",
+      "tokens": [
+        51318,
+        294,
+        264,
+        1064,
+        3165,
+        4436,
+        13,
+        51494
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20761465414976463,
+      "compression_ratio": 1.5157894736842106,
+      "no_speech_prob": 0.20023733377456665
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 22.6,
+      "end": 25.84,
+      "text": " So what was happening at that time?",
+      "tokens": [
+        51494,
+        407,
+        437,
+        390,
+        2737,
+        412,
+        300,
+        565,
+        30,
+        51656
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20761465414976463,
+      "compression_ratio": 1.5157894736842106,
+      "no_speech_prob": 0.20023733377456665
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 25.84,
+      "end": 29.78,
+      "text": " Well, there were English settlers",
+      "tokens": [
+        51656,
+        1042,
+        11,
+        456,
+        645,
+        3669,
+        43798,
+        51853
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20761465414976463,
+      "compression_ratio": 1.5157894736842106,
+      "no_speech_prob": 0.20023733377456665
+    },
+    {
+      "id": 8,
+      "seek": 2978,
+      "start": 29.86,
+      "end": 30.62,
+      "text": " and aindand calls for name.",
+      "tokens": [
+        50368,
+        293,
+        11804,
+        273,
+        5498,
+        337,
+        1315,
+        13,
+        50406
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.582766792990944,
+      "compression_ratio": 0.8181818181818182,
+      "no_speech_prob": 0.43393465876579285
+    }
+  ],
+  "language": "en"
+}

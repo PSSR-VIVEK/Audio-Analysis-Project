@@ -1,0 +1,170 @@
+{
+  "text": " Thou thee thy thyme These pronouns that start with TH and then also the pronoun ye Y e So let me read you a verse from the King James Bible this is Romans 10 9 chapter 10 verse 9 and this has",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.0,
+      "text": " Thou thee thy thyme",
+      "tokens": [
+        50364,
+        334,
+        263,
+        24800,
+        15196,
+        15196,
+        1398,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6384087859607134,
+      "compression_ratio": 1.3741007194244603,
+      "no_speech_prob": 0.08288092166185379
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.88,
+      "end": 11.36,
+      "text": " These pronouns that start with TH and then also the pronoun",
+      "tokens": [
+        50608,
+        1981,
+        35883,
+        300,
+        722,
+        365,
+        3578,
+        293,
+        550,
+        611,
+        264,
+        14144,
+        50932
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6384087859607134,
+      "compression_ratio": 1.3741007194244603,
+      "no_speech_prob": 0.08288092166185379
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 12.120000000000001,
+      "end": 13.120000000000001,
+      "text": " ye",
+      "tokens": [
+        50970,
+        606,
+        51020
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6384087859607134,
+      "compression_ratio": 1.3741007194244603,
+      "no_speech_prob": 0.08288092166185379
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.120000000000001,
+      "end": 14.620000000000001,
+      "text": " Y e",
+      "tokens": [
+        51020,
+        398,
+        308,
+        51095
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6384087859607134,
+      "compression_ratio": 1.3741007194244603,
+      "no_speech_prob": 0.08288092166185379
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 14.620000000000001,
+      "end": 20.240000000000002,
+      "text": " So let me read you a verse from the King James Bible",
+      "tokens": [
+        51095,
+        407,
+        718,
+        385,
+        1401,
+        291,
+        257,
+        7996,
+        490,
+        264,
+        3819,
+        5678,
+        6544,
+        51376
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6384087859607134,
+      "compression_ratio": 1.3741007194244603,
+      "no_speech_prob": 0.08288092166185379
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 20.96,
+      "end": 22.96,
+      "text": " this is",
+      "tokens": [
+        51412,
+        341,
+        307,
+        51512
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6384087859607134,
+      "compression_ratio": 1.3741007194244603,
+      "no_speech_prob": 0.08288092166185379
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 23.2,
+      "end": 25.2,
+      "text": " Romans 10",
+      "tokens": [
+        51524,
+        20252,
+        1266,
+        51624
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6384087859607134,
+      "compression_ratio": 1.3741007194244603,
+      "no_speech_prob": 0.08288092166185379
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 25.36,
+      "end": 29.3,
+      "text": " 9 chapter 10 verse 9 and this has",
+      "tokens": [
+        51632,
+        1722,
+        7187,
+        1266,
+        7996,
+        1722,
+        293,
+        341,
+        575,
+        51829
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6384087859607134,
+      "compression_ratio": 1.3741007194244603,
+      "no_speech_prob": 0.08288092166185379
+    }
+  ],
+  "language": "en"
+}

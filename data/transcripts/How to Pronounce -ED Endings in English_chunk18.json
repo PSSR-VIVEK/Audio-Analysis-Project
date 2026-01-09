@@ -1,0 +1,125 @@
+{
+  "text": " invented. Miao finish is in w, so miao closed. The sound is z, so it's voiced closed. Promised is unvoiced, so promised. Rip is unvoiced, so ripped.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.2600000000000002,
+      "text": " invented.",
+      "tokens": [
+        50364,
+        14479,
+        13,
+        50477
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5847978803846571,
+      "compression_ratio": 1.3043478260869565,
+      "no_speech_prob": 0.669975757598877
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.2600000000000002,
+      "end": 11.06,
+      "text": " Miao finish is in w, so miao closed.",
+      "tokens": [
+        50477,
+        376,
+        7648,
+        2413,
+        307,
+        294,
+        261,
+        11,
+        370,
+        275,
+        7648,
+        5395,
+        13,
+        50917
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5847978803846571,
+      "compression_ratio": 1.3043478260869565,
+      "no_speech_prob": 0.669975757598877
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.06,
+      "end": 17.42,
+      "text": " The sound is z, so it's voiced closed.",
+      "tokens": [
+        50917,
+        440,
+        1626,
+        307,
+        710,
+        11,
+        370,
+        309,
+        311,
+        42246,
+        5395,
+        13,
+        51235
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5847978803846571,
+      "compression_ratio": 1.3043478260869565,
+      "no_speech_prob": 0.669975757598877
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 17.42,
+      "end": 24.16,
+      "text": " Promised is unvoiced, so promised.",
+      "tokens": [
+        51235,
+        15833,
+        2640,
+        307,
+        517,
+        3080,
+        4233,
+        11,
+        370,
+        10768,
+        13,
+        51572
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5847978803846571,
+      "compression_ratio": 1.3043478260869565,
+      "no_speech_prob": 0.669975757598877
+    },
+    {
+      "id": 4,
+      "seek": 2416,
+      "start": 24.16,
+      "end": 29.8,
+      "text": " Rip is unvoiced, so ripped.",
+      "tokens": [
+        50364,
+        34677,
+        307,
+        517,
+        3080,
+        4233,
+        11,
+        370,
+        22780,
+        13,
+        50646
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5545674562454224,
+      "compression_ratio": 0.7714285714285715,
+      "no_speech_prob": 0.2534765303134918
+    }
+  ],
+  "language": "en"
+}

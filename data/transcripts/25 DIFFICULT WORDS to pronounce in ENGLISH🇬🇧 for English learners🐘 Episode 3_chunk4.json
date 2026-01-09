@@ -1,0 +1,126 @@
+{
+  "text": " to continue studying. Poor dogs have four paws. Tongue. Tungles are used to taste food. Women. There are more women in this class than men. Minutes. I have been waiting for twenty minutes.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.0,
+      "text": " to continue studying.",
+      "tokens": [
+        50364,
+        281,
+        2354,
+        7601,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3170832937413996,
+      "compression_ratio": 1.287037037037037,
+      "no_speech_prob": 0.4342399537563324
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.0,
+      "end": 10.0,
+      "text": " Poor dogs have four paws.",
+      "tokens": [
+        50564,
+        23591,
+        7197,
+        362,
+        1451,
+        46768,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3170832937413996,
+      "compression_ratio": 1.287037037037037,
+      "no_speech_prob": 0.4342399537563324
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.0,
+      "end": 18.0,
+      "text": " Tongue. Tungles are used to taste food.",
+      "tokens": [
+        50864,
+        26946,
+        622,
+        13,
+        314,
+        1063,
+        904,
+        366,
+        1143,
+        281,
+        3939,
+        1755,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3170832937413996,
+      "compression_ratio": 1.287037037037037,
+      "no_speech_prob": 0.4342399537563324
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 18.0,
+      "end": 25.0,
+      "text": " Women. There are more women in this class than men.",
+      "tokens": [
+        51264,
+        11065,
+        13,
+        821,
+        366,
+        544,
+        2266,
+        294,
+        341,
+        1508,
+        813,
+        1706,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3170832937413996,
+      "compression_ratio": 1.287037037037037,
+      "no_speech_prob": 0.4342399537563324
+    },
+    {
+      "id": 4,
+      "seek": 2500,
+      "start": 25.0,
+      "end": 32.0,
+      "text": " Minutes. I have been waiting for twenty minutes.",
+      "tokens": [
+        50414,
+        2829,
+        1819,
+        13,
+        286,
+        362,
+        668,
+        3806,
+        337,
+        7699,
+        2077,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3443323203495571,
+      "compression_ratio": 0.9411764705882353,
+      "no_speech_prob": 0.25171101093292236
+    }
+  ],
+  "language": "en"
+}

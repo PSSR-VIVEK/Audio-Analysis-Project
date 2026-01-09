@@ -1,0 +1,193 @@
+{
+  "text": " that I really used a hammer and nails on my own. So I learned how to hammer things when I built this tree house. And it was a great place to play and to use our imagination to create gains and things like that in this tree house. And in general, I always really liked climbing trees as a kid that would...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " that I really used a hammer and nails on my own.",
+      "tokens": [
+        50364,
+        300,
+        286,
+        534,
+        1143,
+        257,
+        13017,
+        293,
+        15394,
+        322,
+        452,
+        1065,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23510407782220222,
+      "compression_ratio": 1.6395348837209303,
+      "no_speech_prob": 0.22726784646511078
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.88,
+      "end": 9.14,
+      "text": " So I learned how to hammer things",
+      "tokens": [
+        50658,
+        407,
+        286,
+        3264,
+        577,
+        281,
+        13017,
+        721,
+        50821
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23510407782220222,
+      "compression_ratio": 1.6395348837209303,
+      "no_speech_prob": 0.22726784646511078
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.14,
+      "end": 11.64,
+      "text": " when I built this tree house.",
+      "tokens": [
+        50821,
+        562,
+        286,
+        3094,
+        341,
+        4230,
+        1782,
+        13,
+        50946
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23510407782220222,
+      "compression_ratio": 1.6395348837209303,
+      "no_speech_prob": 0.22726784646511078
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.64,
+      "end": 15.84,
+      "text": " And it was a great place to play",
+      "tokens": [
+        50946,
+        400,
+        309,
+        390,
+        257,
+        869,
+        1081,
+        281,
+        862,
+        51156
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23510407782220222,
+      "compression_ratio": 1.6395348837209303,
+      "no_speech_prob": 0.22726784646511078
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 15.84,
+      "end": 20.84,
+      "text": " and to use our imagination to create gains",
+      "tokens": [
+        51156,
+        293,
+        281,
+        764,
+        527,
+        12938,
+        281,
+        1884,
+        16823,
+        51406
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23510407782220222,
+      "compression_ratio": 1.6395348837209303,
+      "no_speech_prob": 0.22726784646511078
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 21.72,
+      "end": 24.62,
+      "text": " and things like that in this tree house.",
+      "tokens": [
+        51450,
+        293,
+        721,
+        411,
+        300,
+        294,
+        341,
+        4230,
+        1782,
+        13,
+        51595
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23510407782220222,
+      "compression_ratio": 1.6395348837209303,
+      "no_speech_prob": 0.22726784646511078
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 24.62,
+      "end": 28.52,
+      "text": " And in general, I always really liked climbing trees",
+      "tokens": [
+        51595,
+        400,
+        294,
+        2674,
+        11,
+        286,
+        1009,
+        534,
+        4501,
+        14780,
+        5852,
+        51790
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23510407782220222,
+      "compression_ratio": 1.6395348837209303,
+      "no_speech_prob": 0.22726784646511078
+    },
+    {
+      "id": 7,
+      "seek": 2852,
+      "start": 28.52,
+      "end": 30.12,
+      "text": " as a kid that would...",
+      "tokens": [
+        50368,
+        382,
+        257,
+        1636,
+        300,
+        576,
+        485,
+        50444
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9531781938340929,
+      "compression_ratio": 0.7333333333333333,
+      "no_speech_prob": 0.03195777162909508
+    }
+  ],
+  "language": "en"
+}

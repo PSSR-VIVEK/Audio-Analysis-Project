@@ -1,0 +1,109 @@
+{
+  "text": " The championship has actually been held every year since 1950. The first race took place in 1950 in Silverstone in the United Kingdom. Silverstone in the United Kingdom. But the championship has changed a lot since then.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 7.0,
+      "text": " The championship has actually been held every year since 1950.",
+      "tokens": [
+        50364,
+        440,
+        19070,
+        575,
+        767,
+        668,
+        5167,
+        633,
+        1064,
+        1670,
+        18141,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4055499732494354,
+      "compression_ratio": 1.1858407079646018,
+      "no_speech_prob": 0.1106891930103302
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.0,
+      "end": 19.0,
+      "text": " The first race took place in 1950 in Silverstone in the United Kingdom.",
+      "tokens": [
+        50714,
+        440,
+        700,
+        4569,
+        1890,
+        1081,
+        294,
+        18141,
+        294,
+        15861,
+        11243,
+        294,
+        264,
+        2824,
+        11277,
+        13,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4055499732494354,
+      "compression_ratio": 1.1858407079646018,
+      "no_speech_prob": 0.1106891930103302
+    },
+    {
+      "id": 2,
+      "seek": 1900,
+      "start": 19.0,
+      "end": 23.0,
+      "text": " Silverstone in the United Kingdom.",
+      "tokens": [
+        50364,
+        15861,
+        11243,
+        294,
+        264,
+        2824,
+        11277,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19968501004305753,
+      "compression_ratio": 1.0759493670886076,
+      "no_speech_prob": 0.08487351983785629
+    },
+    {
+      "id": 3,
+      "seek": 1900,
+      "start": 23.0,
+      "end": 30.0,
+      "text": " But the championship has changed a lot since then.",
+      "tokens": [
+        50564,
+        583,
+        264,
+        19070,
+        575,
+        3105,
+        257,
+        688,
+        1670,
+        550,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19968501004305753,
+      "compression_ratio": 1.0759493670886076,
+      "no_speech_prob": 0.08487351983785629
+    }
+  ],
+  "language": "en"
+}

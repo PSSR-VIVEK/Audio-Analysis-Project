@@ -1,0 +1,167 @@
+{
+  "text": " different types of repetition with listening practice. And I used different levels of videos. Of course, I started with more basic content where the person was talking pretty slowly. But then I started listening to other teachers that actually talk faster. And so I tried to kind of move up.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.44,
+      "text": " different types of repetition with listening practice.",
+      "tokens": [
+        50364,
+        819,
+        3467,
+        295,
+        30432,
+        365,
+        4764,
+        3124,
+        13,
+        50586
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17582370440165201,
+      "compression_ratio": 1.5238095238095237,
+      "no_speech_prob": 0.11560127139091492
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.44,
+      "end": 9.08,
+      "text": " And I used different levels of videos.",
+      "tokens": [
+        50586,
+        400,
+        286,
+        1143,
+        819,
+        4358,
+        295,
+        2145,
+        13,
+        50818
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17582370440165201,
+      "compression_ratio": 1.5238095238095237,
+      "no_speech_prob": 0.11560127139091492
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.08,
+      "end": 15.56,
+      "text": " Of course, I started with more basic content",
+      "tokens": [
+        50818,
+        2720,
+        1164,
+        11,
+        286,
+        1409,
+        365,
+        544,
+        3875,
+        2701,
+        51142
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17582370440165201,
+      "compression_ratio": 1.5238095238095237,
+      "no_speech_prob": 0.11560127139091492
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 15.56,
+      "end": 19.32,
+      "text": " where the person was talking pretty slowly.",
+      "tokens": [
+        51142,
+        689,
+        264,
+        954,
+        390,
+        1417,
+        1238,
+        5692,
+        13,
+        51330
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17582370440165201,
+      "compression_ratio": 1.5238095238095237,
+      "no_speech_prob": 0.11560127139091492
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 19.32,
+      "end": 23.8,
+      "text": " But then I started listening to other teachers",
+      "tokens": [
+        51330,
+        583,
+        550,
+        286,
+        1409,
+        4764,
+        281,
+        661,
+        6023,
+        51554
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17582370440165201,
+      "compression_ratio": 1.5238095238095237,
+      "no_speech_prob": 0.11560127139091492
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 23.8,
+      "end": 26.400000000000002,
+      "text": " that actually talk faster.",
+      "tokens": [
+        51554,
+        300,
+        767,
+        751,
+        4663,
+        13,
+        51684
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17582370440165201,
+      "compression_ratio": 1.5238095238095237,
+      "no_speech_prob": 0.11560127139091492
+    },
+    {
+      "id": 6,
+      "seek": 2640,
+      "start": 26.4,
+      "end": 29.919999999999998,
+      "text": " And so I tried to kind of move up.",
+      "tokens": [
+        50364,
+        400,
+        370,
+        286,
+        3031,
+        281,
+        733,
+        295,
+        1286,
+        493,
+        13,
+        50540
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36072712678175706,
+      "compression_ratio": 0.8292682926829268,
+      "no_speech_prob": 0.013210244476795197
+    }
+  ],
+  "language": "en"
+}

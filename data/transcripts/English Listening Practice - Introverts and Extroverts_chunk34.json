@@ -1,0 +1,179 @@
+{
+  "text": " but this can sometimes be a weakness, is that sometimes certain extroverts might be more easily distracted. So remember how I talked about introverts being a little bit more quiet and analytical in their thought process. Introverts often learn through observation and our very thoughts.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.64,
+      "text": " but this can sometimes be a weakness,",
+      "tokens": [
+        50364,
+        457,
+        341,
+        393,
+        2171,
+        312,
+        257,
+        12772,
+        11,
+        50596
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17362432181835175,
+      "compression_ratio": 1.5202312138728324,
+      "no_speech_prob": 0.023694481700658798
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.64,
+      "end": 8.44,
+      "text": " is that sometimes certain extroverts",
+      "tokens": [
+        50596,
+        307,
+        300,
+        2171,
+        1629,
+        1279,
+        340,
+        36999,
+        50786
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17362432181835175,
+      "compression_ratio": 1.5202312138728324,
+      "no_speech_prob": 0.023694481700658798
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.44,
+      "end": 11.72,
+      "text": " might be more easily distracted.",
+      "tokens": [
+        50786,
+        1062,
+        312,
+        544,
+        3612,
+        21658,
+        13,
+        50950
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17362432181835175,
+      "compression_ratio": 1.5202312138728324,
+      "no_speech_prob": 0.023694481700658798
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.72,
+      "end": 15.36,
+      "text": " So remember how I talked about introverts",
+      "tokens": [
+        50950,
+        407,
+        1604,
+        577,
+        286,
+        2825,
+        466,
+        12897,
+        36999,
+        51132
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17362432181835175,
+      "compression_ratio": 1.5202312138728324,
+      "no_speech_prob": 0.023694481700658798
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 15.36,
+      "end": 20.36,
+      "text": " being a little bit more quiet and analytical",
+      "tokens": [
+        51132,
+        885,
+        257,
+        707,
+        857,
+        544,
+        5677,
+        293,
+        29579,
+        51382
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17362432181835175,
+      "compression_ratio": 1.5202312138728324,
+      "no_speech_prob": 0.023694481700658798
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 21.36,
+      "end": 24.04,
+      "text": " in their thought process.",
+      "tokens": [
+        51432,
+        294,
+        641,
+        1194,
+        1399,
+        13,
+        51566
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17362432181835175,
+      "compression_ratio": 1.5202312138728324,
+      "no_speech_prob": 0.023694481700658798
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 24.04,
+      "end": 28.16,
+      "text": " Introverts often learn through observation",
+      "tokens": [
+        51566,
+        47406,
+        36999,
+        2049,
+        1466,
+        807,
+        14816,
+        51772
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17362432181835175,
+      "compression_ratio": 1.5202312138728324,
+      "no_speech_prob": 0.023694481700658798
+    },
+    {
+      "id": 7,
+      "seek": 2816,
+      "start": 28.16,
+      "end": 30.4,
+      "text": " and our very thoughts.",
+      "tokens": [
+        50376,
+        293,
+        527,
+        588,
+        4598,
+        13,
+        50476
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.947478711605072,
+      "compression_ratio": 0.7333333333333333,
+      "no_speech_prob": 0.07517778128385544
+    }
+  ],
+  "language": "en"
+}

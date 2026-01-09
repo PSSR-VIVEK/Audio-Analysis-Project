@@ -1,0 +1,110 @@
+{
+  "text": " You love this season because of the delicious chocolate eggs and bunnies. Some people also decorate and paint on boiled eggs during Easter and make them beautiful to give them as gifts. Another important Easter tradition is the Easter Bunny.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 8.66,
+      "text": " You love this season because of the delicious chocolate eggs and bunnies.",
+      "tokens": [
+        50364,
+        509,
+        959,
+        341,
+        3196,
+        570,
+        295,
+        264,
+        4809,
+        6215,
+        6466,
+        293,
+        6702,
+        40549,
+        13,
+        50797
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20602288357047147,
+      "compression_ratio": 1.3909774436090225,
+      "no_speech_prob": 0.01644749753177166
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 8.66,
+      "end": 18.62,
+      "text": " Some people also decorate and paint on boiled eggs during Easter and make them beautiful",
+      "tokens": [
+        50797,
+        2188,
+        561,
+        611,
+        24229,
+        293,
+        4225,
+        322,
+        21058,
+        6466,
+        1830,
+        9403,
+        293,
+        652,
+        552,
+        2238,
+        51295
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20602288357047147,
+      "compression_ratio": 1.3909774436090225,
+      "no_speech_prob": 0.01644749753177166
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 18.62,
+      "end": 23.54,
+      "text": " to give them as gifts.",
+      "tokens": [
+        51295,
+        281,
+        976,
+        552,
+        382,
+        11449,
+        13,
+        51541
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20602288357047147,
+      "compression_ratio": 1.3909774436090225,
+      "no_speech_prob": 0.01644749753177166
+    },
+    {
+      "id": 3,
+      "seek": 2354,
+      "start": 23.54,
+      "end": 30.54,
+      "text": " Another important Easter tradition is the Easter Bunny.",
+      "tokens": [
+        50364,
+        3996,
+        1021,
+        9403,
+        6994,
+        307,
+        264,
+        9403,
+        38803,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.565591295560201,
+      "compression_ratio": 1.0185185185185186,
+      "no_speech_prob": 0.5059226751327515
+    }
+  ],
+  "language": "en"
+}

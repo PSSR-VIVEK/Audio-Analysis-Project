@@ -1,0 +1,151 @@
+{
+  "text": " or your speaking exam. The first question is, why are you studying English? I am studying English because it is the language of international business. I use English at work and I know that if I become fluent in the language, it will help me advance in my career.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.2800000000000002,
+      "text": " or your speaking exam.",
+      "tokens": [
+        50364,
+        420,
+        428,
+        4124,
+        1139,
+        13,
+        50528
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27196943058687095,
+      "compression_ratio": 1.5202312138728324,
+      "no_speech_prob": 0.35583868622779846
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.2800000000000002,
+      "end": 8.68,
+      "text": " The first question is, why are you studying English?",
+      "tokens": [
+        50528,
+        440,
+        700,
+        1168,
+        307,
+        11,
+        983,
+        366,
+        291,
+        7601,
+        3669,
+        30,
+        50798
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27196943058687095,
+      "compression_ratio": 1.5202312138728324,
+      "no_speech_prob": 0.35583868622779846
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.68,
+      "end": 13.08,
+      "text": " I am studying English because it is the language",
+      "tokens": [
+        50798,
+        286,
+        669,
+        7601,
+        3669,
+        570,
+        309,
+        307,
+        264,
+        2856,
+        51018
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27196943058687095,
+      "compression_ratio": 1.5202312138728324,
+      "no_speech_prob": 0.35583868622779846
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.08,
+      "end": 15.76,
+      "text": " of international business.",
+      "tokens": [
+        51018,
+        295,
+        5058,
+        1606,
+        13,
+        51152
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27196943058687095,
+      "compression_ratio": 1.5202312138728324,
+      "no_speech_prob": 0.35583868622779846
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 16.76,
+      "end": 21.76,
+      "text": " I use English at work and I know that if I become fluent",
+      "tokens": [
+        51202,
+        286,
+        764,
+        3669,
+        412,
+        589,
+        293,
+        286,
+        458,
+        300,
+        498,
+        286,
+        1813,
+        40799,
+        51452
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27196943058687095,
+      "compression_ratio": 1.5202312138728324,
+      "no_speech_prob": 0.35583868622779846
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 24.64,
+      "end": 29.64,
+      "text": " in the language, it will help me advance in my career.",
+      "tokens": [
+        51596,
+        294,
+        264,
+        2856,
+        11,
+        309,
+        486,
+        854,
+        385,
+        7295,
+        294,
+        452,
+        3988,
+        13,
+        51846
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27196943058687095,
+      "compression_ratio": 1.5202312138728324,
+      "no_speech_prob": 0.35583868622779846
+    }
+  ],
+  "language": "en"
+}

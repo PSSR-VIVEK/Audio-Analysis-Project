@@ -1,0 +1,148 @@
+{
+  "text": " Another event that we have is Pep rallies. So you might have seen these movies before. Pep rallies are these events that take place before certain sporting events. And they're meant to get people fired up for that sporting event. When you get someone fired up,",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " Another event that we have is Pep rallies.",
+      "tokens": [
+        50364,
+        3996,
+        2280,
+        300,
+        321,
+        362,
+        307,
+        28637,
+        48169,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4714518764562774,
+      "compression_ratio": 1.6013986013986015,
+      "no_speech_prob": 0.09465067088603973
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.5200000000000005,
+      "end": 10.02,
+      "text": " So you might have seen these movies before.",
+      "tokens": [
+        50640,
+        407,
+        291,
+        1062,
+        362,
+        1612,
+        613,
+        6233,
+        949,
+        13,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4714518764562774,
+      "compression_ratio": 1.6013986013986015,
+      "no_speech_prob": 0.09465067088603973
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.02,
+      "end": 14.52,
+      "text": " Pep rallies are these events that take place",
+      "tokens": [
+        50865,
+        28637,
+        48169,
+        366,
+        613,
+        3931,
+        300,
+        747,
+        1081,
+        51090
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4714518764562774,
+      "compression_ratio": 1.6013986013986015,
+      "no_speech_prob": 0.09465067088603973
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 14.52,
+      "end": 18.52,
+      "text": " before certain sporting events.",
+      "tokens": [
+        51090,
+        949,
+        1629,
+        32366,
+        3931,
+        13,
+        51290
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4714518764562774,
+      "compression_ratio": 1.6013986013986015,
+      "no_speech_prob": 0.09465067088603973
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 19.52,
+      "end": 24.52,
+      "text": " And they're meant to get people fired up for that sporting event.",
+      "tokens": [
+        51340,
+        400,
+        436,
+        434,
+        4140,
+        281,
+        483,
+        561,
+        11777,
+        493,
+        337,
+        300,
+        32366,
+        2280,
+        13,
+        51590
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4714518764562774,
+      "compression_ratio": 1.6013986013986015,
+      "no_speech_prob": 0.09465067088603973
+    },
+    {
+      "id": 5,
+      "seek": 2452,
+      "start": 24.52,
+      "end": 29.52,
+      "text": " When you get someone fired up,",
+      "tokens": [
+        50364,
+        1133,
+        291,
+        483,
+        1580,
+        11777,
+        493,
+        11,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5493209838867188,
+      "compression_ratio": 0.7894736842105263,
+      "no_speech_prob": 0.004656442906707525
+    }
+  ],
+  "language": "en"
+}

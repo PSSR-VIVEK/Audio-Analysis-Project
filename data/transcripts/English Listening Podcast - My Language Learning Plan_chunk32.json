@@ -1,0 +1,226 @@
+{
+  "text": " this will depend on your level. But that's something that you can incorporate into your language-learning plan to make sure you're challenging yourself. So if I only listen to the things that are a little more comfortable for me to not really challenging myself, so that's why I want to incorporate this small amount of time every day to doing this.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": " this will depend on your level.",
+      "tokens": [
+        50364,
+        341,
+        486,
+        5672,
+        322,
+        428,
+        1496,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23678338250448538,
+      "compression_ratio": 1.6135265700483092,
+      "no_speech_prob": 0.14446686208248138
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.0,
+      "end": 6.0,
+      "text": " But that's something that you can incorporate",
+      "tokens": [
+        50514,
+        583,
+        300,
+        311,
+        746,
+        300,
+        291,
+        393,
+        16091,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23678338250448538,
+      "compression_ratio": 1.6135265700483092,
+      "no_speech_prob": 0.14446686208248138
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.0,
+      "end": 9.0,
+      "text": " into your language-learning plan",
+      "tokens": [
+        50664,
+        666,
+        428,
+        2856,
+        12,
+        47204,
+        1393,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23678338250448538,
+      "compression_ratio": 1.6135265700483092,
+      "no_speech_prob": 0.14446686208248138
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 9.0,
+      "end": 11.0,
+      "text": " to make sure you're challenging yourself.",
+      "tokens": [
+        50814,
+        281,
+        652,
+        988,
+        291,
+        434,
+        7595,
+        1803,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23678338250448538,
+      "compression_ratio": 1.6135265700483092,
+      "no_speech_prob": 0.14446686208248138
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 11.0,
+      "end": 15.0,
+      "text": " So if I only listen to the things",
+      "tokens": [
+        50914,
+        407,
+        498,
+        286,
+        787,
+        2140,
+        281,
+        264,
+        721,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23678338250448538,
+      "compression_ratio": 1.6135265700483092,
+      "no_speech_prob": 0.14446686208248138
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 15.0,
+      "end": 18.0,
+      "text": " that are a little more comfortable for me",
+      "tokens": [
+        51114,
+        300,
+        366,
+        257,
+        707,
+        544,
+        4619,
+        337,
+        385,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23678338250448538,
+      "compression_ratio": 1.6135265700483092,
+      "no_speech_prob": 0.14446686208248138
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 18.0,
+      "end": 20.0,
+      "text": " to not really challenging myself,",
+      "tokens": [
+        51264,
+        281,
+        406,
+        534,
+        7595,
+        2059,
+        11,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23678338250448538,
+      "compression_ratio": 1.6135265700483092,
+      "no_speech_prob": 0.14446686208248138
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 20.0,
+      "end": 23.0,
+      "text": " so that's why I want to incorporate",
+      "tokens": [
+        51364,
+        370,
+        300,
+        311,
+        983,
+        286,
+        528,
+        281,
+        16091,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23678338250448538,
+      "compression_ratio": 1.6135265700483092,
+      "no_speech_prob": 0.14446686208248138
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 23.0,
+      "end": 27.0,
+      "text": " this small amount of time every day",
+      "tokens": [
+        51514,
+        341,
+        1359,
+        2372,
+        295,
+        565,
+        633,
+        786,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23678338250448538,
+      "compression_ratio": 1.6135265700483092,
+      "no_speech_prob": 0.14446686208248138
+    },
+    {
+      "id": 9,
+      "seek": 2700,
+      "start": 27.0,
+      "end": 30.0,
+      "text": " to doing this.",
+      "tokens": [
+        50414,
+        281,
+        884,
+        341,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1715526921408517,
+      "compression_ratio": 0.6363636363636364,
+      "no_speech_prob": 0.20537692308425903
+    }
+  ],
+  "language": "en"
+}

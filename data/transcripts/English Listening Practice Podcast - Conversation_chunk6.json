@@ -1,0 +1,133 @@
+{
+  "text": " teacher because I've talked to many people, hundreds and hundreds of different people from all over the world for thousands of hours. I constantly have conversations with different people from different backgrounds, different cultures, different personalities, etc. So this really trains you to become...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 8.84,
+      "text": " teacher because I've talked to many people, hundreds and hundreds of different people from",
+      "tokens": [
+        50364,
+        5027,
+        570,
+        286,
+        600,
+        2825,
+        281,
+        867,
+        561,
+        11,
+        6779,
+        293,
+        6779,
+        295,
+        819,
+        561,
+        490,
+        50806
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2444527237503617,
+      "compression_ratio": 1.6878980891719746,
+      "no_speech_prob": 0.29701587557792664
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 8.84,
+      "end": 13.24,
+      "text": " all over the world for thousands of hours.",
+      "tokens": [
+        50806,
+        439,
+        670,
+        264,
+        1002,
+        337,
+        5383,
+        295,
+        2496,
+        13,
+        51026
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2444527237503617,
+      "compression_ratio": 1.6878980891719746,
+      "no_speech_prob": 0.29701587557792664
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 13.24,
+      "end": 21.1,
+      "text": " I constantly have conversations with different people from different backgrounds, different",
+      "tokens": [
+        51026,
+        286,
+        6460,
+        362,
+        7315,
+        365,
+        819,
+        561,
+        490,
+        819,
+        17336,
+        11,
+        819,
+        51419
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2444527237503617,
+      "compression_ratio": 1.6878980891719746,
+      "no_speech_prob": 0.29701587557792664
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 21.1,
+      "end": 25.72,
+      "text": " cultures, different personalities, etc.",
+      "tokens": [
+        51419,
+        12951,
+        11,
+        819,
+        25308,
+        11,
+        5183,
+        13,
+        51650
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2444527237503617,
+      "compression_ratio": 1.6878980891719746,
+      "no_speech_prob": 0.29701587557792664
+    },
+    {
+      "id": 4,
+      "seek": 2572,
+      "start": 25.72,
+      "end": 30.04,
+      "text": " So this really trains you to become...",
+      "tokens": [
+        50364,
+        407,
+        341,
+        534,
+        16329,
+        291,
+        281,
+        1813,
+        485,
+        50580
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5217937122691761,
+      "compression_ratio": 0.8260869565217391,
+      "no_speech_prob": 0.4860776662826538
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,198 @@
+{
+  "text": " the week leading up to homecoming and What happens is that on each day of that week? There's a different theme so maybe there's 70s day or pajama day or whatever and people dress up according to the theme of that day. So if it's 70s day people",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.3200000000000003,
+      "text": " the week leading up to homecoming and",
+      "tokens": [
+        50364,
+        264,
+        1243,
+        5775,
+        493,
+        281,
+        1280,
+        6590,
+        293,
+        50530
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.47052120518040014,
+      "compression_ratio": 1.542483660130719,
+      "no_speech_prob": 0.19851842522621155
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.6000000000000005,
+      "end": 9.02,
+      "text": " What happens is that on each day of that week?",
+      "tokens": [
+        50594,
+        708,
+        2314,
+        307,
+        300,
+        322,
+        1184,
+        786,
+        295,
+        300,
+        1243,
+        30,
+        50815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.47052120518040014,
+      "compression_ratio": 1.542483660130719,
+      "no_speech_prob": 0.19851842522621155
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.4,
+      "end": 11.4,
+      "text": " There's a different theme",
+      "tokens": [
+        50834,
+        821,
+        311,
+        257,
+        819,
+        6314,
+        50934
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.47052120518040014,
+      "compression_ratio": 1.542483660130719,
+      "no_speech_prob": 0.19851842522621155
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.82,
+      "end": 13.82,
+      "text": " so maybe there's",
+      "tokens": [
+        50955,
+        370,
+        1310,
+        456,
+        311,
+        51055
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.47052120518040014,
+      "compression_ratio": 1.542483660130719,
+      "no_speech_prob": 0.19851842522621155
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 14.02,
+      "end": 16.02,
+      "text": " 70s day or",
+      "tokens": [
+        51065,
+        5285,
+        82,
+        786,
+        420,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.47052120518040014,
+      "compression_ratio": 1.542483660130719,
+      "no_speech_prob": 0.19851842522621155
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 16.2,
+      "end": 19.96,
+      "text": " pajama day or whatever and people",
+      "tokens": [
+        51174,
+        33819,
+        2404,
+        786,
+        420,
+        2035,
+        293,
+        561,
+        51362
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.47052120518040014,
+      "compression_ratio": 1.542483660130719,
+      "no_speech_prob": 0.19851842522621155
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 20.76,
+      "end": 22.76,
+      "text": " dress up",
+      "tokens": [
+        51402,
+        5231,
+        493,
+        51502
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.47052120518040014,
+      "compression_ratio": 1.542483660130719,
+      "no_speech_prob": 0.19851842522621155
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 22.92,
+      "end": 28.64,
+      "text": " according to the theme of that day. So if it's 70s day",
+      "tokens": [
+        51510,
+        4650,
+        281,
+        264,
+        6314,
+        295,
+        300,
+        786,
+        13,
+        407,
+        498,
+        309,
+        311,
+        5285,
+        82,
+        786,
+        51796
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.47052120518040014,
+      "compression_ratio": 1.542483660130719,
+      "no_speech_prob": 0.19851842522621155
+    },
+    {
+      "id": 8,
+      "seek": 2864,
+      "start": 28.64,
+      "end": 31.36,
+      "text": " people",
+      "tokens": [
+        50400,
+        561,
+        50500
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8056719899177551,
+      "compression_ratio": 0.42857142857142855,
+      "no_speech_prob": 0.25131842494010925
+    }
+  ],
+  "language": "en"
+}

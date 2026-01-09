@@ -1,0 +1,211 @@
+{
+  "text": " They themselves do that. So it's inconsistent, right? If you don't want your neighbors to do that, then you shouldn't do that either. It's pretty simple. However, people can easily forget about the people around them, the neighbors, when they're in their own home, and they feel like they can do whatever they want.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.04,
+      "text": " They themselves do that.",
+      "tokens": [
+        50364,
+        814,
+        2969,
+        360,
+        300,
+        13,
+        50516
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19804103653152266,
+      "compression_ratio": 1.5260115606936415,
+      "no_speech_prob": 0.10509781539440155
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.04,
+      "end": 6.8,
+      "text": " So it's inconsistent, right?",
+      "tokens": [
+        50516,
+        407,
+        309,
+        311,
+        36891,
+        11,
+        558,
+        30,
+        50704
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19804103653152266,
+      "compression_ratio": 1.5260115606936415,
+      "no_speech_prob": 0.10509781539440155
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.8,
+      "end": 10.34,
+      "text": " If you don't want your neighbors to do that,",
+      "tokens": [
+        50704,
+        759,
+        291,
+        500,
+        380,
+        528,
+        428,
+        12512,
+        281,
+        360,
+        300,
+        11,
+        50881
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19804103653152266,
+      "compression_ratio": 1.5260115606936415,
+      "no_speech_prob": 0.10509781539440155
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.34,
+      "end": 13.68,
+      "text": " then you shouldn't do that either.",
+      "tokens": [
+        50881,
+        550,
+        291,
+        4659,
+        380,
+        360,
+        300,
+        2139,
+        13,
+        51048
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19804103653152266,
+      "compression_ratio": 1.5260115606936415,
+      "no_speech_prob": 0.10509781539440155
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 13.68,
+      "end": 15.200000000000001,
+      "text": " It's pretty simple.",
+      "tokens": [
+        51048,
+        467,
+        311,
+        1238,
+        2199,
+        13,
+        51124
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19804103653152266,
+      "compression_ratio": 1.5260115606936415,
+      "no_speech_prob": 0.10509781539440155
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 15.200000000000001,
+      "end": 19.32,
+      "text": " However, people can easily forget",
+      "tokens": [
+        51124,
+        2908,
+        11,
+        561,
+        393,
+        3612,
+        2870,
+        51330
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19804103653152266,
+      "compression_ratio": 1.5260115606936415,
+      "no_speech_prob": 0.10509781539440155
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 19.32,
+      "end": 23.52,
+      "text": " about the people around them, the neighbors,",
+      "tokens": [
+        51330,
+        466,
+        264,
+        561,
+        926,
+        552,
+        11,
+        264,
+        12512,
+        11,
+        51540
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19804103653152266,
+      "compression_ratio": 1.5260115606936415,
+      "no_speech_prob": 0.10509781539440155
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 23.52,
+      "end": 25.8,
+      "text": " when they're in their own home,",
+      "tokens": [
+        51540,
+        562,
+        436,
+        434,
+        294,
+        641,
+        1065,
+        1280,
+        11,
+        51654
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19804103653152266,
+      "compression_ratio": 1.5260115606936415,
+      "no_speech_prob": 0.10509781539440155
+    },
+    {
+      "id": 8,
+      "seek": 2580,
+      "start": 25.8,
+      "end": 29.96,
+      "text": " and they feel like they can do whatever they want.",
+      "tokens": [
+        50364,
+        293,
+        436,
+        841,
+        411,
+        436,
+        393,
+        360,
+        2035,
+        436,
+        528,
+        13,
+        50572
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39335100991385324,
+      "compression_ratio": 1.0204081632653061,
+      "no_speech_prob": 0.017416179180145264
+    }
+  ],
+  "language": "en"
+}

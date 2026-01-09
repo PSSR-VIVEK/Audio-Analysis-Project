@@ -1,0 +1,150 @@
+{
+  "text": " it's not easy to go through those processes. And so I don't think that anyone likes that aspect of marrying someone from another country. Another negative might be that you and your spouse might have completely different world views. You might have a different background and a different...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.16,
+      "text": " it's not easy to go through those processes.",
+      "tokens": [
+        50364,
+        309,
+        311,
+        406,
+        1858,
+        281,
+        352,
+        807,
+        729,
+        7555,
+        13,
+        50572
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30229030336652485,
+      "compression_ratio": 1.4746835443037976,
+      "no_speech_prob": 0.05055759847164154
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.16,
+      "end": 9.6,
+      "text": " And so I don't think that anyone likes that aspect",
+      "tokens": [
+        50572,
+        400,
+        370,
+        286,
+        500,
+        380,
+        519,
+        300,
+        2878,
+        5902,
+        300,
+        4171,
+        50844
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30229030336652485,
+      "compression_ratio": 1.4746835443037976,
+      "no_speech_prob": 0.05055759847164154
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.6,
+      "end": 13.56,
+      "text": " of marrying someone from another country.",
+      "tokens": [
+        50844,
+        295,
+        36376,
+        1580,
+        490,
+        1071,
+        1941,
+        13,
+        51042
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30229030336652485,
+      "compression_ratio": 1.4746835443037976,
+      "no_speech_prob": 0.05055759847164154
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.56,
+      "end": 22.080000000000002,
+      "text": " Another negative might be that you and your spouse might have completely different",
+      "tokens": [
+        51042,
+        3996,
+        3671,
+        1062,
+        312,
+        300,
+        291,
+        293,
+        428,
+        23013,
+        1062,
+        362,
+        2584,
+        819,
+        51468
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30229030336652485,
+      "compression_ratio": 1.4746835443037976,
+      "no_speech_prob": 0.05055759847164154
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 22.080000000000002,
+      "end": 24.0,
+      "text": " world views.",
+      "tokens": [
+        51468,
+        1002,
+        6809,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30229030336652485,
+      "compression_ratio": 1.4746835443037976,
+      "no_speech_prob": 0.05055759847164154
+    },
+    {
+      "id": 5,
+      "seek": 2400,
+      "start": 24.0,
+      "end": 31.0,
+      "text": " You might have a different background and a different...",
+      "tokens": [
+        50364,
+        509,
+        1062,
+        362,
+        257,
+        819,
+        3678,
+        293,
+        257,
+        819,
+        485,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5685718609736516,
+      "compression_ratio": 1.0566037735849056,
+      "no_speech_prob": 0.08928319811820984
+    }
+  ],
+  "language": "en"
+}

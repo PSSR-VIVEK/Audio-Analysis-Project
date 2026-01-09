@@ -1,0 +1,169 @@
+{
+  "text": " that challenge made me progress and reach the next level and It worked the same way when I moved to Mexico and I started getting some practice being with groups of Mexicans Because before that I Hadn't had that experience before so it was hard to Be with groups of people try to understand them",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": " that challenge",
+      "tokens": [
+        50364,
+        300,
+        3430,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4625946529327877,
+      "compression_ratio": 1.490909090909091,
+      "no_speech_prob": 0.15892355144023895
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.6,
+      "end": 6.32,
+      "text": " made me progress and reach the next level and",
+      "tokens": [
+        50494,
+        1027,
+        385,
+        4205,
+        293,
+        2524,
+        264,
+        958,
+        1496,
+        293,
+        50680
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4625946529327877,
+      "compression_ratio": 1.490909090909091,
+      "no_speech_prob": 0.15892355144023895
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.32,
+      "end": 14.040000000000001,
+      "text": " It worked the same way when I moved to Mexico and I started getting some practice",
+      "tokens": [
+        50730,
+        467,
+        2732,
+        264,
+        912,
+        636,
+        562,
+        286,
+        4259,
+        281,
+        8612,
+        293,
+        286,
+        1409,
+        1242,
+        512,
+        3124,
+        51066
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4625946529327877,
+      "compression_ratio": 1.490909090909091,
+      "no_speech_prob": 0.15892355144023895
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 14.72,
+      "end": 17.48,
+      "text": " being with groups of Mexicans",
+      "tokens": [
+        51100,
+        885,
+        365,
+        3935,
+        295,
+        6496,
+        34332,
+        51238
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4625946529327877,
+      "compression_ratio": 1.490909090909091,
+      "no_speech_prob": 0.15892355144023895
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 18.240000000000002,
+      "end": 20.240000000000002,
+      "text": " Because before that I",
+      "tokens": [
+        51276,
+        1436,
+        949,
+        300,
+        286,
+        51376
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4625946529327877,
+      "compression_ratio": 1.490909090909091,
+      "no_speech_prob": 0.15892355144023895
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 20.52,
+      "end": 24.68,
+      "text": " Hadn't had that experience before so it was hard to",
+      "tokens": [
+        51390,
+        12298,
+        77,
+        380,
+        632,
+        300,
+        1752,
+        949,
+        370,
+        309,
+        390,
+        1152,
+        281,
+        51598
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4625946529327877,
+      "compression_ratio": 1.490909090909091,
+      "no_speech_prob": 0.15892355144023895
+    },
+    {
+      "id": 6,
+      "seek": 2468,
+      "start": 24.68,
+      "end": 29.68,
+      "text": " Be with groups of people try to understand them",
+      "tokens": [
+        50392,
+        879,
+        365,
+        3935,
+        295,
+        561,
+        853,
+        281,
+        1223,
+        552,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3347545067469279,
+      "compression_ratio": 0.8545454545454545,
+      "no_speech_prob": 0.0036863579880446196
+    }
+  ],
+  "language": "en"
+}

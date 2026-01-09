@@ -1,0 +1,193 @@
+{
+  "text": " read the article and then do further research to try to confirm or maybe add to their knowledge of that thing. So most people don't do that. They just read the headlight and then they think they know what happened or what's going on about whatever subject. So, you don't want to do that. You want to be",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.44,
+      "text": " read the article and then do further research to try to confirm or",
+      "tokens": [
+        50364,
+        1401,
+        264,
+        7222,
+        293,
+        550,
+        360,
+        3052,
+        2132,
+        281,
+        853,
+        281,
+        9064,
+        420,
+        50686
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38892712800399115,
+      "compression_ratio": 1.5421686746987953,
+      "no_speech_prob": 0.1796320229768753
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.62,
+      "end": 10.120000000000001,
+      "text": " maybe add to their knowledge of",
+      "tokens": [
+        50745,
+        1310,
+        909,
+        281,
+        641,
+        3601,
+        295,
+        50870
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38892712800399115,
+      "compression_ratio": 1.5421686746987953,
+      "no_speech_prob": 0.1796320229768753
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.32,
+      "end": 13.32,
+      "text": " that thing. So",
+      "tokens": [
+        50930,
+        300,
+        551,
+        13,
+        407,
+        51030
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38892712800399115,
+      "compression_ratio": 1.5421686746987953,
+      "no_speech_prob": 0.1796320229768753
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.52,
+      "end": 19.72,
+      "text": " most people don't do that. They just read the headlight and then they think they know",
+      "tokens": [
+        51040,
+        881,
+        561,
+        500,
+        380,
+        360,
+        300,
+        13,
+        814,
+        445,
+        1401,
+        264,
+        1378,
+        2764,
+        293,
+        550,
+        436,
+        519,
+        436,
+        458,
+        51350
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38892712800399115,
+      "compression_ratio": 1.5421686746987953,
+      "no_speech_prob": 0.1796320229768753
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 20.2,
+      "end": 22.2,
+      "text": " what happened or",
+      "tokens": [
+        51374,
+        437,
+        2011,
+        420,
+        51474
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38892712800399115,
+      "compression_ratio": 1.5421686746987953,
+      "no_speech_prob": 0.1796320229768753
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 22.32,
+      "end": 24.080000000000002,
+      "text": " what's going on",
+      "tokens": [
+        51480,
+        437,
+        311,
+        516,
+        322,
+        51568
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38892712800399115,
+      "compression_ratio": 1.5421686746987953,
+      "no_speech_prob": 0.1796320229768753
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 24.080000000000002,
+      "end": 26.080000000000002,
+      "text": " about whatever subject.",
+      "tokens": [
+        51568,
+        466,
+        2035,
+        3983,
+        13,
+        51668
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38892712800399115,
+      "compression_ratio": 1.5421686746987953,
+      "no_speech_prob": 0.1796320229768753
+    },
+    {
+      "id": 7,
+      "seek": 2608,
+      "start": 26.08,
+      "end": 29.68,
+      "text": " So, you don't want to do that. You want to be",
+      "tokens": [
+        50378,
+        407,
+        11,
+        291,
+        500,
+        380,
+        528,
+        281,
+        360,
+        300,
+        13,
+        509,
+        528,
+        281,
+        312,
+        50544
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5163608999813304,
+      "compression_ratio": 1.0227272727272727,
+      "no_speech_prob": 0.016264745965600014
+    }
+  ],
+  "language": "en"
+}

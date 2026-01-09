@@ -1,0 +1,187 @@
+{
+  "text": " but in terms of the mode of transportation, the different ways people can get to different places, I think that will be easier. And I think that more places around the world will be open for tourism as countries develop more. So today, there are many countries that can't really receive many tourists because...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.84,
+      "text": " but in terms of the mode of transportation,",
+      "tokens": [
+        50364,
+        457,
+        294,
+        2115,
+        295,
+        264,
+        4391,
+        295,
+        11328,
+        11,
+        50606
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1317971674601237,
+      "compression_ratio": 1.6483516483516483,
+      "no_speech_prob": 0.02589668147265911
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.84,
+      "end": 9.200000000000001,
+      "text": " the different ways people can get to different places,",
+      "tokens": [
+        50606,
+        264,
+        819,
+        2098,
+        561,
+        393,
+        483,
+        281,
+        819,
+        3190,
+        11,
+        50824
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1317971674601237,
+      "compression_ratio": 1.6483516483516483,
+      "no_speech_prob": 0.02589668147265911
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.200000000000001,
+      "end": 11.96,
+      "text": " I think that will be easier.",
+      "tokens": [
+        50824,
+        286,
+        519,
+        300,
+        486,
+        312,
+        3571,
+        13,
+        50962
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1317971674601237,
+      "compression_ratio": 1.6483516483516483,
+      "no_speech_prob": 0.02589668147265911
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.96,
+      "end": 16.28,
+      "text": " And I think that more places around the world",
+      "tokens": [
+        50962,
+        400,
+        286,
+        519,
+        300,
+        544,
+        3190,
+        926,
+        264,
+        1002,
+        51178
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1317971674601237,
+      "compression_ratio": 1.6483516483516483,
+      "no_speech_prob": 0.02589668147265911
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 16.28,
+      "end": 21.28,
+      "text": " will be open for tourism as countries develop more.",
+      "tokens": [
+        51178,
+        486,
+        312,
+        1269,
+        337,
+        21832,
+        382,
+        3517,
+        1499,
+        544,
+        13,
+        51428
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1317971674601237,
+      "compression_ratio": 1.6483516483516483,
+      "no_speech_prob": 0.02589668147265911
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 21.28,
+      "end": 25.12,
+      "text": " So today, there are many countries",
+      "tokens": [
+        51428,
+        407,
+        965,
+        11,
+        456,
+        366,
+        867,
+        3517,
+        51620
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1317971674601237,
+      "compression_ratio": 1.6483516483516483,
+      "no_speech_prob": 0.02589668147265911
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 25.12,
+      "end": 29.52,
+      "text": " that can't really receive many tourists",
+      "tokens": [
+        51620,
+        300,
+        393,
+        380,
+        534,
+        4774,
+        867,
+        20273,
+        51840
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1317971674601237,
+      "compression_ratio": 1.6483516483516483,
+      "no_speech_prob": 0.02589668147265911
+    },
+    {
+      "id": 7,
+      "seek": 2952,
+      "start": 29.52,
+      "end": 31.52,
+      "text": " because...",
+      "tokens": [
+        50364,
+        570,
+        485,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9631677627563476,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 0.2524022161960602
+    }
+  ],
+  "language": "en"
+}

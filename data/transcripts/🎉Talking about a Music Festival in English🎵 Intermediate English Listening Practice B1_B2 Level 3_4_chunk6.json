@@ -1,0 +1,131 @@
+{
+  "text": " and a festival. Contained artists of the same genre, they were all rock artists. So that was good because all of the festival gurus, who are the people that went to the festival, all liked rock music. This created a great...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.0,
+      "text": " and a festival.",
+      "tokens": [
+        50364,
+        293,
+        257,
+        12091,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2727998906915838,
+      "compression_ratio": 1.5151515151515151,
+      "no_speech_prob": 0.036304719746112823
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.84,
+      "end": 14.88,
+      "text": " Contained artists of the same genre, they were all rock artists.",
+      "tokens": [
+        50656,
+        4839,
+        3563,
+        6910,
+        295,
+        264,
+        912,
+        11022,
+        11,
+        436,
+        645,
+        439,
+        3727,
+        6910,
+        13,
+        51108
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2727998906915838,
+      "compression_ratio": 1.5151515151515151,
+      "no_speech_prob": 0.036304719746112823
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 14.88,
+      "end": 24.080000000000002,
+      "text": " So that was good because all of the festival gurus, who are the people that went to the festival,",
+      "tokens": [
+        51108,
+        407,
+        300,
+        390,
+        665,
+        570,
+        439,
+        295,
+        264,
+        12091,
+        40642,
+        301,
+        11,
+        567,
+        366,
+        264,
+        561,
+        300,
+        1437,
+        281,
+        264,
+        12091,
+        11,
+        51568
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2727998906915838,
+      "compression_ratio": 1.5151515151515151,
+      "no_speech_prob": 0.036304719746112823
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 24.080000000000002,
+      "end": 27.68,
+      "text": " all liked rock music.",
+      "tokens": [
+        51568,
+        439,
+        4501,
+        3727,
+        1318,
+        13,
+        51748
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2727998906915838,
+      "compression_ratio": 1.5151515151515151,
+      "no_speech_prob": 0.036304719746112823
+    },
+    {
+      "id": 4,
+      "seek": 2768,
+      "start": 27.68,
+      "end": 29.68,
+      "text": " This created a great...",
+      "tokens": [
+        50368,
+        639,
+        2942,
+        257,
+        869,
+        485,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6639982461929321,
+      "compression_ratio": 0.8214285714285714,
+      "no_speech_prob": 0.061119332909584045
+    }
+  ],
+  "language": "en"
+}

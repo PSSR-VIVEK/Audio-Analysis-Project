@@ -1,0 +1,113 @@
+{
+  "text": " that most people in the personal development world really champion the idea that discipline is much much more important than motivation. When you champion some idea we're saying that you really support and kind of preach this idea. This is what you believe.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 10.700000000000001,
+      "text": " that most people in the personal development world really champion the idea",
+      "tokens": [
+        50364,
+        300,
+        881,
+        561,
+        294,
+        264,
+        2973,
+        3250,
+        1002,
+        534,
+        10971,
+        264,
+        1558,
+        50899
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22860069664157168,
+      "compression_ratio": 1.5503355704697988,
+      "no_speech_prob": 0.20425717532634735
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 10.700000000000001,
+      "end": 18.66,
+      "text": " that discipline is much much more important than motivation. When you champion",
+      "tokens": [
+        50899,
+        300,
+        13635,
+        307,
+        709,
+        709,
+        544,
+        1021,
+        813,
+        12335,
+        13,
+        1133,
+        291,
+        10971,
+        51297
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22860069664157168,
+      "compression_ratio": 1.5503355704697988,
+      "no_speech_prob": 0.20425717532634735
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 18.66,
+      "end": 27.34,
+      "text": " some idea we're saying that you really support and kind of preach this idea.",
+      "tokens": [
+        51297,
+        512,
+        1558,
+        321,
+        434,
+        1566,
+        300,
+        291,
+        534,
+        1406,
+        293,
+        733,
+        295,
+        21552,
+        341,
+        1558,
+        13,
+        51731
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22860069664157168,
+      "compression_ratio": 1.5503355704697988,
+      "no_speech_prob": 0.20425717532634735
+    },
+    {
+      "id": 3,
+      "seek": 2734,
+      "start": 27.34,
+      "end": 31.34,
+      "text": " This is what you believe.",
+      "tokens": [
+        50364,
+        639,
+        307,
+        437,
+        291,
+        1697,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7686948776245117,
+      "compression_ratio": 0.8064516129032258,
+      "no_speech_prob": 0.18958406150341034
+    }
+  ],
+  "language": "en"
+}

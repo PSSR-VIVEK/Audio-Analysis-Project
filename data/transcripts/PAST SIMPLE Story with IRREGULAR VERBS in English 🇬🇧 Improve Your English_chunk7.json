@@ -1,0 +1,133 @@
+{
+  "text": " which would be very dangerous. Imagine 1,000 robots like this, he said. He knew he needed to do something fast to protect himself and the world. One night, Dr. Jones slowly went near the robot when it was resting and turned it off.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.7600000000000002,
+      "text": " which would be very dangerous.",
+      "tokens": [
+        50364,
+        597,
+        576,
+        312,
+        588,
+        5795,
+        13,
+        50552
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.333119509512918,
+      "compression_ratio": 1.3417721518987342,
+      "no_speech_prob": 0.05597858875989914
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.7600000000000002,
+      "end": 8.84,
+      "text": " Imagine 1,000 robots like this, he said.",
+      "tokens": [
+        50552,
+        11739,
+        502,
+        11,
+        1360,
+        14733,
+        411,
+        341,
+        11,
+        415,
+        848,
+        13,
+        50806
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.333119509512918,
+      "compression_ratio": 1.3417721518987342,
+      "no_speech_prob": 0.05597858875989914
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.84,
+      "end": 17.84,
+      "text": " He knew he needed to do something fast to protect himself and the world.",
+      "tokens": [
+        50806,
+        634,
+        2586,
+        415,
+        2978,
+        281,
+        360,
+        746,
+        2370,
+        281,
+        2371,
+        3647,
+        293,
+        264,
+        1002,
+        13,
+        51256
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.333119509512918,
+      "compression_ratio": 1.3417721518987342,
+      "no_speech_prob": 0.05597858875989914
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 17.84,
+      "end": 28.48,
+      "text": " One night, Dr. Jones slowly went near the robot when it was resting",
+      "tokens": [
+        51256,
+        1485,
+        1818,
+        11,
+        2491,
+        13,
+        10512,
+        5692,
+        1437,
+        2651,
+        264,
+        7881,
+        562,
+        309,
+        390,
+        21221,
+        51788
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.333119509512918,
+      "compression_ratio": 1.3417721518987342,
+      "no_speech_prob": 0.05597858875989914
+    },
+    {
+      "id": 4,
+      "seek": 2848,
+      "start": 28.48,
+      "end": 30.48,
+      "text": " and turned it off.",
+      "tokens": [
+        50364,
+        293,
+        3574,
+        309,
+        766,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8393763303756714,
+      "compression_ratio": 0.6923076923076923,
+      "no_speech_prob": 0.42136523127555847
+    }
+  ],
+  "language": "en"
+}

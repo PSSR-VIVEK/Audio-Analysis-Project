@@ -1,0 +1,206 @@
+{
+  "text": " You have this new skill. You can imagine that the more skills that you have, the more self-confidence you probably have. Right? So if you don't have any skills, you probably lack some confidence because you don't feel like you can do that much. But when you have these different skills, you feel...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.0,
+      "text": " You have this new skill.",
+      "tokens": [
+        50364,
+        509,
+        362,
+        341,
+        777,
+        5389,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15660086870193482,
+      "compression_ratio": 1.6923076923076923,
+      "no_speech_prob": 0.365045964717865
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.0,
+      "end": 8.0,
+      "text": " You can imagine that the more skills that you have,",
+      "tokens": [
+        50514,
+        509,
+        393,
+        3811,
+        300,
+        264,
+        544,
+        3942,
+        300,
+        291,
+        362,
+        11,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15660086870193482,
+      "compression_ratio": 1.6923076923076923,
+      "no_speech_prob": 0.365045964717865
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.0,
+      "end": 12.0,
+      "text": " the more self-confidence you probably have.",
+      "tokens": [
+        50764,
+        264,
+        544,
+        2698,
+        12,
+        47273,
+        291,
+        1391,
+        362,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15660086870193482,
+      "compression_ratio": 1.6923076923076923,
+      "no_speech_prob": 0.365045964717865
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 12.0,
+      "end": 13.0,
+      "text": " Right?",
+      "tokens": [
+        50964,
+        1779,
+        30,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15660086870193482,
+      "compression_ratio": 1.6923076923076923,
+      "no_speech_prob": 0.365045964717865
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 13.0,
+      "end": 16.0,
+      "text": " So if you don't have any skills,",
+      "tokens": [
+        51014,
+        407,
+        498,
+        291,
+        500,
+        380,
+        362,
+        604,
+        3942,
+        11,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15660086870193482,
+      "compression_ratio": 1.6923076923076923,
+      "no_speech_prob": 0.365045964717865
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 16.0,
+      "end": 19.0,
+      "text": " you probably lack some confidence",
+      "tokens": [
+        51164,
+        291,
+        1391,
+        5011,
+        512,
+        6687,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15660086870193482,
+      "compression_ratio": 1.6923076923076923,
+      "no_speech_prob": 0.365045964717865
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 19.0,
+      "end": 23.0,
+      "text": " because you don't feel like you can do that much.",
+      "tokens": [
+        51314,
+        570,
+        291,
+        500,
+        380,
+        841,
+        411,
+        291,
+        393,
+        360,
+        300,
+        709,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15660086870193482,
+      "compression_ratio": 1.6923076923076923,
+      "no_speech_prob": 0.365045964717865
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 23.0,
+      "end": 27.0,
+      "text": " But when you have these different skills,",
+      "tokens": [
+        51514,
+        583,
+        562,
+        291,
+        362,
+        613,
+        819,
+        3942,
+        11,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15660086870193482,
+      "compression_ratio": 1.6923076923076923,
+      "no_speech_prob": 0.365045964717865
+    },
+    {
+      "id": 8,
+      "seek": 2700,
+      "start": 27.0,
+      "end": 29.0,
+      "text": " you feel...",
+      "tokens": [
+        50364,
+        291,
+        841,
+        485,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.26693403720855713,
+      "compression_ratio": 0.5789473684210527,
+      "no_speech_prob": 0.13690215349197388
+    }
+  ],
+  "language": "en"
+}

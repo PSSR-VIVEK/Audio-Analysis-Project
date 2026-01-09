@@ -1,0 +1,151 @@
+{
+  "text": " conversations in French very easily without much interruption at all, just being able to interact comfortably and normally in French. I'm not referring to not making mistakes and sounding really really good or having a perfect accent. I'm not talking about that. I'm just referring to.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 9.64,
+      "text": " conversations in French very easily without much interruption at all, just being able",
+      "tokens": [
+        50364,
+        7315,
+        294,
+        5522,
+        588,
+        3612,
+        1553,
+        709,
+        728,
+        11266,
+        412,
+        439,
+        11,
+        445,
+        885,
+        1075,
+        50846
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2748486253081775,
+      "compression_ratio": 1.5502958579881656,
+      "no_speech_prob": 0.4010780453681946
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 9.64,
+      "end": 15.48,
+      "text": " to interact comfortably and normally in French.",
+      "tokens": [
+        50846,
+        281,
+        4648,
+        25101,
+        293,
+        5646,
+        294,
+        5522,
+        13,
+        51138
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2748486253081775,
+      "compression_ratio": 1.5502958579881656,
+      "no_speech_prob": 0.4010780453681946
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 15.48,
+      "end": 24.32,
+      "text": " I'm not referring to not making mistakes and sounding really really good or having",
+      "tokens": [
+        51138,
+        286,
+        478,
+        406,
+        13761,
+        281,
+        406,
+        1455,
+        8038,
+        293,
+        24931,
+        534,
+        534,
+        665,
+        420,
+        1419,
+        51580
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2748486253081775,
+      "compression_ratio": 1.5502958579881656,
+      "no_speech_prob": 0.4010780453681946
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 24.32,
+      "end": 25.92,
+      "text": " a perfect accent.",
+      "tokens": [
+        51580,
+        257,
+        2176,
+        11982,
+        13,
+        51660
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2748486253081775,
+      "compression_ratio": 1.5502958579881656,
+      "no_speech_prob": 0.4010780453681946
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 25.92,
+      "end": 28.48,
+      "text": " I'm not talking about that.",
+      "tokens": [
+        51660,
+        286,
+        478,
+        406,
+        1417,
+        466,
+        300,
+        13,
+        51788
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2748486253081775,
+      "compression_ratio": 1.5502958579881656,
+      "no_speech_prob": 0.4010780453681946
+    },
+    {
+      "id": 5,
+      "seek": 2848,
+      "start": 28.48,
+      "end": 29.76,
+      "text": " I'm just referring to.",
+      "tokens": [
+        50364,
+        286,
+        478,
+        445,
+        13761,
+        281,
+        13,
+        50428
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6336511505974664,
+      "compression_ratio": 0.7333333333333333,
+      "no_speech_prob": 0.10139281302690506
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,153 @@
+{
+  "text": " hospitality, like making people feel at home when they come visit you at your house. So that might not be something that people even realize that counts as a talent, but it does. Right? Anything that you have a natural ability to do well without needing to maybe work as hard.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 8.120000000000001,
+      "text": " hospitality, like making people feel at home when they come visit you at your house.",
+      "tokens": [
+        50364,
+        31207,
+        11,
+        411,
+        1455,
+        561,
+        841,
+        412,
+        1280,
+        562,
+        436,
+        808,
+        3441,
+        291,
+        412,
+        428,
+        1782,
+        13,
+        50770
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22567874282153685,
+      "compression_ratio": 1.4835164835164836,
+      "no_speech_prob": 0.35410767793655396
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 8.120000000000001,
+      "end": 18.56,
+      "text": " So that might not be something that people even realize that counts as a talent, but it",
+      "tokens": [
+        50770,
+        407,
+        300,
+        1062,
+        406,
+        312,
+        746,
+        300,
+        561,
+        754,
+        4325,
+        300,
+        14893,
+        382,
+        257,
+        8301,
+        11,
+        457,
+        309,
+        51292
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22567874282153685,
+      "compression_ratio": 1.4835164835164836,
+      "no_speech_prob": 0.35410767793655396
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 18.56,
+      "end": 19.88,
+      "text": " does.",
+      "tokens": [
+        51292,
+        775,
+        13,
+        51358
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22567874282153685,
+      "compression_ratio": 1.4835164835164836,
+      "no_speech_prob": 0.35410767793655396
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 19.88,
+      "end": 20.88,
+      "text": " Right?",
+      "tokens": [
+        51358,
+        1779,
+        30,
+        51408
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22567874282153685,
+      "compression_ratio": 1.4835164835164836,
+      "no_speech_prob": 0.35410767793655396
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 20.88,
+      "end": 29.12,
+      "text": " Anything that you have a natural ability to do well without needing to maybe work as",
+      "tokens": [
+        51408,
+        11998,
+        300,
+        291,
+        362,
+        257,
+        3303,
+        3485,
+        281,
+        360,
+        731,
+        1553,
+        18006,
+        281,
+        1310,
+        589,
+        382,
+        51820
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22567874282153685,
+      "compression_ratio": 1.4835164835164836,
+      "no_speech_prob": 0.35410767793655396
+    },
+    {
+      "id": 5,
+      "seek": 2912,
+      "start": 29.12,
+      "end": 30.12,
+      "text": " hard.",
+      "tokens": [
+        50364,
+        1152,
+        13,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8406373977661132,
+      "compression_ratio": 0.38461538461538464,
+      "no_speech_prob": 0.604278564453125
+    }
+  ],
+  "language": "en"
+}

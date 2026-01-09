@@ -1,0 +1,153 @@
+{
+  "text": " over many years now that people's habits have gotten worse. Not in every way, of course. Some things have really gotten much better. For example, like sanitation and plumbing, things like that. That extended our lives and made our health better drastically. That's probably the greatest...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 8.0,
+      "text": " over many years now that people's habits have gotten worse.",
+      "tokens": [
+        50364,
+        670,
+        867,
+        924,
+        586,
+        300,
+        561,
+        311,
+        14100,
+        362,
+        5768,
+        5324,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.193046388171968,
+      "compression_ratio": 1.494186046511628,
+      "no_speech_prob": 0.18081031739711761
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 8.0,
+      "end": 11.0,
+      "text": " Not in every way, of course.",
+      "tokens": [
+        50764,
+        1726,
+        294,
+        633,
+        636,
+        11,
+        295,
+        1164,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.193046388171968,
+      "compression_ratio": 1.494186046511628,
+      "no_speech_prob": 0.18081031739711761
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.0,
+      "end": 15.0,
+      "text": " Some things have really gotten much better.",
+      "tokens": [
+        50914,
+        2188,
+        721,
+        362,
+        534,
+        5768,
+        709,
+        1101,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.193046388171968,
+      "compression_ratio": 1.494186046511628,
+      "no_speech_prob": 0.18081031739711761
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 15.0,
+      "end": 20.0,
+      "text": " For example, like sanitation and plumbing, things like that.",
+      "tokens": [
+        51114,
+        1171,
+        1365,
+        11,
+        411,
+        50146,
+        293,
+        39993,
+        11,
+        721,
+        411,
+        300,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.193046388171968,
+      "compression_ratio": 1.494186046511628,
+      "no_speech_prob": 0.18081031739711761
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 20.0,
+      "end": 27.0,
+      "text": " That extended our lives and made our health better drastically.",
+      "tokens": [
+        51364,
+        663,
+        10913,
+        527,
+        2909,
+        293,
+        1027,
+        527,
+        1585,
+        1101,
+        29673,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.193046388171968,
+      "compression_ratio": 1.494186046511628,
+      "no_speech_prob": 0.18081031739711761
+    },
+    {
+      "id": 5,
+      "seek": 2700,
+      "start": 27.0,
+      "end": 30.0,
+      "text": " That's probably the greatest...",
+      "tokens": [
+        50364,
+        663,
+        311,
+        1391,
+        264,
+        6636,
+        485,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3397065003712972,
+      "compression_ratio": 0.7948717948717948,
+      "no_speech_prob": 0.46288225054740906
+    }
+  ],
+  "language": "en"
+}

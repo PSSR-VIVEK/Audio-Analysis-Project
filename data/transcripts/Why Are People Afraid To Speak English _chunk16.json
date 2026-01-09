@@ -1,0 +1,227 @@
+{
+  "text": " still going to make mistakes sometimes. Okay? So don't have this idea that some people, when they learn English, they don't make mistakes, and you make a lot of mistakes. No, that's not reality. We all make mistakes. We all say things wrong. We all use the wrong words when we're learning a language. Okay?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.56,
+      "text": " still going to make mistakes sometimes.",
+      "tokens": [
+        50364,
+        920,
+        516,
+        281,
+        652,
+        8038,
+        2171,
+        13,
+        50542
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.187239871935898,
+      "compression_ratio": 1.6574585635359116,
+      "no_speech_prob": 0.3496982753276825
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.56,
+      "end": 4.4,
+      "text": " Okay?",
+      "tokens": [
+        50542,
+        1033,
+        30,
+        50584
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.187239871935898,
+      "compression_ratio": 1.6574585635359116,
+      "no_speech_prob": 0.3496982753276825
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.4,
+      "end": 9.36,
+      "text": " So don't have this idea that some people,",
+      "tokens": [
+        50584,
+        407,
+        500,
+        380,
+        362,
+        341,
+        1558,
+        300,
+        512,
+        561,
+        11,
+        50832
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.187239871935898,
+      "compression_ratio": 1.6574585635359116,
+      "no_speech_prob": 0.3496982753276825
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 9.36,
+      "end": 13.6,
+      "text": " when they learn English, they don't make mistakes,",
+      "tokens": [
+        50832,
+        562,
+        436,
+        1466,
+        3669,
+        11,
+        436,
+        500,
+        380,
+        652,
+        8038,
+        11,
+        51044
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.187239871935898,
+      "compression_ratio": 1.6574585635359116,
+      "no_speech_prob": 0.3496982753276825
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 13.6,
+      "end": 16.16,
+      "text": " and you make a lot of mistakes.",
+      "tokens": [
+        51044,
+        293,
+        291,
+        652,
+        257,
+        688,
+        295,
+        8038,
+        13,
+        51172
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.187239871935898,
+      "compression_ratio": 1.6574585635359116,
+      "no_speech_prob": 0.3496982753276825
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 16.16,
+      "end": 19.36,
+      "text": " No, that's not reality.",
+      "tokens": [
+        51172,
+        883,
+        11,
+        300,
+        311,
+        406,
+        4103,
+        13,
+        51332
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.187239871935898,
+      "compression_ratio": 1.6574585635359116,
+      "no_speech_prob": 0.3496982753276825
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 19.36,
+      "end": 21.8,
+      "text": " We all make mistakes.",
+      "tokens": [
+        51332,
+        492,
+        439,
+        652,
+        8038,
+        13,
+        51454
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.187239871935898,
+      "compression_ratio": 1.6574585635359116,
+      "no_speech_prob": 0.3496982753276825
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 21.8,
+      "end": 24.76,
+      "text": " We all say things wrong.",
+      "tokens": [
+        51454,
+        492,
+        439,
+        584,
+        721,
+        2085,
+        13,
+        51602
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.187239871935898,
+      "compression_ratio": 1.6574585635359116,
+      "no_speech_prob": 0.3496982753276825
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 24.76,
+      "end": 29.76,
+      "text": " We all use the wrong words when we're learning a language.",
+      "tokens": [
+        51602,
+        492,
+        439,
+        764,
+        264,
+        2085,
+        2283,
+        562,
+        321,
+        434,
+        2539,
+        257,
+        2856,
+        13,
+        51852
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.187239871935898,
+      "compression_ratio": 1.6574585635359116,
+      "no_speech_prob": 0.3496982753276825
+    },
+    {
+      "id": 9,
+      "seek": 2976,
+      "start": 29.76,
+      "end": 30.76,
+      "text": " Okay?",
+      "tokens": [
+        50364,
+        1033,
+        30,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.934964656829834,
+      "compression_ratio": 0.38461538461538464,
+      "no_speech_prob": 0.43487730622291565
+    }
+  ],
+  "language": "en"
+}

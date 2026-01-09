@@ -1,0 +1,151 @@
+{
+  "text": " to actually plan to achieve certain things and you might fall into the trap of just wanting pleasure now. And that's not a good thing either. Right. We need to learn to also delay our gratification sometimes. When you delay your gratification, we're saying that...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 12.24,
+      "text": " to actually plan to achieve certain things and you might fall into the trap of just wanting",
+      "tokens": [
+        50364,
+        281,
+        767,
+        1393,
+        281,
+        4584,
+        1629,
+        721,
+        293,
+        291,
+        1062,
+        2100,
+        666,
+        264,
+        11487,
+        295,
+        445,
+        7935,
+        50976
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2787043484774503,
+      "compression_ratio": 1.395973154362416,
+      "no_speech_prob": 0.06445629894733429
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 12.24,
+      "end": 14.92,
+      "text": " pleasure now.",
+      "tokens": [
+        50976,
+        6834,
+        586,
+        13,
+        51110
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2787043484774503,
+      "compression_ratio": 1.395973154362416,
+      "no_speech_prob": 0.06445629894733429
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 14.92,
+      "end": 17.76,
+      "text": " And that's not a good thing either.",
+      "tokens": [
+        51110,
+        400,
+        300,
+        311,
+        406,
+        257,
+        665,
+        551,
+        2139,
+        13,
+        51252
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2787043484774503,
+      "compression_ratio": 1.395973154362416,
+      "no_speech_prob": 0.06445629894733429
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 17.76,
+      "end": 18.76,
+      "text": " Right.",
+      "tokens": [
+        51252,
+        1779,
+        13,
+        51302
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2787043484774503,
+      "compression_ratio": 1.395973154362416,
+      "no_speech_prob": 0.06445629894733429
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 18.76,
+      "end": 25.560000000000002,
+      "text": " We need to learn to also delay our gratification sometimes.",
+      "tokens": [
+        51302,
+        492,
+        643,
+        281,
+        1466,
+        281,
+        611,
+        8577,
+        527,
+        10158,
+        3774,
+        2171,
+        13,
+        51642
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2787043484774503,
+      "compression_ratio": 1.395973154362416,
+      "no_speech_prob": 0.06445629894733429
+    },
+    {
+      "id": 5,
+      "seek": 2556,
+      "start": 25.56,
+      "end": 29.96,
+      "text": " When you delay your gratification, we're saying that...",
+      "tokens": [
+        50364,
+        1133,
+        291,
+        8577,
+        428,
+        10158,
+        3774,
+        11,
+        321,
+        434,
+        1566,
+        300,
+        485,
+        50584
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32526750564575196,
+      "compression_ratio": 0.9322033898305084,
+      "no_speech_prob": 0.029991356655955315
+    }
+  ],
+  "language": "en"
+}

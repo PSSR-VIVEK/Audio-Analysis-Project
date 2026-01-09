@@ -1,0 +1,151 @@
+{
+  "text": " everything that we want to receive and We shouldn't always expect to have the best of everything because in this life there are always things that aren't going to be good that happen to us and if we expect to have some suffering expect to have some negative things happen to us then",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.0,
+      "text": " everything that we want to receive and",
+      "tokens": [
+        50364,
+        1203,
+        300,
+        321,
+        528,
+        281,
+        4774,
+        293,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.421083927154541,
+      "compression_ratio": 1.8193548387096774,
+      "no_speech_prob": 0.1606135368347168
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.8,
+      "end": 9.96,
+      "text": " We shouldn't always expect to have the best of everything",
+      "tokens": [
+        50604,
+        492,
+        4659,
+        380,
+        1009,
+        2066,
+        281,
+        362,
+        264,
+        1151,
+        295,
+        1203,
+        50862
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.421083927154541,
+      "compression_ratio": 1.8193548387096774,
+      "no_speech_prob": 0.1606135368347168
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.76,
+      "end": 14.36,
+      "text": " because in this life there are always things",
+      "tokens": [
+        50902,
+        570,
+        294,
+        341,
+        993,
+        456,
+        366,
+        1009,
+        721,
+        51082
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.421083927154541,
+      "compression_ratio": 1.8193548387096774,
+      "no_speech_prob": 0.1606135368347168
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 15.0,
+      "end": 19.28,
+      "text": " that aren't going to be good that happen to us and",
+      "tokens": [
+        51114,
+        300,
+        3212,
+        380,
+        516,
+        281,
+        312,
+        665,
+        300,
+        1051,
+        281,
+        505,
+        293,
+        51328
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.421083927154541,
+      "compression_ratio": 1.8193548387096774,
+      "no_speech_prob": 0.1606135368347168
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 20.04,
+      "end": 23.900000000000002,
+      "text": " if we expect to have some suffering",
+      "tokens": [
+        51366,
+        498,
+        321,
+        2066,
+        281,
+        362,
+        512,
+        7755,
+        51559
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.421083927154541,
+      "compression_ratio": 1.8193548387096774,
+      "no_speech_prob": 0.1606135368347168
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 24.72,
+      "end": 29.6,
+      "text": " expect to have some negative things happen to us then",
+      "tokens": [
+        51600,
+        2066,
+        281,
+        362,
+        512,
+        3671,
+        721,
+        1051,
+        281,
+        505,
+        550,
+        51844
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.421083927154541,
+      "compression_ratio": 1.8193548387096774,
+      "no_speech_prob": 0.1606135368347168
+    }
+  ],
+  "language": "en"
+}

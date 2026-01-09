@@ -1,0 +1,232 @@
+{
+  "text": " So let's talk about failure. First of all, it's important to recognize that we all fail. Nobody is perfect. And so we're going to make mistakes. We're going to not succeed sometimes. And that's completely normal. And sometimes we can get the impression that we fail much more than other people. And other people have their lives in order and are achieved.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.68,
+      "text": " So let's talk about failure.",
+      "tokens": [
+        50364,
+        407,
+        718,
+        311,
+        751,
+        466,
+        7763,
+        13,
+        50498
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17128372192382812,
+      "compression_ratio": 1.6201923076923077,
+      "no_speech_prob": 0.03114006295800209
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.68,
+      "end": 7.6000000000000005,
+      "text": " First of all, it's important to recognize that we all fail.",
+      "tokens": [
+        50498,
+        2386,
+        295,
+        439,
+        11,
+        309,
+        311,
+        1021,
+        281,
+        5521,
+        300,
+        321,
+        439,
+        3061,
+        13,
+        50744
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17128372192382812,
+      "compression_ratio": 1.6201923076923077,
+      "no_speech_prob": 0.03114006295800209
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.6000000000000005,
+      "end": 9.16,
+      "text": " Nobody is perfect.",
+      "tokens": [
+        50744,
+        9297,
+        307,
+        2176,
+        13,
+        50822
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17128372192382812,
+      "compression_ratio": 1.6201923076923077,
+      "no_speech_prob": 0.03114006295800209
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 9.16,
+      "end": 11.52,
+      "text": " And so we're going to make mistakes.",
+      "tokens": [
+        50822,
+        400,
+        370,
+        321,
+        434,
+        516,
+        281,
+        652,
+        8038,
+        13,
+        50940
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17128372192382812,
+      "compression_ratio": 1.6201923076923077,
+      "no_speech_prob": 0.03114006295800209
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 11.52,
+      "end": 14.84,
+      "text": " We're going to not succeed sometimes.",
+      "tokens": [
+        50940,
+        492,
+        434,
+        516,
+        281,
+        406,
+        7754,
+        2171,
+        13,
+        51106
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17128372192382812,
+      "compression_ratio": 1.6201923076923077,
+      "no_speech_prob": 0.03114006295800209
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 14.84,
+      "end": 17.2,
+      "text": " And that's completely normal.",
+      "tokens": [
+        51106,
+        400,
+        300,
+        311,
+        2584,
+        2710,
+        13,
+        51224
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17128372192382812,
+      "compression_ratio": 1.6201923076923077,
+      "no_speech_prob": 0.03114006295800209
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 17.2,
+      "end": 20.48,
+      "text": " And sometimes we can get the impression",
+      "tokens": [
+        51224,
+        400,
+        2171,
+        321,
+        393,
+        483,
+        264,
+        9995,
+        51388
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17128372192382812,
+      "compression_ratio": 1.6201923076923077,
+      "no_speech_prob": 0.03114006295800209
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 20.48,
+      "end": 24.48,
+      "text": " that we fail much more than other people.",
+      "tokens": [
+        51388,
+        300,
+        321,
+        3061,
+        709,
+        544,
+        813,
+        661,
+        561,
+        13,
+        51588
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17128372192382812,
+      "compression_ratio": 1.6201923076923077,
+      "no_speech_prob": 0.03114006295800209
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 24.48,
+      "end": 29.04,
+      "text": " And other people have their lives in order",
+      "tokens": [
+        51588,
+        400,
+        661,
+        561,
+        362,
+        641,
+        2909,
+        294,
+        1668,
+        51816
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17128372192382812,
+      "compression_ratio": 1.6201923076923077,
+      "no_speech_prob": 0.03114006295800209
+    },
+    {
+      "id": 9,
+      "seek": 2904,
+      "start": 29.04,
+      "end": 31.04,
+      "text": " and are achieved.",
+      "tokens": [
+        50364,
+        293,
+        366,
+        11042,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7826132093157087,
+      "compression_ratio": 0.68,
+      "no_speech_prob": 0.1587277203798294
+    }
+  ],
+  "language": "en"
+}

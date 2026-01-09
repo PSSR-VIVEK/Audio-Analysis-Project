@@ -1,0 +1,128 @@
+{
+  "text": " the thief and arrested him. 5. This dress covers my thighs so it isn't very short. Ireland. Have you ever visited Ireland? Lettuce. I added some lettuce to the salad. If you have liked this video,",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.2,
+      "text": " the thief and arrested him.",
+      "tokens": [
+        50364,
+        264,
+        23176,
+        293,
+        12469,
+        796,
+        13,
+        50624
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4144952011108398,
+      "compression_ratio": 1.328,
+      "no_speech_prob": 0.30655452609062195
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.2,
+      "end": 14.56,
+      "text": " 5. This dress covers my thighs so it isn't very short.",
+      "tokens": [
+        50624,
+        1025,
+        13,
+        639,
+        5231,
+        10538,
+        452,
+        29207,
+        370,
+        309,
+        1943,
+        380,
+        588,
+        2099,
+        13,
+        51092
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4144952011108398,
+      "compression_ratio": 1.328,
+      "no_speech_prob": 0.30655452609062195
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 14.56,
+      "end": 21.400000000000002,
+      "text": " Ireland. Have you ever visited Ireland?",
+      "tokens": [
+        51092,
+        15880,
+        13,
+        3560,
+        291,
+        1562,
+        11220,
+        15880,
+        30,
+        51434
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4144952011108398,
+      "compression_ratio": 1.328,
+      "no_speech_prob": 0.30655452609062195
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 21.400000000000002,
+      "end": 27.68,
+      "text": " Lettuce. I added some lettuce to the salad.",
+      "tokens": [
+        51434,
+        961,
+        83,
+        4176,
+        13,
+        286,
+        3869,
+        512,
+        25542,
+        281,
+        264,
+        12604,
+        13,
+        51748
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4144952011108398,
+      "compression_ratio": 1.328,
+      "no_speech_prob": 0.30655452609062195
+    },
+    {
+      "id": 4,
+      "seek": 2768,
+      "start": 27.68,
+      "end": 36.24,
+      "text": " If you have liked this video,",
+      "tokens": [
+        50392,
+        759,
+        291,
+        362,
+        4501,
+        341,
+        960,
+        11,
+        50792
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7640800476074219,
+      "compression_ratio": 0.7837837837837838,
+      "no_speech_prob": 0.06586804986000061
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,93 @@
+{
+  "text": " have lunch at work or at school so it's something that you can eat very quickly. What do you have for lunch? I normally have a sandwich and a piece of fruit like an apple or a banana.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 10.74,
+      "text": " have lunch at work or at school so it's something that you can eat very quickly.",
+      "tokens": [
+        50364,
+        362,
+        6349,
+        412,
+        589,
+        420,
+        412,
+        1395,
+        370,
+        309,
+        311,
+        746,
+        300,
+        291,
+        393,
+        1862,
+        588,
+        2661,
+        13,
+        50901
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20050855962241568,
+      "compression_ratio": 1.2892561983471074,
+      "no_speech_prob": 0.051468513906002045
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 10.74,
+      "end": 24.38,
+      "text": " What do you have for lunch? I normally have a sandwich and a piece of fruit",
+      "tokens": [
+        50901,
+        708,
+        360,
+        291,
+        362,
+        337,
+        6349,
+        30,
+        286,
+        5646,
+        362,
+        257,
+        11141,
+        293,
+        257,
+        2522,
+        295,
+        6773,
+        51583
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20050855962241568,
+      "compression_ratio": 1.2892561983471074,
+      "no_speech_prob": 0.051468513906002045
+    },
+    {
+      "id": 2,
+      "seek": 2438,
+      "start": 24.38,
+      "end": 29.82,
+      "text": " like an apple or a banana.",
+      "tokens": [
+        50364,
+        411,
+        364,
+        10606,
+        420,
+        257,
+        14194,
+        13,
+        50636
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6420059204101562,
+      "compression_ratio": 0.8125,
+      "no_speech_prob": 0.19449198246002197
+    }
+  ],
+  "language": "en"
+}

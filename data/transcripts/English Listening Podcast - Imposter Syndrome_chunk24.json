@@ -1,0 +1,171 @@
+{
+  "text": " They can barely compare other people and themselves. And they always come to the conclusion that other people are better than them, other people are legit, and they themselves aren't legit. Right? So that can also cause imposter syndrome. So how does this syndrome affect us? If we experience this...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " They can barely compare other people and themselves.",
+      "tokens": [
+        50364,
+        814,
+        393,
+        10268,
+        6794,
+        661,
+        561,
+        293,
+        2969,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3199820311173149,
+      "compression_ratio": 1.6768292682926829,
+      "no_speech_prob": 0.3576802611351013
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.0,
+      "end": 12.0,
+      "text": " And they always come to the conclusion that other people are better than them, other people",
+      "tokens": [
+        50614,
+        400,
+        436,
+        1009,
+        808,
+        281,
+        264,
+        10063,
+        300,
+        661,
+        561,
+        366,
+        1101,
+        813,
+        552,
+        11,
+        661,
+        561,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3199820311173149,
+      "compression_ratio": 1.6768292682926829,
+      "no_speech_prob": 0.3576802611351013
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 12.0,
+      "end": 17.0,
+      "text": " are legit, and they themselves aren't legit.",
+      "tokens": [
+        50964,
+        366,
+        10275,
+        11,
+        293,
+        436,
+        2969,
+        3212,
+        380,
+        10275,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3199820311173149,
+      "compression_ratio": 1.6768292682926829,
+      "no_speech_prob": 0.3576802611351013
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 17.0,
+      "end": 18.0,
+      "text": " Right?",
+      "tokens": [
+        51214,
+        1779,
+        30,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3199820311173149,
+      "compression_ratio": 1.6768292682926829,
+      "no_speech_prob": 0.3576802611351013
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 18.0,
+      "end": 23.0,
+      "text": " So that can also cause imposter syndrome.",
+      "tokens": [
+        51264,
+        407,
+        300,
+        393,
+        611,
+        3082,
+        704,
+        7096,
+        19371,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3199820311173149,
+      "compression_ratio": 1.6768292682926829,
+      "no_speech_prob": 0.3576802611351013
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 23.0,
+      "end": 28.0,
+      "text": " So how does this syndrome affect us?",
+      "tokens": [
+        51514,
+        407,
+        577,
+        775,
+        341,
+        19371,
+        3345,
+        505,
+        30,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3199820311173149,
+      "compression_ratio": 1.6768292682926829,
+      "no_speech_prob": 0.3576802611351013
+    },
+    {
+      "id": 6,
+      "seek": 2800,
+      "start": 28.0,
+      "end": 35.0,
+      "text": " If we experience this...",
+      "tokens": [
+        50364,
+        759,
+        321,
+        1752,
+        341,
+        485,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41099077463150024,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.03929760679602623
+    }
+  ],
+  "language": "en"
+}

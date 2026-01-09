@@ -1,0 +1,171 @@
+{
+  "text": " I'm traveling to two different places in two weeks. So I'm gonna take another trip two days from now and then I'll probably record an episode about that trip as well. But first, I wanna talk about the trip that I took last week to Palm Desert in California. So this trip...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " I'm traveling to two different places in two weeks.",
+      "tokens": [
+        50364,
+        286,
+        478,
+        9712,
+        281,
+        732,
+        819,
+        3190,
+        294,
+        732,
+        3259,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23144370487758092,
+      "compression_ratio": 1.4602272727272727,
+      "no_speech_prob": 0.11235912889242172
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.76,
+      "end": 10.76,
+      "text": " So I'm gonna take another trip two days from now",
+      "tokens": [
+        50652,
+        407,
+        286,
+        478,
+        799,
+        747,
+        1071,
+        4931,
+        732,
+        1708,
+        490,
+        586,
+        50902
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23144370487758092,
+      "compression_ratio": 1.4602272727272727,
+      "no_speech_prob": 0.11235912889242172
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.76,
+      "end": 14.68,
+      "text": " and then I'll probably record an episode",
+      "tokens": [
+        50902,
+        293,
+        550,
+        286,
+        603,
+        1391,
+        2136,
+        364,
+        3500,
+        51098
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23144370487758092,
+      "compression_ratio": 1.4602272727272727,
+      "no_speech_prob": 0.11235912889242172
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 15.48,
+      "end": 18.6,
+      "text": " about that trip as well.",
+      "tokens": [
+        51138,
+        466,
+        300,
+        4931,
+        382,
+        731,
+        13,
+        51294
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23144370487758092,
+      "compression_ratio": 1.4602272727272727,
+      "no_speech_prob": 0.11235912889242172
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 18.6,
+      "end": 22.240000000000002,
+      "text": " But first, I wanna talk about the trip",
+      "tokens": [
+        51294,
+        583,
+        700,
+        11,
+        286,
+        1948,
+        751,
+        466,
+        264,
+        4931,
+        51476
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23144370487758092,
+      "compression_ratio": 1.4602272727272727,
+      "no_speech_prob": 0.11235912889242172
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 22.240000000000002,
+      "end": 27.240000000000002,
+      "text": " that I took last week to Palm Desert in California.",
+      "tokens": [
+        51476,
+        300,
+        286,
+        1890,
+        1036,
+        1243,
+        281,
+        32668,
+        33340,
+        294,
+        5384,
+        13,
+        51726
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23144370487758092,
+      "compression_ratio": 1.4602272727272727,
+      "no_speech_prob": 0.11235912889242172
+    },
+    {
+      "id": 6,
+      "seek": 2724,
+      "start": 27.24,
+      "end": 29.759999999999998,
+      "text": " So this trip...",
+      "tokens": [
+        50396,
+        407,
+        341,
+        4931,
+        485,
+        50490
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9093737602233887,
+      "compression_ratio": 0.6521739130434783,
+      "no_speech_prob": 0.04232696816325188
+    }
+  ],
+  "language": "en"
+}

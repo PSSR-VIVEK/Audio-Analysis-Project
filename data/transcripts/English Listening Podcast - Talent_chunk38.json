@@ -1,0 +1,166 @@
+{
+  "text": " My reading of them so based on the things that they're saying to me how they're responding how They're moving me even things like that sometimes I watch other people interact and I can see that one of those people like one of the two people in the conversation is is not",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 7.16,
+      "text": " My reading of them so based on the things that they're saying to me how they're responding",
+      "tokens": [
+        50364,
+        1222,
+        3760,
+        295,
+        552,
+        370,
+        2361,
+        322,
+        264,
+        721,
+        300,
+        436,
+        434,
+        1566,
+        281,
+        385,
+        577,
+        436,
+        434,
+        16670,
+        50722
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39901309226875875,
+      "compression_ratio": 1.696774193548387,
+      "no_speech_prob": 0.21768459677696228
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.76,
+      "end": 9.48,
+      "text": " how",
+      "tokens": [
+        50752,
+        577,
+        50838
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39901309226875875,
+      "compression_ratio": 1.696774193548387,
+      "no_speech_prob": 0.21768459677696228
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.48,
+      "end": 13.42,
+      "text": " They're moving me even things like that",
+      "tokens": [
+        50838,
+        814,
+        434,
+        2684,
+        385,
+        754,
+        721,
+        411,
+        300,
+        51035
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39901309226875875,
+      "compression_ratio": 1.696774193548387,
+      "no_speech_prob": 0.21768459677696228
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 14.68,
+      "end": 18.48,
+      "text": " sometimes I watch other people interact and",
+      "tokens": [
+        51098,
+        2171,
+        286,
+        1159,
+        661,
+        561,
+        4648,
+        293,
+        51288
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39901309226875875,
+      "compression_ratio": 1.696774193548387,
+      "no_speech_prob": 0.21768459677696228
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 19.32,
+      "end": 23.0,
+      "text": " I can see that one of those people",
+      "tokens": [
+        51330,
+        286,
+        393,
+        536,
+        300,
+        472,
+        295,
+        729,
+        561,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39901309226875875,
+      "compression_ratio": 1.696774193548387,
+      "no_speech_prob": 0.21768459677696228
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 24.080000000000002,
+      "end": 27.6,
+      "text": " like one of the two people in the conversation is",
+      "tokens": [
+        51568,
+        411,
+        472,
+        295,
+        264,
+        732,
+        561,
+        294,
+        264,
+        3761,
+        307,
+        51744
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39901309226875875,
+      "compression_ratio": 1.696774193548387,
+      "no_speech_prob": 0.21768459677696228
+    },
+    {
+      "id": 6,
+      "seek": 2760,
+      "start": 27.6,
+      "end": 29.96,
+      "text": " is not",
+      "tokens": [
+        50382,
+        307,
+        406,
+        50482
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.9327498435974121,
+      "compression_ratio": 0.42857142857142855,
+      "no_speech_prob": 0.02766086533665657
+    }
+  ],
+  "language": "en"
+}

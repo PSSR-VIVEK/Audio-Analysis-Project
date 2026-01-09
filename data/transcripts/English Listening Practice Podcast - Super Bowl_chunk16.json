@@ -1,0 +1,182 @@
+{
+  "text": " not teams from different countries. And this is different from the rest of the world, in most cases, because in most countries around the world, soccer is the biggest sport. And one of the most exciting things about soccer throughout the year is that there are international competitions. Play.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.68,
+      "text": " not teams from different countries.",
+      "tokens": [
+        50364,
+        406,
+        5491,
+        490,
+        819,
+        3517,
+        13,
+        50548
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20578962564468384,
+      "compression_ratio": 1.7181208053691275,
+      "no_speech_prob": 0.09112336486577988
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.68,
+      "end": 8.68,
+      "text": " And this is different from the rest of the world,",
+      "tokens": [
+        50548,
+        400,
+        341,
+        307,
+        819,
+        490,
+        264,
+        1472,
+        295,
+        264,
+        1002,
+        11,
+        50798
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20578962564468384,
+      "compression_ratio": 1.7181208053691275,
+      "no_speech_prob": 0.09112336486577988
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.68,
+      "end": 14.08,
+      "text": " in most cases, because in most countries around the world,",
+      "tokens": [
+        50798,
+        294,
+        881,
+        3331,
+        11,
+        570,
+        294,
+        881,
+        3517,
+        926,
+        264,
+        1002,
+        11,
+        51068
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20578962564468384,
+      "compression_ratio": 1.7181208053691275,
+      "no_speech_prob": 0.09112336486577988
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 14.08,
+      "end": 17.68,
+      "text": " soccer is the biggest sport.",
+      "tokens": [
+        51068,
+        15469,
+        307,
+        264,
+        3880,
+        7282,
+        13,
+        51248
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20578962564468384,
+      "compression_ratio": 1.7181208053691275,
+      "no_speech_prob": 0.09112336486577988
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 17.68,
+      "end": 24.6,
+      "text": " And one of the most exciting things about soccer",
+      "tokens": [
+        51248,
+        400,
+        472,
+        295,
+        264,
+        881,
+        4670,
+        721,
+        466,
+        15469,
+        51594
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20578962564468384,
+      "compression_ratio": 1.7181208053691275,
+      "no_speech_prob": 0.09112336486577988
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 24.6,
+      "end": 26.92,
+      "text": " throughout the year is that there",
+      "tokens": [
+        51594,
+        3710,
+        264,
+        1064,
+        307,
+        300,
+        456,
+        51710
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20578962564468384,
+      "compression_ratio": 1.7181208053691275,
+      "no_speech_prob": 0.09112336486577988
+    },
+    {
+      "id": 6,
+      "seek": 2692,
+      "start": 26.92,
+      "end": 29.76,
+      "text": " are international competitions.",
+      "tokens": [
+        50364,
+        366,
+        5058,
+        26185,
+        13,
+        50506
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.664019064469771,
+      "compression_ratio": 0.8809523809523809,
+      "no_speech_prob": 0.02116895653307438
+    },
+    {
+      "id": 7,
+      "seek": 2692,
+      "start": 29.76,
+      "end": 30.76,
+      "text": " Play.",
+      "tokens": [
+        50506,
+        5506,
+        13,
+        50556
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.664019064469771,
+      "compression_ratio": 0.8809523809523809,
+      "no_speech_prob": 0.02116895653307438
+    }
+  ],
+  "language": "en"
+}

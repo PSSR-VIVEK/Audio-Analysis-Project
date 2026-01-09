@@ -1,0 +1,124 @@
+{
+  "text": " are the flowers. Florists are the people who sell flowers at a florist for special events. Gardeners are the people who look after flowers and plants. They keep gardens tidy. Fishermen are the people.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.0,
+      "text": " are the flowers.",
+      "tokens": [
+        50364,
+        366,
+        264,
+        8085,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32883394525406207,
+      "compression_ratio": 1.5263157894736843,
+      "no_speech_prob": 0.27657800912857056
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.0,
+      "end": 14.0,
+      "text": " Florists are the people who sell flowers at a florist for special events.",
+      "tokens": [
+        50514,
+        8328,
+        1751,
+        366,
+        264,
+        561,
+        567,
+        3607,
+        8085,
+        412,
+        257,
+        37342,
+        468,
+        337,
+        2121,
+        3931,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32883394525406207,
+      "compression_ratio": 1.5263157894736843,
+      "no_speech_prob": 0.27657800912857056
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 14.0,
+      "end": 22.0,
+      "text": " Gardeners are the people who look after flowers and plants.",
+      "tokens": [
+        51064,
+        19429,
+        433,
+        366,
+        264,
+        561,
+        567,
+        574,
+        934,
+        8085,
+        293,
+        5972,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32883394525406207,
+      "compression_ratio": 1.5263157894736843,
+      "no_speech_prob": 0.27657800912857056
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 22.0,
+      "end": 27.0,
+      "text": " They keep gardens tidy.",
+      "tokens": [
+        51464,
+        814,
+        1066,
+        23803,
+        34646,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32883394525406207,
+      "compression_ratio": 1.5263157894736843,
+      "no_speech_prob": 0.27657800912857056
+    },
+    {
+      "id": 4,
+      "seek": 2700,
+      "start": 27.0,
+      "end": 30.0,
+      "text": " Fishermen are the people.",
+      "tokens": [
+        50364,
+        26676,
+        2558,
+        366,
+        264,
+        561,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21683389610714382,
+      "compression_ratio": 0.7575757575757576,
+      "no_speech_prob": 0.14289885759353638
+    }
+  ],
+  "language": "en"
+}

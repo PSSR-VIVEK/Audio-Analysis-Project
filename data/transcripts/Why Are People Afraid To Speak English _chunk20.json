@@ -1,0 +1,172 @@
+{
+  "text": " you shouldn't try to get better and correct your mistakes. Of course, you should do that. However, don't be afraid to make mistakes because as long as these mistakes don't affect the native speakers understanding of what you're saying, then they're not significant. You can focus on the significant.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " you shouldn't try to get better and correct your mistakes.",
+      "tokens": [
+        50364,
+        291,
+        4659,
+        380,
+        853,
+        281,
+        483,
+        1101,
+        293,
+        3006,
+        428,
+        8038,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1943969866808723,
+      "compression_ratio": 1.5406976744186047,
+      "no_speech_prob": 0.054626792669296265
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.28,
+      "end": 7.8,
+      "text": " Of course, you should do that.",
+      "tokens": [
+        50628,
+        2720,
+        1164,
+        11,
+        291,
+        820,
+        360,
+        300,
+        13,
+        50754
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1943969866808723,
+      "compression_ratio": 1.5406976744186047,
+      "no_speech_prob": 0.054626792669296265
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.8,
+      "end": 12.52,
+      "text": " However, don't be afraid to make mistakes",
+      "tokens": [
+        50754,
+        2908,
+        11,
+        500,
+        380,
+        312,
+        4638,
+        281,
+        652,
+        8038,
+        50990
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1943969866808723,
+      "compression_ratio": 1.5406976744186047,
+      "no_speech_prob": 0.054626792669296265
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 12.52,
+      "end": 17.52,
+      "text": " because as long as these mistakes don't affect",
+      "tokens": [
+        50990,
+        570,
+        382,
+        938,
+        382,
+        613,
+        8038,
+        500,
+        380,
+        3345,
+        51240
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1943969866808723,
+      "compression_ratio": 1.5406976744186047,
+      "no_speech_prob": 0.054626792669296265
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 18.64,
+      "end": 23.48,
+      "text": " the native speakers understanding of what you're saying,",
+      "tokens": [
+        51296,
+        264,
+        8470,
+        9518,
+        3701,
+        295,
+        437,
+        291,
+        434,
+        1566,
+        11,
+        51538
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1943969866808723,
+      "compression_ratio": 1.5406976744186047,
+      "no_speech_prob": 0.054626792669296265
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 23.48,
+      "end": 26.46,
+      "text": " then they're not significant.",
+      "tokens": [
+        51538,
+        550,
+        436,
+        434,
+        406,
+        4776,
+        13,
+        51687
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1943969866808723,
+      "compression_ratio": 1.5406976744186047,
+      "no_speech_prob": 0.054626792669296265
+    },
+    {
+      "id": 6,
+      "seek": 2646,
+      "start": 26.46,
+      "end": 30.060000000000002,
+      "text": " You can focus on the significant.",
+      "tokens": [
+        50364,
+        509,
+        393,
+        1879,
+        322,
+        264,
+        4776,
+        13,
+        50544
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5606101512908935,
+      "compression_ratio": 0.825,
+      "no_speech_prob": 0.02824144996702671
+    }
+  ],
+  "language": "en"
+}

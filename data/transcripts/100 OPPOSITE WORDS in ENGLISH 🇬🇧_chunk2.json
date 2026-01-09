@@ -1,0 +1,66 @@
+{
+  "text": " tired, energetic, flexible, rigid, cheap, expensive, thick, thin, old, new, interesting, boring, soft, hard, normal,",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 23.2,
+      "text": " tired, energetic, flexible, rigid, cheap, expensive, thick, thin, old, new, interesting,",
+      "tokens": [
+        50364,
+        5868,
+        11,
+        24935,
+        11,
+        11358,
+        11,
+        22195,
+        11,
+        7084,
+        11,
+        5124,
+        11,
+        5060,
+        11,
+        5862,
+        11,
+        1331,
+        11,
+        777,
+        11,
+        1880,
+        11,
+        51524
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2793264205639179,
+      "compression_ratio": 1.1428571428571428,
+      "no_speech_prob": 0.4340200126171112
+    },
+    {
+      "id": 1,
+      "seek": 2320,
+      "start": 23.2,
+      "end": 30.2,
+      "text": " boring, soft, hard, normal,",
+      "tokens": [
+        50364,
+        9989,
+        11,
+        2787,
+        11,
+        1152,
+        11,
+        2710,
+        11,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.705892953005704,
+      "compression_ratio": 0.7714285714285715,
+      "no_speech_prob": 0.7764450311660767
+    }
+  ],
+  "language": "en"
+}

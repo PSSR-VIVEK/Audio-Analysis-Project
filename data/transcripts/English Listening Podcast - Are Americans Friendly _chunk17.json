@@ -1,0 +1,203 @@
+{
+  "text": " They will often say that it seems fake kind of like the peach illustration that It looks really good on the outside But inside it's partner right so both of those groups tend to have some criticism The friendliness of America so What are my opinions? What do I think about this? well My thoughts are gonna be",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 7.16,
+      "text": " They will often say that it seems fake kind of like the peach illustration that",
+      "tokens": [
+        50364,
+        814,
+        486,
+        2049,
+        584,
+        300,
+        309,
+        2544,
+        7592,
+        733,
+        295,
+        411,
+        264,
+        25917,
+        22645,
+        300,
+        50722
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4313209533691406,
+      "compression_ratio": 1.4816753926701571,
+      "no_speech_prob": 0.11676791310310364
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.92,
+      "end": 10.24,
+      "text": " It looks really good on the outside",
+      "tokens": [
+        50760,
+        467,
+        1542,
+        534,
+        665,
+        322,
+        264,
+        2380,
+        50876
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4313209533691406,
+      "compression_ratio": 1.4816753926701571,
+      "no_speech_prob": 0.11676791310310364
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.8,
+      "end": 12.8,
+      "text": " But inside it's",
+      "tokens": [
+        50904,
+        583,
+        1854,
+        309,
+        311,
+        51004
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4313209533691406,
+      "compression_ratio": 1.4816753926701571,
+      "no_speech_prob": 0.11676791310310364
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 12.8,
+      "end": 18.240000000000002,
+      "text": " partner right so both of those groups tend to have some criticism",
+      "tokens": [
+        51004,
+        4975,
+        558,
+        370,
+        1293,
+        295,
+        729,
+        3935,
+        3928,
+        281,
+        362,
+        512,
+        15835,
+        51276
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4313209533691406,
+      "compression_ratio": 1.4816753926701571,
+      "no_speech_prob": 0.11676791310310364
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 19.2,
+      "end": 22.16,
+      "text": " The friendliness of America so",
+      "tokens": [
+        51324,
+        440,
+        1277,
+        32268,
+        295,
+        3374,
+        370,
+        51472
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4313209533691406,
+      "compression_ratio": 1.4816753926701571,
+      "no_speech_prob": 0.11676791310310364
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 22.84,
+      "end": 24.84,
+      "text": " What are my opinions?",
+      "tokens": [
+        51506,
+        708,
+        366,
+        452,
+        11819,
+        30,
+        51606
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4313209533691406,
+      "compression_ratio": 1.4816753926701571,
+      "no_speech_prob": 0.11676791310310364
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 24.84,
+      "end": 26.84,
+      "text": " What do I think about this?",
+      "tokens": [
+        51606,
+        708,
+        360,
+        286,
+        519,
+        466,
+        341,
+        30,
+        51706
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4313209533691406,
+      "compression_ratio": 1.4816753926701571,
+      "no_speech_prob": 0.11676791310310364
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 26.84,
+      "end": 27.92,
+      "text": " well",
+      "tokens": [
+        51706,
+        731,
+        51760
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4313209533691406,
+      "compression_ratio": 1.4816753926701571,
+      "no_speech_prob": 0.11676791310310364
+    },
+    {
+      "id": 8,
+      "seek": 2792,
+      "start": 27.92,
+      "end": 30.080000000000002,
+      "text": " My thoughts are gonna be",
+      "tokens": [
+        50372,
+        1222,
+        4598,
+        366,
+        799,
+        312,
+        50472
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38507333397865295,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.013710308820009232
+    }
+  ],
+  "language": "en"
+}

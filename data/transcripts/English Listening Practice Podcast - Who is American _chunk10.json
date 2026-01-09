@@ -1,0 +1,193 @@
+{
+  "text": " By this perplexed means that you're really confused. So people in the US would be completely perplexed by the fact that some people would take exception to us using the term American to describe ourselves most people maybe 99% of people in the US have never even heard of the other viewpoint before and they would be really confused.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 8.32,
+      "text": " By this perplexed means that you're really confused. So people in the US would be completely perplexed",
+      "tokens": [
+        50364,
+        3146,
+        341,
+        680,
+        18945,
+        292,
+        1355,
+        300,
+        291,
+        434,
+        534,
+        9019,
+        13,
+        407,
+        561,
+        294,
+        264,
+        2546,
+        576,
+        312,
+        2584,
+        680,
+        18945,
+        292,
+        50780
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37177066802978515,
+      "compression_ratio": 1.5574712643678161,
+      "no_speech_prob": 0.17894010245800018
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 8.76,
+      "end": 10.76,
+      "text": " by the fact that",
+      "tokens": [
+        50802,
+        538,
+        264,
+        1186,
+        300,
+        50902
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37177066802978515,
+      "compression_ratio": 1.5574712643678161,
+      "no_speech_prob": 0.17894010245800018
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.76,
+      "end": 12.76,
+      "text": " some people would take exception",
+      "tokens": [
+        50902,
+        512,
+        561,
+        576,
+        747,
+        11183,
+        51002
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37177066802978515,
+      "compression_ratio": 1.5574712643678161,
+      "no_speech_prob": 0.17894010245800018
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.56,
+      "end": 17.48,
+      "text": " to us using the term American to describe ourselves",
+      "tokens": [
+        51042,
+        281,
+        505,
+        1228,
+        264,
+        1433,
+        2665,
+        281,
+        6786,
+        4175,
+        51238
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37177066802978515,
+      "compression_ratio": 1.5574712643678161,
+      "no_speech_prob": 0.17894010245800018
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 18.12,
+      "end": 20.12,
+      "text": " most people maybe",
+      "tokens": [
+        51270,
+        881,
+        561,
+        1310,
+        51370
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37177066802978515,
+      "compression_ratio": 1.5574712643678161,
+      "no_speech_prob": 0.17894010245800018
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 20.12,
+      "end": 24.68,
+      "text": " 99% of people in the US have never even heard of",
+      "tokens": [
+        51370,
+        11803,
+        4,
+        295,
+        561,
+        294,
+        264,
+        2546,
+        362,
+        1128,
+        754,
+        2198,
+        295,
+        51598
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37177066802978515,
+      "compression_ratio": 1.5574712643678161,
+      "no_speech_prob": 0.17894010245800018
+    },
+    {
+      "id": 6,
+      "seek": 2468,
+      "start": 25.28,
+      "end": 26.48,
+      "text": " the other",
+      "tokens": [
+        50394,
+        264,
+        661,
+        50454
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.47554463148117065,
+      "compression_ratio": 0.953125,
+      "no_speech_prob": 0.047255199402570724
+    },
+    {
+      "id": 7,
+      "seek": 2468,
+      "start": 26.48,
+      "end": 29.84,
+      "text": " viewpoint before and they would be really confused.",
+      "tokens": [
+        50454,
+        35248,
+        949,
+        293,
+        436,
+        576,
+        312,
+        534,
+        9019,
+        13,
+        50622
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.47554463148117065,
+      "compression_ratio": 0.953125,
+      "no_speech_prob": 0.047255199402570724
+    }
+  ],
+  "language": "en"
+}

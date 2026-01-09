@@ -1,0 +1,129 @@
+{
+  "text": " visit London every year. Europe. Where do you live in Europe? Busy. The city was very busy last night. Audio. I need to change my audio settings. Building. This building was built in 1930. Consequence.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 8.48,
+      "text": " visit London every year. Europe. Where do you live in Europe?",
+      "tokens": [
+        50364,
+        3441,
+        7042,
+        633,
+        1064,
+        13,
+        3315,
+        13,
+        2305,
+        360,
+        291,
+        1621,
+        294,
+        3315,
+        30,
+        50788
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3394998727842819,
+      "compression_ratio": 1.228813559322034,
+      "no_speech_prob": 0.42963358759880066
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 8.48,
+      "end": 15.0,
+      "text": " Busy. The city was very busy last night.",
+      "tokens": [
+        50788,
+        8006,
+        88,
+        13,
+        440,
+        2307,
+        390,
+        588,
+        5856,
+        1036,
+        1818,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3394998727842819,
+      "compression_ratio": 1.228813559322034,
+      "no_speech_prob": 0.42963358759880066
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 15.0,
+      "end": 21.0,
+      "text": " Audio. I need to change my audio settings.",
+      "tokens": [
+        51114,
+        25706,
+        13,
+        286,
+        643,
+        281,
+        1319,
+        452,
+        6278,
+        6257,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3394998727842819,
+      "compression_ratio": 1.228813559322034,
+      "no_speech_prob": 0.42963358759880066
+    },
+    {
+      "id": 3,
+      "seek": 2100,
+      "start": 21.0,
+      "end": 28.0,
+      "text": " Building. This building was built in 1930.",
+      "tokens": [
+        50364,
+        18974,
+        13,
+        639,
+        2390,
+        390,
+        3094,
+        294,
+        22350,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3904714054531521,
+      "compression_ratio": 1.0377358490566038,
+      "no_speech_prob": 0.2648373246192932
+    },
+    {
+      "id": 4,
+      "seek": 2100,
+      "start": 28.0,
+      "end": 31.0,
+      "text": " Consequence.",
+      "tokens": [
+        50714,
+        2656,
+        11834,
+        655,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3904714054531521,
+      "compression_ratio": 1.0377358490566038,
+      "no_speech_prob": 0.2648373246192932
+    }
+  ],
+  "language": "en"
+}

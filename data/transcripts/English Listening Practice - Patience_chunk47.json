@@ -1,0 +1,152 @@
+{
+  "text": " that I wanted to mention, probably the most important one, the most important situation in which we need patients is when you are parenting, when you have kids, when you have kids, your level of patience is tested in a way unlike anything else. So you are dealing with...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " that I wanted to mention, probably the most important one,",
+      "tokens": [
+        50364,
+        300,
+        286,
+        1415,
+        281,
+        2152,
+        11,
+        1391,
+        264,
+        881,
+        1021,
+        472,
+        11,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21913653035317698,
+      "compression_ratio": 1.6712328767123288,
+      "no_speech_prob": 0.03389061242341995
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.04,
+      "end": 10.040000000000001,
+      "text": " the most important situation in which we need patients",
+      "tokens": [
+        50616,
+        264,
+        881,
+        1021,
+        2590,
+        294,
+        597,
+        321,
+        643,
+        4209,
+        50866
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21913653035317698,
+      "compression_ratio": 1.6712328767123288,
+      "no_speech_prob": 0.03389061242341995
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.38,
+      "end": 15.38,
+      "text": " is when you are parenting, when you have kids,",
+      "tokens": [
+        50883,
+        307,
+        562,
+        291,
+        366,
+        30896,
+        11,
+        562,
+        291,
+        362,
+        2301,
+        11,
+        51133
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21913653035317698,
+      "compression_ratio": 1.6712328767123288,
+      "no_speech_prob": 0.03389061242341995
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 15.98,
+      "end": 20.88,
+      "text": " when you have kids, your level of patience",
+      "tokens": [
+        51163,
+        562,
+        291,
+        362,
+        2301,
+        11,
+        428,
+        1496,
+        295,
+        14826,
+        51408
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21913653035317698,
+      "compression_ratio": 1.6712328767123288,
+      "no_speech_prob": 0.03389061242341995
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 20.88,
+      "end": 25.88,
+      "text": " is tested in a way unlike anything else.",
+      "tokens": [
+        51408,
+        307,
+        8246,
+        294,
+        257,
+        636,
+        8343,
+        1340,
+        1646,
+        13,
+        51658
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21913653035317698,
+      "compression_ratio": 1.6712328767123288,
+      "no_speech_prob": 0.03389061242341995
+    },
+    {
+      "id": 5,
+      "seek": 2588,
+      "start": 25.88,
+      "end": 29.88,
+      "text": " So you are dealing with...",
+      "tokens": [
+        50364,
+        407,
+        291,
+        366,
+        6260,
+        365,
+        485,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.829797797732883,
+      "compression_ratio": 0.7647058823529411,
+      "no_speech_prob": 0.09859595447778702
+    }
+  ],
+  "language": "en"
+}

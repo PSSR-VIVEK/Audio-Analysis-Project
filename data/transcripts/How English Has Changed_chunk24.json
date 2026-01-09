@@ -1,0 +1,233 @@
+{
+  "text": " three of these different pronouns in this verse. So listen while I read it, that if thou shalt confess with thy mouth, the Lord Jesus, and shall believe in thy heart that God have raised him from the dead, thou shalt be saved. So you'll notice that we have some interesting pronouns there. We have thou, that if thou shalt confess, we have.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.12,
+      "text": " three of these different pronouns in this verse.",
+      "tokens": [
+        50364,
+        1045,
+        295,
+        613,
+        819,
+        35883,
+        294,
+        341,
+        7996,
+        13,
+        50520
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19238149358871134,
+      "compression_ratio": 1.6887755102040816,
+      "no_speech_prob": 0.2209347039461136
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.12,
+      "end": 6.4,
+      "text": " So listen while I read it,",
+      "tokens": [
+        50520,
+        407,
+        2140,
+        1339,
+        286,
+        1401,
+        309,
+        11,
+        50684
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19238149358871134,
+      "compression_ratio": 1.6887755102040816,
+      "no_speech_prob": 0.2209347039461136
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.4,
+      "end": 9.16,
+      "text": " that if thou shalt confess with thy mouth,",
+      "tokens": [
+        50684,
+        300,
+        498,
+        24757,
+        402,
+        3198,
+        19367,
+        365,
+        15196,
+        4525,
+        11,
+        50822
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19238149358871134,
+      "compression_ratio": 1.6887755102040816,
+      "no_speech_prob": 0.2209347039461136
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 9.16,
+      "end": 12.48,
+      "text": " the Lord Jesus, and shall believe in thy heart",
+      "tokens": [
+        50822,
+        264,
+        3257,
+        2705,
+        11,
+        293,
+        4393,
+        1697,
+        294,
+        15196,
+        1917,
+        50988
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19238149358871134,
+      "compression_ratio": 1.6887755102040816,
+      "no_speech_prob": 0.2209347039461136
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 12.48,
+      "end": 14.92,
+      "text": " that God have raised him from the dead,",
+      "tokens": [
+        50988,
+        300,
+        1265,
+        362,
+        6005,
+        796,
+        490,
+        264,
+        3116,
+        11,
+        51110
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19238149358871134,
+      "compression_ratio": 1.6887755102040816,
+      "no_speech_prob": 0.2209347039461136
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 14.92,
+      "end": 17.16,
+      "text": " thou shalt be saved.",
+      "tokens": [
+        51110,
+        24757,
+        402,
+        3198,
+        312,
+        6624,
+        13,
+        51222
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19238149358871134,
+      "compression_ratio": 1.6887755102040816,
+      "no_speech_prob": 0.2209347039461136
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 17.16,
+      "end": 20.48,
+      "text": " So you'll notice that we have",
+      "tokens": [
+        51222,
+        407,
+        291,
+        603,
+        3449,
+        300,
+        321,
+        362,
+        51388
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19238149358871134,
+      "compression_ratio": 1.6887755102040816,
+      "no_speech_prob": 0.2209347039461136
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 20.48,
+      "end": 23.32,
+      "text": " some interesting pronouns there.",
+      "tokens": [
+        51388,
+        512,
+        1880,
+        35883,
+        456,
+        13,
+        51530
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19238149358871134,
+      "compression_ratio": 1.6887755102040816,
+      "no_speech_prob": 0.2209347039461136
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 23.32,
+      "end": 28.32,
+      "text": " We have thou, that if thou shalt confess,",
+      "tokens": [
+        51530,
+        492,
+        362,
+        24757,
+        11,
+        300,
+        498,
+        24757,
+        402,
+        3198,
+        19367,
+        11,
+        51780
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19238149358871134,
+      "compression_ratio": 1.6887755102040816,
+      "no_speech_prob": 0.2209347039461136
+    },
+    {
+      "id": 9,
+      "seek": 2832,
+      "start": 28.32,
+      "end": 29.8,
+      "text": " we have.",
+      "tokens": [
+        50388,
+        321,
+        362,
+        13,
+        50438
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8229271570841471,
+      "compression_ratio": 0.5,
+      "no_speech_prob": 0.03484746441245079
+    }
+  ],
+  "language": "en"
+}

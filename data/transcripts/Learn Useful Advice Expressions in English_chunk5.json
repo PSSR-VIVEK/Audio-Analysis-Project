@@ -1,0 +1,232 @@
+{
+  "text": " but they haven't had the chance to. For example, I've been meaning to talk to you about the argument you had with your girlfriend. Is everything all right? So you basically use it to start a conversation with someone to offer them some advice. Be careful with the word advice, because a lot of people say, are advised or are advised, but the word advice...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.44,
+      "text": " but they haven't had the chance to.",
+      "tokens": [
+        50364,
+        457,
+        436,
+        2378,
+        380,
+        632,
+        264,
+        2931,
+        281,
+        13,
+        50536
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19941093260983386,
+      "compression_ratio": 1.5024630541871922,
+      "no_speech_prob": 0.11195278912782669
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.44,
+      "end": 6.28,
+      "text": " For example, I've been meaning to talk to you",
+      "tokens": [
+        50536,
+        1171,
+        1365,
+        11,
+        286,
+        600,
+        668,
+        3620,
+        281,
+        751,
+        281,
+        291,
+        50678
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19941093260983386,
+      "compression_ratio": 1.5024630541871922,
+      "no_speech_prob": 0.11195278912782669
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.28,
+      "end": 10.36,
+      "text": " about the argument you had with your girlfriend.",
+      "tokens": [
+        50678,
+        466,
+        264,
+        6770,
+        291,
+        632,
+        365,
+        428,
+        10369,
+        13,
+        50882
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19941093260983386,
+      "compression_ratio": 1.5024630541871922,
+      "no_speech_prob": 0.11195278912782669
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.36,
+      "end": 12.68,
+      "text": " Is everything all right?",
+      "tokens": [
+        50882,
+        1119,
+        1203,
+        439,
+        558,
+        30,
+        50998
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19941093260983386,
+      "compression_ratio": 1.5024630541871922,
+      "no_speech_prob": 0.11195278912782669
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 12.68,
+      "end": 16.76,
+      "text": " So you basically use it to start a conversation",
+      "tokens": [
+        50998,
+        407,
+        291,
+        1936,
+        764,
+        309,
+        281,
+        722,
+        257,
+        3761,
+        51202
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19941093260983386,
+      "compression_ratio": 1.5024630541871922,
+      "no_speech_prob": 0.11195278912782669
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 16.76,
+      "end": 20.92,
+      "text": " with someone to offer them some advice.",
+      "tokens": [
+        51202,
+        365,
+        1580,
+        281,
+        2626,
+        552,
+        512,
+        5192,
+        13,
+        51410
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19941093260983386,
+      "compression_ratio": 1.5024630541871922,
+      "no_speech_prob": 0.11195278912782669
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 20.92,
+      "end": 23.0,
+      "text": " Be careful with the word advice,",
+      "tokens": [
+        51410,
+        879,
+        5026,
+        365,
+        264,
+        1349,
+        5192,
+        11,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19941093260983386,
+      "compression_ratio": 1.5024630541871922,
+      "no_speech_prob": 0.11195278912782669
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 23.0,
+      "end": 25.400000000000002,
+      "text": " because a lot of people say,",
+      "tokens": [
+        51514,
+        570,
+        257,
+        688,
+        295,
+        561,
+        584,
+        11,
+        51634
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19941093260983386,
+      "compression_ratio": 1.5024630541871922,
+      "no_speech_prob": 0.11195278912782669
+    },
+    {
+      "id": 8,
+      "seek": 2540,
+      "start": 25.4,
+      "end": 28.479999999999997,
+      "text": " are advised or are advised,",
+      "tokens": [
+        50364,
+        366,
+        26269,
+        420,
+        366,
+        26269,
+        11,
+        50518
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.8988669514656067,
+      "compression_ratio": 1.0869565217391304,
+      "no_speech_prob": 0.007641549222171307
+    },
+    {
+      "id": 9,
+      "seek": 2540,
+      "start": 28.479999999999997,
+      "end": 30.36,
+      "text": " but the word advice...",
+      "tokens": [
+        50518,
+        457,
+        264,
+        1349,
+        5192,
+        485,
+        50612
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.8988669514656067,
+      "compression_ratio": 1.0869565217391304,
+      "no_speech_prob": 0.007641549222171307
+    }
+  ],
+  "language": "en"
+}

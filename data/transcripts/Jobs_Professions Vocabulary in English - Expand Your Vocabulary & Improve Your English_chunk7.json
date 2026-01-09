@@ -1,0 +1,93 @@
+{
+  "text": " you contract a carpenter. They can make wooden chairs, tables and other types of furniture. Electritions help you to install electric in your house, painters paint your walls and plumbers install the bath and",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 13.0,
+      "text": " you contract a carpenter. They can make wooden chairs, tables and other types of furniture.",
+      "tokens": [
+        50364,
+        291,
+        4364,
+        257,
+        26103,
+        14278,
+        13,
+        814,
+        393,
+        652,
+        14744,
+        18299,
+        11,
+        8020,
+        293,
+        661,
+        3467,
+        295,
+        15671,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2799598647326958,
+      "compression_ratio": 1.392,
+      "no_speech_prob": 0.06299847364425659
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 13.0,
+      "end": 25.0,
+      "text": " Electritions help you to install electric in your house, painters paint your walls",
+      "tokens": [
+        51014,
+        12575,
+        81,
+        2451,
+        854,
+        291,
+        281,
+        3625,
+        5210,
+        294,
+        428,
+        1782,
+        11,
+        48643,
+        4225,
+        428,
+        7920,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2799598647326958,
+      "compression_ratio": 1.392,
+      "no_speech_prob": 0.06299847364425659
+    },
+    {
+      "id": 2,
+      "seek": 2500,
+      "start": 25.0,
+      "end": 32.0,
+      "text": " and plumbers install the bath and",
+      "tokens": [
+        50364,
+        293,
+        25854,
+        1616,
+        3625,
+        264,
+        6079,
+        293,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45815815925598147,
+      "compression_ratio": 0.8048780487804879,
+      "no_speech_prob": 0.20581306517124176
+    }
+  ],
+  "language": "en"
+}

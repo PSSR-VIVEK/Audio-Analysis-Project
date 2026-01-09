@@ -1,0 +1,192 @@
+{
+  "text": " really make the most of that thing. So I think that you should identify what it is that you bring to your job that AI can't. And you should really focus on that. Make sure that that element is really adding a lot of value to the job. So in my case, it's pretty clear because I have...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.84,
+      "text": " really make the most of that thing.",
+      "tokens": [
+        50364,
+        534,
+        652,
+        264,
+        881,
+        295,
+        300,
+        551,
+        13,
+        50556
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2005758774586213,
+      "compression_ratio": 1.5833333333333333,
+      "no_speech_prob": 0.10797645151615143
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.84,
+      "end": 8.84,
+      "text": " So I think that you should identify what it is",
+      "tokens": [
+        50556,
+        407,
+        286,
+        519,
+        300,
+        291,
+        820,
+        5876,
+        437,
+        309,
+        307,
+        50806
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2005758774586213,
+      "compression_ratio": 1.5833333333333333,
+      "no_speech_prob": 0.10797645151615143
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.84,
+      "end": 14.56,
+      "text": " that you bring to your job that AI can't.",
+      "tokens": [
+        50806,
+        300,
+        291,
+        1565,
+        281,
+        428,
+        1691,
+        300,
+        7318,
+        393,
+        380,
+        13,
+        51092
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2005758774586213,
+      "compression_ratio": 1.5833333333333333,
+      "no_speech_prob": 0.10797645151615143
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 14.56,
+      "end": 18.56,
+      "text": " And you should really focus on that.",
+      "tokens": [
+        51092,
+        400,
+        291,
+        820,
+        534,
+        1879,
+        322,
+        300,
+        13,
+        51292
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2005758774586213,
+      "compression_ratio": 1.5833333333333333,
+      "no_speech_prob": 0.10797645151615143
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 18.56,
+      "end": 24.32,
+      "text": " Make sure that that element is really adding a lot of value",
+      "tokens": [
+        51292,
+        4387,
+        988,
+        300,
+        300,
+        4478,
+        307,
+        534,
+        5127,
+        257,
+        688,
+        295,
+        2158,
+        51580
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2005758774586213,
+      "compression_ratio": 1.5833333333333333,
+      "no_speech_prob": 0.10797645151615143
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 24.32,
+      "end": 26.240000000000002,
+      "text": " to the job.",
+      "tokens": [
+        51580,
+        281,
+        264,
+        1691,
+        13,
+        51676
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2005758774586213,
+      "compression_ratio": 1.5833333333333333,
+      "no_speech_prob": 0.10797645151615143
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 26.240000000000002,
+      "end": 29.2,
+      "text": " So in my case, it's pretty clear",
+      "tokens": [
+        51676,
+        407,
+        294,
+        452,
+        1389,
+        11,
+        309,
+        311,
+        1238,
+        1850,
+        51824
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2005758774586213,
+      "compression_ratio": 1.5833333333333333,
+      "no_speech_prob": 0.10797645151615143
+    },
+    {
+      "id": 7,
+      "seek": 2920,
+      "start": 29.2,
+      "end": 31.2,
+      "text": " because I have...",
+      "tokens": [
+        50364,
+        570,
+        286,
+        362,
+        485,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7573366165161133,
+      "compression_ratio": 0.68,
+      "no_speech_prob": 0.17388921976089478
+    }
+  ],
+  "language": "en"
+}

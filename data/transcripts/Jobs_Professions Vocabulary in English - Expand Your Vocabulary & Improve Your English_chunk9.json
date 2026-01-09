@@ -1,0 +1,89 @@
+{
+  "text": " a type of journalist. Journalists can also write in magazines or newspapers. Authors or writers are the people who write books or novels. Photographers who take photos can work with models.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 12.8,
+      "text": " a type of journalist. Journalists can also write in magazines or newspapers.",
+      "tokens": [
+        50364,
+        257,
+        2010,
+        295,
+        17277,
+        13,
+        16936,
+        1751,
+        393,
+        611,
+        2464,
+        294,
+        22975,
+        420,
+        20781,
+        13,
+        51004
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2692156118505141,
+      "compression_ratio": 1.3173076923076923,
+      "no_speech_prob": 0.16102732717990875
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 12.8,
+      "end": 22.84,
+      "text": " Authors or writers are the people who write books or novels.",
+      "tokens": [
+        51004,
+        40231,
+        830,
+        420,
+        13491,
+        366,
+        264,
+        561,
+        567,
+        2464,
+        3642,
+        420,
+        24574,
+        13,
+        51506
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2692156118505141,
+      "compression_ratio": 1.3173076923076923,
+      "no_speech_prob": 0.16102732717990875
+    },
+    {
+      "id": 2,
+      "seek": 2284,
+      "start": 22.84,
+      "end": 29.84,
+      "text": " Photographers who take photos can work with models.",
+      "tokens": [
+        50384,
+        13919,
+        47222,
+        567,
+        747,
+        5787,
+        393,
+        589,
+        365,
+        5245,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4712337347177359,
+      "compression_ratio": 0.8947368421052632,
+      "no_speech_prob": 0.06533274054527283
+    }
+  ],
+  "language": "en"
+}

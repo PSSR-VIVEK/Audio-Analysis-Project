@@ -1,0 +1,228 @@
+{
+  "text": " So that's great. So what are the criteria? What criteria should we use when choosing a teacher? I talked about this in my episode about English teachers, but I'll just quickly mention these different criteria that I used. Number one, the teacher should be able to manage the conversation well. If the teacher is not doing that well, and you feel...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.2,
+      "text": " So that's great.",
+      "tokens": [
+        50364,
+        407,
+        300,
+        311,
+        869,
+        13,
+        50424
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16792476177215576,
+      "compression_ratio": 1.5961538461538463,
+      "no_speech_prob": 0.04071826860308647
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.2,
+      "end": 5.16,
+      "text": " So what are the criteria?",
+      "tokens": [
+        50424,
+        407,
+        437,
+        366,
+        264,
+        11101,
+        30,
+        50622
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16792476177215576,
+      "compression_ratio": 1.5961538461538463,
+      "no_speech_prob": 0.04071826860308647
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.16,
+      "end": 9.44,
+      "text": " What criteria should we use when choosing a teacher?",
+      "tokens": [
+        50622,
+        708,
+        11101,
+        820,
+        321,
+        764,
+        562,
+        10875,
+        257,
+        5027,
+        30,
+        50836
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16792476177215576,
+      "compression_ratio": 1.5961538461538463,
+      "no_speech_prob": 0.04071826860308647
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 9.44,
+      "end": 13.92,
+      "text": " I talked about this in my episode about English teachers,",
+      "tokens": [
+        50836,
+        286,
+        2825,
+        466,
+        341,
+        294,
+        452,
+        3500,
+        466,
+        3669,
+        6023,
+        11,
+        51060
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16792476177215576,
+      "compression_ratio": 1.5961538461538463,
+      "no_speech_prob": 0.04071826860308647
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 13.92,
+      "end": 17.96,
+      "text": " but I'll just quickly mention these different criteria",
+      "tokens": [
+        51060,
+        457,
+        286,
+        603,
+        445,
+        2661,
+        2152,
+        613,
+        819,
+        11101,
+        51262
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16792476177215576,
+      "compression_ratio": 1.5961538461538463,
+      "no_speech_prob": 0.04071826860308647
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 17.96,
+      "end": 19.36,
+      "text": " that I used.",
+      "tokens": [
+        51262,
+        300,
+        286,
+        1143,
+        13,
+        51332
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16792476177215576,
+      "compression_ratio": 1.5961538461538463,
+      "no_speech_prob": 0.04071826860308647
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 19.36,
+      "end": 23.04,
+      "text": " Number one, the teacher should be able to manage",
+      "tokens": [
+        51332,
+        5118,
+        472,
+        11,
+        264,
+        5027,
+        820,
+        312,
+        1075,
+        281,
+        3067,
+        51516
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16792476177215576,
+      "compression_ratio": 1.5961538461538463,
+      "no_speech_prob": 0.04071826860308647
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 23.04,
+      "end": 25.84,
+      "text": " the conversation well.",
+      "tokens": [
+        51516,
+        264,
+        3761,
+        731,
+        13,
+        51656
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16792476177215576,
+      "compression_ratio": 1.5961538461538463,
+      "no_speech_prob": 0.04071826860308647
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 25.84,
+      "end": 29.04,
+      "text": " If the teacher is not doing that well,",
+      "tokens": [
+        51656,
+        759,
+        264,
+        5027,
+        307,
+        406,
+        884,
+        300,
+        731,
+        11,
+        51816
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16792476177215576,
+      "compression_ratio": 1.5961538461538463,
+      "no_speech_prob": 0.04071826860308647
+    },
+    {
+      "id": 9,
+      "seek": 2904,
+      "start": 29.04,
+      "end": 29.96,
+      "text": " and you feel...",
+      "tokens": [
+        50372,
+        293,
+        291,
+        841,
+        485,
+        50410
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.608614240373884,
+      "compression_ratio": 0.6521739130434783,
+      "no_speech_prob": 0.26111871004104614
+    }
+  ],
+  "language": "en"
+}

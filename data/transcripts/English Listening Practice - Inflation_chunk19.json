@@ -1,0 +1,111 @@
+{
+  "text": " when you suddenly increase the currency and there are more dollars or euros it makes prices go up right and you can increase the amount of currency in a system without a price inflation if the production of goods and services increases even more?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 7.78,
+      "text": " when you suddenly increase the currency and there are more dollars or",
+      "tokens": [
+        50364,
+        562,
+        291,
+        5800,
+        3488,
+        264,
+        13346,
+        293,
+        456,
+        366,
+        544,
+        3808,
+        420,
+        50753
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2932350781499123,
+      "compression_ratio": 1.5957446808510638,
+      "no_speech_prob": 0.09233596920967102
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.78,
+      "end": 17.740000000000002,
+      "text": " euros it makes prices go up right and you can increase the amount of currency",
+      "tokens": [
+        50753,
+        14160,
+        309,
+        1669,
+        7901,
+        352,
+        493,
+        558,
+        293,
+        291,
+        393,
+        3488,
+        264,
+        2372,
+        295,
+        13346,
+        51251
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2932350781499123,
+      "compression_ratio": 1.5957446808510638,
+      "no_speech_prob": 0.09233596920967102
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 17.740000000000002,
+      "end": 27.42,
+      "text": " in a system without a price inflation if the production of goods and services",
+      "tokens": [
+        51251,
+        294,
+        257,
+        1185,
+        1553,
+        257,
+        3218,
+        15860,
+        498,
+        264,
+        4265,
+        295,
+        10179,
+        293,
+        3328,
+        51735
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2932350781499123,
+      "compression_ratio": 1.5957446808510638,
+      "no_speech_prob": 0.09233596920967102
+    },
+    {
+      "id": 3,
+      "seek": 2742,
+      "start": 27.42,
+      "end": 35.1,
+      "text": " increases even more?",
+      "tokens": [
+        50364,
+        8637,
+        754,
+        544,
+        30,
+        50748
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.117123467581613,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 0.20028208196163177
+    }
+  ],
+  "language": "en"
+}

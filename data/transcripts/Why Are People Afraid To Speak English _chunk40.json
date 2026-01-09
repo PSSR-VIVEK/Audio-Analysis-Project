@@ -1,0 +1,150 @@
+{
+  "text": " and with the right resources and dedicating the time to actually practicing this and listening intently to the sounds that you hear, this will help. It's not easy, but you can get better over time. But just know that all of us have pronunciation issues and...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " and with the right resources and",
+      "tokens": [
+        50364,
+        293,
+        365,
+        264,
+        558,
+        3593,
+        293,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23010779917240143,
+      "compression_ratio": 1.5180722891566265,
+      "no_speech_prob": 0.24290521442890167
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.0,
+      "end": 11.0,
+      "text": " dedicating the time to actually practicing this",
+      "tokens": [
+        50614,
+        4172,
+        30541,
+        264,
+        565,
+        281,
+        767,
+        11350,
+        341,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23010779917240143,
+      "compression_ratio": 1.5180722891566265,
+      "no_speech_prob": 0.24290521442890167
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.0,
+      "end": 17.0,
+      "text": " and listening intently to the sounds that you hear,",
+      "tokens": [
+        50914,
+        293,
+        4764,
+        560,
+        2276,
+        281,
+        264,
+        3263,
+        300,
+        291,
+        1568,
+        11,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23010779917240143,
+      "compression_ratio": 1.5180722891566265,
+      "no_speech_prob": 0.24290521442890167
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 17.0,
+      "end": 23.0,
+      "text": " this will help. It's not easy, but you can get better over time.",
+      "tokens": [
+        51214,
+        341,
+        486,
+        854,
+        13,
+        467,
+        311,
+        406,
+        1858,
+        11,
+        457,
+        291,
+        393,
+        483,
+        1101,
+        670,
+        565,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23010779917240143,
+      "compression_ratio": 1.5180722891566265,
+      "no_speech_prob": 0.24290521442890167
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 23.0,
+      "end": 29.0,
+      "text": " But just know that all of us have pronunciation issues",
+      "tokens": [
+        51514,
+        583,
+        445,
+        458,
+        300,
+        439,
+        295,
+        505,
+        362,
+        23338,
+        2663,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23010779917240143,
+      "compression_ratio": 1.5180722891566265,
+      "no_speech_prob": 0.24290521442890167
+    },
+    {
+      "id": 5,
+      "seek": 2900,
+      "start": 29.0,
+      "end": 31.0,
+      "text": " and...",
+      "tokens": [
+        50364,
+        293,
+        485,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.594129991531372,
+      "compression_ratio": 0.42857142857142855,
+      "no_speech_prob": 0.6872111558914185
+    }
+  ],
+  "language": "en"
+}

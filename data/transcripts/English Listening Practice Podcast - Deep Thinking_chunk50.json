@@ -1,0 +1,129 @@
+{
+  "text": " However, sometimes I like to walk by myself with nothing else. No headphones in not listening to anything. And I find that my brain starts thinking. And sometimes I have some deep thoughts. And I walk outside by myself with no music.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 7.28,
+      "text": " However, sometimes I like to walk by myself with nothing else.",
+      "tokens": [
+        50364,
+        2908,
+        11,
+        2171,
+        286,
+        411,
+        281,
+        1792,
+        538,
+        2059,
+        365,
+        1825,
+        1646,
+        13,
+        50728
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35502123832702637,
+      "compression_ratio": 1.4104477611940298,
+      "no_speech_prob": 0.20070195198059082
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.28,
+      "end": 13.280000000000001,
+      "text": " No headphones in not listening to anything.",
+      "tokens": [
+        50728,
+        883,
+        16278,
+        294,
+        406,
+        4764,
+        281,
+        1340,
+        13,
+        51028
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35502123832702637,
+      "compression_ratio": 1.4104477611940298,
+      "no_speech_prob": 0.20070195198059082
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 13.280000000000001,
+      "end": 19.72,
+      "text": " And I find that my brain starts thinking.",
+      "tokens": [
+        51028,
+        400,
+        286,
+        915,
+        300,
+        452,
+        3567,
+        3719,
+        1953,
+        13,
+        51350
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35502123832702637,
+      "compression_ratio": 1.4104477611940298,
+      "no_speech_prob": 0.20070195198059082
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 19.72,
+      "end": 23.72,
+      "text": " And sometimes I have some deep thoughts.",
+      "tokens": [
+        51350,
+        400,
+        2171,
+        286,
+        362,
+        512,
+        2452,
+        4598,
+        13,
+        51550
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35502123832702637,
+      "compression_ratio": 1.4104477611940298,
+      "no_speech_prob": 0.20070195198059082
+    },
+    {
+      "id": 4,
+      "seek": 2372,
+      "start": 23.72,
+      "end": 29.96,
+      "text": " And I walk outside by myself with no music.",
+      "tokens": [
+        50364,
+        400,
+        286,
+        1792,
+        2380,
+        538,
+        2059,
+        365,
+        572,
+        1318,
+        13,
+        50676
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39011019926804763,
+      "compression_ratio": 0.8431372549019608,
+      "no_speech_prob": 0.06200585141777992
+    }
+  ],
+  "language": "en"
+}

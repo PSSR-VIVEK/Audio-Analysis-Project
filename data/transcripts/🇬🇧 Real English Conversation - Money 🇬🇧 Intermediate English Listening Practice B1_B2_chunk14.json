@@ -1,0 +1,188 @@
+{
+  "text": " because it's fast fashion and cheap fashion. They're buying a lot of clothes when they have enough clothes at home, but that's part of being young. Do you think that people only waste money on shopping? Well, I think that some families buy takeaway meals every weekend, which is fine, but...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.48,
+      "text": " because it's fast fashion and cheap fashion.",
+      "tokens": [
+        50364,
+        570,
+        309,
+        311,
+        2370,
+        6700,
+        293,
+        7084,
+        6700,
+        13,
+        50538
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19914534217432925,
+      "compression_ratio": 1.4791666666666667,
+      "no_speech_prob": 0.0476989671587944
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.48,
+      "end": 6.92,
+      "text": " They're buying a lot of clothes",
+      "tokens": [
+        50588,
+        814,
+        434,
+        6382,
+        257,
+        688,
+        295,
+        5534,
+        50710
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19914534217432925,
+      "compression_ratio": 1.4791666666666667,
+      "no_speech_prob": 0.0476989671587944
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.92,
+      "end": 9.4,
+      "text": " when they have enough clothes at home,",
+      "tokens": [
+        50710,
+        562,
+        436,
+        362,
+        1547,
+        5534,
+        412,
+        1280,
+        11,
+        50834
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19914534217432925,
+      "compression_ratio": 1.4791666666666667,
+      "no_speech_prob": 0.0476989671587944
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 9.4,
+      "end": 11.24,
+      "text": " but that's part of being young.",
+      "tokens": [
+        50834,
+        457,
+        300,
+        311,
+        644,
+        295,
+        885,
+        2037,
+        13,
+        50926
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19914534217432925,
+      "compression_ratio": 1.4791666666666667,
+      "no_speech_prob": 0.0476989671587944
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 12.4,
+      "end": 17.400000000000002,
+      "text": " Do you think that people only waste money on shopping?",
+      "tokens": [
+        50984,
+        1144,
+        291,
+        519,
+        300,
+        561,
+        787,
+        5964,
+        1460,
+        322,
+        8688,
+        30,
+        51234
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19914534217432925,
+      "compression_ratio": 1.4791666666666667,
+      "no_speech_prob": 0.0476989671587944
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 19.64,
+      "end": 23.0,
+      "text": " Well, I think that some families",
+      "tokens": [
+        51346,
+        1042,
+        11,
+        286,
+        519,
+        300,
+        512,
+        4466,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19914534217432925,
+      "compression_ratio": 1.4791666666666667,
+      "no_speech_prob": 0.0476989671587944
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 23.0,
+      "end": 28.0,
+      "text": " buy takeaway meals every weekend, which is fine,",
+      "tokens": [
+        51514,
+        2256,
+        30681,
+        12832,
+        633,
+        6711,
+        11,
+        597,
+        307,
+        2489,
+        11,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19914534217432925,
+      "compression_ratio": 1.4791666666666667,
+      "no_speech_prob": 0.0476989671587944
+    },
+    {
+      "id": 7,
+      "seek": 2800,
+      "start": 28.0,
+      "end": 30.0,
+      "text": " but...",
+      "tokens": [
+        50414,
+        457,
+        485,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7397759437561036,
+      "compression_ratio": 0.42857142857142855,
+      "no_speech_prob": 0.20270968973636627
+    }
+  ],
+  "language": "en"
+}

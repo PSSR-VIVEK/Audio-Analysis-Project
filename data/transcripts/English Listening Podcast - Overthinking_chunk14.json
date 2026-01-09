@@ -1,0 +1,243 @@
+{
+  "text": " about that conversation that you had, then the other person is. By the way, we can use the phrase Chances are, that just means that it is likely that blah blah blah. Chances are. So, chances are, you're thinking way too much about the conversation and the other person isn't thinking about all those little details that you're.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.72,
+      "text": " about that conversation that you had,",
+      "tokens": [
+        50364,
+        466,
+        300,
+        3761,
+        300,
+        291,
+        632,
+        11,
+        50500
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41546529134114585,
+      "compression_ratio": 1.7942857142857143,
+      "no_speech_prob": 0.14351432025432587
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.72,
+      "end": 5.0,
+      "text": " then the other person is.",
+      "tokens": [
+        50500,
+        550,
+        264,
+        661,
+        954,
+        307,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41546529134114585,
+      "compression_ratio": 1.7942857142857143,
+      "no_speech_prob": 0.14351432025432587
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.0,
+      "end": 7.5200000000000005,
+      "text": " By the way, we can use the phrase",
+      "tokens": [
+        50614,
+        3146,
+        264,
+        636,
+        11,
+        321,
+        393,
+        764,
+        264,
+        9535,
+        50740
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41546529134114585,
+      "compression_ratio": 1.7942857142857143,
+      "no_speech_prob": 0.14351432025432587
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 7.5200000000000005,
+      "end": 11.32,
+      "text": " Chances are, that just means that",
+      "tokens": [
+        50740,
+        761,
+        2676,
+        366,
+        11,
+        300,
+        445,
+        1355,
+        300,
+        50930
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41546529134114585,
+      "compression_ratio": 1.7942857142857143,
+      "no_speech_prob": 0.14351432025432587
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 11.32,
+      "end": 14.0,
+      "text": " it is likely that",
+      "tokens": [
+        50930,
+        309,
+        307,
+        3700,
+        300,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41546529134114585,
+      "compression_ratio": 1.7942857142857143,
+      "no_speech_prob": 0.14351432025432587
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 14.0,
+      "end": 16.76,
+      "text": " blah blah blah. Chances are.",
+      "tokens": [
+        51064,
+        12288,
+        12288,
+        12288,
+        13,
+        761,
+        2676,
+        366,
+        13,
+        51202
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41546529134114585,
+      "compression_ratio": 1.7942857142857143,
+      "no_speech_prob": 0.14351432025432587
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 16.76,
+      "end": 20.0,
+      "text": " So, chances are, you're thinking",
+      "tokens": [
+        51202,
+        407,
+        11,
+        10486,
+        366,
+        11,
+        291,
+        434,
+        1953,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41546529134114585,
+      "compression_ratio": 1.7942857142857143,
+      "no_speech_prob": 0.14351432025432587
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 20.0,
+      "end": 23.0,
+      "text": " way too much about the conversation",
+      "tokens": [
+        51364,
+        636,
+        886,
+        709,
+        466,
+        264,
+        3761,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41546529134114585,
+      "compression_ratio": 1.7942857142857143,
+      "no_speech_prob": 0.14351432025432587
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 23.0,
+      "end": 26.240000000000002,
+      "text": " and the other person isn't thinking about",
+      "tokens": [
+        51514,
+        293,
+        264,
+        661,
+        954,
+        1943,
+        380,
+        1953,
+        466,
+        51676
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41546529134114585,
+      "compression_ratio": 1.7942857142857143,
+      "no_speech_prob": 0.14351432025432587
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 26.240000000000002,
+      "end": 28.6,
+      "text": " all those little details",
+      "tokens": [
+        51676,
+        439,
+        729,
+        707,
+        4365,
+        51794
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41546529134114585,
+      "compression_ratio": 1.7942857142857143,
+      "no_speech_prob": 0.14351432025432587
+    },
+    {
+      "id": 10,
+      "seek": 2860,
+      "start": 28.6,
+      "end": 29.92,
+      "text": " that you're.",
+      "tokens": [
+        50380,
+        300,
+        291,
+        434,
+        13,
+        50430
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8754690715244838,
+      "compression_ratio": 0.6,
+      "no_speech_prob": 0.08008459210395813
+    }
+  ],
+  "language": "en"
+}

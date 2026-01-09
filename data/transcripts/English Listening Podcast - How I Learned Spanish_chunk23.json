@@ -1,0 +1,163 @@
+{
+  "text": " in terms of becoming good at Spanish. So I learned a lot, but it only got me to a level in which I could have basic conversations. I could kind of understand other people if they spoke slowly to me, and it was just one person taught.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " in terms of becoming good at Spanish.",
+      "tokens": [
+        50364,
+        294,
+        2115,
+        295,
+        5617,
+        665,
+        412,
+        8058,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25780291392885407,
+      "compression_ratio": 1.3943661971830985,
+      "no_speech_prob": 0.36871737241744995
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.28,
+      "end": 7.88,
+      "text": " So I learned a lot,",
+      "tokens": [
+        50628,
+        407,
+        286,
+        3264,
+        257,
+        688,
+        11,
+        50758
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25780291392885407,
+      "compression_ratio": 1.3943661971830985,
+      "no_speech_prob": 0.36871737241744995
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.88,
+      "end": 12.200000000000001,
+      "text": " but it only got me to a level",
+      "tokens": [
+        50758,
+        457,
+        309,
+        787,
+        658,
+        385,
+        281,
+        257,
+        1496,
+        50974
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25780291392885407,
+      "compression_ratio": 1.3943661971830985,
+      "no_speech_prob": 0.36871737241744995
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 14.0,
+      "end": 19.0,
+      "text": " in which I could have basic conversations.",
+      "tokens": [
+        51064,
+        294,
+        597,
+        286,
+        727,
+        362,
+        3875,
+        7315,
+        13,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25780291392885407,
+      "compression_ratio": 1.3943661971830985,
+      "no_speech_prob": 0.36871737241744995
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 20.76,
+      "end": 24.2,
+      "text": " I could kind of understand other people",
+      "tokens": [
+        51402,
+        286,
+        727,
+        733,
+        295,
+        1223,
+        661,
+        561,
+        51574
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25780291392885407,
+      "compression_ratio": 1.3943661971830985,
+      "no_speech_prob": 0.36871737241744995
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 24.2,
+      "end": 27.8,
+      "text": " if they spoke slowly to me,",
+      "tokens": [
+        51574,
+        498,
+        436,
+        7179,
+        5692,
+        281,
+        385,
+        11,
+        51754
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25780291392885407,
+      "compression_ratio": 1.3943661971830985,
+      "no_speech_prob": 0.36871737241744995
+    },
+    {
+      "id": 6,
+      "seek": 2780,
+      "start": 27.8,
+      "end": 30.2,
+      "text": " and it was just one person taught.",
+      "tokens": [
+        50364,
+        293,
+        309,
+        390,
+        445,
+        472,
+        954,
+        5928,
+        13,
+        50484
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5213960734280673,
+      "compression_ratio": 0.8095238095238095,
+      "no_speech_prob": 0.01029439177364111
+    }
+  ],
+  "language": "en"
+}

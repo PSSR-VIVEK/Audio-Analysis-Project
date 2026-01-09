@@ -1,0 +1,148 @@
+{
+  "text": " But it can also complicate things for sure because you are Looking at things you are approaching things from very different perspectives and sometimes you don't see eye to eye We use that phrase see eye to eye to talk about two people kind of agreeing with each other understanding",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.16,
+      "text": " But it can also complicate things for sure",
+      "tokens": [
+        50364,
+        583,
+        309,
+        393,
+        611,
+        1209,
+        8700,
+        721,
+        337,
+        988,
+        50572
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3457868969629681,
+      "compression_ratio": 1.5892857142857142,
+      "no_speech_prob": 0.053339745849370956
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.2,
+      "end": 7.2,
+      "text": " because you are",
+      "tokens": [
+        50624,
+        570,
+        291,
+        366,
+        50724
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3457868969629681,
+      "compression_ratio": 1.5892857142857142,
+      "no_speech_prob": 0.053339745849370956
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.0,
+      "end": 18.0,
+      "text": " Looking at things you are approaching things from very different perspectives and sometimes you don't see eye to eye",
+      "tokens": [
+        50814,
+        11053,
+        412,
+        721,
+        291,
+        366,
+        14908,
+        721,
+        490,
+        588,
+        819,
+        16766,
+        293,
+        2171,
+        291,
+        500,
+        380,
+        536,
+        3313,
+        281,
+        3313,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3457868969629681,
+      "compression_ratio": 1.5892857142857142,
+      "no_speech_prob": 0.053339745849370956
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 19.16,
+      "end": 24.72,
+      "text": " We use that phrase see eye to eye to talk about two people",
+      "tokens": [
+        51322,
+        492,
+        764,
+        300,
+        9535,
+        536,
+        3313,
+        281,
+        3313,
+        281,
+        751,
+        466,
+        732,
+        561,
+        51600
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3457868969629681,
+      "compression_ratio": 1.5892857142857142,
+      "no_speech_prob": 0.053339745849370956
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 25.96,
+      "end": 27.96,
+      "text": " kind of agreeing with each other",
+      "tokens": [
+        51662,
+        733,
+        295,
+        36900,
+        365,
+        1184,
+        661,
+        51762
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3457868969629681,
+      "compression_ratio": 1.5892857142857142,
+      "no_speech_prob": 0.053339745849370956
+    },
+    {
+      "id": 5,
+      "seek": 2796,
+      "start": 27.96,
+      "end": 30.96,
+      "text": " understanding",
+      "tokens": [
+        50414,
+        3701,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7117010354995728,
+      "compression_ratio": 0.6190476190476191,
+      "no_speech_prob": 0.16833838820457458
+    }
+  ],
+  "language": "en"
+}

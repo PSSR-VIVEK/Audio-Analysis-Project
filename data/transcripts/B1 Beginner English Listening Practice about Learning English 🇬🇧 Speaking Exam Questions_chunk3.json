@@ -1,0 +1,113 @@
+{
+  "text": " especially the phrasal verbs and expressions. But I could also use the word rewarding to describe learning English because when I have learned something new or I noticed that I have improved, then it is very rewarding. And I feel proud.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.54,
+      "text": " especially the phrasal verbs and expressions.",
+      "tokens": [
+        50364,
+        2318,
+        264,
+        903,
+        3906,
+        304,
+        30051,
+        293,
+        15277,
+        13,
+        50691
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29093027114868164,
+      "compression_ratio": 1.4437086092715232,
+      "no_speech_prob": 0.23245511949062347
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.54,
+      "end": 16.98,
+      "text": " But I could also use the word rewarding to describe learning English because when I have",
+      "tokens": [
+        50691,
+        583,
+        286,
+        727,
+        611,
+        764,
+        264,
+        1349,
+        20063,
+        281,
+        6786,
+        2539,
+        3669,
+        570,
+        562,
+        286,
+        362,
+        51213
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29093027114868164,
+      "compression_ratio": 1.4437086092715232,
+      "no_speech_prob": 0.23245511949062347
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 16.98,
+      "end": 28.78,
+      "text": " learned something new or I noticed that I have improved, then it is very rewarding.",
+      "tokens": [
+        51213,
+        3264,
+        746,
+        777,
+        420,
+        286,
+        5694,
+        300,
+        286,
+        362,
+        9689,
+        11,
+        550,
+        309,
+        307,
+        588,
+        20063,
+        13,
+        51803
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29093027114868164,
+      "compression_ratio": 1.4437086092715232,
+      "no_speech_prob": 0.23245511949062347
+    },
+    {
+      "id": 3,
+      "seek": 2878,
+      "start": 28.78,
+      "end": 30.060000000000002,
+      "text": " And I feel proud.",
+      "tokens": [
+        50364,
+        400,
+        286,
+        841,
+        4570,
+        13,
+        50428
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7279660105705261,
+      "compression_ratio": 0.68,
+      "no_speech_prob": 0.46054062247276306
+    }
+  ],
+  "language": "en"
+}

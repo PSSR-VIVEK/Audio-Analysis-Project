@@ -1,0 +1,111 @@
+{
+  "text": " pronounced ED endings as ED but they are never pronounced this way so if you are reading or talking in English you should never pronounce ED endings as ED depending on the last letters of the words there are three ways to pronounce these endings",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 10.96,
+      "text": " pronounced ED endings as ED but they are never pronounced this way so if you are",
+      "tokens": [
+        50364,
+        23155,
+        18050,
+        42474,
+        382,
+        18050,
+        457,
+        436,
+        366,
+        1128,
+        23155,
+        341,
+        636,
+        370,
+        498,
+        291,
+        366,
+        50912
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27346137925690295,
+      "compression_ratio": 1.736842105263158,
+      "no_speech_prob": 0.17486757040023804
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 10.96,
+      "end": 19.52,
+      "text": " reading or talking in English you should never pronounce ED endings as ED",
+      "tokens": [
+        50912,
+        3760,
+        420,
+        1417,
+        294,
+        3669,
+        291,
+        820,
+        1128,
+        19567,
+        18050,
+        42474,
+        382,
+        18050,
+        51340
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27346137925690295,
+      "compression_ratio": 1.736842105263158,
+      "no_speech_prob": 0.17486757040023804
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 19.52,
+      "end": 27.64,
+      "text": " depending on the last letters of the words there are three ways to pronounce",
+      "tokens": [
+        51340,
+        5413,
+        322,
+        264,
+        1036,
+        7825,
+        295,
+        264,
+        2283,
+        456,
+        366,
+        1045,
+        2098,
+        281,
+        19567,
+        51746
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27346137925690295,
+      "compression_ratio": 1.736842105263158,
+      "no_speech_prob": 0.17486757040023804
+    },
+    {
+      "id": 3,
+      "seek": 2764,
+      "start": 27.64,
+      "end": 30.42,
+      "text": " these endings",
+      "tokens": [
+        50389,
+        613,
+        42474,
+        50503
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.758934783935547,
+      "compression_ratio": 0.6190476190476191,
+      "no_speech_prob": 0.24585828185081482
+    }
+  ],
+  "language": "en"
+}

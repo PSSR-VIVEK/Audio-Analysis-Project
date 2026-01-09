@@ -1,0 +1,190 @@
+{
+  "text": " Italian tutors to have conversations. So that's what I did with my challenge and what were my results. How is my Italian now? Well, I can understand a good amount. I'm actually very satisfied with my comprehension. I think that I can understand easier Italian very well, but I really like the beat.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.84,
+      "text": " Italian tutors to have conversations.",
+      "tokens": [
+        50364,
+        10003,
+        3672,
+        830,
+        281,
+        362,
+        7315,
+        13,
+        50556
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16739604897695046,
+      "compression_ratio": 1.5517241379310345,
+      "no_speech_prob": 0.34098830819129944
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.84,
+      "end": 7.96,
+      "text": " So that's what I did with my challenge",
+      "tokens": [
+        50556,
+        407,
+        300,
+        311,
+        437,
+        286,
+        630,
+        365,
+        452,
+        3430,
+        50762
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16739604897695046,
+      "compression_ratio": 1.5517241379310345,
+      "no_speech_prob": 0.34098830819129944
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.96,
+      "end": 11.96,
+      "text": " and what were my results.",
+      "tokens": [
+        50762,
+        293,
+        437,
+        645,
+        452,
+        3542,
+        13,
+        50962
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16739604897695046,
+      "compression_ratio": 1.5517241379310345,
+      "no_speech_prob": 0.34098830819129944
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.96,
+      "end": 14.280000000000001,
+      "text": " How is my Italian now?",
+      "tokens": [
+        50962,
+        1012,
+        307,
+        452,
+        10003,
+        586,
+        30,
+        51078
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16739604897695046,
+      "compression_ratio": 1.5517241379310345,
+      "no_speech_prob": 0.34098830819129944
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 14.280000000000001,
+      "end": 18.32,
+      "text": " Well, I can understand a good amount.",
+      "tokens": [
+        51078,
+        1042,
+        11,
+        286,
+        393,
+        1223,
+        257,
+        665,
+        2372,
+        13,
+        51280
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16739604897695046,
+      "compression_ratio": 1.5517241379310345,
+      "no_speech_prob": 0.34098830819129944
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 18.32,
+      "end": 22.76,
+      "text": " I'm actually very satisfied with my comprehension.",
+      "tokens": [
+        51280,
+        286,
+        478,
+        767,
+        588,
+        11239,
+        365,
+        452,
+        44991,
+        13,
+        51502
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16739604897695046,
+      "compression_ratio": 1.5517241379310345,
+      "no_speech_prob": 0.34098830819129944
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 22.76,
+      "end": 29.32,
+      "text": " I think that I can understand easier Italian very well,",
+      "tokens": [
+        51502,
+        286,
+        519,
+        300,
+        286,
+        393,
+        1223,
+        3571,
+        10003,
+        588,
+        731,
+        11,
+        51830
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16739604897695046,
+      "compression_ratio": 1.5517241379310345,
+      "no_speech_prob": 0.34098830819129944
+    },
+    {
+      "id": 7,
+      "seek": 2932,
+      "start": 29.32,
+      "end": 37.6,
+      "text": " but I really like the beat.",
+      "tokens": [
+        50378,
+        457,
+        286,
+        534,
+        411,
+        264,
+        4224,
+        13,
+        50778
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.2226381301879883,
+      "compression_ratio": 0.7714285714285715,
+      "no_speech_prob": 0.24765320122241974
+    }
+  ],
+  "language": "en"
+}

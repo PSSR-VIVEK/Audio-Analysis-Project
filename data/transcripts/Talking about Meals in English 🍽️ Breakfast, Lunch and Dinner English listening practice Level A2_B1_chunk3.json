@@ -1,0 +1,90 @@
+{
+  "text": " They normally have it at 10 or 11 a.m. A full English breakfast has bacon, sausages, toast, fried mushrooms, fried tomatoes, baked beans, which are beans in tomato sauce.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 8.0,
+      "text": " They normally have it at 10 or 11 a.m.",
+      "tokens": [
+        50364,
+        814,
+        5646,
+        362,
+        309,
+        412,
+        1266,
+        420,
+        2975,
+        257,
+        13,
+        76,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30656637085808647,
+      "compression_ratio": 1.1818181818181819,
+      "no_speech_prob": 0.09320279210805893
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 8.0,
+      "end": 24.16,
+      "text": " A full English breakfast has bacon, sausages, toast, fried mushrooms, fried tomatoes, baked",
+      "tokens": [
+        50764,
+        316,
+        1577,
+        3669,
+        8201,
+        575,
+        16400,
+        11,
+        41157,
+        11,
+        15354,
+        11,
+        10425,
+        17973,
+        11,
+        10425,
+        15135,
+        11,
+        19453,
+        51572
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30656637085808647,
+      "compression_ratio": 1.1818181818181819,
+      "no_speech_prob": 0.09320279210805893
+    },
+    {
+      "id": 2,
+      "seek": 2416,
+      "start": 24.16,
+      "end": 30.16,
+      "text": " beans, which are beans in tomato sauce.",
+      "tokens": [
+        50364,
+        12010,
+        11,
+        597,
+        366,
+        12010,
+        294,
+        9288,
+        4880,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38830562432607013,
+      "compression_ratio": 0.8666666666666667,
+      "no_speech_prob": 0.29462748765945435
+    }
+  ],
+  "language": "en"
+}

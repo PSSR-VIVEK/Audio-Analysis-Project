@@ -1,0 +1,105 @@
+{
+  "text": " birthday. Heidi, personal hygiene is very important. Cemetery. The cemetery is next to the church. Author. The author of this book is quite famous. Encourage. I encouraged her.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 10.56,
+      "text": " birthday. Heidi, personal hygiene is very important.",
+      "tokens": [
+        50364,
+        6154,
+        13,
+        40947,
+        11,
+        2973,
+        29541,
+        307,
+        588,
+        1021,
+        13,
+        50892
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5172142099451136,
+      "compression_ratio": 1.101123595505618,
+      "no_speech_prob": 0.28364235162734985
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 10.56,
+      "end": 17.64,
+      "text": " Cemetery. The cemetery is next to the church.",
+      "tokens": [
+        50892,
+        383,
+        25558,
+        13,
+        440,
+        31176,
+        307,
+        958,
+        281,
+        264,
+        4128,
+        13,
+        51246
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5172142099451136,
+      "compression_ratio": 1.101123595505618,
+      "no_speech_prob": 0.28364235162734985
+    },
+    {
+      "id": 2,
+      "seek": 1764,
+      "start": 17.64,
+      "end": 25.72,
+      "text": " Author. The author of this book is quite famous.",
+      "tokens": [
+        50364,
+        20216,
+        13,
+        440,
+        3793,
+        295,
+        341,
+        1446,
+        307,
+        1596,
+        4618,
+        13,
+        50768
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5230150858561198,
+      "compression_ratio": 0.9411764705882353,
+      "no_speech_prob": 0.19187627732753754
+    },
+    {
+      "id": 3,
+      "seek": 2572,
+      "start": 25.72,
+      "end": 30.04,
+      "text": " Encourage. I encouraged her.",
+      "tokens": [
+        50408,
+        29584,
+        44720,
+        13,
+        286,
+        14658,
+        720,
+        13,
+        50580
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7766748905181885,
+      "compression_ratio": 0.9655172413793104,
+      "no_speech_prob": 0.61529141664505
+    }
+  ],
+  "language": "en"
+}

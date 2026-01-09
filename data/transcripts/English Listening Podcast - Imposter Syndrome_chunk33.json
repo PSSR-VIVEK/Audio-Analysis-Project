@@ -1,0 +1,209 @@
+{
+  "text": " that could end up being successful for them. They don't do them because they have this feeling that they're in imposter. They're not actually that good. They're not capable of doing these things. So those are some ways that imposter syndrome can affect people. And lastly, let's talk about some ways that we can.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " that could end up being successful for them.",
+      "tokens": [
+        50364,
+        300,
+        727,
+        917,
+        493,
+        885,
+        4406,
+        337,
+        552,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16740072064283418,
+      "compression_ratio": 1.5989304812834224,
+      "no_speech_prob": 0.12822890281677246
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.16,
+      "end": 9.6,
+      "text": " They don't do them because they have this feeling",
+      "tokens": [
+        50622,
+        814,
+        500,
+        380,
+        360,
+        552,
+        570,
+        436,
+        362,
+        341,
+        2633,
+        50844
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16740072064283418,
+      "compression_ratio": 1.5989304812834224,
+      "no_speech_prob": 0.12822890281677246
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.6,
+      "end": 12.08,
+      "text": " that they're in imposter.",
+      "tokens": [
+        50844,
+        300,
+        436,
+        434,
+        294,
+        704,
+        7096,
+        13,
+        50968
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16740072064283418,
+      "compression_ratio": 1.5989304812834224,
+      "no_speech_prob": 0.12822890281677246
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 12.08,
+      "end": 15.52,
+      "text": " They're not actually that good.",
+      "tokens": [
+        50968,
+        814,
+        434,
+        406,
+        767,
+        300,
+        665,
+        13,
+        51140
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16740072064283418,
+      "compression_ratio": 1.5989304812834224,
+      "no_speech_prob": 0.12822890281677246
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 15.52,
+      "end": 19.2,
+      "text": " They're not capable of doing these things.",
+      "tokens": [
+        51140,
+        814,
+        434,
+        406,
+        8189,
+        295,
+        884,
+        613,
+        721,
+        13,
+        51324
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16740072064283418,
+      "compression_ratio": 1.5989304812834224,
+      "no_speech_prob": 0.12822890281677246
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 19.2,
+      "end": 23.0,
+      "text": " So those are some ways that imposter syndrome",
+      "tokens": [
+        51324,
+        407,
+        729,
+        366,
+        512,
+        2098,
+        300,
+        704,
+        7096,
+        19371,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16740072064283418,
+      "compression_ratio": 1.5989304812834224,
+      "no_speech_prob": 0.12822890281677246
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 23.0,
+      "end": 24.92,
+      "text": " can affect people.",
+      "tokens": [
+        51514,
+        393,
+        3345,
+        561,
+        13,
+        51610
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16740072064283418,
+      "compression_ratio": 1.5989304812834224,
+      "no_speech_prob": 0.12822890281677246
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 24.92,
+      "end": 29.36,
+      "text": " And lastly, let's talk about some ways",
+      "tokens": [
+        51610,
+        400,
+        16386,
+        11,
+        718,
+        311,
+        751,
+        466,
+        512,
+        2098,
+        51832
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16740072064283418,
+      "compression_ratio": 1.5989304812834224,
+      "no_speech_prob": 0.12822890281677246
+    },
+    {
+      "id": 8,
+      "seek": 2936,
+      "start": 29.36,
+      "end": 30.2,
+      "text": " that we can.",
+      "tokens": [
+        50364,
+        300,
+        321,
+        393,
+        13,
+        50406
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48989088194710867,
+      "compression_ratio": 0.6,
+      "no_speech_prob": 0.03867960721254349
+    }
+  ],
+  "language": "en"
+}

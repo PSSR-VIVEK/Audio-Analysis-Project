@@ -1,0 +1,166 @@
+{
+  "text": " reduced more dollars more of these currency units. However, this didn't increase the amount of goods and services that were created. And so we had more dollars, but we didn't necessarily have more goods and services. So people might have felt richer because suddenly they had more.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " reduced more dollars more of these currency units.",
+      "tokens": [
+        50364,
+        9212,
+        544,
+        3808,
+        544,
+        295,
+        613,
+        13346,
+        6815,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2024321783156622,
+      "compression_ratio": 1.5759493670886076,
+      "no_speech_prob": 0.17531800270080566
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.36,
+      "end": 11.36,
+      "text": " However, this didn't increase the amount of goods",
+      "tokens": [
+        50682,
+        2908,
+        11,
+        341,
+        994,
+        380,
+        3488,
+        264,
+        2372,
+        295,
+        10179,
+        50932
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2024321783156622,
+      "compression_ratio": 1.5759493670886076,
+      "no_speech_prob": 0.17531800270080566
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.56,
+      "end": 15.32,
+      "text": " and services that were created.",
+      "tokens": [
+        50942,
+        293,
+        3328,
+        300,
+        645,
+        2942,
+        13,
+        51130
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2024321783156622,
+      "compression_ratio": 1.5759493670886076,
+      "no_speech_prob": 0.17531800270080566
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 15.32,
+      "end": 19.2,
+      "text": " And so we had more dollars,",
+      "tokens": [
+        51130,
+        400,
+        370,
+        321,
+        632,
+        544,
+        3808,
+        11,
+        51324
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2024321783156622,
+      "compression_ratio": 1.5759493670886076,
+      "no_speech_prob": 0.17531800270080566
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 19.2,
+      "end": 23.96,
+      "text": " but we didn't necessarily have more goods and services.",
+      "tokens": [
+        51324,
+        457,
+        321,
+        994,
+        380,
+        4725,
+        362,
+        544,
+        10179,
+        293,
+        3328,
+        13,
+        51562
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2024321783156622,
+      "compression_ratio": 1.5759493670886076,
+      "no_speech_prob": 0.17531800270080566
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 23.96,
+      "end": 27.88,
+      "text": " So people might have felt richer",
+      "tokens": [
+        51562,
+        407,
+        561,
+        1062,
+        362,
+        2762,
+        29021,
+        51758
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2024321783156622,
+      "compression_ratio": 1.5759493670886076,
+      "no_speech_prob": 0.17531800270080566
+    },
+    {
+      "id": 6,
+      "seek": 2788,
+      "start": 27.88,
+      "end": 30.24,
+      "text": " because suddenly they had more.",
+      "tokens": [
+        50366,
+        570,
+        5800,
+        436,
+        632,
+        544,
+        13,
+        50482
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6220731205410428,
+      "compression_ratio": 0.7948717948717948,
+      "no_speech_prob": 0.009454275481402874
+    }
+  ],
+  "language": "en"
+}

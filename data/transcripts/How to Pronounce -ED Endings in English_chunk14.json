@@ -1,0 +1,147 @@
+{
+  "text": " G-H is pronounced as laugh. Because the last sound, which is voiceless, the pronunciation of E-D is T. So the past of laugh is laughed. Or notice, the last sound is T. Because the C-E is...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.6000000000000005,
+      "text": " G-H is pronounced as laugh.",
+      "tokens": [
+        50364,
+        460,
+        12,
+        39,
+        307,
+        23155,
+        382,
+        5801,
+        13,
+        50644
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4392316000802176,
+      "compression_ratio": 1.3916666666666666,
+      "no_speech_prob": 0.1923733502626419
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.6000000000000005,
+      "end": 11.68,
+      "text": " Because the last sound, which is voiceless,",
+      "tokens": [
+        50644,
+        1436,
+        264,
+        1036,
+        1626,
+        11,
+        597,
+        307,
+        1650,
+        41817,
+        11,
+        50948
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4392316000802176,
+      "compression_ratio": 1.3916666666666666,
+      "no_speech_prob": 0.1923733502626419
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.68,
+      "end": 16.56,
+      "text": " the pronunciation of E-D is T.",
+      "tokens": [
+        50948,
+        264,
+        23338,
+        295,
+        462,
+        12,
+        35,
+        307,
+        314,
+        13,
+        51192
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4392316000802176,
+      "compression_ratio": 1.3916666666666666,
+      "no_speech_prob": 0.1923733502626419
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 16.56,
+      "end": 22.72,
+      "text": " So the past of laugh is laughed.",
+      "tokens": [
+        51192,
+        407,
+        264,
+        1791,
+        295,
+        5801,
+        307,
+        20881,
+        13,
+        51500
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4392316000802176,
+      "compression_ratio": 1.3916666666666666,
+      "no_speech_prob": 0.1923733502626419
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 22.72,
+      "end": 27.76,
+      "text": " Or notice, the last sound is T.",
+      "tokens": [
+        51500,
+        1610,
+        3449,
+        11,
+        264,
+        1036,
+        1626,
+        307,
+        314,
+        13,
+        51752
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4392316000802176,
+      "compression_ratio": 1.3916666666666666,
+      "no_speech_prob": 0.1923733502626419
+    },
+    {
+      "id": 5,
+      "seek": 2776,
+      "start": 27.76,
+      "end": 30.560000000000002,
+      "text": " Because the C-E is...",
+      "tokens": [
+        50368,
+        1436,
+        264,
+        383,
+        12,
+        36,
+        307,
+        485,
+        50504
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6954636573791504,
+      "compression_ratio": 0.7241379310344828,
+      "no_speech_prob": 0.21043400466442108
+    }
+  ],
+  "language": "en"
+}

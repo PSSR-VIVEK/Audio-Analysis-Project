@@ -1,0 +1,192 @@
+{
+  "text": " the English settlers coming. When we say higher to something, we're saying before something. So, higher to the Mayflower bringing the pilgrims over. These Wampanoag people were already there. And of course there was a lot of contact between the settlers and natives and in 1621 there was an autumn harvest feast.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.44,
+      "text": " the English settlers coming. When we say",
+      "tokens": [
+        50364,
+        264,
+        3669,
+        43798,
+        1348,
+        13,
+        1133,
+        321,
+        584,
+        50536
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2899556771302835,
+      "compression_ratio": 1.5263157894736843,
+      "no_speech_prob": 0.2204778492450714
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.44,
+      "end": 7.04,
+      "text": " higher to something, we're saying before",
+      "tokens": [
+        50536,
+        2946,
+        281,
+        746,
+        11,
+        321,
+        434,
+        1566,
+        949,
+        50716
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2899556771302835,
+      "compression_ratio": 1.5263157894736843,
+      "no_speech_prob": 0.2204778492450714
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.04,
+      "end": 11.0,
+      "text": " something. So, higher to the Mayflower",
+      "tokens": [
+        50716,
+        746,
+        13,
+        407,
+        11,
+        2946,
+        281,
+        264,
+        1891,
+        30794,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2899556771302835,
+      "compression_ratio": 1.5263157894736843,
+      "no_speech_prob": 0.2204778492450714
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.0,
+      "end": 14.96,
+      "text": " bringing the pilgrims over. These Wampanoag people",
+      "tokens": [
+        50914,
+        5062,
+        264,
+        30760,
+        18857,
+        670,
+        13,
+        1981,
+        343,
+        1215,
+        3730,
+        559,
+        561,
+        51112
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2899556771302835,
+      "compression_ratio": 1.5263157894736843,
+      "no_speech_prob": 0.2204778492450714
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 14.96,
+      "end": 20.080000000000002,
+      "text": " were already there. And of course there was a lot of contact",
+      "tokens": [
+        51112,
+        645,
+        1217,
+        456,
+        13,
+        400,
+        295,
+        1164,
+        456,
+        390,
+        257,
+        688,
+        295,
+        3385,
+        51368
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2899556771302835,
+      "compression_ratio": 1.5263157894736843,
+      "no_speech_prob": 0.2204778492450714
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 20.080000000000002,
+      "end": 23.56,
+      "text": " between the settlers and natives",
+      "tokens": [
+        51368,
+        1296,
+        264,
+        43798,
+        293,
+        47964,
+        51542
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2899556771302835,
+      "compression_ratio": 1.5263157894736843,
+      "no_speech_prob": 0.2204778492450714
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 23.56,
+      "end": 27.64,
+      "text": " and in 1621 there was an",
+      "tokens": [
+        51542,
+        293,
+        294,
+        3165,
+        4436,
+        456,
+        390,
+        364,
+        51746
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2899556771302835,
+      "compression_ratio": 1.5263157894736843,
+      "no_speech_prob": 0.2204778492450714
+    },
+    {
+      "id": 7,
+      "seek": 2764,
+      "start": 27.64,
+      "end": 34.64,
+      "text": " autumn harvest feast.",
+      "tokens": [
+        50364,
+        24604,
+        11917,
+        23707,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8105054582868304,
+      "compression_ratio": 0.7241379310344828,
+      "no_speech_prob": 0.014080147258937359
+    }
+  ],
+  "language": "en"
+}

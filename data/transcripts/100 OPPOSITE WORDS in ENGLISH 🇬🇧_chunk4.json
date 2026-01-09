@@ -1,0 +1,68 @@
+{
+  "text": " Ugly, ancient, modern, young, old, big, small, Clever, stupid, deep, shallow, true, balls, safe, dangerous.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 25.68,
+      "text": " Ugly, ancient, modern, young, old, big, small, Clever, stupid, deep, shallow, true,",
+      "tokens": [
+        50364,
+        28690,
+        356,
+        11,
+        7832,
+        11,
+        4363,
+        11,
+        2037,
+        11,
+        1331,
+        11,
+        955,
+        11,
+        1359,
+        11,
+        8834,
+        331,
+        11,
+        6631,
+        11,
+        2452,
+        11,
+        20488,
+        11,
+        2074,
+        11,
+        51648
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2897704760233561,
+      "compression_ratio": 1.0506329113924051,
+      "no_speech_prob": 0.36977994441986084
+    },
+    {
+      "id": 1,
+      "seek": 2568,
+      "start": 25.68,
+      "end": 29.92,
+      "text": " balls, safe, dangerous.",
+      "tokens": [
+        50364,
+        9803,
+        11,
+        3273,
+        11,
+        5795,
+        13,
+        50576
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5798087120056152,
+      "compression_ratio": 0.7419354838709677,
+      "no_speech_prob": 0.3150997757911682
+    }
+  ],
+  "language": "en"
+}

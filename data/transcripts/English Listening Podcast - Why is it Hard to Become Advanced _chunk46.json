@@ -1,0 +1,112 @@
+{
+  "text": " that I spend periods of time listening to content about the same subject. So for example, I might spend a full month listening to content specifically about let's say online business, right? And I listen to multiple podcasts and watching multiple",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 9.4,
+      "text": " that I spend periods of time listening to content about the same subject. So for",
+      "tokens": [
+        50364,
+        300,
+        286,
+        3496,
+        13804,
+        295,
+        565,
+        4764,
+        281,
+        2701,
+        466,
+        264,
+        912,
+        3983,
+        13,
+        407,
+        337,
+        50834
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.237130001613072,
+      "compression_ratio": 1.3928571428571428,
+      "no_speech_prob": 0.19589917361736298
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 9.4,
+      "end": 19.48,
+      "text": " example, I might spend a full month listening to content specifically about",
+      "tokens": [
+        50834,
+        1365,
+        11,
+        286,
+        1062,
+        3496,
+        257,
+        1577,
+        1618,
+        4764,
+        281,
+        2701,
+        4682,
+        466,
+        51338
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.237130001613072,
+      "compression_ratio": 1.3928571428571428,
+      "no_speech_prob": 0.19589917361736298
+    },
+    {
+      "id": 2,
+      "seek": 1948,
+      "start": 19.48,
+      "end": 29.28,
+      "text": " let's say online business, right? And I listen to multiple podcasts and watching",
+      "tokens": [
+        50364,
+        718,
+        311,
+        584,
+        2950,
+        1606,
+        11,
+        558,
+        30,
+        400,
+        286,
+        2140,
+        281,
+        3866,
+        24045,
+        293,
+        1976,
+        50854
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.454781792380593,
+      "compression_ratio": 1.072289156626506,
+      "no_speech_prob": 0.12901614606380463
+    },
+    {
+      "id": 3,
+      "seek": 1948,
+      "start": 29.28,
+      "end": 29.880000000000003,
+      "text": " multiple",
+      "tokens": [
+        50854,
+        3866,
+        50884
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.454781792380593,
+      "compression_ratio": 1.072289156626506,
+      "no_speech_prob": 0.12901614606380463
+    }
+  ],
+  "language": "en"
+}

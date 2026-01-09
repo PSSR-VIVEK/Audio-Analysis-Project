@@ -1,0 +1,111 @@
+{
+  "text": " some important differences to consider when talking about American sports like football and soccer in other countries that will also help you understand the excitement of the Super Bowl. So one really big difference that you can see in American sports when you...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 10.6,
+      "text": " some important differences to consider when talking about American sports like football",
+      "tokens": [
+        50364,
+        512,
+        1021,
+        7300,
+        281,
+        1949,
+        562,
+        1417,
+        466,
+        2665,
+        6573,
+        411,
+        7346,
+        50894
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22657941517076993,
+      "compression_ratio": 1.3478260869565217,
+      "no_speech_prob": 0.06713193655014038
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 10.6,
+      "end": 19.88,
+      "text": " and soccer in other countries that will also help you understand the excitement of the",
+      "tokens": [
+        50894,
+        293,
+        15469,
+        294,
+        661,
+        3517,
+        300,
+        486,
+        611,
+        854,
+        291,
+        1223,
+        264,
+        14755,
+        295,
+        264,
+        51358
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22657941517076993,
+      "compression_ratio": 1.3478260869565217,
+      "no_speech_prob": 0.06713193655014038
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 19.88,
+      "end": 21.36,
+      "text": " Super Bowl.",
+      "tokens": [
+        51358,
+        4548,
+        25044,
+        13,
+        51432
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22657941517076993,
+      "compression_ratio": 1.3478260869565217,
+      "no_speech_prob": 0.06713193655014038
+    },
+    {
+      "id": 3,
+      "seek": 2136,
+      "start": 21.36,
+      "end": 29.92,
+      "text": " So one really big difference that you can see in American sports when you...",
+      "tokens": [
+        50364,
+        407,
+        472,
+        534,
+        955,
+        2649,
+        300,
+        291,
+        393,
+        536,
+        294,
+        2665,
+        6573,
+        562,
+        291,
+        485,
+        50792
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35446731249491376,
+      "compression_ratio": 1.0133333333333334,
+      "no_speech_prob": 0.5651078224182129
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,189 @@
+{
+  "text": " got permanent residence card. I was so happy, I was so glad. And then afterwards, I kind of just continued on with my life and my problems and everything else just continued in the US. And I didn't magically become a hundred percent content and happy just because the immigration process was over and he-ją",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.24,
+      "text": " got permanent residence card.",
+      "tokens": [
+        50364,
+        658,
+        10996,
+        19607,
+        2920,
+        13,
+        50526
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20315587030698176,
+      "compression_ratio": 1.549738219895288,
+      "no_speech_prob": 0.22095012664794922
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.24,
+      "end": 7.5600000000000005,
+      "text": " I was so happy, I was so glad.",
+      "tokens": [
+        50526,
+        286,
+        390,
+        370,
+        2055,
+        11,
+        286,
+        390,
+        370,
+        5404,
+        13,
+        50742
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20315587030698176,
+      "compression_ratio": 1.549738219895288,
+      "no_speech_prob": 0.22095012664794922
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.5600000000000005,
+      "end": 12.56,
+      "text": " And then afterwards, I kind of just continued on with my life",
+      "tokens": [
+        50742,
+        400,
+        550,
+        10543,
+        11,
+        286,
+        733,
+        295,
+        445,
+        7014,
+        322,
+        365,
+        452,
+        993,
+        50992
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20315587030698176,
+      "compression_ratio": 1.549738219895288,
+      "no_speech_prob": 0.22095012664794922
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.200000000000001,
+      "end": 18.2,
+      "text": " and my problems and everything else just continued in the US.",
+      "tokens": [
+        51024,
+        293,
+        452,
+        2740,
+        293,
+        1203,
+        1646,
+        445,
+        7014,
+        294,
+        264,
+        2546,
+        13,
+        51274
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20315587030698176,
+      "compression_ratio": 1.549738219895288,
+      "no_speech_prob": 0.22095012664794922
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 19.8,
+      "end": 24.8,
+      "text": " And I didn't magically become a hundred percent content",
+      "tokens": [
+        51354,
+        400,
+        286,
+        994,
+        380,
+        39763,
+        1813,
+        257,
+        3262,
+        3043,
+        2701,
+        51604
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20315587030698176,
+      "compression_ratio": 1.549738219895288,
+      "no_speech_prob": 0.22095012664794922
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 25.240000000000002,
+      "end": 29.240000000000002,
+      "text": " and happy just because the immigration process was over",
+      "tokens": [
+        51626,
+        293,
+        2055,
+        445,
+        570,
+        264,
+        13554,
+        1399,
+        390,
+        670,
+        51826
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20315587030698176,
+      "compression_ratio": 1.549738219895288,
+      "no_speech_prob": 0.22095012664794922
+    },
+    {
+      "id": 6,
+      "seek": 2924,
+      "start": 29.5,
+      "end": 30.36,
+      "text": " and he-",
+      "tokens": [
+        50377,
+        293,
+        415,
+        12,
+        50420
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.9068603515625,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 0.23693089187145233
+    },
+    {
+      "id": 7,
+      "seek": 2924,
+      "start": 39.06,
+      "end": 49.78,
+      "text": "ją",
+      "tokens": [
+        50855,
+        8555,
+        51391
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.9068603515625,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 0.23693089187145233
+    }
+  ],
+  "language": "en"
+}

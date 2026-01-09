@@ -1,0 +1,178 @@
+{
+  "text": " to fun places things like that and so I've been able to spend some more time outdoors and I hope that I can explore a lot of different places around me in my city and see some cool nature places I feel motivated to do that because those things those places",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": " to fun places",
+      "tokens": [
+        50364,
+        281,
+        1019,
+        3190,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.430950251492587,
+      "compression_ratio": 1.577922077922078,
+      "no_speech_prob": 0.4009791612625122
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.08,
+      "end": 5.9,
+      "text": " things like that and so I've been able to",
+      "tokens": [
+        50468,
+        721,
+        411,
+        300,
+        293,
+        370,
+        286,
+        600,
+        668,
+        1075,
+        281,
+        50659
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.430950251492587,
+      "compression_ratio": 1.577922077922078,
+      "no_speech_prob": 0.4009791612625122
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.48,
+      "end": 7.68,
+      "text": " spend",
+      "tokens": [
+        50688,
+        3496,
+        50748
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.430950251492587,
+      "compression_ratio": 1.577922077922078,
+      "no_speech_prob": 0.4009791612625122
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 7.68,
+      "end": 12.4,
+      "text": " some more time outdoors and I hope that I can",
+      "tokens": [
+        50748,
+        512,
+        544,
+        565,
+        20980,
+        293,
+        286,
+        1454,
+        300,
+        286,
+        393,
+        50984
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.430950251492587,
+      "compression_ratio": 1.577922077922078,
+      "no_speech_prob": 0.4009791612625122
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 13.120000000000001,
+      "end": 18.48,
+      "text": " explore a lot of different places around me in my city and",
+      "tokens": [
+        51020,
+        6839,
+        257,
+        688,
+        295,
+        819,
+        3190,
+        926,
+        385,
+        294,
+        452,
+        2307,
+        293,
+        51288
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.430950251492587,
+      "compression_ratio": 1.577922077922078,
+      "no_speech_prob": 0.4009791612625122
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 20.12,
+      "end": 22.52,
+      "text": " see some cool nature places I",
+      "tokens": [
+        51370,
+        536,
+        512,
+        1627,
+        3687,
+        3190,
+        286,
+        51490
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.430950251492587,
+      "compression_ratio": 1.577922077922078,
+      "no_speech_prob": 0.4009791612625122
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 23.2,
+      "end": 27.16,
+      "text": " feel motivated to do that because those things",
+      "tokens": [
+        51524,
+        841,
+        14515,
+        281,
+        360,
+        300,
+        570,
+        729,
+        721,
+        51722
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.430950251492587,
+      "compression_ratio": 1.577922077922078,
+      "no_speech_prob": 0.4009791612625122
+    },
+    {
+      "id": 7,
+      "seek": 2716,
+      "start": 27.16,
+      "end": 29.76,
+      "text": " those places",
+      "tokens": [
+        50394,
+        729,
+        3190,
+        50494
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4363738536834717,
+      "compression_ratio": 0.6,
+      "no_speech_prob": 0.1312255561351776
+    }
+  ],
+  "language": "en"
+}

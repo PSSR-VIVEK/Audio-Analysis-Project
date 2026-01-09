@@ -1,0 +1,164 @@
+{
+  "text": " but instead of going out and getting things you want and feeling satisfied because you can buy something You decide to put it away somewhere Save that and just almost forget that you have that money and then hopefully benefit later on in the future because you saved that money This is probably",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.6000000000000005,
+      "text": " but instead of going out and getting things you want and",
+      "tokens": [
+        50364,
+        457,
+        2602,
+        295,
+        516,
+        484,
+        293,
+        1242,
+        721,
+        291,
+        528,
+        293,
+        50644
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3850404918193817,
+      "compression_ratio": 1.6488095238095237,
+      "no_speech_prob": 0.07362380623817444
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.88,
+      "end": 10.9,
+      "text": " feeling satisfied because you can buy something",
+      "tokens": [
+        50708,
+        2633,
+        11239,
+        570,
+        291,
+        393,
+        2256,
+        746,
+        50909
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3850404918193817,
+      "compression_ratio": 1.6488095238095237,
+      "no_speech_prob": 0.07362380623817444
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.4,
+      "end": 13.4,
+      "text": " You decide to",
+      "tokens": [
+        50934,
+        509,
+        4536,
+        281,
+        51034
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3850404918193817,
+      "compression_ratio": 1.6488095238095237,
+      "no_speech_prob": 0.07362380623817444
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.4,
+      "end": 15.4,
+      "text": " put it away somewhere",
+      "tokens": [
+        51034,
+        829,
+        309,
+        1314,
+        4079,
+        51134
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3850404918193817,
+      "compression_ratio": 1.6488095238095237,
+      "no_speech_prob": 0.07362380623817444
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 15.6,
+      "end": 24.68,
+      "text": " Save that and just almost forget that you have that money and then hopefully benefit later on in the future",
+      "tokens": [
+        51144,
+        15541,
+        300,
+        293,
+        445,
+        1920,
+        2870,
+        300,
+        291,
+        362,
+        300,
+        1460,
+        293,
+        550,
+        4696,
+        5121,
+        1780,
+        322,
+        294,
+        264,
+        2027,
+        51598
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3850404918193817,
+      "compression_ratio": 1.6488095238095237,
+      "no_speech_prob": 0.07362380623817444
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 25.6,
+      "end": 28.0,
+      "text": " because you saved that money",
+      "tokens": [
+        51644,
+        570,
+        291,
+        6624,
+        300,
+        1460,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3850404918193817,
+      "compression_ratio": 1.6488095238095237,
+      "no_speech_prob": 0.07362380623817444
+    },
+    {
+      "id": 6,
+      "seek": 2800,
+      "start": 28.0,
+      "end": 30.48,
+      "text": " This is probably",
+      "tokens": [
+        50388,
+        639,
+        307,
+        1391,
+        50488
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4117732048034668,
+      "compression_ratio": 0.7272727272727273,
+      "no_speech_prob": 0.04870164394378662
+    }
+  ],
+  "language": "en"
+}

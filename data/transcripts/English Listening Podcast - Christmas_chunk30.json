@@ -1,0 +1,133 @@
+{
+  "text": " family and then you create these Christmas cards and you send these Christmas cards to your friends and your family members. And some people write something on these Christmas cards. Some people write things about what each person in their family has done this year. They give you...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 9.56,
+      "text": " family and then you create these Christmas cards and you send these Christmas cards to",
+      "tokens": [
+        50364,
+        1605,
+        293,
+        550,
+        291,
+        1884,
+        613,
+        5272,
+        5632,
+        293,
+        291,
+        2845,
+        613,
+        5272,
+        5632,
+        281,
+        50842
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17833643946154365,
+      "compression_ratio": 1.8344827586206895,
+      "no_speech_prob": 0.40764719247817993
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 9.56,
+      "end": 12.68,
+      "text": " your friends and your family members.",
+      "tokens": [
+        50842,
+        428,
+        1855,
+        293,
+        428,
+        1605,
+        2679,
+        13,
+        50998
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17833643946154365,
+      "compression_ratio": 1.8344827586206895,
+      "no_speech_prob": 0.40764719247817993
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 12.68,
+      "end": 18.400000000000002,
+      "text": " And some people write something on these Christmas cards.",
+      "tokens": [
+        50998,
+        400,
+        512,
+        561,
+        2464,
+        746,
+        322,
+        613,
+        5272,
+        5632,
+        13,
+        51284
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17833643946154365,
+      "compression_ratio": 1.8344827586206895,
+      "no_speech_prob": 0.40764719247817993
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 18.400000000000002,
+      "end": 29.16,
+      "text": " Some people write things about what each person in their family has done this year.",
+      "tokens": [
+        51284,
+        2188,
+        561,
+        2464,
+        721,
+        466,
+        437,
+        1184,
+        954,
+        294,
+        641,
+        1605,
+        575,
+        1096,
+        341,
+        1064,
+        13,
+        51822
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17833643946154365,
+      "compression_ratio": 1.8344827586206895,
+      "no_speech_prob": 0.40764719247817993
+    },
+    {
+      "id": 4,
+      "seek": 2916,
+      "start": 29.16,
+      "end": 30.16,
+      "text": " They give you...",
+      "tokens": [
+        50364,
+        814,
+        976,
+        291,
+        485,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8031510625566755,
+      "compression_ratio": 0.6666666666666666,
+      "no_speech_prob": 0.8079793453216553
+    }
+  ],
+  "language": "en"
+}

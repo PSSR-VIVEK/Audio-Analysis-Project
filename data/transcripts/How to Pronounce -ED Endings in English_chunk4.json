@@ -1,0 +1,89 @@
+{
+  "text": " to practice. Decided, invested, hunted, arrested, printed, repeated, respected, created, created, presented, represented, reported, resulted, invited, existed, shouted, subject.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 13.280000000000001,
+      "text": " to practice. Decided, invested, hunted, arrested, printed, repeated, respected,",
+      "tokens": [
+        50364,
+        281,
+        3124,
+        13,
+        12427,
+        2112,
+        11,
+        13104,
+        11,
+        44943,
+        11,
+        12469,
+        11,
+        13567,
+        11,
+        10477,
+        11,
+        20020,
+        11,
+        51028
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23467040061950684,
+      "compression_ratio": 1.234375,
+      "no_speech_prob": 0.572637677192688
+    },
+    {
+      "id": 1,
+      "seek": 1328,
+      "start": 13.28,
+      "end": 29.2,
+      "text": " created, created, presented, represented, reported, resulted, invited, existed, shouted,",
+      "tokens": [
+        50364,
+        2942,
+        11,
+        2942,
+        11,
+        8212,
+        11,
+        10379,
+        11,
+        7055,
+        11,
+        18753,
+        11,
+        9185,
+        11,
+        13135,
+        11,
+        37310,
+        11,
+        51160
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5960545973344282,
+      "compression_ratio": 1.543859649122807,
+      "no_speech_prob": 0.2794998586177826
+    },
+    {
+      "id": 2,
+      "seek": 2920,
+      "start": 29.2,
+      "end": 30.32,
+      "text": " subject.",
+      "tokens": [
+        50376,
+        3983,
+        13,
+        50420
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.9017152786254883,
+      "compression_ratio": 0.5,
+      "no_speech_prob": 0.5501832962036133
+    }
+  ],
+  "language": "en"
+}

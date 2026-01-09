@@ -1,0 +1,119 @@
+{
+  "text": " minutes. Quiet! The choir was singing in the church. Ocean. He loves swimming in the ocean. Particularly. The gift wasn't particularly special or personal. Seat. The police.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.0,
+      "text": " minutes.",
+      "tokens": [
+        50364,
+        2077,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30459376743861605,
+      "compression_ratio": 1.3478260869565217,
+      "no_speech_prob": 0.24339623749256134
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.0,
+      "end": 10.0,
+      "text": " Quiet! The choir was singing in the church.",
+      "tokens": [
+        50514,
+        32193,
+        0,
+        440,
+        31244,
+        390,
+        6726,
+        294,
+        264,
+        4128,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30459376743861605,
+      "compression_ratio": 1.3478260869565217,
+      "no_speech_prob": 0.24339623749256134
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.0,
+      "end": 17.0,
+      "text": " Ocean. He loves swimming in the ocean.",
+      "tokens": [
+        50864,
+        18101,
+        13,
+        634,
+        6752,
+        11989,
+        294,
+        264,
+        7810,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30459376743861605,
+      "compression_ratio": 1.3478260869565217,
+      "no_speech_prob": 0.24339623749256134
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 17.0,
+      "end": 26.0,
+      "text": " Particularly. The gift wasn't particularly special or personal.",
+      "tokens": [
+        51214,
+        32281,
+        13,
+        440,
+        5306,
+        2067,
+        380,
+        4098,
+        2121,
+        420,
+        2973,
+        13,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30459376743861605,
+      "compression_ratio": 1.3478260869565217,
+      "no_speech_prob": 0.24339623749256134
+    },
+    {
+      "id": 4,
+      "seek": 2600,
+      "start": 26.0,
+      "end": 30.0,
+      "text": " Seat. The police.",
+      "tokens": [
+        50414,
+        1100,
+        267,
+        13,
+        440,
+        3804,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39792492654588485,
+      "compression_ratio": 0.68,
+      "no_speech_prob": 0.45993363857269287
+    }
+  ],
+  "language": "en"
+}

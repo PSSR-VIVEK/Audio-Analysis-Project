@@ -1,0 +1,165 @@
+{
+  "text": " We don't want our language learning to be chore. We want to have these really interesting and exciting goals and consume interesting and exciting content. Okay? All right. Another area in my life in which I've seen that motivation is equally as important as discipline is working.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.2800000000000002,
+      "text": " We don't want our language learning to be chore.",
+      "tokens": [
+        50364,
+        492,
+        500,
+        380,
+        528,
+        527,
+        2856,
+        2539,
+        281,
+        312,
+        14625,
+        13,
+        50528
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.258443683385849,
+      "compression_ratio": 1.5389221556886228,
+      "no_speech_prob": 0.0360570065677166
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.2800000000000002,
+      "end": 13.64,
+      "text": " We want to have these really interesting and exciting goals and consume interesting and",
+      "tokens": [
+        50528,
+        492,
+        528,
+        281,
+        362,
+        613,
+        534,
+        1880,
+        293,
+        4670,
+        5493,
+        293,
+        14732,
+        1880,
+        293,
+        51046
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.258443683385849,
+      "compression_ratio": 1.5389221556886228,
+      "no_speech_prob": 0.0360570065677166
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 13.64,
+      "end": 15.64,
+      "text": " exciting content.",
+      "tokens": [
+        51046,
+        4670,
+        2701,
+        13,
+        51146
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.258443683385849,
+      "compression_ratio": 1.5389221556886228,
+      "no_speech_prob": 0.0360570065677166
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 15.64,
+      "end": 16.64,
+      "text": " Okay?",
+      "tokens": [
+        51146,
+        1033,
+        30,
+        51196
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.258443683385849,
+      "compression_ratio": 1.5389221556886228,
+      "no_speech_prob": 0.0360570065677166
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 16.64,
+      "end": 17.64,
+      "text": " All right.",
+      "tokens": [
+        51196,
+        1057,
+        558,
+        13,
+        51246
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.258443683385849,
+      "compression_ratio": 1.5389221556886228,
+      "no_speech_prob": 0.0360570065677166
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 17.64,
+      "end": 26.64,
+      "text": " Another area in my life in which I've seen that motivation is equally as important as",
+      "tokens": [
+        51246,
+        3996,
+        1859,
+        294,
+        452,
+        993,
+        294,
+        597,
+        286,
+        600,
+        1612,
+        300,
+        12335,
+        307,
+        12309,
+        382,
+        1021,
+        382,
+        51696
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.258443683385849,
+      "compression_ratio": 1.5389221556886228,
+      "no_speech_prob": 0.0360570065677166
+    },
+    {
+      "id": 6,
+      "seek": 2664,
+      "start": 26.64,
+      "end": 29.92,
+      "text": " discipline is working.",
+      "tokens": [
+        50364,
+        13635,
+        307,
+        1364,
+        13,
+        50528
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9872303009033203,
+      "compression_ratio": 0.7333333333333333,
+      "no_speech_prob": 0.2327616661787033
+    }
+  ],
+  "language": "en"
+}

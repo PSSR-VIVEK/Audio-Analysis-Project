@@ -1,0 +1,193 @@
+{
+  "text": " or so what I'm doing is input during these 100 days. And I'm also not doing any passive listening during these 100 days. So normally I would do passive listening. I love passive listening. You should do it. You should multitask. And if you have the opportunity to put your headphones in and listen to a pod.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 7.0,
+      "text": " or so what I'm doing is input during these 100 days.",
+      "tokens": [
+        50364,
+        420,
+        370,
+        437,
+        286,
+        478,
+        884,
+        307,
+        4846,
+        1830,
+        613,
+        2319,
+        1708,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16173294612339564,
+      "compression_ratio": 1.7546012269938651,
+      "no_speech_prob": 0.3604976236820221
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.0,
+      "end": 14.0,
+      "text": " And I'm also not doing any passive listening during these 100 days.",
+      "tokens": [
+        50714,
+        400,
+        286,
+        478,
+        611,
+        406,
+        884,
+        604,
+        14975,
+        4764,
+        1830,
+        613,
+        2319,
+        1708,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16173294612339564,
+      "compression_ratio": 1.7546012269938651,
+      "no_speech_prob": 0.3604976236820221
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 14.0,
+      "end": 18.0,
+      "text": " So normally I would do passive listening.",
+      "tokens": [
+        51064,
+        407,
+        5646,
+        286,
+        576,
+        360,
+        14975,
+        4764,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16173294612339564,
+      "compression_ratio": 1.7546012269938651,
+      "no_speech_prob": 0.3604976236820221
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 18.0,
+      "end": 20.0,
+      "text": " I love passive listening.",
+      "tokens": [
+        51264,
+        286,
+        959,
+        14975,
+        4764,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16173294612339564,
+      "compression_ratio": 1.7546012269938651,
+      "no_speech_prob": 0.3604976236820221
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 20.0,
+      "end": 21.0,
+      "text": " You should do it.",
+      "tokens": [
+        51364,
+        509,
+        820,
+        360,
+        309,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16173294612339564,
+      "compression_ratio": 1.7546012269938651,
+      "no_speech_prob": 0.3604976236820221
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 21.0,
+      "end": 23.0,
+      "text": " You should multitask.",
+      "tokens": [
+        51414,
+        509,
+        820,
+        42338,
+        3863,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16173294612339564,
+      "compression_ratio": 1.7546012269938651,
+      "no_speech_prob": 0.3604976236820221
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 23.0,
+      "end": 28.0,
+      "text": " And if you have the opportunity to put your headphones in",
+      "tokens": [
+        51514,
+        400,
+        498,
+        291,
+        362,
+        264,
+        2650,
+        281,
+        829,
+        428,
+        16278,
+        294,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16173294612339564,
+      "compression_ratio": 1.7546012269938651,
+      "no_speech_prob": 0.3604976236820221
+    },
+    {
+      "id": 7,
+      "seek": 2800,
+      "start": 28.0,
+      "end": 30.0,
+      "text": " and listen to a pod.",
+      "tokens": [
+        50364,
+        293,
+        2140,
+        281,
+        257,
+        2497,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14070685704549155,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 0.4898544251918793
+    }
+  ],
+  "language": "en"
+}

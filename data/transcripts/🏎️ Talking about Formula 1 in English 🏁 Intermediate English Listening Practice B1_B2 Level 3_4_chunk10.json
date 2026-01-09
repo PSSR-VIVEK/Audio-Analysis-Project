@@ -1,0 +1,90 @@
+{
+  "text": " Before the actual race begins, there is a formation lack. The formation lack is so that the drivers can warm up their tires and prepare for the race. The formation lack is completed at a reduced",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 12.64,
+      "text": " Before the actual race begins, there is a formation lack. The formation lack is so",
+      "tokens": [
+        50364,
+        4546,
+        264,
+        3539,
+        4569,
+        7338,
+        11,
+        456,
+        307,
+        257,
+        11723,
+        5011,
+        13,
+        440,
+        11723,
+        5011,
+        307,
+        370,
+        50996
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20723543411646134,
+      "compression_ratio": 1.4954128440366972,
+      "no_speech_prob": 0.10815916210412979
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 12.64,
+      "end": 23.98,
+      "text": " that the drivers can warm up their tires and prepare for the race. The formation",
+      "tokens": [
+        50996,
+        300,
+        264,
+        11590,
+        393,
+        4561,
+        493,
+        641,
+        13885,
+        293,
+        5940,
+        337,
+        264,
+        4569,
+        13,
+        440,
+        11723,
+        51563
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20723543411646134,
+      "compression_ratio": 1.4954128440366972,
+      "no_speech_prob": 0.10815916210412979
+    },
+    {
+      "id": 2,
+      "seek": 2398,
+      "start": 23.98,
+      "end": 29.78,
+      "text": " lack is completed at a reduced",
+      "tokens": [
+        50364,
+        5011,
+        307,
+        7365,
+        412,
+        257,
+        9212,
+        50654
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7314364115397135,
+      "compression_ratio": 0.7894736842105263,
+      "no_speech_prob": 0.2291174978017807
+    }
+  ],
+  "language": "en"
+}

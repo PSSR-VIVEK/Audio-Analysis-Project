@@ -1,0 +1,172 @@
+{
+  "text": " that baseball was the national sport in the past. And now it seems like it's football. So this sporting event, the Super Bowl, is so popular that many, many non-football fans also watch it. Even people that don't follow football at all, people that haven't watched it.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " that baseball was the national sport in the past.",
+      "tokens": [
+        50364,
+        300,
+        14323,
+        390,
+        264,
+        4048,
+        7282,
+        294,
+        264,
+        1791,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1853310500874239,
+      "compression_ratio": 1.4936708860759493,
+      "no_speech_prob": 0.03982992842793465
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.84,
+      "end": 9.32,
+      "text": " And now it seems like it's football.",
+      "tokens": [
+        50656,
+        400,
+        586,
+        309,
+        2544,
+        411,
+        309,
+        311,
+        7346,
+        13,
+        50830
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1853310500874239,
+      "compression_ratio": 1.4936708860759493,
+      "no_speech_prob": 0.03982992842793465
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.32,
+      "end": 14.32,
+      "text": " So this sporting event, the Super Bowl,",
+      "tokens": [
+        50830,
+        407,
+        341,
+        32366,
+        2280,
+        11,
+        264,
+        4548,
+        25044,
+        11,
+        51080
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1853310500874239,
+      "compression_ratio": 1.4936708860759493,
+      "no_speech_prob": 0.03982992842793465
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 14.44,
+      "end": 19.44,
+      "text": " is so popular that many, many non-football fans",
+      "tokens": [
+        51086,
+        307,
+        370,
+        3743,
+        300,
+        867,
+        11,
+        867,
+        2107,
+        12,
+        13498,
+        3129,
+        4499,
+        51336
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1853310500874239,
+      "compression_ratio": 1.4936708860759493,
+      "no_speech_prob": 0.03982992842793465
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 21.240000000000002,
+      "end": 22.88,
+      "text": " also watch it.",
+      "tokens": [
+        51426,
+        611,
+        1159,
+        309,
+        13,
+        51508
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1853310500874239,
+      "compression_ratio": 1.4936708860759493,
+      "no_speech_prob": 0.03982992842793465
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 22.88,
+      "end": 27.88,
+      "text": " Even people that don't follow football at all,",
+      "tokens": [
+        51508,
+        2754,
+        561,
+        300,
+        500,
+        380,
+        1524,
+        7346,
+        412,
+        439,
+        11,
+        51758
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1853310500874239,
+      "compression_ratio": 1.4936708860759493,
+      "no_speech_prob": 0.03982992842793465
+    },
+    {
+      "id": 6,
+      "seek": 2788,
+      "start": 27.88,
+      "end": 30.32,
+      "text": " people that haven't watched it.",
+      "tokens": [
+        50386,
+        561,
+        300,
+        2378,
+        380,
+        6337,
+        309,
+        13,
+        50486
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6843654155731201,
+      "compression_ratio": 0.7948717948717948,
+      "no_speech_prob": 0.03363224118947983
+    }
+  ],
+  "language": "en"
+}

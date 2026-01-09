@@ -1,0 +1,93 @@
+{
+  "text": " do so is English. This is the reason why I started to study English. Regarding my future in general, not only at work, learning English is important for me personally because I think that English is something.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 15.68,
+      "text": " do so is English. This is the reason why I started to study English. Regarding my future in general,",
+      "tokens": [
+        50364,
+        360,
+        370,
+        307,
+        3669,
+        13,
+        639,
+        307,
+        264,
+        1778,
+        983,
+        286,
+        1409,
+        281,
+        2979,
+        3669,
+        13,
+        35523,
+        452,
+        2027,
+        294,
+        2674,
+        11,
+        51148
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15360547148663065,
+      "compression_ratio": 1.4042553191489362,
+      "no_speech_prob": 0.20808133482933044
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 15.68,
+      "end": 28.88,
+      "text": " not only at work, learning English is important for me personally because I think that English is",
+      "tokens": [
+        51148,
+        406,
+        787,
+        412,
+        589,
+        11,
+        2539,
+        3669,
+        307,
+        1021,
+        337,
+        385,
+        5665,
+        570,
+        286,
+        519,
+        300,
+        3669,
+        307,
+        51808
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15360547148663065,
+      "compression_ratio": 1.4042553191489362,
+      "no_speech_prob": 0.20808133482933044
+    },
+    {
+      "id": 2,
+      "seek": 2888,
+      "start": 28.88,
+      "end": 35.839999999999996,
+      "text": " something.",
+      "tokens": [
+        50388,
+        746,
+        13,
+        50712
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.1786430358886717,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 0.5624874234199524
+    }
+  ],
+  "language": "en"
+}

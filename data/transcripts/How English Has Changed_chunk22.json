@@ -1,0 +1,112 @@
+{
+  "text": " Just a few because my time is limited. So maybe the first thing that people will notice if they read something from this 1600s or a little earlier. Maybe they'll notice some different pronouns being used. Pronouns like...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.0,
+      "text": " Just a few because my time is limited.",
+      "tokens": [
+        50364,
+        1449,
+        257,
+        1326,
+        570,
+        452,
+        565,
+        307,
+        5567,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2724946469676738,
+      "compression_ratio": 1.3877551020408163,
+      "no_speech_prob": 0.4034544825553894
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.0,
+      "end": 22.0,
+      "text": " So maybe the first thing that people will notice if they read something from this 1600s or a little earlier.",
+      "tokens": [
+        50664,
+        407,
+        1310,
+        264,
+        700,
+        551,
+        300,
+        561,
+        486,
+        3449,
+        498,
+        436,
+        1401,
+        746,
+        490,
+        341,
+        36885,
+        82,
+        420,
+        257,
+        707,
+        3071,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2724946469676738,
+      "compression_ratio": 1.3877551020408163,
+      "no_speech_prob": 0.4034544825553894
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 22.0,
+      "end": 28.0,
+      "text": " Maybe they'll notice some different pronouns being used.",
+      "tokens": [
+        51464,
+        2704,
+        436,
+        603,
+        3449,
+        512,
+        819,
+        35883,
+        885,
+        1143,
+        13,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2724946469676738,
+      "compression_ratio": 1.3877551020408163,
+      "no_speech_prob": 0.4034544825553894
+    },
+    {
+      "id": 3,
+      "seek": 2800,
+      "start": 28.0,
+      "end": 30.0,
+      "text": " Pronouns like...",
+      "tokens": [
+        50364,
+        27723,
+        1733,
+        82,
+        411,
+        485,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45469558238983154,
+      "compression_ratio": 0.6666666666666666,
+      "no_speech_prob": 0.4855470657348633
+    }
+  ],
+  "language": "en"
+}

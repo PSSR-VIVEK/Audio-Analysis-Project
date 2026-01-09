@@ -1,0 +1,169 @@
+{
+  "text": " that it helps kids become more social, right? You have to work with your friends, and you have to agree with each other and get along with each other while you're imagining these situations and playing in this context. And I think it also helps kids become a little more independent and...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.7,
+      "text": " that it helps kids become more social, right?",
+      "tokens": [
+        50364,
+        300,
+        309,
+        3665,
+        2301,
+        1813,
+        544,
+        2093,
+        11,
+        558,
+        30,
+        50599
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1977211910745372,
+      "compression_ratio": 1.6071428571428572,
+      "no_speech_prob": 0.18071766197681427
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.7,
+      "end": 8.5,
+      "text": " You have to work with your friends,",
+      "tokens": [
+        50599,
+        509,
+        362,
+        281,
+        589,
+        365,
+        428,
+        1855,
+        11,
+        50789
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1977211910745372,
+      "compression_ratio": 1.6071428571428572,
+      "no_speech_prob": 0.18071766197681427
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.5,
+      "end": 12.34,
+      "text": " and you have to agree with each other",
+      "tokens": [
+        50789,
+        293,
+        291,
+        362,
+        281,
+        3986,
+        365,
+        1184,
+        661,
+        50981
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1977211910745372,
+      "compression_ratio": 1.6071428571428572,
+      "no_speech_prob": 0.18071766197681427
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 12.34,
+      "end": 17.22,
+      "text": " and get along with each other while you're imagining",
+      "tokens": [
+        50981,
+        293,
+        483,
+        2051,
+        365,
+        1184,
+        661,
+        1339,
+        291,
+        434,
+        27798,
+        51225
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1977211910745372,
+      "compression_ratio": 1.6071428571428572,
+      "no_speech_prob": 0.18071766197681427
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 17.22,
+      "end": 23.22,
+      "text": " these situations and playing in this context.",
+      "tokens": [
+        51225,
+        613,
+        6851,
+        293,
+        2433,
+        294,
+        341,
+        4319,
+        13,
+        51525
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1977211910745372,
+      "compression_ratio": 1.6071428571428572,
+      "no_speech_prob": 0.18071766197681427
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 23.22,
+      "end": 28.34,
+      "text": " And I think it also helps kids become a little more",
+      "tokens": [
+        51525,
+        400,
+        286,
+        519,
+        309,
+        611,
+        3665,
+        2301,
+        1813,
+        257,
+        707,
+        544,
+        51781
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1977211910745372,
+      "compression_ratio": 1.6071428571428572,
+      "no_speech_prob": 0.18071766197681427
+    },
+    {
+      "id": 6,
+      "seek": 2834,
+      "start": 28.34,
+      "end": 29.94,
+      "text": " independent and...",
+      "tokens": [
+        50364,
+        6695,
+        293,
+        485,
+        50444
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8795248667399088,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.08540399372577667
+    }
+  ],
+  "language": "en"
+}

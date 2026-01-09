@@ -1,0 +1,168 @@
+{
+  "text": " AI to basically do their job for them. If the AI does their job for them, that means that this human is completely replaceable. There is nothing that you in that situation are actually adding. You are only relying on AI. So I think that the advice that people build.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " AI to basically do their job for them.",
+      "tokens": [
+        50364,
+        7318,
+        281,
+        1936,
+        360,
+        641,
+        1691,
+        337,
+        552,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19961286763675878,
+      "compression_ratio": 1.5172413793103448,
+      "no_speech_prob": 0.2176511138677597
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.0,
+      "end": 7.92,
+      "text": " If the AI does their job for them,",
+      "tokens": [
+        50614,
+        759,
+        264,
+        7318,
+        775,
+        641,
+        1691,
+        337,
+        552,
+        11,
+        50760
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19961286763675878,
+      "compression_ratio": 1.5172413793103448,
+      "no_speech_prob": 0.2176511138677597
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.92,
+      "end": 13.56,
+      "text": " that means that this human is completely replaceable.",
+      "tokens": [
+        50760,
+        300,
+        1355,
+        300,
+        341,
+        1952,
+        307,
+        2584,
+        7406,
+        712,
+        13,
+        51042
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19961286763675878,
+      "compression_ratio": 1.5172413793103448,
+      "no_speech_prob": 0.2176511138677597
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.56,
+      "end": 17.8,
+      "text": " There is nothing that you in that situation",
+      "tokens": [
+        51042,
+        821,
+        307,
+        1825,
+        300,
+        291,
+        294,
+        300,
+        2590,
+        51254
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19961286763675878,
+      "compression_ratio": 1.5172413793103448,
+      "no_speech_prob": 0.2176511138677597
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 17.8,
+      "end": 20.76,
+      "text": " are actually adding.",
+      "tokens": [
+        51254,
+        366,
+        767,
+        5127,
+        13,
+        51402
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19961286763675878,
+      "compression_ratio": 1.5172413793103448,
+      "no_speech_prob": 0.2176511138677597
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 20.76,
+      "end": 24.6,
+      "text": " You are only relying on AI.",
+      "tokens": [
+        51402,
+        509,
+        366,
+        787,
+        24140,
+        322,
+        7318,
+        13,
+        51594
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19961286763675878,
+      "compression_ratio": 1.5172413793103448,
+      "no_speech_prob": 0.2176511138677597
+    },
+    {
+      "id": 6,
+      "seek": 2460,
+      "start": 24.6,
+      "end": 29.6,
+      "text": " So I think that the advice that people build.",
+      "tokens": [
+        50364,
+        407,
+        286,
+        519,
+        300,
+        264,
+        5192,
+        300,
+        561,
+        1322,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3206821588369516,
+      "compression_ratio": 0.9782608695652174,
+      "no_speech_prob": 0.035498086363077164
+    }
+  ],
+  "language": "en"
+}

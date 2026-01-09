@@ -1,0 +1,179 @@
+{
+  "text": " to use AI to help you complete these mindless tasks that just take up a lot of time. So I partially agree with this idea that people should start using AI with my fault behind. I get that. However, the problem is that some people use AI to",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " to use AI to help you complete these mindless tasks",
+      "tokens": [
+        50364,
+        281,
+        764,
+        7318,
+        281,
+        854,
+        291,
+        3566,
+        613,
+        1575,
+        1832,
+        9608,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3980567034553079,
+      "compression_ratio": 1.4567901234567902,
+      "no_speech_prob": 0.21064431965351105
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.5,
+      "end": 10.0,
+      "text": " that just take up a lot of time.",
+      "tokens": [
+        50689,
+        300,
+        445,
+        747,
+        493,
+        257,
+        688,
+        295,
+        565,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3980567034553079,
+      "compression_ratio": 1.4567901234567902,
+      "no_speech_prob": 0.21064431965351105
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.5,
+      "end": 15.34,
+      "text": " So I partially agree with this idea",
+      "tokens": [
+        50939,
+        407,
+        286,
+        18886,
+        3986,
+        365,
+        341,
+        1558,
+        51131
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3980567034553079,
+      "compression_ratio": 1.4567901234567902,
+      "no_speech_prob": 0.21064431965351105
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 15.34,
+      "end": 19.0,
+      "text": " that people should start using AI",
+      "tokens": [
+        51131,
+        300,
+        561,
+        820,
+        722,
+        1228,
+        7318,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3980567034553079,
+      "compression_ratio": 1.4567901234567902,
+      "no_speech_prob": 0.21064431965351105
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 19.0,
+      "end": 20.900000000000002,
+      "text": " with my fault behind.",
+      "tokens": [
+        51314,
+        365,
+        452,
+        7441,
+        2261,
+        13,
+        51409
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3980567034553079,
+      "compression_ratio": 1.4567901234567902,
+      "no_speech_prob": 0.21064431965351105
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 20.900000000000002,
+      "end": 22.22,
+      "text": " I get that.",
+      "tokens": [
+        51409,
+        286,
+        483,
+        300,
+        13,
+        51475
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3980567034553079,
+      "compression_ratio": 1.4567901234567902,
+      "no_speech_prob": 0.21064431965351105
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 22.22,
+      "end": 27.22,
+      "text": " However, the problem is that some people use AI",
+      "tokens": [
+        51475,
+        2908,
+        11,
+        264,
+        1154,
+        307,
+        300,
+        512,
+        561,
+        764,
+        7318,
+        51725
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3980567034553079,
+      "compression_ratio": 1.4567901234567902,
+      "no_speech_prob": 0.21064431965351105
+    },
+    {
+      "id": 7,
+      "seek": 2722,
+      "start": 27.22,
+      "end": 29.72,
+      "text": " to",
+      "tokens": [
+        50404,
+        281,
+        50489
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.9618947505950928,
+      "compression_ratio": 0.2,
+      "no_speech_prob": 0.08231832832098007
+    }
+  ],
+  "language": "en"
+}

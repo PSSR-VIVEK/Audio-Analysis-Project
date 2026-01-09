@@ -1,0 +1,151 @@
+{
+  "text": " is that it might increase your ability to concentrate. This is an interesting one. So, I guess learning a language requires a lot of focus. It really engages your concentration because when you're reading something or when you're listening to something in a foreign language, you have...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.0,
+      "text": " is that it might increase your ability to concentrate.",
+      "tokens": [
+        50364,
+        307,
+        300,
+        309,
+        1062,
+        3488,
+        428,
+        3485,
+        281,
+        18089,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1907466144885047,
+      "compression_ratio": 1.5555555555555556,
+      "no_speech_prob": 0.17477186024188995
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.0,
+      "end": 8.0,
+      "text": " This is an interesting one.",
+      "tokens": [
+        50664,
+        639,
+        307,
+        364,
+        1880,
+        472,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1907466144885047,
+      "compression_ratio": 1.5555555555555556,
+      "no_speech_prob": 0.17477186024188995
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.0,
+      "end": 16.0,
+      "text": " So, I guess learning a language requires a lot of focus.",
+      "tokens": [
+        50764,
+        407,
+        11,
+        286,
+        2041,
+        2539,
+        257,
+        2856,
+        7029,
+        257,
+        688,
+        295,
+        1879,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1907466144885047,
+      "compression_ratio": 1.5555555555555556,
+      "no_speech_prob": 0.17477186024188995
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 16.0,
+      "end": 21.0,
+      "text": " It really engages your concentration",
+      "tokens": [
+        51164,
+        467,
+        534,
+        45576,
+        428,
+        9856,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1907466144885047,
+      "compression_ratio": 1.5555555555555556,
+      "no_speech_prob": 0.17477186024188995
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 21.0,
+      "end": 27.0,
+      "text": " because when you're reading something or when you're listening to something",
+      "tokens": [
+        51414,
+        570,
+        562,
+        291,
+        434,
+        3760,
+        746,
+        420,
+        562,
+        291,
+        434,
+        4764,
+        281,
+        746,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1907466144885047,
+      "compression_ratio": 1.5555555555555556,
+      "no_speech_prob": 0.17477186024188995
+    },
+    {
+      "id": 5,
+      "seek": 2700,
+      "start": 27.0,
+      "end": 30.0,
+      "text": " in a foreign language, you have...",
+      "tokens": [
+        50364,
+        294,
+        257,
+        5329,
+        2856,
+        11,
+        291,
+        362,
+        485,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25468912991610443,
+      "compression_ratio": 0.8095238095238095,
+      "no_speech_prob": 0.4433826208114624
+    }
+  ],
+  "language": "en"
+}

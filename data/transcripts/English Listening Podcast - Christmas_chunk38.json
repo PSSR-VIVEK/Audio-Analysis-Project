@@ -1,0 +1,207 @@
+{
+  "text": " and are a little bit nicer during this time of year. And so that's a good thing as well. That's something nice regarding the Christmas season. So as you can see during the Christmas season, you feel Christmas everywhere. You feel it all around you. Right? And talking specifically about the days, December 24th.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " and are a little bit nicer during this time of year.",
+      "tokens": [
+        50364,
+        293,
+        366,
+        257,
+        707,
+        857,
+        22842,
+        1830,
+        341,
+        565,
+        295,
+        1064,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18025261163711548,
+      "compression_ratio": 1.5828877005347595,
+      "no_speech_prob": 0.21958379447460175
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.0,
+      "end": 8.0,
+      "text": " And so that's a good thing as well.",
+      "tokens": [
+        50614,
+        400,
+        370,
+        300,
+        311,
+        257,
+        665,
+        551,
+        382,
+        731,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18025261163711548,
+      "compression_ratio": 1.5828877005347595,
+      "no_speech_prob": 0.21958379447460175
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.0,
+      "end": 12.0,
+      "text": " That's something nice regarding the Christmas season.",
+      "tokens": [
+        50764,
+        663,
+        311,
+        746,
+        1481,
+        8595,
+        264,
+        5272,
+        3196,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18025261163711548,
+      "compression_ratio": 1.5828877005347595,
+      "no_speech_prob": 0.21958379447460175
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 12.0,
+      "end": 16.0,
+      "text": " So as you can see during the Christmas season,",
+      "tokens": [
+        50964,
+        407,
+        382,
+        291,
+        393,
+        536,
+        1830,
+        264,
+        5272,
+        3196,
+        11,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18025261163711548,
+      "compression_ratio": 1.5828877005347595,
+      "no_speech_prob": 0.21958379447460175
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 16.0,
+      "end": 20.0,
+      "text": " you feel Christmas everywhere.",
+      "tokens": [
+        51164,
+        291,
+        841,
+        5272,
+        5315,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18025261163711548,
+      "compression_ratio": 1.5828877005347595,
+      "no_speech_prob": 0.21958379447460175
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 20.0,
+      "end": 23.0,
+      "text": " You feel it all around you.",
+      "tokens": [
+        51364,
+        509,
+        841,
+        309,
+        439,
+        926,
+        291,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18025261163711548,
+      "compression_ratio": 1.5828877005347595,
+      "no_speech_prob": 0.21958379447460175
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 23.0,
+      "end": 24.0,
+      "text": " Right?",
+      "tokens": [
+        51514,
+        1779,
+        30,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18025261163711548,
+      "compression_ratio": 1.5828877005347595,
+      "no_speech_prob": 0.21958379447460175
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 24.0,
+      "end": 28.0,
+      "text": " And talking specifically about the days,",
+      "tokens": [
+        51564,
+        400,
+        1417,
+        4682,
+        466,
+        264,
+        1708,
+        11,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18025261163711548,
+      "compression_ratio": 1.5828877005347595,
+      "no_speech_prob": 0.21958379447460175
+    },
+    {
+      "id": 8,
+      "seek": 2800,
+      "start": 28.0,
+      "end": 31.0,
+      "text": " December 24th.",
+      "tokens": [
+        50364,
+        7687,
+        4022,
+        392,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27877812726157053,
+      "compression_ratio": 0.6363636363636364,
+      "no_speech_prob": 0.13612090051174164
+    }
+  ],
+  "language": "en"
+}

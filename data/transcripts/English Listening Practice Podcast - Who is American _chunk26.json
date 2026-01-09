@@ -1,0 +1,172 @@
+{
+  "text": " of the geography that people have in their minds. And what's also interesting about that is that in the US people don't really use the term North Americans, right? And they don't really identify with a continent. I think in most other places around the world people can identify with both a country.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " of the geography that people have in their minds.",
+      "tokens": [
+        50364,
+        295,
+        264,
+        26695,
+        300,
+        561,
+        362,
+        294,
+        641,
+        9634,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21380815932999797,
+      "compression_ratio": 1.4742857142857142,
+      "no_speech_prob": 0.33916816115379333
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.44,
+      "end": 9.34,
+      "text": " And what's also interesting about that is that",
+      "tokens": [
+        50636,
+        400,
+        437,
+        311,
+        611,
+        1880,
+        466,
+        300,
+        307,
+        300,
+        50831
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21380815932999797,
+      "compression_ratio": 1.4742857142857142,
+      "no_speech_prob": 0.33916816115379333
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.34,
+      "end": 13.34,
+      "text": " in the US people don't really use the term",
+      "tokens": [
+        50831,
+        294,
+        264,
+        2546,
+        561,
+        500,
+        380,
+        534,
+        764,
+        264,
+        1433,
+        51031
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21380815932999797,
+      "compression_ratio": 1.4742857142857142,
+      "no_speech_prob": 0.33916816115379333
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.34,
+      "end": 15.9,
+      "text": " North Americans, right?",
+      "tokens": [
+        51031,
+        4067,
+        6280,
+        11,
+        558,
+        30,
+        51159
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21380815932999797,
+      "compression_ratio": 1.4742857142857142,
+      "no_speech_prob": 0.33916816115379333
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 16.84,
+      "end": 21.48,
+      "text": " And they don't really identify with a continent.",
+      "tokens": [
+        51206,
+        400,
+        436,
+        500,
+        380,
+        534,
+        5876,
+        365,
+        257,
+        18932,
+        13,
+        51438
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21380815932999797,
+      "compression_ratio": 1.4742857142857142,
+      "no_speech_prob": 0.33916816115379333
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 21.48,
+      "end": 25.66,
+      "text": " I think in most other places around the world",
+      "tokens": [
+        51438,
+        286,
+        519,
+        294,
+        881,
+        661,
+        3190,
+        926,
+        264,
+        1002,
+        51647
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21380815932999797,
+      "compression_ratio": 1.4742857142857142,
+      "no_speech_prob": 0.33916816115379333
+    },
+    {
+      "id": 6,
+      "seek": 2566,
+      "start": 25.66,
+      "end": 30.1,
+      "text": " people can identify with both a country.",
+      "tokens": [
+        50364,
+        561,
+        393,
+        5876,
+        365,
+        1293,
+        257,
+        1941,
+        13,
+        50586
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.31571886756203393,
+      "compression_ratio": 0.8695652173913043,
+      "no_speech_prob": 0.004550757817924023
+    }
+  ],
+  "language": "en"
+}

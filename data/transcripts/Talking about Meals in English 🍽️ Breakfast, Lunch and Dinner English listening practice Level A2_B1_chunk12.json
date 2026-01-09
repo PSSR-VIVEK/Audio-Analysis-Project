@@ -1,0 +1,93 @@
+{
+  "text": " is a chef so he is the person who normally cooks when we celebrate Christmas or a birthday so I never make dinner for my family. What is 11's? 11's is a small meal that people have aunt",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 12.0,
+      "text": " is a chef so he is the person who normally cooks when we celebrate Christmas or a",
+      "tokens": [
+        50364,
+        307,
+        257,
+        10530,
+        370,
+        415,
+        307,
+        264,
+        954,
+        567,
+        5646,
+        30709,
+        562,
+        321,
+        8098,
+        5272,
+        420,
+        257,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24516673521562057,
+      "compression_ratio": 1.2834645669291338,
+      "no_speech_prob": 0.0803966149687767
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 12.0,
+      "end": 26.400000000000002,
+      "text": " birthday so I never make dinner for my family. What is 11's? 11's is a small meal",
+      "tokens": [
+        50964,
+        6154,
+        370,
+        286,
+        1128,
+        652,
+        6148,
+        337,
+        452,
+        1605,
+        13,
+        708,
+        307,
+        2975,
+        311,
+        30,
+        2975,
+        311,
+        307,
+        257,
+        1359,
+        6791,
+        51684
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24516673521562057,
+      "compression_ratio": 1.2834645669291338,
+      "no_speech_prob": 0.0803966149687767
+    },
+    {
+      "id": 2,
+      "seek": 2640,
+      "start": 26.4,
+      "end": 50.26,
+      "text": " that people have aunt",
+      "tokens": [
+        50364,
+        300,
+        561,
+        362,
+        15654,
+        51557
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.3530378341674805,
+      "compression_ratio": 0.7241379310344828,
+      "no_speech_prob": 0.533387303352356
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,149 @@
+{
+  "text": " that I have always had difficulties with. And if I learned to speak English fluently, then it would be a great achievement for me. I was never good at English at school, so I would be very proud of myself if I can achieve a high level.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " that I have always had difficulties with.",
+      "tokens": [
+        50364,
+        300,
+        286,
+        362,
+        1009,
+        632,
+        14399,
+        365,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17525952322441235,
+      "compression_ratio": 1.3877551020408163,
+      "no_speech_prob": 0.10633901506662369
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.0,
+      "end": 12.0,
+      "text": " And if I learned to speak English fluently,",
+      "tokens": [
+        50614,
+        400,
+        498,
+        286,
+        3264,
+        281,
+        1710,
+        3669,
+        5029,
+        2276,
+        11,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17525952322441235,
+      "compression_ratio": 1.3877551020408163,
+      "no_speech_prob": 0.10633901506662369
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 12.0,
+      "end": 17.0,
+      "text": " then it would be a great achievement for me.",
+      "tokens": [
+        50964,
+        550,
+        309,
+        576,
+        312,
+        257,
+        869,
+        15838,
+        337,
+        385,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17525952322441235,
+      "compression_ratio": 1.3877551020408163,
+      "no_speech_prob": 0.10633901506662369
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 17.0,
+      "end": 21.0,
+      "text": " I was never good at English at school,",
+      "tokens": [
+        51214,
+        286,
+        390,
+        1128,
+        665,
+        412,
+        3669,
+        412,
+        1395,
+        11,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17525952322441235,
+      "compression_ratio": 1.3877551020408163,
+      "no_speech_prob": 0.10633901506662369
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 21.0,
+      "end": 26.0,
+      "text": " so I would be very proud of myself",
+      "tokens": [
+        51414,
+        370,
+        286,
+        576,
+        312,
+        588,
+        4570,
+        295,
+        2059,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17525952322441235,
+      "compression_ratio": 1.3877551020408163,
+      "no_speech_prob": 0.10633901506662369
+    },
+    {
+      "id": 5,
+      "seek": 2600,
+      "start": 26.0,
+      "end": 31.0,
+      "text": " if I can achieve a high level.",
+      "tokens": [
+        50364,
+        498,
+        286,
+        393,
+        4584,
+        257,
+        1090,
+        1496,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4122963385148482,
+      "compression_ratio": 0.8333333333333334,
+      "no_speech_prob": 0.1542852371931076
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,151 @@
+{
+  "text": " if they continue with the way they're going right now, all the trends that we're seeing. Remember that a trend is like a tendency towards some direction. Okay, so there can be fashion trends. There can be trends in a certain sphere of business or whatever. So",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.24,
+      "text": " if they continue with the way they're going right now,",
+      "tokens": [
+        50364,
+        498,
+        436,
+        2354,
+        365,
+        264,
+        636,
+        436,
+        434,
+        516,
+        558,
+        586,
+        11,
+        50676
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3126226771961559,
+      "compression_ratio": 1.532934131736527,
+      "no_speech_prob": 0.1441306620836258
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.24,
+      "end": 9.6,
+      "text": " all the trends that we're seeing.",
+      "tokens": [
+        50676,
+        439,
+        264,
+        13892,
+        300,
+        321,
+        434,
+        2577,
+        13,
+        50844
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3126226771961559,
+      "compression_ratio": 1.532934131736527,
+      "no_speech_prob": 0.1441306620836258
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.6,
+      "end": 17.04,
+      "text": " Remember that a trend is like a tendency towards some direction.",
+      "tokens": [
+        50844,
+        5459,
+        300,
+        257,
+        6028,
+        307,
+        411,
+        257,
+        18187,
+        3030,
+        512,
+        3513,
+        13,
+        51216
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3126226771961559,
+      "compression_ratio": 1.532934131736527,
+      "no_speech_prob": 0.1441306620836258
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 17.04,
+      "end": 21.12,
+      "text": " Okay, so there can be fashion trends.",
+      "tokens": [
+        51216,
+        1033,
+        11,
+        370,
+        456,
+        393,
+        312,
+        6700,
+        13892,
+        13,
+        51420
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3126226771961559,
+      "compression_ratio": 1.532934131736527,
+      "no_speech_prob": 0.1441306620836258
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 21.12,
+      "end": 28.96,
+      "text": " There can be trends in a certain sphere of business or whatever.",
+      "tokens": [
+        51420,
+        821,
+        393,
+        312,
+        13892,
+        294,
+        257,
+        1629,
+        16687,
+        295,
+        1606,
+        420,
+        2035,
+        13,
+        51812
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3126226771961559,
+      "compression_ratio": 1.532934131736527,
+      "no_speech_prob": 0.1441306620836258
+    },
+    {
+      "id": 5,
+      "seek": 2896,
+      "start": 28.96,
+      "end": 31.12,
+      "text": " So",
+      "tokens": [
+        50372,
+        407,
+        50472
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.758025586605072,
+      "compression_ratio": 0.2,
+      "no_speech_prob": 0.37939342856407166
+    }
+  ],
+  "language": "en"
+}

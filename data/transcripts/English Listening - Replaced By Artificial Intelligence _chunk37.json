@@ -1,0 +1,179 @@
+{
+  "text": " AI robot that can talk to you just like a human and Can have great conversations with you and help you with your English and point out your mistakes but It's a robot and you know that it's not person Would you want to do that? and many times people",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.12,
+      "text": " AI robot that can talk to you just like a human and",
+      "tokens": [
+        50364,
+        7318,
+        7881,
+        300,
+        393,
+        751,
+        281,
+        291,
+        445,
+        411,
+        257,
+        1952,
+        293,
+        50620
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4008103271028889,
+      "compression_ratio": 1.5064102564102564,
+      "no_speech_prob": 0.28097665309906006
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.4,
+      "end": 11.040000000000001,
+      "text": " Can have great conversations with you and help you",
+      "tokens": [
+        50684,
+        1664,
+        362,
+        869,
+        7315,
+        365,
+        291,
+        293,
+        854,
+        291,
+        50916
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4008103271028889,
+      "compression_ratio": 1.5064102564102564,
+      "no_speech_prob": 0.28097665309906006
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 12.280000000000001,
+      "end": 16.0,
+      "text": " with your English and point out your mistakes",
+      "tokens": [
+        50978,
+        365,
+        428,
+        3669,
+        293,
+        935,
+        484,
+        428,
+        8038,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4008103271028889,
+      "compression_ratio": 1.5064102564102564,
+      "no_speech_prob": 0.28097665309906006
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 16.68,
+      "end": 17.84,
+      "text": " but",
+      "tokens": [
+        51198,
+        457,
+        51256
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4008103271028889,
+      "compression_ratio": 1.5064102564102564,
+      "no_speech_prob": 0.28097665309906006
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 17.84,
+      "end": 23.12,
+      "text": " It's a robot and you know that it's not person",
+      "tokens": [
+        51256,
+        467,
+        311,
+        257,
+        7881,
+        293,
+        291,
+        458,
+        300,
+        309,
+        311,
+        406,
+        954,
+        51520
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4008103271028889,
+      "compression_ratio": 1.5064102564102564,
+      "no_speech_prob": 0.28097665309906006
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 24.32,
+      "end": 26.32,
+      "text": " Would you want to do that?",
+      "tokens": [
+        51580,
+        6068,
+        291,
+        528,
+        281,
+        360,
+        300,
+        30,
+        51680
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4008103271028889,
+      "compression_ratio": 1.5064102564102564,
+      "no_speech_prob": 0.28097665309906006
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 27.0,
+      "end": 28.8,
+      "text": " and many",
+      "tokens": [
+        51714,
+        293,
+        867,
+        51804
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4008103271028889,
+      "compression_ratio": 1.5064102564102564,
+      "no_speech_prob": 0.28097665309906006
+    },
+    {
+      "id": 7,
+      "seek": 2880,
+      "start": 28.8,
+      "end": 30.8,
+      "text": " times people",
+      "tokens": [
+        50364,
+        1413,
+        561,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6325570583343506,
+      "compression_ratio": 0.6,
+      "no_speech_prob": 0.017528539523482323
+    }
+  ],
+  "language": "en"
+}

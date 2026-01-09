@@ -1,0 +1,173 @@
+{
+  "text": " Completely differently from how everyone else did them before you You try your own way. I think that Oftentimes this can leave you to fail. So I Think that this quote is sometimes true and sometimes not true. I think that it's good when possible to follow other people's examples and Have role models say oh I",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.0600000000000005,
+      "text": " Completely differently from how everyone else did them before you",
+      "tokens": [
+        50364,
+        39978,
+        7614,
+        490,
+        577,
+        1518,
+        1646,
+        630,
+        552,
+        949,
+        291,
+        50567
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37537386757986885,
+      "compression_ratio": 1.554945054945055,
+      "no_speech_prob": 0.2725708782672882
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.0,
+      "end": 8.0,
+      "text": " You try your own way. I think that",
+      "tokens": [
+        50614,
+        509,
+        853,
+        428,
+        1065,
+        636,
+        13,
+        286,
+        519,
+        300,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37537386757986885,
+      "compression_ratio": 1.554945054945055,
+      "no_speech_prob": 0.2725708782672882
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.0,
+      "end": 12.3,
+      "text": " Oftentimes this can leave you to fail. So I",
+      "tokens": [
+        50814,
+        46636,
+        341,
+        393,
+        1856,
+        291,
+        281,
+        3061,
+        13,
+        407,
+        286,
+        50979
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37537386757986885,
+      "compression_ratio": 1.554945054945055,
+      "no_speech_prob": 0.2725708782672882
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.0,
+      "end": 19.64,
+      "text": " Think that this quote is sometimes true and sometimes not true. I think that it's good",
+      "tokens": [
+        51014,
+        6557,
+        300,
+        341,
+        6513,
+        307,
+        2171,
+        2074,
+        293,
+        2171,
+        406,
+        2074,
+        13,
+        286,
+        519,
+        300,
+        309,
+        311,
+        665,
+        51346
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37537386757986885,
+      "compression_ratio": 1.554945054945055,
+      "no_speech_prob": 0.2725708782672882
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 20.76,
+      "end": 24.16,
+      "text": " when possible to follow other people's",
+      "tokens": [
+        51402,
+        562,
+        1944,
+        281,
+        1524,
+        661,
+        561,
+        311,
+        51572
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37537386757986885,
+      "compression_ratio": 1.554945054945055,
+      "no_speech_prob": 0.2725708782672882
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 24.72,
+      "end": 26.72,
+      "text": " examples and",
+      "tokens": [
+        51600,
+        5110,
+        293,
+        51700
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37537386757986885,
+      "compression_ratio": 1.554945054945055,
+      "no_speech_prob": 0.2725708782672882
+    },
+    {
+      "id": 6,
+      "seek": 2672,
+      "start": 26.72,
+      "end": 29.72,
+      "text": " Have role models say oh I",
+      "tokens": [
+        50364,
+        3560,
+        3090,
+        5245,
+        584,
+        1954,
+        286,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5415204366048177,
+      "compression_ratio": 0.7575757575757576,
+      "no_speech_prob": 0.04694381356239319
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,224 @@
+{
+  "text": " And I loved this expression. I think it's really true. The learner is the one who is responsible for their improvement, for their ability to learn a language. It's not the teacher. OK. What does the teacher do? The teacher can provide motivation. That's what they should do. They can provide feedback, for example.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.0,
+      "text": " And I loved this expression.",
+      "tokens": [
+        50364,
+        400,
+        286,
+        4333,
+        341,
+        6114,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17777059078216553,
+      "compression_ratio": 1.4972677595628416,
+      "no_speech_prob": 0.061050739139318466
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.0,
+      "end": 6.6000000000000005,
+      "text": " I think it's really true.",
+      "tokens": [
+        50564,
+        286,
+        519,
+        309,
+        311,
+        534,
+        2074,
+        13,
+        50694
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17777059078216553,
+      "compression_ratio": 1.4972677595628416,
+      "no_speech_prob": 0.061050739139318466
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.6000000000000005,
+      "end": 12.64,
+      "text": " The learner is the one who is responsible for their improvement,",
+      "tokens": [
+        50694,
+        440,
+        33347,
+        307,
+        264,
+        472,
+        567,
+        307,
+        6250,
+        337,
+        641,
+        10444,
+        11,
+        50996
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17777059078216553,
+      "compression_ratio": 1.4972677595628416,
+      "no_speech_prob": 0.061050739139318466
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 12.64,
+      "end": 17.32,
+      "text": " for their ability to learn a language.",
+      "tokens": [
+        50996,
+        337,
+        641,
+        3485,
+        281,
+        1466,
+        257,
+        2856,
+        13,
+        51230
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17777059078216553,
+      "compression_ratio": 1.4972677595628416,
+      "no_speech_prob": 0.061050739139318466
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 17.32,
+      "end": 19.240000000000002,
+      "text": " It's not the teacher.",
+      "tokens": [
+        51230,
+        467,
+        311,
+        406,
+        264,
+        5027,
+        13,
+        51326
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17777059078216553,
+      "compression_ratio": 1.4972677595628416,
+      "no_speech_prob": 0.061050739139318466
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 19.240000000000002,
+      "end": 20.240000000000002,
+      "text": " OK.",
+      "tokens": [
+        51326,
+        2264,
+        13,
+        51376
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17777059078216553,
+      "compression_ratio": 1.4972677595628416,
+      "no_speech_prob": 0.061050739139318466
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 20.240000000000002,
+      "end": 22.080000000000002,
+      "text": " What does the teacher do?",
+      "tokens": [
+        51376,
+        708,
+        775,
+        264,
+        5027,
+        360,
+        30,
+        51468
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17777059078216553,
+      "compression_ratio": 1.4972677595628416,
+      "no_speech_prob": 0.061050739139318466
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 22.080000000000002,
+      "end": 25.52,
+      "text": " The teacher can provide motivation.",
+      "tokens": [
+        51468,
+        440,
+        5027,
+        393,
+        2893,
+        12335,
+        13,
+        51640
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17777059078216553,
+      "compression_ratio": 1.4972677595628416,
+      "no_speech_prob": 0.061050739139318466
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 25.52,
+      "end": 27.240000000000002,
+      "text": " That's what they should do.",
+      "tokens": [
+        51640,
+        663,
+        311,
+        437,
+        436,
+        820,
+        360,
+        13,
+        51726
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17777059078216553,
+      "compression_ratio": 1.4972677595628416,
+      "no_speech_prob": 0.061050739139318466
+    },
+    {
+      "id": 9,
+      "seek": 2724,
+      "start": 27.24,
+      "end": 30.04,
+      "text": " They can provide feedback, for example.",
+      "tokens": [
+        50364,
+        814,
+        393,
+        2893,
+        5824,
+        11,
+        337,
+        1365,
+        13,
+        50504
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3577969724481756,
+      "compression_ratio": 0.8297872340425532,
+      "no_speech_prob": 0.03220003470778465
+    }
+  ],
+  "language": "en"
+}

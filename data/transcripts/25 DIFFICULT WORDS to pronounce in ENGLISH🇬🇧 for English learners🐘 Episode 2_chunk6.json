@@ -1,0 +1,129 @@
+{
+  "text": " two egg yolks for this recipe. Receipt. You need to show the receipt to return the product. Numonia. She is in hospital because she has pneumonia. Almond. Have you ever tried almond milk? Florescent.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " two egg yolks for this recipe.",
+      "tokens": [
+        50364,
+        732,
+        3777,
+        47191,
+        337,
+        341,
+        6782,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2855595179966518,
+      "compression_ratio": 1.2920353982300885,
+      "no_speech_prob": 0.09694058448076248
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.0,
+      "end": 13.0,
+      "text": " Receipt. You need to show the receipt to return the product.",
+      "tokens": [
+        50614,
+        41962,
+        22439,
+        13,
+        509,
+        643,
+        281,
+        855,
+        264,
+        33882,
+        281,
+        2736,
+        264,
+        1674,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2855595179966518,
+      "compression_ratio": 1.2920353982300885,
+      "no_speech_prob": 0.09694058448076248
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 13.0,
+      "end": 22.0,
+      "text": " Numonia. She is in hospital because she has pneumonia.",
+      "tokens": [
+        51014,
+        426,
+        449,
+        16999,
+        13,
+        1240,
+        307,
+        294,
+        4530,
+        570,
+        750,
+        575,
+        43097,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2855595179966518,
+      "compression_ratio": 1.2920353982300885,
+      "no_speech_prob": 0.09694058448076248
+    },
+    {
+      "id": 3,
+      "seek": 2200,
+      "start": 22.0,
+      "end": 29.0,
+      "text": " Almond. Have you ever tried almond milk?",
+      "tokens": [
+        50364,
+        967,
+        12171,
+        13,
+        3560,
+        291,
+        1562,
+        3031,
+        29506,
+        5392,
+        30,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3567731505946109,
+      "compression_ratio": 0.9122807017543859,
+      "no_speech_prob": 0.2300567924976349
+    },
+    {
+      "id": 4,
+      "seek": 2200,
+      "start": 29.0,
+      "end": 32.0,
+      "text": " Florescent.",
+      "tokens": [
+        50714,
+        3235,
+        2706,
+        2207,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3567731505946109,
+      "compression_ratio": 0.9122807017543859,
+      "no_speech_prob": 0.2300567924976349
+    }
+  ],
+  "language": "en"
+}

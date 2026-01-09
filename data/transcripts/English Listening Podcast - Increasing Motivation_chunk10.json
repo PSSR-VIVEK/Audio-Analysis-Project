@@ -1,0 +1,167 @@
+{
+  "text": " that can really benefit you. So why do I do this? Why does removing things that give me pleasure help me be more motivated to achieve my goals? Well, it's pretty simple when I remove things that are really stimulating and pleasurable that I can do on an issue.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.2,
+      "text": " that can really benefit you.",
+      "tokens": [
+        50364,
+        300,
+        393,
+        534,
+        5121,
+        291,
+        13,
+        50474
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1702966228608162,
+      "compression_ratio": 1.484076433121019,
+      "no_speech_prob": 0.130248561501503
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.2,
+      "end": 4.64,
+      "text": " So why do I do this?",
+      "tokens": [
+        50474,
+        407,
+        983,
+        360,
+        286,
+        360,
+        341,
+        30,
+        50596
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1702966228608162,
+      "compression_ratio": 1.484076433121019,
+      "no_speech_prob": 0.130248561501503
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.64,
+      "end": 9.64,
+      "text": " Why does removing things that give me pleasure help me",
+      "tokens": [
+        50596,
+        1545,
+        775,
+        12720,
+        721,
+        300,
+        976,
+        385,
+        6834,
+        854,
+        385,
+        50846
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1702966228608162,
+      "compression_ratio": 1.484076433121019,
+      "no_speech_prob": 0.130248561501503
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.24,
+      "end": 15.24,
+      "text": " be more motivated to achieve my goals?",
+      "tokens": [
+        50926,
+        312,
+        544,
+        14515,
+        281,
+        4584,
+        452,
+        5493,
+        30,
+        51126
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1702966228608162,
+      "compression_ratio": 1.484076433121019,
+      "no_speech_prob": 0.130248561501503
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 15.24,
+      "end": 20.240000000000002,
+      "text": " Well, it's pretty simple when I remove things",
+      "tokens": [
+        51126,
+        1042,
+        11,
+        309,
+        311,
+        1238,
+        2199,
+        562,
+        286,
+        4159,
+        721,
+        51376
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1702966228608162,
+      "compression_ratio": 1.484076433121019,
+      "no_speech_prob": 0.130248561501503
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 21.44,
+      "end": 26.44,
+      "text": " that are really stimulating and pleasurable",
+      "tokens": [
+        51436,
+        300,
+        366,
+        534,
+        43671,
+        293,
+        35122,
+        25863,
+        51686
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1702966228608162,
+      "compression_ratio": 1.484076433121019,
+      "no_speech_prob": 0.130248561501503
+    },
+    {
+      "id": 6,
+      "seek": 2644,
+      "start": 26.44,
+      "end": 30.44,
+      "text": " that I can do on an issue.",
+      "tokens": [
+        50364,
+        300,
+        286,
+        393,
+        360,
+        322,
+        364,
+        2734,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9131101261485707,
+      "compression_ratio": 0.8125,
+      "no_speech_prob": 0.11459144949913025
+    }
+  ],
+  "language": "en"
+}

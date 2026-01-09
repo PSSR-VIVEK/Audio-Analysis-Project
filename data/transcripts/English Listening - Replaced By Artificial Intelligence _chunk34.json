@@ -1,0 +1,152 @@
+{
+  "text": " something that only I can talk about. And for me as a content creator, that personal element, that unique perspective that I offer is what makes me non-replaceable. And so as long as I'm adding my own perspective, my own creativity, my own experience.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.92,
+      "text": " something that only I can talk about.",
+      "tokens": [
+        50364,
+        746,
+        300,
+        787,
+        286,
+        393,
+        751,
+        466,
+        13,
+        50510
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2257116158803304,
+      "compression_ratio": 1.4589041095890412,
+      "no_speech_prob": 0.3284135162830353
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.92,
+      "end": 6.8,
+      "text": " And for me as a content creator,",
+      "tokens": [
+        50510,
+        400,
+        337,
+        385,
+        382,
+        257,
+        2701,
+        14181,
+        11,
+        50704
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2257116158803304,
+      "compression_ratio": 1.4589041095890412,
+      "no_speech_prob": 0.3284135162830353
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.8,
+      "end": 11.4,
+      "text": " that personal element, that unique perspective",
+      "tokens": [
+        50704,
+        300,
+        2973,
+        4478,
+        11,
+        300,
+        3845,
+        4585,
+        50934
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2257116158803304,
+      "compression_ratio": 1.4589041095890412,
+      "no_speech_prob": 0.3284135162830353
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 12.44,
+      "end": 17.44,
+      "text": " that I offer is what makes me non-replaceable.",
+      "tokens": [
+        50986,
+        300,
+        286,
+        2626,
+        307,
+        437,
+        1669,
+        385,
+        2107,
+        12,
+        265,
+        6742,
+        712,
+        13,
+        51236
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2257116158803304,
+      "compression_ratio": 1.4589041095890412,
+      "no_speech_prob": 0.3284135162830353
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 20.04,
+      "end": 25.04,
+      "text": " And so as long as I'm adding my own perspective,",
+      "tokens": [
+        51366,
+        400,
+        370,
+        382,
+        938,
+        382,
+        286,
+        478,
+        5127,
+        452,
+        1065,
+        4585,
+        11,
+        51616
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2257116158803304,
+      "compression_ratio": 1.4589041095890412,
+      "no_speech_prob": 0.3284135162830353
+    },
+    {
+      "id": 5,
+      "seek": 2504,
+      "start": 25.04,
+      "end": 30.04,
+      "text": " my own creativity, my own experience.",
+      "tokens": [
+        50364,
+        452,
+        1065,
+        12915,
+        11,
+        452,
+        1065,
+        1752,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.472527720711448,
+      "compression_ratio": 0.9024390243902439,
+      "no_speech_prob": 0.02023685723543167
+    }
+  ],
+  "language": "en"
+}

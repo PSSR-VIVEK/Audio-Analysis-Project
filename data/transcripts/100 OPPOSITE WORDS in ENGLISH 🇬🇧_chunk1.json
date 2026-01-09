@@ -1,0 +1,67 @@
+{
+  "text": " ill, compulsory, voluntary, rural, urban, hot, cold, right, wrong, approximate, exact, closed, open, tight, loose.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 23.0,
+      "text": " ill, compulsory, voluntary, rural, urban, hot, cold, right, wrong, approximate, exact,",
+      "tokens": [
+        50364,
+        3171,
+        11,
+        42773,
+        827,
+        11,
+        28563,
+        11,
+        11165,
+        11,
+        9681,
+        11,
+        2368,
+        11,
+        3554,
+        11,
+        558,
+        11,
+        2085,
+        11,
+        30874,
+        11,
+        1900,
+        11,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29190695727313004,
+      "compression_ratio": 1.1168831168831168,
+      "no_speech_prob": 0.29523107409477234
+    },
+    {
+      "id": 1,
+      "seek": 2300,
+      "start": 23.0,
+      "end": 30.0,
+      "text": " closed, open, tight, loose.",
+      "tokens": [
+        50364,
+        5395,
+        11,
+        1269,
+        11,
+        4524,
+        11,
+        9612,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.26386200297962537,
+      "compression_ratio": 0.7941176470588235,
+      "no_speech_prob": 0.40127110481262207
+    }
+  ],
+  "language": "en"
+}

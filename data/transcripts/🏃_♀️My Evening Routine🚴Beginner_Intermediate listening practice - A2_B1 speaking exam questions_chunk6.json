@@ -1,0 +1,188 @@
+{
+  "text": " but sometimes there is just not enough time. Question number five is, what is a popular activity that young people in your country do in the evening? I think that a lot of young people in England like spending time at the gym or going for a run. They enjoy these activities because it makes them feel.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " but sometimes there is just not enough time.",
+      "tokens": [
+        50364,
+        457,
+        2171,
+        456,
+        307,
+        445,
+        406,
+        1547,
+        565,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1735753748151991,
+      "compression_ratio": 1.5166666666666666,
+      "no_speech_prob": 0.014497429132461548
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.5200000000000005,
+      "end": 7.8,
+      "text": " Question number five is,",
+      "tokens": [
+        50640,
+        14464,
+        1230,
+        1732,
+        307,
+        11,
+        50754
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1735753748151991,
+      "compression_ratio": 1.5166666666666666,
+      "no_speech_prob": 0.014497429132461548
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.8,
+      "end": 10.48,
+      "text": " what is a popular activity",
+      "tokens": [
+        50754,
+        437,
+        307,
+        257,
+        3743,
+        5191,
+        50888
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1735753748151991,
+      "compression_ratio": 1.5166666666666666,
+      "no_speech_prob": 0.014497429132461548
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.48,
+      "end": 15.48,
+      "text": " that young people in your country do in the evening?",
+      "tokens": [
+        50888,
+        300,
+        2037,
+        561,
+        294,
+        428,
+        1941,
+        360,
+        294,
+        264,
+        5634,
+        30,
+        51138
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1735753748151991,
+      "compression_ratio": 1.5166666666666666,
+      "no_speech_prob": 0.014497429132461548
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 16.44,
+      "end": 20.04,
+      "text": " I think that a lot of young people in England",
+      "tokens": [
+        51186,
+        286,
+        519,
+        300,
+        257,
+        688,
+        295,
+        2037,
+        561,
+        294,
+        8196,
+        51366
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1735753748151991,
+      "compression_ratio": 1.5166666666666666,
+      "no_speech_prob": 0.014497429132461548
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 20.04,
+      "end": 25.04,
+      "text": " like spending time at the gym or going for a run.",
+      "tokens": [
+        51366,
+        411,
+        6434,
+        565,
+        412,
+        264,
+        9222,
+        420,
+        516,
+        337,
+        257,
+        1190,
+        13,
+        51616
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1735753748151991,
+      "compression_ratio": 1.5166666666666666,
+      "no_speech_prob": 0.014497429132461548
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 25.76,
+      "end": 28.080000000000002,
+      "text": " They enjoy these activities",
+      "tokens": [
+        51652,
+        814,
+        2103,
+        613,
+        5354,
+        51768
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1735753748151991,
+      "compression_ratio": 1.5166666666666666,
+      "no_speech_prob": 0.014497429132461548
+    },
+    {
+      "id": 7,
+      "seek": 2808,
+      "start": 28.08,
+      "end": 30.08,
+      "text": " because it makes them feel.",
+      "tokens": [
+        50364,
+        570,
+        309,
+        1669,
+        552,
+        841,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.44000697135925293,
+      "compression_ratio": 0.7714285714285715,
+      "no_speech_prob": 0.18460112810134888
+    }
+  ],
+  "language": "en"
+}

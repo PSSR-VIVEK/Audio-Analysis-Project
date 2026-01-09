@@ -1,0 +1,209 @@
+{
+  "text": " before I mention these three reasons, my people are afraid to speak. I wanna note that I still think that it's important to be able to understand English pretty well before you start speaking consistently. I'm not saying you have to do this. Everyone has different philosophies when it comes to language learning. And I'm not saying that...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.92,
+      "text": " before I mention these three reasons,",
+      "tokens": [
+        50364,
+        949,
+        286,
+        2152,
+        613,
+        1045,
+        4112,
+        11,
+        50510
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18660037125213236,
+      "compression_ratio": 1.5343137254901962,
+      "no_speech_prob": 0.3086846172809601
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.92,
+      "end": 5.5,
+      "text": " my people are afraid to speak.",
+      "tokens": [
+        50510,
+        452,
+        561,
+        366,
+        4638,
+        281,
+        1710,
+        13,
+        50639
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18660037125213236,
+      "compression_ratio": 1.5343137254901962,
+      "no_speech_prob": 0.3086846172809601
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.5,
+      "end": 10.5,
+      "text": " I wanna note that I still think that it's important",
+      "tokens": [
+        50639,
+        286,
+        1948,
+        3637,
+        300,
+        286,
+        920,
+        519,
+        300,
+        309,
+        311,
+        1021,
+        50889
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18660037125213236,
+      "compression_ratio": 1.5343137254901962,
+      "no_speech_prob": 0.3086846172809601
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.24,
+      "end": 15.74,
+      "text": " to be able to understand English pretty well",
+      "tokens": [
+        50926,
+        281,
+        312,
+        1075,
+        281,
+        1223,
+        3669,
+        1238,
+        731,
+        51151
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18660037125213236,
+      "compression_ratio": 1.5343137254901962,
+      "no_speech_prob": 0.3086846172809601
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 16.56,
+      "end": 20.8,
+      "text": " before you start speaking consistently.",
+      "tokens": [
+        51192,
+        949,
+        291,
+        722,
+        4124,
+        14961,
+        13,
+        51404
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18660037125213236,
+      "compression_ratio": 1.5343137254901962,
+      "no_speech_prob": 0.3086846172809601
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 20.8,
+      "end": 23.32,
+      "text": " I'm not saying you have to do this.",
+      "tokens": [
+        51404,
+        286,
+        478,
+        406,
+        1566,
+        291,
+        362,
+        281,
+        360,
+        341,
+        13,
+        51530
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18660037125213236,
+      "compression_ratio": 1.5343137254901962,
+      "no_speech_prob": 0.3086846172809601
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 23.32,
+      "end": 26.26,
+      "text": " Everyone has different philosophies",
+      "tokens": [
+        51530,
+        5198,
+        575,
+        819,
+        14529,
+        530,
+        51677
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18660037125213236,
+      "compression_ratio": 1.5343137254901962,
+      "no_speech_prob": 0.3086846172809601
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 26.26,
+      "end": 28.32,
+      "text": " when it comes to language learning.",
+      "tokens": [
+        51677,
+        562,
+        309,
+        1487,
+        281,
+        2856,
+        2539,
+        13,
+        51780
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18660037125213236,
+      "compression_ratio": 1.5343137254901962,
+      "no_speech_prob": 0.3086846172809601
+    },
+    {
+      "id": 8,
+      "seek": 2832,
+      "start": 28.32,
+      "end": 30.32,
+      "text": " And I'm not saying that...",
+      "tokens": [
+        50364,
+        400,
+        286,
+        478,
+        406,
+        1566,
+        300,
+        485,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5754515647888183,
+      "compression_ratio": 0.7647058823529411,
+      "no_speech_prob": 0.014083596877753735
+    }
+  ],
+  "language": "en"
+}

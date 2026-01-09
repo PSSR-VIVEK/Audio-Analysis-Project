@@ -1,0 +1,176 @@
+{
+  "text": " The word mut is kind of a not very nice term to describe a mixed breed dog So it's not pure bread meaning it's two parents weren't of the same breed as we say the same type so this dog was a mut not a very beautiful",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 10.14,
+      "text": " The word mut is kind of a not very nice term to describe a mixed breed dog",
+      "tokens": [
+        50364,
+        440,
+        1349,
+        5839,
+        307,
+        733,
+        295,
+        257,
+        406,
+        588,
+        1481,
+        1433,
+        281,
+        6786,
+        257,
+        7467,
+        18971,
+        3000,
+        50871
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48087609198785597,
+      "compression_ratio": 1.4809160305343512,
+      "no_speech_prob": 0.2138163149356842
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 10.64,
+      "end": 13.44,
+      "text": " So it's not pure bread",
+      "tokens": [
+        50896,
+        407,
+        309,
+        311,
+        406,
+        6075,
+        5961,
+        51036
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48087609198785597,
+      "compression_ratio": 1.4809160305343512,
+      "no_speech_prob": 0.2138163149356842
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 14.040000000000001,
+      "end": 16.04,
+      "text": " meaning it's two parents",
+      "tokens": [
+        51066,
+        3620,
+        309,
+        311,
+        732,
+        3152,
+        51166
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48087609198785597,
+      "compression_ratio": 1.4809160305343512,
+      "no_speech_prob": 0.2138163149356842
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 17.64,
+      "end": 19.64,
+      "text": " weren't of the same",
+      "tokens": [
+        51246,
+        4999,
+        380,
+        295,
+        264,
+        912,
+        51346
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48087609198785597,
+      "compression_ratio": 1.4809160305343512,
+      "no_speech_prob": 0.2138163149356842
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 19.96,
+      "end": 23.16,
+      "text": " breed as we say the same type",
+      "tokens": [
+        51362,
+        18971,
+        382,
+        321,
+        584,
+        264,
+        912,
+        2010,
+        51522
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48087609198785597,
+      "compression_ratio": 1.4809160305343512,
+      "no_speech_prob": 0.2138163149356842
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 23.64,
+      "end": 25.04,
+      "text": " so",
+      "tokens": [
+        51546,
+        370,
+        51616
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48087609198785597,
+      "compression_ratio": 1.4809160305343512,
+      "no_speech_prob": 0.2138163149356842
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 25.04,
+      "end": 27.2,
+      "text": " this dog was a mut",
+      "tokens": [
+        51616,
+        341,
+        3000,
+        390,
+        257,
+        5839,
+        51724
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48087609198785597,
+      "compression_ratio": 1.4809160305343512,
+      "no_speech_prob": 0.2138163149356842
+    },
+    {
+      "id": 7,
+      "seek": 2720,
+      "start": 27.2,
+      "end": 29.88,
+      "text": " not a very beautiful",
+      "tokens": [
+        50398,
+        406,
+        257,
+        588,
+        2238,
+        50498
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4156250613076346,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 0.022644491866230965
+    }
+  ],
+  "language": "en"
+}

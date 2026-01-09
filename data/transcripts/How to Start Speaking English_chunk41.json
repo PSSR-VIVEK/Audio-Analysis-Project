@@ -1,0 +1,185 @@
+{
+  "text": " for some of your classes and then maybe other classes, you just allow the conversation to start naturally without some topic. But I think it's also really helpful to have some conversations that you've kind of prepared in advance, maybe you watched a video in English about a certain topic. And you...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.32,
+      "text": " for some of your classes and then maybe other classes,",
+      "tokens": [
+        50364,
+        337,
+        512,
+        295,
+        428,
+        5359,
+        293,
+        550,
+        1310,
+        661,
+        5359,
+        11,
+        50580
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2393340269724528,
+      "compression_ratio": 1.5508021390374331,
+      "no_speech_prob": 0.11964330077171326
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.32,
+      "end": 9.32,
+      "text": " you just allow the conversation to start naturally",
+      "tokens": [
+        50580,
+        291,
+        445,
+        2089,
+        264,
+        3761,
+        281,
+        722,
+        8195,
+        50830
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2393340269724528,
+      "compression_ratio": 1.5508021390374331,
+      "no_speech_prob": 0.11964330077171326
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.84,
+      "end": 11.96,
+      "text": " without some topic.",
+      "tokens": [
+        50856,
+        1553,
+        512,
+        4829,
+        13,
+        50962
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2393340269724528,
+      "compression_ratio": 1.5508021390374331,
+      "no_speech_prob": 0.11964330077171326
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 12.96,
+      "end": 15.64,
+      "text": " But I think it's also really helpful",
+      "tokens": [
+        51012,
+        583,
+        286,
+        519,
+        309,
+        311,
+        611,
+        534,
+        4961,
+        51146
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2393340269724528,
+      "compression_ratio": 1.5508021390374331,
+      "no_speech_prob": 0.11964330077171326
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 15.64,
+      "end": 20.04,
+      "text": " to have some conversations that you've kind of prepared",
+      "tokens": [
+        51146,
+        281,
+        362,
+        512,
+        7315,
+        300,
+        291,
+        600,
+        733,
+        295,
+        4927,
+        51366
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2393340269724528,
+      "compression_ratio": 1.5508021390374331,
+      "no_speech_prob": 0.11964330077171326
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 20.04,
+      "end": 25.16,
+      "text": " in advance, maybe you watched a video in English",
+      "tokens": [
+        51366,
+        294,
+        7295,
+        11,
+        1310,
+        291,
+        6337,
+        257,
+        960,
+        294,
+        3669,
+        51622
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2393340269724528,
+      "compression_ratio": 1.5508021390374331,
+      "no_speech_prob": 0.11964330077171326
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 25.16,
+      "end": 27.080000000000002,
+      "text": " about a certain topic.",
+      "tokens": [
+        51622,
+        466,
+        257,
+        1629,
+        4829,
+        13,
+        51718
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2393340269724528,
+      "compression_ratio": 1.5508021390374331,
+      "no_speech_prob": 0.11964330077171326
+    },
+    {
+      "id": 7,
+      "seek": 2708,
+      "start": 27.08,
+      "end": 29.919999999999998,
+      "text": " And you...",
+      "tokens": [
+        50364,
+        400,
+        291,
+        485,
+        50506
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9266681671142578,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 0.07560897618532181
+    }
+  ],
+  "language": "en"
+}

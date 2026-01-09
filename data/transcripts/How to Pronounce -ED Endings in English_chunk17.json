@@ -1,0 +1,188 @@
+{
+  "text": " Open and is voiced so it's opened. Invited finishes in tea. Invited. Retire. R is voiced so retired. Trust finishes in tea. Trusted. Invent finishes in tea. Invent finishes in tea.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 8.24,
+      "text": " Open and is voiced so it's opened.",
+      "tokens": [
+        50364,
+        7238,
+        293,
+        307,
+        42246,
+        370,
+        309,
+        311,
+        5625,
+        13,
+        50776
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.592003644522974,
+      "compression_ratio": 1.6774193548387097,
+      "no_speech_prob": 0.6703302264213562
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 8.24,
+      "end": 12.200000000000001,
+      "text": " Invited finishes in tea.",
+      "tokens": [
+        50776,
+        31124,
+        1226,
+        23615,
+        294,
+        5817,
+        13,
+        50974
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.592003644522974,
+      "compression_ratio": 1.6774193548387097,
+      "no_speech_prob": 0.6703302264213562
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 12.200000000000001,
+      "end": 14.16,
+      "text": " Invited.",
+      "tokens": [
+        50974,
+        31124,
+        1226,
+        13,
+        51072
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.592003644522974,
+      "compression_ratio": 1.6774193548387097,
+      "no_speech_prob": 0.6703302264213562
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 14.16,
+      "end": 16.16,
+      "text": " Retire.",
+      "tokens": [
+        51072,
+        11495,
+        621,
+        13,
+        51172
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.592003644522974,
+      "compression_ratio": 1.6774193548387097,
+      "no_speech_prob": 0.6703302264213562
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 16.16,
+      "end": 20.92,
+      "text": " R is voiced so retired.",
+      "tokens": [
+        51172,
+        497,
+        307,
+        42246,
+        370,
+        16776,
+        13,
+        51410
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.592003644522974,
+      "compression_ratio": 1.6774193548387097,
+      "no_speech_prob": 0.6703302264213562
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 20.92,
+      "end": 24.2,
+      "text": " Trust finishes in tea.",
+      "tokens": [
+        51410,
+        11580,
+        23615,
+        294,
+        5817,
+        13,
+        51574
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.592003644522974,
+      "compression_ratio": 1.6774193548387097,
+      "no_speech_prob": 0.6703302264213562
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 24.2,
+      "end": 26.16,
+      "text": " Trusted.",
+      "tokens": [
+        51574,
+        1765,
+        6589,
+        13,
+        51672
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.592003644522974,
+      "compression_ratio": 1.6774193548387097,
+      "no_speech_prob": 0.6703302264213562
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 26.16,
+      "end": 29.400000000000002,
+      "text": " Invent finishes in tea.",
+      "tokens": [
+        51672,
+        682,
+        2475,
+        23615,
+        294,
+        5817,
+        13,
+        51834
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.592003644522974,
+      "compression_ratio": 1.6774193548387097,
+      "no_speech_prob": 0.6703302264213562
+    },
+    {
+      "id": 8,
+      "seek": 2940,
+      "start": 29.4,
+      "end": 32.8,
+      "text": " Invent finishes in tea.",
+      "tokens": [
+        50376,
+        682,
+        2475,
+        23615,
+        294,
+        5817,
+        13,
+        50534
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9724737803141276,
+      "compression_ratio": 0.7419354838709677,
+      "no_speech_prob": 0.6620965600013733
+    }
+  ],
+  "language": "en"
+}

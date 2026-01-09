@@ -1,0 +1,190 @@
+{
+  "text": " usually happens every year is senior skip day. So this day is the day when seniors, people in their last year of high school, don't go to school that day. So a huge percentage of seniors just stay home on that particular day. Again, this is not a formal day and this is something that school.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " usually happens every year is senior skip day.",
+      "tokens": [
+        50364,
+        2673,
+        2314,
+        633,
+        1064,
+        307,
+        7965,
+        10023,
+        786,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24212949569911174,
+      "compression_ratio": 1.5575757575757576,
+      "no_speech_prob": 0.042361754924058914
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.48,
+      "end": 10.48,
+      "text": " So this day is the day when seniors,",
+      "tokens": [
+        50638,
+        407,
+        341,
+        786,
+        307,
+        264,
+        786,
+        562,
+        21069,
+        11,
+        50888
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24212949569911174,
+      "compression_ratio": 1.5575757575757576,
+      "no_speech_prob": 0.042361754924058914
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.28,
+      "end": 13.6,
+      "text": " people in their last year of high school,",
+      "tokens": [
+        50928,
+        561,
+        294,
+        641,
+        1036,
+        1064,
+        295,
+        1090,
+        1395,
+        11,
+        51044
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24212949569911174,
+      "compression_ratio": 1.5575757575757576,
+      "no_speech_prob": 0.042361754924058914
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 14.56,
+      "end": 17.2,
+      "text": " don't go to school that day.",
+      "tokens": [
+        51092,
+        500,
+        380,
+        352,
+        281,
+        1395,
+        300,
+        786,
+        13,
+        51224
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24212949569911174,
+      "compression_ratio": 1.5575757575757576,
+      "no_speech_prob": 0.042361754924058914
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 17.2,
+      "end": 22.2,
+      "text": " So a huge percentage of seniors just stay home",
+      "tokens": [
+        51224,
+        407,
+        257,
+        2603,
+        9668,
+        295,
+        21069,
+        445,
+        1754,
+        1280,
+        51474
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24212949569911174,
+      "compression_ratio": 1.5575757575757576,
+      "no_speech_prob": 0.042361754924058914
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 23.76,
+      "end": 25.72,
+      "text": " on that particular day.",
+      "tokens": [
+        51552,
+        322,
+        300,
+        1729,
+        786,
+        13,
+        51650
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24212949569911174,
+      "compression_ratio": 1.5575757575757576,
+      "no_speech_prob": 0.042361754924058914
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 25.72,
+      "end": 28.32,
+      "text": " Again, this is not a formal day",
+      "tokens": [
+        51650,
+        3764,
+        11,
+        341,
+        307,
+        406,
+        257,
+        9860,
+        786,
+        51780
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24212949569911174,
+      "compression_ratio": 1.5575757575757576,
+      "no_speech_prob": 0.042361754924058914
+    },
+    {
+      "id": 7,
+      "seek": 2832,
+      "start": 28.32,
+      "end": 30.32,
+      "text": " and this is something that school.",
+      "tokens": [
+        50364,
+        293,
+        341,
+        307,
+        746,
+        300,
+        1395,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5637579917907715,
+      "compression_ratio": 0.8947368421052632,
+      "no_speech_prob": 0.012005919590592384
+    }
+  ],
+  "language": "en"
+}

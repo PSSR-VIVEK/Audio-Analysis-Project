@@ -1,0 +1,132 @@
+{
+  "text": " three judges and they tried to do their best and then hopefully the judges would tell them that they were accepted into the competition. So these auditions were super entertaining because they didn't only include the good auditions in this show. They also included the...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 11.0,
+      "text": " three judges and they tried to do their best and then hopefully the judges would tell them",
+      "tokens": [
+        50364,
+        1045,
+        14449,
+        293,
+        436,
+        3031,
+        281,
+        360,
+        641,
+        1151,
+        293,
+        550,
+        4696,
+        264,
+        14449,
+        576,
+        980,
+        552,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18412833554404123,
+      "compression_ratio": 1.5909090909090908,
+      "no_speech_prob": 0.27739959955215454
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 11.0,
+      "end": 16.76,
+      "text": " that they were accepted into the competition.",
+      "tokens": [
+        50914,
+        300,
+        436,
+        645,
+        9035,
+        666,
+        264,
+        6211,
+        13,
+        51202
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18412833554404123,
+      "compression_ratio": 1.5909090909090908,
+      "no_speech_prob": 0.27739959955215454
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 16.76,
+      "end": 27.2,
+      "text": " So these auditions were super entertaining because they didn't only include the good auditions",
+      "tokens": [
+        51202,
+        407,
+        613,
+        2379,
+        2451,
+        645,
+        1687,
+        20402,
+        570,
+        436,
+        994,
+        380,
+        787,
+        4090,
+        264,
+        665,
+        2379,
+        2451,
+        51724
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18412833554404123,
+      "compression_ratio": 1.5909090909090908,
+      "no_speech_prob": 0.27739959955215454
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 27.2,
+      "end": 28.400000000000002,
+      "text": " in this show.",
+      "tokens": [
+        51724,
+        294,
+        341,
+        855,
+        13,
+        51784
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18412833554404123,
+      "compression_ratio": 1.5909090909090908,
+      "no_speech_prob": 0.27739959955215454
+    },
+    {
+      "id": 4,
+      "seek": 2840,
+      "start": 28.4,
+      "end": 30.0,
+      "text": " They also included the...",
+      "tokens": [
+        50364,
+        814,
+        611,
+        5556,
+        264,
+        485,
+        50444
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7960983514785767,
+      "compression_ratio": 0.7575757575757576,
+      "no_speech_prob": 0.41378432512283325
+    }
+  ],
+  "language": "en"
+}

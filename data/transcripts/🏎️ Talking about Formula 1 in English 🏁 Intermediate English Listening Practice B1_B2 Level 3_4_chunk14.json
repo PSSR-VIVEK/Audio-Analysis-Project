@@ -1,0 +1,109 @@
+{
+  "text": " It can affect your position in the race. If there is an incident or there are conditions that don't allow the race to continue as usual, there will be a safety car. Then the safety car is deployed.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 7.5600000000000005,
+      "text": " It can affect your position in the race.",
+      "tokens": [
+        50364,
+        467,
+        393,
+        3345,
+        428,
+        2535,
+        294,
+        264,
+        4569,
+        13,
+        50742
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25177389925176447,
+      "compression_ratio": 1.3898305084745763,
+      "no_speech_prob": 0.15199777483940125
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.5600000000000005,
+      "end": 20.56,
+      "text": " If there is an incident or there are conditions that don't allow the race to continue as usual,",
+      "tokens": [
+        50742,
+        759,
+        456,
+        307,
+        364,
+        9348,
+        420,
+        456,
+        366,
+        4487,
+        300,
+        500,
+        380,
+        2089,
+        264,
+        4569,
+        281,
+        2354,
+        382,
+        7713,
+        11,
+        51392
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25177389925176447,
+      "compression_ratio": 1.3898305084745763,
+      "no_speech_prob": 0.15199777483940125
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 20.56,
+      "end": 24.96,
+      "text": " there will be a safety car.",
+      "tokens": [
+        51392,
+        456,
+        486,
+        312,
+        257,
+        4514,
+        1032,
+        13,
+        51612
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25177389925176447,
+      "compression_ratio": 1.3898305084745763,
+      "no_speech_prob": 0.15199777483940125
+    },
+    {
+      "id": 3,
+      "seek": 2496,
+      "start": 24.96,
+      "end": 29.76,
+      "text": " Then the safety car is deployed.",
+      "tokens": [
+        50364,
+        1396,
+        264,
+        4514,
+        1032,
+        307,
+        17826,
+        13,
+        50604
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5983621597290039,
+      "compression_ratio": 0.8,
+      "no_speech_prob": 0.5814979076385498
+    }
+  ],
+  "language": "en"
+}

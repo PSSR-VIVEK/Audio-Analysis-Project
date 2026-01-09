@@ -1,0 +1,182 @@
+{
+  "text": " You had any pets before? Here, heard, heard. I can't hear you. I heard the news on the radio. They have heard that you're getting married. Keep kept kept. I'm going to keep this forever. They kept their important documents in a folder.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.8000000000000003,
+      "text": " You had any pets before?",
+      "tokens": [
+        50364,
+        509,
+        632,
+        604,
+        19897,
+        949,
+        30,
+        50504
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30241674990267364,
+      "compression_ratio": 1.4779874213836477,
+      "no_speech_prob": 0.11381585150957108
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.8000000000000003,
+      "end": 6.76,
+      "text": " Here, heard, heard.",
+      "tokens": [
+        50504,
+        1692,
+        11,
+        2198,
+        11,
+        2198,
+        13,
+        50702
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30241674990267364,
+      "compression_ratio": 1.4779874213836477,
+      "no_speech_prob": 0.11381585150957108
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.76,
+      "end": 9.040000000000001,
+      "text": " I can't hear you.",
+      "tokens": [
+        50702,
+        286,
+        393,
+        380,
+        1568,
+        291,
+        13,
+        50816
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30241674990267364,
+      "compression_ratio": 1.4779874213836477,
+      "no_speech_prob": 0.11381585150957108
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 9.040000000000001,
+      "end": 12.48,
+      "text": " I heard the news on the radio.",
+      "tokens": [
+        50816,
+        286,
+        2198,
+        264,
+        2583,
+        322,
+        264,
+        6477,
+        13,
+        50988
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30241674990267364,
+      "compression_ratio": 1.4779874213836477,
+      "no_speech_prob": 0.11381585150957108
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 12.48,
+      "end": 17.04,
+      "text": " They have heard that you're getting married.",
+      "tokens": [
+        50988,
+        814,
+        362,
+        2198,
+        300,
+        291,
+        434,
+        1242,
+        5259,
+        13,
+        51216
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30241674990267364,
+      "compression_ratio": 1.4779874213836477,
+      "no_speech_prob": 0.11381585150957108
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 17.04,
+      "end": 20.72,
+      "text": " Keep kept kept.",
+      "tokens": [
+        51216,
+        5527,
+        4305,
+        4305,
+        13,
+        51400
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30241674990267364,
+      "compression_ratio": 1.4779874213836477,
+      "no_speech_prob": 0.11381585150957108
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 20.72,
+      "end": 24.0,
+      "text": " I'm going to keep this forever.",
+      "tokens": [
+        51400,
+        286,
+        478,
+        516,
+        281,
+        1066,
+        341,
+        5680,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30241674990267364,
+      "compression_ratio": 1.4779874213836477,
+      "no_speech_prob": 0.11381585150957108
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 24.0,
+      "end": 29.48,
+      "text": " They kept their important documents in a folder.",
+      "tokens": [
+        51564,
+        814,
+        4305,
+        641,
+        1021,
+        8512,
+        294,
+        257,
+        10820,
+        13,
+        51838
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30241674990267364,
+      "compression_ratio": 1.4779874213836477,
+      "no_speech_prob": 0.11381585150957108
+    }
+  ],
+  "language": "en"
+}

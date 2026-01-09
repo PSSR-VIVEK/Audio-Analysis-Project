@@ -1,0 +1,173 @@
+{
+  "text": " the thinkers and actually take the time to learn, read, do all that to research certain things. And one last point about this is that deep thinkers know that everyone has an agenda in YouTube. Me too. That's not necessarily a problem, but it's important to understand this. Everyone has an agenda.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 9.36,
+      "text": " the thinkers and actually take the time to learn, read, do all that to research certain",
+      "tokens": [
+        50364,
+        264,
+        37895,
+        293,
+        767,
+        747,
+        264,
+        565,
+        281,
+        1466,
+        11,
+        1401,
+        11,
+        360,
+        439,
+        300,
+        281,
+        2132,
+        1629,
+        50832
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2632209079366335,
+      "compression_ratio": 1.4918032786885247,
+      "no_speech_prob": 0.16866764426231384
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 9.36,
+      "end": 10.84,
+      "text": " things.",
+      "tokens": [
+        50832,
+        721,
+        13,
+        50906
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2632209079366335,
+      "compression_ratio": 1.4918032786885247,
+      "no_speech_prob": 0.16866764426231384
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.84,
+      "end": 21.04,
+      "text": " And one last point about this is that deep thinkers know that everyone has an agenda in",
+      "tokens": [
+        50906,
+        400,
+        472,
+        1036,
+        935,
+        466,
+        341,
+        307,
+        300,
+        2452,
+        37895,
+        458,
+        300,
+        1518,
+        575,
+        364,
+        9829,
+        294,
+        51416
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2632209079366335,
+      "compression_ratio": 1.4918032786885247,
+      "no_speech_prob": 0.16866764426231384
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 21.04,
+      "end": 22.04,
+      "text": " YouTube.",
+      "tokens": [
+        51416,
+        3088,
+        13,
+        51466
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2632209079366335,
+      "compression_ratio": 1.4918032786885247,
+      "no_speech_prob": 0.16866764426231384
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 22.04,
+      "end": 23.36,
+      "text": " Me too.",
+      "tokens": [
+        51466,
+        1923,
+        886,
+        13,
+        51532
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2632209079366335,
+      "compression_ratio": 1.4918032786885247,
+      "no_speech_prob": 0.16866764426231384
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 23.36,
+      "end": 28.44,
+      "text": " That's not necessarily a problem, but it's important to understand this.",
+      "tokens": [
+        51532,
+        663,
+        311,
+        406,
+        4725,
+        257,
+        1154,
+        11,
+        457,
+        309,
+        311,
+        1021,
+        281,
+        1223,
+        341,
+        13,
+        51786
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2632209079366335,
+      "compression_ratio": 1.4918032786885247,
+      "no_speech_prob": 0.16866764426231384
+    },
+    {
+      "id": 6,
+      "seek": 2844,
+      "start": 28.44,
+      "end": 30.0,
+      "text": " Everyone has an agenda.",
+      "tokens": [
+        50384,
+        5198,
+        575,
+        364,
+        9829,
+        13,
+        50442
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.818000853061676,
+      "compression_ratio": 0.7419354838709677,
+      "no_speech_prob": 0.16539251804351807
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,213 @@
+{
+  "text": " It can be less natural. Whereas when we hear someone speaking, they repeat themselves a lot, use the same words. They use simple speech a lot. So reading is a great challenge as well. And what's the purpose of it? Well, you're going to get exposure to this more formal language, a more formal register, a more refined language.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.68,
+      "text": " It can be less natural.",
+      "tokens": [
+        50364,
+        467,
+        393,
+        312,
+        1570,
+        3303,
+        13,
+        50548
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21765224232393152,
+      "compression_ratio": 1.51,
+      "no_speech_prob": 0.04062243923544884
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.68,
+      "end": 7.04,
+      "text": " Whereas when we hear someone speaking,",
+      "tokens": [
+        50548,
+        13813,
+        562,
+        321,
+        1568,
+        1580,
+        4124,
+        11,
+        50716
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21765224232393152,
+      "compression_ratio": 1.51,
+      "no_speech_prob": 0.04062243923544884
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.04,
+      "end": 10.84,
+      "text": " they repeat themselves a lot, use the same words.",
+      "tokens": [
+        50716,
+        436,
+        7149,
+        2969,
+        257,
+        688,
+        11,
+        764,
+        264,
+        912,
+        2283,
+        13,
+        50906
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21765224232393152,
+      "compression_ratio": 1.51,
+      "no_speech_prob": 0.04062243923544884
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.84,
+      "end": 13.32,
+      "text": " They use simple speech a lot.",
+      "tokens": [
+        50906,
+        814,
+        764,
+        2199,
+        6218,
+        257,
+        688,
+        13,
+        51030
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21765224232393152,
+      "compression_ratio": 1.51,
+      "no_speech_prob": 0.04062243923544884
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 13.32,
+      "end": 17.0,
+      "text": " So reading is a great challenge as well.",
+      "tokens": [
+        51030,
+        407,
+        3760,
+        307,
+        257,
+        869,
+        3430,
+        382,
+        731,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21765224232393152,
+      "compression_ratio": 1.51,
+      "no_speech_prob": 0.04062243923544884
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 17.0,
+      "end": 19.64,
+      "text": " And what's the purpose of it?",
+      "tokens": [
+        51214,
+        400,
+        437,
+        311,
+        264,
+        4334,
+        295,
+        309,
+        30,
+        51346
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21765224232393152,
+      "compression_ratio": 1.51,
+      "no_speech_prob": 0.04062243923544884
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 19.64,
+      "end": 21.92,
+      "text": " Well, you're going to get exposure",
+      "tokens": [
+        51346,
+        1042,
+        11,
+        291,
+        434,
+        516,
+        281,
+        483,
+        10420,
+        51460
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21765224232393152,
+      "compression_ratio": 1.51,
+      "no_speech_prob": 0.04062243923544884
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 21.92,
+      "end": 27.64,
+      "text": " to this more formal language, a more formal register,",
+      "tokens": [
+        51460,
+        281,
+        341,
+        544,
+        9860,
+        2856,
+        11,
+        257,
+        544,
+        9860,
+        7280,
+        11,
+        51746
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21765224232393152,
+      "compression_ratio": 1.51,
+      "no_speech_prob": 0.04062243923544884
+    },
+    {
+      "id": 8,
+      "seek": 2764,
+      "start": 27.64,
+      "end": 30.080000000000002,
+      "text": " a more refined language.",
+      "tokens": [
+        50364,
+        257,
+        544,
+        26201,
+        2856,
+        13,
+        50486
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.49647027254104614,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.012625821866095066
+    }
+  ],
+  "language": "en"
+}

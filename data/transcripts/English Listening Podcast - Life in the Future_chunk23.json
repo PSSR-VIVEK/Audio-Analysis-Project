@@ -1,0 +1,205 @@
+{
+  "text": " But I disagree. I think that English is already so embedded all around the world in different industries the internet travel It's so important already that it will be very hard to Reverse that or for another language to take its place I'm not saying",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.46,
+      "text": " But I disagree. I think that English is already so",
+      "tokens": [
+        50364,
+        583,
+        286,
+        14091,
+        13,
+        286,
+        519,
+        300,
+        3669,
+        307,
+        1217,
+        370,
+        50587
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48251492426945614,
+      "compression_ratio": 1.453416149068323,
+      "no_speech_prob": 0.1721697300672531
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.66,
+      "end": 6.9,
+      "text": " embedded",
+      "tokens": [
+        50647,
+        16741,
+        50709
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48251492426945614,
+      "compression_ratio": 1.453416149068323,
+      "no_speech_prob": 0.1721697300672531
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.9,
+      "end": 8.9,
+      "text": " all around the world in",
+      "tokens": [
+        50709,
+        439,
+        926,
+        264,
+        1002,
+        294,
+        50809
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48251492426945614,
+      "compression_ratio": 1.453416149068323,
+      "no_speech_prob": 0.1721697300672531
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.040000000000001,
+      "end": 11.540000000000001,
+      "text": " different",
+      "tokens": [
+        50866,
+        819,
+        50941
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48251492426945614,
+      "compression_ratio": 1.453416149068323,
+      "no_speech_prob": 0.1721697300672531
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 11.540000000000001,
+      "end": 13.040000000000001,
+      "text": " industries",
+      "tokens": [
+        50941,
+        13284,
+        51016
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48251492426945614,
+      "compression_ratio": 1.453416149068323,
+      "no_speech_prob": 0.1721697300672531
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 13.040000000000001,
+      "end": 15.040000000000001,
+      "text": " the internet",
+      "tokens": [
+        51016,
+        264,
+        4705,
+        51116
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48251492426945614,
+      "compression_ratio": 1.453416149068323,
+      "no_speech_prob": 0.1721697300672531
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 15.040000000000001,
+      "end": 16.28,
+      "text": " travel",
+      "tokens": [
+        51116,
+        3147,
+        51178
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48251492426945614,
+      "compression_ratio": 1.453416149068323,
+      "no_speech_prob": 0.1721697300672531
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 16.28,
+      "end": 21.96,
+      "text": " It's so important already that it will be very hard to",
+      "tokens": [
+        51178,
+        467,
+        311,
+        370,
+        1021,
+        1217,
+        300,
+        309,
+        486,
+        312,
+        588,
+        1152,
+        281,
+        51462
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48251492426945614,
+      "compression_ratio": 1.453416149068323,
+      "no_speech_prob": 0.1721697300672531
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 22.56,
+      "end": 27.64,
+      "text": " Reverse that or for another language to take its place",
+      "tokens": [
+        51492,
+        26314,
+        405,
+        300,
+        420,
+        337,
+        1071,
+        2856,
+        281,
+        747,
+        1080,
+        1081,
+        51746
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48251492426945614,
+      "compression_ratio": 1.453416149068323,
+      "no_speech_prob": 0.1721697300672531
+    },
+    {
+      "id": 9,
+      "seek": 2764,
+      "start": 27.64,
+      "end": 30.48,
+      "text": " I'm not saying",
+      "tokens": [
+        50406,
+        286,
+        478,
+        406,
+        1566,
+        50506
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5535667623792376,
+      "compression_ratio": 0.6363636363636364,
+      "no_speech_prob": 0.16944648325443268
+    }
+  ],
+  "language": "en"
+}

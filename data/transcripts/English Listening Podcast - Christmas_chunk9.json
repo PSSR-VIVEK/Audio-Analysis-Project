@@ -1,0 +1,93 @@
+{
+  "text": " that most people celebrate whether or not they regard the religious aspect of it. So it's still big just in society beyond just the religious population. So there is the religious significance, the reason for the holiday.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 11.0,
+      "text": " that most people celebrate whether or not they regard the religious aspect of it.",
+      "tokens": [
+        50364,
+        300,
+        881,
+        561,
+        8098,
+        1968,
+        420,
+        406,
+        436,
+        3843,
+        264,
+        7185,
+        4171,
+        295,
+        309,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20840227944510323,
+      "compression_ratio": 1.3539823008849559,
+      "no_speech_prob": 0.18789555132389069
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 11.0,
+      "end": 24.0,
+      "text": " So it's still big just in society beyond just the religious population.",
+      "tokens": [
+        50914,
+        407,
+        309,
+        311,
+        920,
+        955,
+        445,
+        294,
+        4086,
+        4399,
+        445,
+        264,
+        7185,
+        4415,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20840227944510323,
+      "compression_ratio": 1.3539823008849559,
+      "no_speech_prob": 0.18789555132389069
+    },
+    {
+      "id": 2,
+      "seek": 2400,
+      "start": 24.0,
+      "end": 30.0,
+      "text": " So there is the religious significance, the reason for the holiday.",
+      "tokens": [
+        50364,
+        407,
+        456,
+        307,
+        264,
+        7185,
+        17687,
+        11,
+        264,
+        1778,
+        337,
+        264,
+        9960,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14939740300178528,
+      "compression_ratio": 1.046875,
+      "no_speech_prob": 0.033242784440517426
+    }
+  ],
+  "language": "en"
+}

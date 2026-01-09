@@ -1,0 +1,191 @@
+{
+  "text": " make fun of you and criticize your accent. No, don't be afraid of that. Just know that this is normal. And try to correct the significant errors. But most of your pronunciation errors are not significant. And one other reason why people are afraid to speak English is because they feel that they get stuck by crazy.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.24,
+      "text": " make fun of you and criticize your accent.",
+      "tokens": [
+        50364,
+        652,
+        1019,
+        295,
+        291,
+        293,
+        31010,
+        428,
+        11982,
+        13,
+        50576
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24190357403877455,
+      "compression_ratio": 1.5326633165829147,
+      "no_speech_prob": 0.29322758316993713
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.24,
+      "end": 6.72,
+      "text": " No, don't be afraid of that.",
+      "tokens": [
+        50576,
+        883,
+        11,
+        500,
+        380,
+        312,
+        4638,
+        295,
+        300,
+        13,
+        50700
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24190357403877455,
+      "compression_ratio": 1.5326633165829147,
+      "no_speech_prob": 0.29322758316993713
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.72,
+      "end": 9.84,
+      "text": " Just know that this is normal.",
+      "tokens": [
+        50700,
+        1449,
+        458,
+        300,
+        341,
+        307,
+        2710,
+        13,
+        50856
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24190357403877455,
+      "compression_ratio": 1.5326633165829147,
+      "no_speech_prob": 0.29322758316993713
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 9.84,
+      "end": 15.16,
+      "text": " And try to correct the significant errors.",
+      "tokens": [
+        50856,
+        400,
+        853,
+        281,
+        3006,
+        264,
+        4776,
+        13603,
+        13,
+        51122
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24190357403877455,
+      "compression_ratio": 1.5326633165829147,
+      "no_speech_prob": 0.29322758316993713
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 15.4,
+      "end": 20.400000000000002,
+      "text": " But most of your pronunciation errors are not significant.",
+      "tokens": [
+        51134,
+        583,
+        881,
+        295,
+        428,
+        23338,
+        13603,
+        366,
+        406,
+        4776,
+        13,
+        51384
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24190357403877455,
+      "compression_ratio": 1.5326633165829147,
+      "no_speech_prob": 0.29322758316993713
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 21.44,
+      "end": 25.560000000000002,
+      "text": " And one other reason why people are afraid to speak English",
+      "tokens": [
+        51436,
+        400,
+        472,
+        661,
+        1778,
+        983,
+        561,
+        366,
+        4638,
+        281,
+        1710,
+        3669,
+        51642
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24190357403877455,
+      "compression_ratio": 1.5326633165829147,
+      "no_speech_prob": 0.29322758316993713
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 25.560000000000002,
+      "end": 29.400000000000002,
+      "text": " is because they feel that they get stuck",
+      "tokens": [
+        51642,
+        307,
+        570,
+        436,
+        841,
+        300,
+        436,
+        483,
+        5541,
+        51834
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24190357403877455,
+      "compression_ratio": 1.5326633165829147,
+      "no_speech_prob": 0.29322758316993713
+    },
+    {
+      "id": 7,
+      "seek": 2940,
+      "start": 29.4,
+      "end": 30.72,
+      "text": " by crazy.",
+      "tokens": [
+        50364,
+        538,
+        3219,
+        13,
+        50430
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.8536532719930012,
+      "compression_ratio": 0.5294117647058824,
+      "no_speech_prob": 0.19672957062721252
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,150 @@
+{
+  "text": " just be aware that people respond differently to different body language, but that's another important thing to incorporate into your conversations. Another one, another tip that I have is to practice with your segues and transitions. A segway is a transition between one thing and another.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.7,
+      "text": " just be aware that people respond differently to different body language, but that's another",
+      "tokens": [
+        50364,
+        445,
+        312,
+        3650,
+        300,
+        561,
+        4196,
+        7614,
+        281,
+        819,
+        1772,
+        2856,
+        11,
+        457,
+        300,
+        311,
+        1071,
+        50699
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4387882868448893,
+      "compression_ratio": 1.5987654320987654,
+      "no_speech_prob": 0.027009468525648117
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.2,
+      "end": 11.72,
+      "text": " important thing to incorporate into your conversations.",
+      "tokens": [
+        50724,
+        1021,
+        551,
+        281,
+        16091,
+        666,
+        428,
+        7315,
+        13,
+        50950
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4387882868448893,
+      "compression_ratio": 1.5987654320987654,
+      "no_speech_prob": 0.027009468525648117
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 12.6,
+      "end": 18.94,
+      "text": " Another one, another tip that I have is to practice with your",
+      "tokens": [
+        50994,
+        3996,
+        472,
+        11,
+        1071,
+        4125,
+        300,
+        286,
+        362,
+        307,
+        281,
+        3124,
+        365,
+        428,
+        51311
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4387882868448893,
+      "compression_ratio": 1.5987654320987654,
+      "no_speech_prob": 0.027009468525648117
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 19.8,
+      "end": 24.52,
+      "text": " segues and transitions. A segway is a",
+      "tokens": [
+        51354,
+        3896,
+        1247,
+        293,
+        23767,
+        13,
+        316,
+        3896,
+        676,
+        307,
+        257,
+        51590
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4387882868448893,
+      "compression_ratio": 1.5987654320987654,
+      "no_speech_prob": 0.027009468525648117
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 25.52,
+      "end": 27.04,
+      "text": " transition",
+      "tokens": [
+        51640,
+        6034,
+        51716
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4387882868448893,
+      "compression_ratio": 1.5987654320987654,
+      "no_speech_prob": 0.027009468525648117
+    },
+    {
+      "id": 5,
+      "seek": 2704,
+      "start": 27.04,
+      "end": 29.16,
+      "text": " between one thing and another.",
+      "tokens": [
+        50370,
+        1296,
+        472,
+        551,
+        293,
+        1071,
+        13,
+        50470
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5266329447428385,
+      "compression_ratio": 0.8333333333333334,
+      "no_speech_prob": 0.032602377235889435
+    }
+  ],
+  "language": "en"
+}

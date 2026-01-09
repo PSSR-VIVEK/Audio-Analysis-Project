@@ -1,0 +1,171 @@
+{
+  "text": " food that people eat has gotten worse over the years. If you look at many traditional diets around the world, in communities that are more isolated and don't have a lot of contact with industrialization, you see that their diets are much better and their health is much better than just the average person.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " food that people eat has gotten worse over the years.",
+      "tokens": [
+        50364,
+        1755,
+        300,
+        561,
+        1862,
+        575,
+        5768,
+        5324,
+        670,
+        264,
+        924,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22556397494147806,
+      "compression_ratio": 1.5681818181818181,
+      "no_speech_prob": 0.25195637345314026
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.16,
+      "end": 11.16,
+      "text": " If you look at many traditional diets around the world,",
+      "tokens": [
+        50672,
+        759,
+        291,
+        574,
+        412,
+        867,
+        5164,
+        33867,
+        926,
+        264,
+        1002,
+        11,
+        50922
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22556397494147806,
+      "compression_ratio": 1.5681818181818181,
+      "no_speech_prob": 0.25195637345314026
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.16,
+      "end": 15.32,
+      "text": " in communities that are more isolated",
+      "tokens": [
+        50922,
+        294,
+        4456,
+        300,
+        366,
+        544,
+        14621,
+        51130
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22556397494147806,
+      "compression_ratio": 1.5681818181818181,
+      "no_speech_prob": 0.25195637345314026
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 15.32,
+      "end": 20.32,
+      "text": " and don't have a lot of contact with industrialization,",
+      "tokens": [
+        51130,
+        293,
+        500,
+        380,
+        362,
+        257,
+        688,
+        295,
+        3385,
+        365,
+        9987,
+        2144,
+        11,
+        51380
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22556397494147806,
+      "compression_ratio": 1.5681818181818181,
+      "no_speech_prob": 0.25195637345314026
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 21.44,
+      "end": 25.0,
+      "text": " you see that their diets are much better",
+      "tokens": [
+        51436,
+        291,
+        536,
+        300,
+        641,
+        33867,
+        366,
+        709,
+        1101,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22556397494147806,
+      "compression_ratio": 1.5681818181818181,
+      "no_speech_prob": 0.25195637345314026
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 25.0,
+      "end": 27.72,
+      "text": " and their health is much better",
+      "tokens": [
+        51614,
+        293,
+        641,
+        1585,
+        307,
+        709,
+        1101,
+        51750
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22556397494147806,
+      "compression_ratio": 1.5681818181818181,
+      "no_speech_prob": 0.25195637345314026
+    },
+    {
+      "id": 6,
+      "seek": 2772,
+      "start": 27.72,
+      "end": 30.119999999999997,
+      "text": " than just the average person.",
+      "tokens": [
+        50364,
+        813,
+        445,
+        264,
+        4274,
+        954,
+        13,
+        50484
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5152562459309896,
+      "compression_ratio": 0.7837837837837838,
+      "no_speech_prob": 0.012666365131735802
+    }
+  ],
+  "language": "en"
+}

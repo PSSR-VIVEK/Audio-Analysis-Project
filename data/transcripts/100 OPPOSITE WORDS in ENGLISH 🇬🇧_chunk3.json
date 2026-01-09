@@ -1,0 +1,69 @@
+{
+  "text": " tremolo, strange, tiny, huge, total, partial, empty, full, clean, dirty, elegant, scruffy, curly, straight, beautiful,",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 22.16,
+      "text": " tremolo, strange, tiny, huge, total, partial, empty, full, clean, dirty, elegant,",
+      "tokens": [
+        50364,
+        7813,
+        7902,
+        11,
+        5861,
+        11,
+        5870,
+        11,
+        2603,
+        11,
+        3217,
+        11,
+        14641,
+        11,
+        6707,
+        11,
+        1577,
+        11,
+        2541,
+        11,
+        9360,
+        11,
+        21117,
+        11,
+        51472
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3402905993991428,
+      "compression_ratio": 1.1408450704225352,
+      "no_speech_prob": 0.5110955834388733
+    },
+    {
+      "id": 1,
+      "seek": 2216,
+      "start": 22.16,
+      "end": 31.759999999999998,
+      "text": " scruffy, curly, straight, beautiful,",
+      "tokens": [
+        50364,
+        795,
+        50154,
+        88,
+        11,
+        32066,
+        11,
+        2997,
+        11,
+        2238,
+        11,
+        50844
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5858678084153396,
+      "compression_ratio": 0.8571428571428571,
+      "no_speech_prob": 0.17931833863258362
+    }
+  ],
+  "language": "en"
+}

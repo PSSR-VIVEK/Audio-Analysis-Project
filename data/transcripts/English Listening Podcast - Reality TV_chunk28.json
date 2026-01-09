@@ -1,0 +1,130 @@
+{
+  "text": " winners of American Idol actually became well known artists afterwards. So some people that won this competition went on to have a great career as a famous singer or whatever. So American Idol helped propel some people into great careers afterwards. And someone is...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 8.32,
+      "text": " winners of American Idol actually became well known artists afterwards.",
+      "tokens": [
+        50364,
+        17193,
+        295,
+        2665,
+        33266,
+        767,
+        3062,
+        731,
+        2570,
+        6910,
+        10543,
+        13,
+        50780
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.261711276661266,
+      "compression_ratio": 1.6168831168831168,
+      "no_speech_prob": 0.14010879397392273
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 8.32,
+      "end": 19.0,
+      "text": " So some people that won this competition went on to have a great career as a famous singer",
+      "tokens": [
+        50780,
+        407,
+        512,
+        561,
+        300,
+        1582,
+        341,
+        6211,
+        1437,
+        322,
+        281,
+        362,
+        257,
+        869,
+        3988,
+        382,
+        257,
+        4618,
+        11564,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.261711276661266,
+      "compression_ratio": 1.6168831168831168,
+      "no_speech_prob": 0.14010879397392273
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 19.0,
+      "end": 20.0,
+      "text": " or whatever.",
+      "tokens": [
+        51314,
+        420,
+        2035,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.261711276661266,
+      "compression_ratio": 1.6168831168831168,
+      "no_speech_prob": 0.14010879397392273
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 20.0,
+      "end": 28.72,
+      "text": " So American Idol helped propel some people into great careers afterwards.",
+      "tokens": [
+        51364,
+        407,
+        2665,
+        33266,
+        4254,
+        2365,
+        338,
+        512,
+        561,
+        666,
+        869,
+        16409,
+        10543,
+        13,
+        51800
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.261711276661266,
+      "compression_ratio": 1.6168831168831168,
+      "no_speech_prob": 0.14010879397392273
+    },
+    {
+      "id": 4,
+      "seek": 2872,
+      "start": 28.72,
+      "end": 30.0,
+      "text": " And someone is...",
+      "tokens": [
+        50364,
+        400,
+        1580,
+        307,
+        485,
+        50428
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.968700817653111,
+      "compression_ratio": 0.68,
+      "no_speech_prob": 0.5213236808776855
+    }
+  ],
+  "language": "en"
+}

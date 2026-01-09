@@ -1,0 +1,93 @@
+{
+  "text": " 15 in Q2 and the final 10 participate in Q3. The slowest drivers are eliminated after each round until they reach Q3 where only 10 drivers remain. The best driver who drives the fastest secure hole",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 13.52,
+      "text": " 15 in Q2 and the final 10 participate in Q3. The slowest drivers are eliminated after each round",
+      "tokens": [
+        50364,
+        2119,
+        294,
+        1249,
+        17,
+        293,
+        264,
+        2572,
+        1266,
+        8197,
+        294,
+        1249,
+        18,
+        13,
+        440,
+        2964,
+        377,
+        11590,
+        366,
+        20308,
+        934,
+        1184,
+        3098,
+        51040
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16653061949688455,
+      "compression_ratio": 1.4122137404580153,
+      "no_speech_prob": 0.029274161905050278
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 14.08,
+      "end": 27.2,
+      "text": " until they reach Q3 where only 10 drivers remain. The best driver who drives the fastest",
+      "tokens": [
+        51068,
+        1826,
+        436,
+        2524,
+        1249,
+        18,
+        689,
+        787,
+        1266,
+        11590,
+        6222,
+        13,
+        440,
+        1151,
+        6787,
+        567,
+        11754,
+        264,
+        14573,
+        51724
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16653061949688455,
+      "compression_ratio": 1.4122137404580153,
+      "no_speech_prob": 0.029274161905050278
+    },
+    {
+      "id": 2,
+      "seek": 2720,
+      "start": 27.2,
+      "end": 29.98,
+      "text": " secure hole",
+      "tokens": [
+        50408,
+        7144,
+        5458,
+        50503
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3528303146362304,
+      "compression_ratio": 0.5789473684210527,
+      "no_speech_prob": 0.4703364074230194
+    }
+  ],
+  "language": "en"
+}

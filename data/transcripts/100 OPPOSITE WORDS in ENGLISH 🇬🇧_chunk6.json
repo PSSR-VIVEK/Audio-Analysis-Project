@@ -1,0 +1,56 @@
+{
+  "text": " Wheeling reluctant dark light clear ambiguous scarves Plentyful wet dry graceful awkward confident shy rich",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 14.0,
+      "text": " Wheeling reluctant dark light clear ambiguous scarves",
+      "tokens": [
+        50364,
+        17040,
+        11031,
+        33677,
+        2877,
+        1442,
+        1850,
+        39465,
+        10569,
+        977,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7053187443659856,
+      "compression_ratio": 0.9298245614035088,
+      "no_speech_prob": 0.04695173725485802
+    },
+    {
+      "id": 1,
+      "seek": 1400,
+      "start": 14.0,
+      "end": 29.0,
+      "text": " Plentyful wet dry graceful awkward confident shy rich",
+      "tokens": [
+        50364,
+        2149,
+        4179,
+        906,
+        6630,
+        4016,
+        10042,
+        906,
+        11411,
+        6679,
+        12685,
+        4593,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7869797434125628,
+      "compression_ratio": 0.9137931034482759,
+      "no_speech_prob": 0.21192745864391327
+    }
+  ],
+  "language": "en"
+}

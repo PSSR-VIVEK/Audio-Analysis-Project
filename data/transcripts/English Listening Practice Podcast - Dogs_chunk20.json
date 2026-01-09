@@ -1,0 +1,193 @@
+{
+  "text": " and you go out onto the water. I did that with this dog with me. So she was standing on this board with me in the bay on the water. So that was probably my best memory of her doing that stand-up paddle with her. So she was very portable. So it was interesting to take her to some...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.48,
+      "text": " and you go out onto the water.",
+      "tokens": [
+        50364,
+        293,
+        291,
+        352,
+        484,
+        3911,
+        264,
+        1281,
+        13,
+        50538
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15894102070429553,
+      "compression_ratio": 1.6344827586206896,
+      "no_speech_prob": 0.09409807622432709
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.48,
+      "end": 7.32,
+      "text": " I did that with this dog with me.",
+      "tokens": [
+        50538,
+        286,
+        630,
+        300,
+        365,
+        341,
+        3000,
+        365,
+        385,
+        13,
+        50730
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15894102070429553,
+      "compression_ratio": 1.6344827586206896,
+      "no_speech_prob": 0.09409807622432709
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.32,
+      "end": 12.32,
+      "text": " So she was standing on this board with me",
+      "tokens": [
+        50730,
+        407,
+        750,
+        390,
+        4877,
+        322,
+        341,
+        3150,
+        365,
+        385,
+        50980
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15894102070429553,
+      "compression_ratio": 1.6344827586206896,
+      "no_speech_prob": 0.09409807622432709
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.32,
+      "end": 15.92,
+      "text": " in the bay on the water.",
+      "tokens": [
+        51030,
+        294,
+        264,
+        13642,
+        322,
+        264,
+        1281,
+        13,
+        51160
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15894102070429553,
+      "compression_ratio": 1.6344827586206896,
+      "no_speech_prob": 0.09409807622432709
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 15.92,
+      "end": 20.32,
+      "text": " So that was probably my best memory of her",
+      "tokens": [
+        51160,
+        407,
+        300,
+        390,
+        1391,
+        452,
+        1151,
+        4675,
+        295,
+        720,
+        51380
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15894102070429553,
+      "compression_ratio": 1.6344827586206896,
+      "no_speech_prob": 0.09409807622432709
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 20.32,
+      "end": 23.56,
+      "text": " doing that stand-up paddle with her.",
+      "tokens": [
+        51380,
+        884,
+        300,
+        1463,
+        12,
+        1010,
+        31834,
+        365,
+        720,
+        13,
+        51542
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15894102070429553,
+      "compression_ratio": 1.6344827586206896,
+      "no_speech_prob": 0.09409807622432709
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 23.56,
+      "end": 26.36,
+      "text": " So she was very portable.",
+      "tokens": [
+        51542,
+        407,
+        750,
+        390,
+        588,
+        21800,
+        13,
+        51682
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15894102070429553,
+      "compression_ratio": 1.6344827586206896,
+      "no_speech_prob": 0.09409807622432709
+    },
+    {
+      "id": 7,
+      "seek": 2636,
+      "start": 26.36,
+      "end": 30.28,
+      "text": " So it was interesting to take her to some...",
+      "tokens": [
+        50364,
+        407,
+        309,
+        390,
+        1880,
+        281,
+        747,
+        720,
+        281,
+        512,
+        485,
+        50560
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5482655305128831,
+      "compression_ratio": 0.8979591836734694,
+      "no_speech_prob": 0.0141227338463068
+    }
+  ],
+  "language": "en"
+}

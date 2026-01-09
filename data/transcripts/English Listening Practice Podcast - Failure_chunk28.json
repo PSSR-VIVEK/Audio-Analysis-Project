@@ -1,0 +1,193 @@
+{
+  "text": " I would be really good and I would be a natural industry. And so that was not the case. And I should have known that beforehand. I shouldn't have committed to going to this program and trying to become a filmmaker because I didn't really know anything about this. I committed to this without knowing much. So that was...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " I would be really good and I would be a natural industry.",
+      "tokens": [
+        50364,
+        286,
+        576,
+        312,
+        534,
+        665,
+        293,
+        286,
+        576,
+        312,
+        257,
+        3303,
+        3518,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.184354275087767,
+      "compression_ratio": 1.6850828729281768,
+      "no_speech_prob": 0.028552118688821793
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.2,
+      "end": 9.36,
+      "text": " And so that was not the case.",
+      "tokens": [
+        50674,
+        400,
+        370,
+        300,
+        390,
+        406,
+        264,
+        1389,
+        13,
+        50832
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.184354275087767,
+      "compression_ratio": 1.6850828729281768,
+      "no_speech_prob": 0.028552118688821793
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.36,
+      "end": 12.56,
+      "text": " And I should have known that beforehand.",
+      "tokens": [
+        50832,
+        400,
+        286,
+        820,
+        362,
+        2570,
+        300,
+        22893,
+        13,
+        50992
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.184354275087767,
+      "compression_ratio": 1.6850828729281768,
+      "no_speech_prob": 0.028552118688821793
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 12.56,
+      "end": 17.56,
+      "text": " I shouldn't have committed to going to this program",
+      "tokens": [
+        50992,
+        286,
+        4659,
+        380,
+        362,
+        7784,
+        281,
+        516,
+        281,
+        341,
+        1461,
+        51242
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.184354275087767,
+      "compression_ratio": 1.6850828729281768,
+      "no_speech_prob": 0.028552118688821793
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 18.12,
+      "end": 20.88,
+      "text": " and trying to become a filmmaker",
+      "tokens": [
+        51270,
+        293,
+        1382,
+        281,
+        1813,
+        257,
+        34700,
+        51408
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.184354275087767,
+      "compression_ratio": 1.6850828729281768,
+      "no_speech_prob": 0.028552118688821793
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 20.88,
+      "end": 25.0,
+      "text": " because I didn't really know anything about this.",
+      "tokens": [
+        51408,
+        570,
+        286,
+        994,
+        380,
+        534,
+        458,
+        1340,
+        466,
+        341,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.184354275087767,
+      "compression_ratio": 1.6850828729281768,
+      "no_speech_prob": 0.028552118688821793
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 25.0,
+      "end": 29.080000000000002,
+      "text": " I committed to this without knowing much.",
+      "tokens": [
+        51614,
+        286,
+        7784,
+        281,
+        341,
+        1553,
+        5276,
+        709,
+        13,
+        51818
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.184354275087767,
+      "compression_ratio": 1.6850828729281768,
+      "no_speech_prob": 0.028552118688821793
+    },
+    {
+      "id": 7,
+      "seek": 2908,
+      "start": 29.08,
+      "end": 30.08,
+      "text": " So that was...",
+      "tokens": [
+        50364,
+        407,
+        300,
+        390,
+        485,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.56573486328125,
+      "compression_ratio": 0.6363636363636364,
+      "no_speech_prob": 0.015661992132663727
+    }
+  ],
+  "language": "en"
+}

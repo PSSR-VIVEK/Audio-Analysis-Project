@@ -1,0 +1,184 @@
+{
+  "text": " why pronouns, right? E, U, etc. So for example, in John 832, Jesus says, and he shall know the truth, and the truth shall make you free. So you see there that he uses E as the subject, and then he uses U as an...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.18,
+      "text": " why pronouns, right?",
+      "tokens": [
+        50364,
+        983,
+        35883,
+        11,
+        558,
+        30,
+        50523
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3377296274358576,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.13624536991119385
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.18,
+      "end": 6.0,
+      "text": " E, U, etc.",
+      "tokens": [
+        50523,
+        462,
+        11,
+        624,
+        11,
+        5183,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3377296274358576,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.13624536991119385
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.0,
+      "end": 11.0,
+      "text": " So for example, in John 832,",
+      "tokens": [
+        50664,
+        407,
+        337,
+        1365,
+        11,
+        294,
+        2619,
+        1649,
+        11440,
+        11,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3377296274358576,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.13624536991119385
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.32,
+      "end": 12.64,
+      "text": " Jesus says,",
+      "tokens": [
+        50930,
+        2705,
+        1619,
+        11,
+        50996
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3377296274358576,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.13624536991119385
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 12.64,
+      "end": 15.040000000000001,
+      "text": " and he shall know the truth,",
+      "tokens": [
+        50996,
+        293,
+        415,
+        4393,
+        458,
+        264,
+        3494,
+        11,
+        51116
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3377296274358576,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.13624536991119385
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 15.040000000000001,
+      "end": 18.52,
+      "text": " and the truth shall make you free.",
+      "tokens": [
+        51116,
+        293,
+        264,
+        3494,
+        4393,
+        652,
+        291,
+        1737,
+        13,
+        51290
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3377296274358576,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.13624536991119385
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 18.52,
+      "end": 23.52,
+      "text": " So you see there that he uses E as the subject,",
+      "tokens": [
+        51290,
+        407,
+        291,
+        536,
+        456,
+        300,
+        415,
+        4960,
+        462,
+        382,
+        264,
+        3983,
+        11,
+        51540
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3377296274358576,
+      "compression_ratio": 1.3333333333333333,
+      "no_speech_prob": 0.13624536991119385
+    },
+    {
+      "id": 7,
+      "seek": 2352,
+      "start": 23.52,
+      "end": 30.52,
+      "text": " and then he uses U as an...",
+      "tokens": [
+        50364,
+        293,
+        550,
+        415,
+        4960,
+        624,
+        382,
+        364,
+        485,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.738456899469549,
+      "compression_ratio": 0.7714285714285715,
+      "no_speech_prob": 0.00929320603609085
+    }
+  ],
+  "language": "en"
+}

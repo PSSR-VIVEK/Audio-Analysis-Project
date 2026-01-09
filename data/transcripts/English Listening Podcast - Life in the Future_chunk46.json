@@ -1,0 +1,167 @@
+{
+  "text": " treating our declining health, unfortunately. And I'm sure that there will be some breakthroughs in curing certain serious conditions. The word breakthrough refers to when there is suddenly this big change or discovery during some process and it really helps things move a lot faster or changes things completely.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.8,
+      "text": " treating our declining health, unfortunately.",
+      "tokens": [
+        50364,
+        15083,
+        527,
+        34298,
+        1585,
+        11,
+        7015,
+        13,
+        50604
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18767364208514875,
+      "compression_ratio": 1.4973544973544974,
+      "no_speech_prob": 0.08469941467046738
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.8,
+      "end": 9.040000000000001,
+      "text": " And I'm sure that there will be some breakthroughs",
+      "tokens": [
+        50604,
+        400,
+        286,
+        478,
+        988,
+        300,
+        456,
+        486,
+        312,
+        512,
+        22397,
+        82,
+        50816
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18767364208514875,
+      "compression_ratio": 1.4973544973544974,
+      "no_speech_prob": 0.08469941467046738
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.040000000000001,
+      "end": 12.96,
+      "text": " in curing certain serious conditions.",
+      "tokens": [
+        50816,
+        294,
+        1262,
+        278,
+        1629,
+        3156,
+        4487,
+        13,
+        51012
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18767364208514875,
+      "compression_ratio": 1.4973544973544974,
+      "no_speech_prob": 0.08469941467046738
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 12.96,
+      "end": 17.96,
+      "text": " The word breakthrough refers to when there is suddenly",
+      "tokens": [
+        51012,
+        440,
+        1349,
+        22397,
+        14942,
+        281,
+        562,
+        456,
+        307,
+        5800,
+        51262
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18767364208514875,
+      "compression_ratio": 1.4973544973544974,
+      "no_speech_prob": 0.08469941467046738
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 18.48,
+      "end": 23.48,
+      "text": " this big change or discovery during some process",
+      "tokens": [
+        51288,
+        341,
+        955,
+        1319,
+        420,
+        12114,
+        1830,
+        512,
+        1399,
+        51538
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18767364208514875,
+      "compression_ratio": 1.4973544973544974,
+      "no_speech_prob": 0.08469941467046738
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 24.68,
+      "end": 28.16,
+      "text": " and it really helps things move a lot faster",
+      "tokens": [
+        51598,
+        293,
+        309,
+        534,
+        3665,
+        721,
+        1286,
+        257,
+        688,
+        4663,
+        51772
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18767364208514875,
+      "compression_ratio": 1.4973544973544974,
+      "no_speech_prob": 0.08469941467046738
+    },
+    {
+      "id": 6,
+      "seek": 2816,
+      "start": 28.16,
+      "end": 30.16,
+      "text": " or changes things completely.",
+      "tokens": [
+        50364,
+        420,
+        2962,
+        721,
+        2584,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7133381366729736,
+      "compression_ratio": 0.7837837837837838,
+      "no_speech_prob": 0.19899973273277283
+    }
+  ],
+  "language": "en"
+}

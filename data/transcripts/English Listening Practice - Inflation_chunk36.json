@@ -1,0 +1,180 @@
+{
+  "text": " around 400% inflation. That's really, really high. So imagine prices today being 400% what they were last year. That's not a good situation, of course. In the country of Lebanon, recently there was over 250% inflation, really, really high.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.8000000000000003,
+      "text": " around 400% inflation.",
+      "tokens": [
+        50364,
+        926,
+        8423,
+        4,
+        15860,
+        13,
+        50554
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2824047088623047,
+      "compression_ratio": 1.3885350318471337,
+      "no_speech_prob": 0.04166436195373535
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.8000000000000003,
+      "end": 6.4,
+      "text": " That's really, really high.",
+      "tokens": [
+        50554,
+        663,
+        311,
+        534,
+        11,
+        534,
+        1090,
+        13,
+        50684
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2824047088623047,
+      "compression_ratio": 1.3885350318471337,
+      "no_speech_prob": 0.04166436195373535
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.4,
+      "end": 11.4,
+      "text": " So imagine prices today being 400%",
+      "tokens": [
+        50684,
+        407,
+        3811,
+        7901,
+        965,
+        885,
+        8423,
+        4,
+        50934
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2824047088623047,
+      "compression_ratio": 1.3885350318471337,
+      "no_speech_prob": 0.04166436195373535
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 12.64,
+      "end": 14.92,
+      "text": " what they were last year.",
+      "tokens": [
+        50996,
+        437,
+        436,
+        645,
+        1036,
+        1064,
+        13,
+        51110
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2824047088623047,
+      "compression_ratio": 1.3885350318471337,
+      "no_speech_prob": 0.04166436195373535
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 14.92,
+      "end": 18.52,
+      "text": " That's not a good situation, of course.",
+      "tokens": [
+        51110,
+        663,
+        311,
+        406,
+        257,
+        665,
+        2590,
+        11,
+        295,
+        1164,
+        13,
+        51290
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2824047088623047,
+      "compression_ratio": 1.3885350318471337,
+      "no_speech_prob": 0.04166436195373535
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 19.72,
+      "end": 21.48,
+      "text": " In the country of Lebanon,",
+      "tokens": [
+        51350,
+        682,
+        264,
+        1941,
+        295,
+        29532,
+        11,
+        51438
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2824047088623047,
+      "compression_ratio": 1.3885350318471337,
+      "no_speech_prob": 0.04166436195373535
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 23.04,
+      "end": 28.04,
+      "text": " recently there was over 250% inflation,",
+      "tokens": [
+        51516,
+        3938,
+        456,
+        390,
+        670,
+        11650,
+        4,
+        15860,
+        11,
+        51766
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2824047088623047,
+      "compression_ratio": 1.3885350318471337,
+      "no_speech_prob": 0.04166436195373535
+    },
+    {
+      "id": 7,
+      "seek": 2804,
+      "start": 28.04,
+      "end": 29.84,
+      "text": " really, really high.",
+      "tokens": [
+        50394,
+        534,
+        11,
+        534,
+        1090,
+        13,
+        50454
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6086469292640686,
+      "compression_ratio": 0.8333333333333334,
+      "no_speech_prob": 0.009438006207346916
+    }
+  ],
+  "language": "en"
+}

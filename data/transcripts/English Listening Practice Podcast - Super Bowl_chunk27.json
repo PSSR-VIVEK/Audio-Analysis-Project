@@ -1,0 +1,211 @@
+{
+  "text": " compare them to soccer in most countries. This is not always the case, but I think most of the time it is. That is that in American sports, there's usually a different team at the top, a different champion every year. It doesn't always happen like that, of course. But most years, the champion is a different champion.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.4,
+      "text": " compare them to soccer in most countries.",
+      "tokens": [
+        50364,
+        6794,
+        552,
+        281,
+        15469,
+        294,
+        881,
+        3517,
+        13,
+        50584
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19442946652331985,
+      "compression_ratio": 1.575268817204301,
+      "no_speech_prob": 0.23643383383750916
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.4,
+      "end": 6.68,
+      "text": " This is not always the case,",
+      "tokens": [
+        50584,
+        639,
+        307,
+        406,
+        1009,
+        264,
+        1389,
+        11,
+        50698
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19442946652331985,
+      "compression_ratio": 1.575268817204301,
+      "no_speech_prob": 0.23643383383750916
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.68,
+      "end": 9.24,
+      "text": " but I think most of the time it is.",
+      "tokens": [
+        50698,
+        457,
+        286,
+        519,
+        881,
+        295,
+        264,
+        565,
+        309,
+        307,
+        13,
+        50826
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19442946652331985,
+      "compression_ratio": 1.575268817204301,
+      "no_speech_prob": 0.23643383383750916
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.24,
+      "end": 13.44,
+      "text": " That is that in American sports,",
+      "tokens": [
+        50876,
+        663,
+        307,
+        300,
+        294,
+        2665,
+        6573,
+        11,
+        51036
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19442946652331985,
+      "compression_ratio": 1.575268817204301,
+      "no_speech_prob": 0.23643383383750916
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 13.44,
+      "end": 18.36,
+      "text": " there's usually a different team at the top,",
+      "tokens": [
+        51036,
+        456,
+        311,
+        2673,
+        257,
+        819,
+        1469,
+        412,
+        264,
+        1192,
+        11,
+        51282
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19442946652331985,
+      "compression_ratio": 1.575268817204301,
+      "no_speech_prob": 0.23643383383750916
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 18.36,
+      "end": 22.12,
+      "text": " a different champion every year.",
+      "tokens": [
+        51282,
+        257,
+        819,
+        10971,
+        633,
+        1064,
+        13,
+        51470
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19442946652331985,
+      "compression_ratio": 1.575268817204301,
+      "no_speech_prob": 0.23643383383750916
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 22.12,
+      "end": 25.28,
+      "text": " It doesn't always happen like that, of course.",
+      "tokens": [
+        51470,
+        467,
+        1177,
+        380,
+        1009,
+        1051,
+        411,
+        300,
+        11,
+        295,
+        1164,
+        13,
+        51628
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19442946652331985,
+      "compression_ratio": 1.575268817204301,
+      "no_speech_prob": 0.23643383383750916
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 25.28,
+      "end": 29.04,
+      "text": " But most years, the champion",
+      "tokens": [
+        51628,
+        583,
+        881,
+        924,
+        11,
+        264,
+        10971,
+        51816
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19442946652331985,
+      "compression_ratio": 1.575268817204301,
+      "no_speech_prob": 0.23643383383750916
+    },
+    {
+      "id": 8,
+      "seek": 2904,
+      "start": 29.04,
+      "end": 31.04,
+      "text": " is a different champion.",
+      "tokens": [
+        50364,
+        307,
+        257,
+        819,
+        10971,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6798019409179688,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.13944877684116364
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,132 @@
+{
+  "text": " 30 minutes listening or maybe this podcast is your only listening today and this is what 25 30 minutes maybe 25 minutes so if you compare that to four hours That's a big difference so the repetition of less frequent words Won't be very high if you're all",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 11.8,
+      "text": " 30 minutes listening or maybe this podcast is your only listening today and this is what 25 30 minutes maybe 25 minutes",
+      "tokens": [
+        50364,
+        2217,
+        2077,
+        4764,
+        420,
+        1310,
+        341,
+        7367,
+        307,
+        428,
+        787,
+        4764,
+        965,
+        293,
+        341,
+        307,
+        437,
+        3552,
+        2217,
+        2077,
+        1310,
+        3552,
+        2077,
+        50954
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35955414405235875,
+      "compression_ratio": 1.5034013605442176,
+      "no_speech_prob": 0.2271188348531723
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 12.6,
+      "end": 17.16,
+      "text": " so if you compare that to four hours",
+      "tokens": [
+        50994,
+        370,
+        498,
+        291,
+        6794,
+        300,
+        281,
+        1451,
+        2496,
+        51222
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35955414405235875,
+      "compression_ratio": 1.5034013605442176,
+      "no_speech_prob": 0.2271188348531723
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 18.400000000000002,
+      "end": 20.400000000000002,
+      "text": " That's a big difference",
+      "tokens": [
+        51284,
+        663,
+        311,
+        257,
+        955,
+        2649,
+        51384
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35955414405235875,
+      "compression_ratio": 1.5034013605442176,
+      "no_speech_prob": 0.2271188348531723
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 20.76,
+      "end": 24.64,
+      "text": " so the repetition of less frequent words",
+      "tokens": [
+        51402,
+        370,
+        264,
+        30432,
+        295,
+        1570,
+        18004,
+        2283,
+        51596
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35955414405235875,
+      "compression_ratio": 1.5034013605442176,
+      "no_speech_prob": 0.2271188348531723
+    },
+    {
+      "id": 4,
+      "seek": 2464,
+      "start": 24.64,
+      "end": 29.96,
+      "text": " Won't be very high if you're all",
+      "tokens": [
+        50414,
+        14710,
+        380,
+        312,
+        588,
+        1090,
+        498,
+        291,
+        434,
+        439,
+        50630
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5809163252512614,
+      "compression_ratio": 0.8,
+      "no_speech_prob": 0.11073657870292664
+    }
+  ],
+  "language": "en"
+}

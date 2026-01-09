@@ -1,0 +1,93 @@
+{
+  "text": " to live in a rural area. Temperature. The temperature of the sea is 17 degrees Celsius. Psychiatry. She is studying psychiatry. War. Have you heard the latest news about the war?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 15.0,
+      "text": " to live in a rural area. Temperature. The temperature of the sea is 17 degrees Celsius.",
+      "tokens": [
+        50364,
+        281,
+        1621,
+        294,
+        257,
+        11165,
+        1859,
+        13,
+        34864,
+        1503,
+        13,
+        440,
+        4292,
+        295,
+        264,
+        4158,
+        307,
+        3282,
+        5310,
+        22658,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30882692337036133,
+      "compression_ratio": 1.2828282828282829,
+      "no_speech_prob": 0.17685052752494812
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 15.0,
+      "end": 22.0,
+      "text": " Psychiatry. She is studying psychiatry.",
+      "tokens": [
+        51114,
+        17303,
+        7676,
+        627,
+        13,
+        1240,
+        307,
+        7601,
+        26347,
+        627,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30882692337036133,
+      "compression_ratio": 1.2828282828282829,
+      "no_speech_prob": 0.17685052752494812
+    },
+    {
+      "id": 2,
+      "seek": 2200,
+      "start": 22.0,
+      "end": 29.0,
+      "text": " War. Have you heard the latest news about the war?",
+      "tokens": [
+        50364,
+        3630,
+        13,
+        3560,
+        291,
+        2198,
+        264,
+        6792,
+        2583,
+        466,
+        264,
+        1516,
+        30,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22132692337036133,
+      "compression_ratio": 0.9090909090909091,
+      "no_speech_prob": 0.10332547128200531
+    }
+  ],
+  "language": "en"
+}

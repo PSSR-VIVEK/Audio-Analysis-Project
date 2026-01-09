@@ -1,0 +1,150 @@
+{
+  "text": " You don't just see the animals. You also watch these different performances that SeaWorld puts on with these animals. We can use the phrasal verb put on in this context to mean that there's some type of performance or show or exhibit or something like that.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.0,
+      "text": " You don't just see the animals.",
+      "tokens": [
+        50364,
+        509,
+        500,
+        380,
+        445,
+        536,
+        264,
+        4882,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20651078628281416,
+      "compression_ratio": 1.510204081632653,
+      "no_speech_prob": 0.0863911584019661
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.0,
+      "end": 8.0,
+      "text": " You also watch these different performances",
+      "tokens": [
+        50514,
+        509,
+        611,
+        1159,
+        613,
+        819,
+        16087,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20651078628281416,
+      "compression_ratio": 1.510204081632653,
+      "no_speech_prob": 0.0863911584019661
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.0,
+      "end": 13.0,
+      "text": " that SeaWorld puts on with these animals.",
+      "tokens": [
+        50764,
+        300,
+        11352,
+        37881,
+        8137,
+        322,
+        365,
+        613,
+        4882,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20651078628281416,
+      "compression_ratio": 1.510204081632653,
+      "no_speech_prob": 0.0863911584019661
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.0,
+      "end": 18.0,
+      "text": " We can use the phrasal verb put on in this context",
+      "tokens": [
+        51014,
+        492,
+        393,
+        764,
+        264,
+        903,
+        3906,
+        304,
+        9595,
+        829,
+        322,
+        294,
+        341,
+        4319,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20651078628281416,
+      "compression_ratio": 1.510204081632653,
+      "no_speech_prob": 0.0863911584019661
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 18.0,
+      "end": 26.0,
+      "text": " to mean that there's some type of performance or show",
+      "tokens": [
+        51264,
+        281,
+        914,
+        300,
+        456,
+        311,
+        512,
+        2010,
+        295,
+        3389,
+        420,
+        855,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20651078628281416,
+      "compression_ratio": 1.510204081632653,
+      "no_speech_prob": 0.0863911584019661
+    },
+    {
+      "id": 5,
+      "seek": 2600,
+      "start": 26.0,
+      "end": 30.0,
+      "text": " or exhibit or something like that.",
+      "tokens": [
+        50364,
+        420,
+        20487,
+        420,
+        746,
+        411,
+        300,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1005256175994873,
+      "compression_ratio": 0.8095238095238095,
+      "no_speech_prob": 0.3112867474555969
+    }
+  ],
+  "language": "en"
+}

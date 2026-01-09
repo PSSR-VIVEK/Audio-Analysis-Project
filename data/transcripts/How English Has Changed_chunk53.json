@@ -1,0 +1,182 @@
+{
+  "text": " 400 years from now people are speaking English It will probably be similar to today's English but with some pretty noticeable differences Like what we just saw But I would guess that it would still resemble the English that I'm speaking now so I don't know but that's what I would guess",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.7,
+      "text": " 400 years from now people are speaking English",
+      "tokens": [
+        50364,
+        8423,
+        924,
+        490,
+        586,
+        561,
+        366,
+        4124,
+        3669,
+        50549
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4211696206706844,
+      "compression_ratio": 1.545945945945946,
+      "no_speech_prob": 0.42440488934516907
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.22,
+      "end": 7.22,
+      "text": " It will probably be",
+      "tokens": [
+        50625,
+        467,
+        486,
+        1391,
+        312,
+        50725
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4211696206706844,
+      "compression_ratio": 1.545945945945946,
+      "no_speech_prob": 0.42440488934516907
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.72,
+      "end": 9.72,
+      "text": " similar to today's English",
+      "tokens": [
+        50750,
+        2531,
+        281,
+        965,
+        311,
+        3669,
+        50850
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4211696206706844,
+      "compression_ratio": 1.545945945945946,
+      "no_speech_prob": 0.42440488934516907
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.200000000000001,
+      "end": 13.200000000000001,
+      "text": " but with some pretty noticeable",
+      "tokens": [
+        50874,
+        457,
+        365,
+        512,
+        1238,
+        26041,
+        51024
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4211696206706844,
+      "compression_ratio": 1.545945945945946,
+      "no_speech_prob": 0.42440488934516907
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 14.200000000000001,
+      "end": 16.04,
+      "text": " differences",
+      "tokens": [
+        51074,
+        7300,
+        51166
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4211696206706844,
+      "compression_ratio": 1.545945945945946,
+      "no_speech_prob": 0.42440488934516907
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 16.04,
+      "end": 18.04,
+      "text": " Like what we just saw",
+      "tokens": [
+        51166,
+        1743,
+        437,
+        321,
+        445,
+        1866,
+        51266
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4211696206706844,
+      "compression_ratio": 1.545945945945946,
+      "no_speech_prob": 0.42440488934516907
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 18.18,
+      "end": 22.76,
+      "text": " But I would guess that it would still resemble",
+      "tokens": [
+        51273,
+        583,
+        286,
+        576,
+        2041,
+        300,
+        309,
+        576,
+        920,
+        36870,
+        51502
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4211696206706844,
+      "compression_ratio": 1.545945945945946,
+      "no_speech_prob": 0.42440488934516907
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 23.44,
+      "end": 29.52,
+      "text": " the English that I'm speaking now so I don't know but that's what I would guess",
+      "tokens": [
+        51536,
+        264,
+        3669,
+        300,
+        286,
+        478,
+        4124,
+        586,
+        370,
+        286,
+        500,
+        380,
+        458,
+        457,
+        300,
+        311,
+        437,
+        286,
+        576,
+        2041,
+        51840
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4211696206706844,
+      "compression_ratio": 1.545945945945946,
+      "no_speech_prob": 0.42440488934516907
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,86 @@
+{
+  "text": " They teach all different subjects and their pupils learn from their classes. Students study at a library where librarians work. Books or cooks are the people who work at restaurants or cafes.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 13.120000000000001,
+      "text": " They teach all different subjects and their pupils learn from their classes.",
+      "tokens": [
+        50364,
+        814,
+        2924,
+        439,
+        819,
+        13066,
+        293,
+        641,
+        38404,
+        1466,
+        490,
+        641,
+        5359,
+        13,
+        51020
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32829039437430246,
+      "compression_ratio": 1.27,
+      "no_speech_prob": 0.18722154200077057
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 13.120000000000001,
+      "end": 22.0,
+      "text": " Students study at a library where librarians work.",
+      "tokens": [
+        51020,
+        17244,
+        2979,
+        412,
+        257,
+        6405,
+        689,
+        48803,
+        589,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32829039437430246,
+      "compression_ratio": 1.27,
+      "no_speech_prob": 0.18722154200077057
+    },
+    {
+      "id": 2,
+      "seek": 2200,
+      "start": 22.0,
+      "end": 30.0,
+      "text": " Books or cooks are the people who work at restaurants or cafes.",
+      "tokens": [
+        50364,
+        33843,
+        420,
+        30709,
+        366,
+        264,
+        561,
+        567,
+        589,
+        412,
+        11486,
+        420,
+        48851,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4940865635871887,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.41220933198928833
+    }
+  ],
+  "language": "en"
+}

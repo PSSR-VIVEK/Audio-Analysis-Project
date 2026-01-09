@@ -1,0 +1,171 @@
+{
+  "text": " whiskers. Be a copycat, which means to be a person who copies someone else. It's a childish expression, so children would normally use this. I bought that jacket a week ago and now you have one the same. You're such a copycat. Cat fight. A cat.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.6,
+      "text": " whiskers.",
+      "tokens": [
+        50364,
+        24485,
+        433,
+        13,
+        50544
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3023947326230331,
+      "compression_ratio": 1.4107142857142858,
+      "no_speech_prob": 0.18480859696865082
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.6,
+      "end": 11.200000000000001,
+      "text": " Be a copycat, which means to be a person who copies someone else.",
+      "tokens": [
+        50544,
+        879,
+        257,
+        5055,
+        18035,
+        11,
+        597,
+        1355,
+        281,
+        312,
+        257,
+        954,
+        567,
+        14341,
+        1580,
+        1646,
+        13,
+        50924
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3023947326230331,
+      "compression_ratio": 1.4107142857142858,
+      "no_speech_prob": 0.18480859696865082
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.200000000000001,
+      "end": 18.8,
+      "text": " It's a childish expression, so children would normally use this.",
+      "tokens": [
+        50924,
+        467,
+        311,
+        257,
+        42203,
+        6114,
+        11,
+        370,
+        2227,
+        576,
+        5646,
+        764,
+        341,
+        13,
+        51304
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3023947326230331,
+      "compression_ratio": 1.4107142857142858,
+      "no_speech_prob": 0.18480859696865082
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 18.8,
+      "end": 23.8,
+      "text": " I bought that jacket a week ago and now you have one the same.",
+      "tokens": [
+        51304,
+        286,
+        4243,
+        300,
+        11781,
+        257,
+        1243,
+        2057,
+        293,
+        586,
+        291,
+        362,
+        472,
+        264,
+        912,
+        13,
+        51554
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3023947326230331,
+      "compression_ratio": 1.4107142857142858,
+      "no_speech_prob": 0.18480859696865082
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 23.8,
+      "end": 27.84,
+      "text": " You're such a copycat.",
+      "tokens": [
+        51554,
+        509,
+        434,
+        1270,
+        257,
+        5055,
+        18035,
+        13,
+        51756
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3023947326230331,
+      "compression_ratio": 1.4107142857142858,
+      "no_speech_prob": 0.18480859696865082
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 27.84,
+      "end": 29.6,
+      "text": " Cat fight.",
+      "tokens": [
+        51756,
+        9565,
+        2092,
+        13,
+        51844
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3023947326230331,
+      "compression_ratio": 1.4107142857142858,
+      "no_speech_prob": 0.18480859696865082
+    },
+    {
+      "id": 6,
+      "seek": 2960,
+      "start": 29.6,
+      "end": 31.6,
+      "text": " A cat.",
+      "tokens": [
+        50364,
+        316,
+        3857,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6804811954498291,
+      "compression_ratio": 0.42857142857142855,
+      "no_speech_prob": 0.3184218108654022
+    }
+  ],
+  "language": "en"
+}

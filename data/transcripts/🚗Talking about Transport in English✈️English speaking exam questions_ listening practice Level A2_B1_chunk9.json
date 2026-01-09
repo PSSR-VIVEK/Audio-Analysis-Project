@@ -1,0 +1,71 @@
+{
+  "text": " are popular in your country. I think that the most popular brands are Audi, BMW, Ford, Mini Mercedes Land Rover, but you also see Honda Tesla Jaguar Nissan.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 16.44,
+      "text": " are popular in your country. I think that the most popular brands are Audi, BMW, Ford,",
+      "tokens": [
+        50364,
+        366,
+        3743,
+        294,
+        428,
+        1941,
+        13,
+        286,
+        519,
+        300,
+        264,
+        881,
+        3743,
+        11324,
+        366,
+        28943,
+        11,
+        21355,
+        11,
+        11961,
+        11,
+        51186
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23299608627955118,
+      "compression_ratio": 1.036144578313253,
+      "no_speech_prob": 0.19742915034294128
+    },
+    {
+      "id": 1,
+      "seek": 1644,
+      "start": 16.44,
+      "end": 29.880000000000003,
+      "text": " Mini Mercedes Land Rover, but you also see Honda Tesla Jaguar Nissan.",
+      "tokens": [
+        50364,
+        18239,
+        22899,
+        6607,
+        43278,
+        11,
+        457,
+        291,
+        611,
+        536,
+        26989,
+        13666,
+        9014,
+        20766,
+        38166,
+        13,
+        51036
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4497097863091363,
+      "compression_ratio": 0.9452054794520548,
+      "no_speech_prob": 0.06846538186073303
+    }
+  ],
+  "language": "en"
+}

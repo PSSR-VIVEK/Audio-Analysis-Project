@@ -1,0 +1,231 @@
+{
+  "text": " to my parents, if they need to live with us, then I think that they should. I think that if it's possible, that would be a nice thing to be able to do for my parents since they took care of me all throughout my childhood. So I like that idea, but I would say that many other people might not like that idea. And so.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " to my parents, if they need to live with us,",
+      "tokens": [
+        50364,
+        281,
+        452,
+        3152,
+        11,
+        498,
+        436,
+        643,
+        281,
+        1621,
+        365,
+        505,
+        11,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18278161339137866,
+      "compression_ratio": 1.6775956284153006,
+      "no_speech_prob": 0.3894766569137573
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.2,
+      "end": 7.44,
+      "text": " then I think that they should.",
+      "tokens": [
+        50624,
+        550,
+        286,
+        519,
+        300,
+        436,
+        820,
+        13,
+        50736
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18278161339137866,
+      "compression_ratio": 1.6775956284153006,
+      "no_speech_prob": 0.3894766569137573
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.44,
+      "end": 10.4,
+      "text": " I think that if it's possible,",
+      "tokens": [
+        50736,
+        286,
+        519,
+        300,
+        498,
+        309,
+        311,
+        1944,
+        11,
+        50884
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18278161339137866,
+      "compression_ratio": 1.6775956284153006,
+      "no_speech_prob": 0.3894766569137573
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.4,
+      "end": 14.52,
+      "text": " that would be a nice thing to be able to do",
+      "tokens": [
+        50884,
+        300,
+        576,
+        312,
+        257,
+        1481,
+        551,
+        281,
+        312,
+        1075,
+        281,
+        360,
+        51090
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18278161339137866,
+      "compression_ratio": 1.6775956284153006,
+      "no_speech_prob": 0.3894766569137573
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 14.52,
+      "end": 19.080000000000002,
+      "text": " for my parents since they took care of me",
+      "tokens": [
+        51090,
+        337,
+        452,
+        3152,
+        1670,
+        436,
+        1890,
+        1127,
+        295,
+        385,
+        51318
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18278161339137866,
+      "compression_ratio": 1.6775956284153006,
+      "no_speech_prob": 0.3894766569137573
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 19.080000000000002,
+      "end": 21.28,
+      "text": " all throughout my childhood.",
+      "tokens": [
+        51318,
+        439,
+        3710,
+        452,
+        9278,
+        13,
+        51428
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18278161339137866,
+      "compression_ratio": 1.6775956284153006,
+      "no_speech_prob": 0.3894766569137573
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 21.28,
+      "end": 23.84,
+      "text": " So I like that idea,",
+      "tokens": [
+        51428,
+        407,
+        286,
+        411,
+        300,
+        1558,
+        11,
+        51556
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18278161339137866,
+      "compression_ratio": 1.6775956284153006,
+      "no_speech_prob": 0.3894766569137573
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 23.84,
+      "end": 27.28,
+      "text": " but I would say that many other people",
+      "tokens": [
+        51556,
+        457,
+        286,
+        576,
+        584,
+        300,
+        867,
+        661,
+        561,
+        51728
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18278161339137866,
+      "compression_ratio": 1.6775956284153006,
+      "no_speech_prob": 0.3894766569137573
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 27.28,
+      "end": 29.560000000000002,
+      "text": " might not like that idea.",
+      "tokens": [
+        51728,
+        1062,
+        406,
+        411,
+        300,
+        1558,
+        13,
+        51842
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18278161339137866,
+      "compression_ratio": 1.6775956284153006,
+      "no_speech_prob": 0.3894766569137573
+    },
+    {
+      "id": 9,
+      "seek": 2956,
+      "start": 29.56,
+      "end": 30.439999999999998,
+      "text": " And so.",
+      "tokens": [
+        50366,
+        400,
+        370,
+        13,
+        50408
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7070983250935873,
+      "compression_ratio": 0.4666666666666667,
+      "no_speech_prob": 0.020739195868372917
+    }
+  ],
+  "language": "en"
+}

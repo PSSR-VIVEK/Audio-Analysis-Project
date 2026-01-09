@@ -1,0 +1,133 @@
+{
+  "text": " Heart-shaped objects like cushions, flowers and other types of gifts, only days after Christmas has finished. This celebration actually comes from St Valentine, who was a Roman priest who lived during the third century. The Emperor Claudius II thought that men without...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 11.36,
+      "text": " Heart-shaped objects like cushions, flowers and other types of gifts, only days after Christmas",
+      "tokens": [
+        50364,
+        13569,
+        12,
+        23103,
+        6565,
+        411,
+        18422,
+        626,
+        11,
+        8085,
+        293,
+        661,
+        3467,
+        295,
+        11449,
+        11,
+        787,
+        1708,
+        934,
+        5272,
+        50932
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29276312314547026,
+      "compression_ratio": 1.3353658536585367,
+      "no_speech_prob": 0.05608084425330162
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 11.36,
+      "end": 14.200000000000001,
+      "text": " has finished.",
+      "tokens": [
+        50932,
+        575,
+        4335,
+        13,
+        51074
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29276312314547026,
+      "compression_ratio": 1.3353658536585367,
+      "no_speech_prob": 0.05608084425330162
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 14.200000000000001,
+      "end": 22.96,
+      "text": " This celebration actually comes from St Valentine, who was a Roman priest who lived during the",
+      "tokens": [
+        51074,
+        639,
+        14184,
+        767,
+        1487,
+        490,
+        745,
+        24359,
+        11,
+        567,
+        390,
+        257,
+        8566,
+        15703,
+        567,
+        5152,
+        1830,
+        264,
+        51512
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29276312314547026,
+      "compression_ratio": 1.3353658536585367,
+      "no_speech_prob": 0.05608084425330162
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 22.96,
+      "end": 25.44,
+      "text": " third century.",
+      "tokens": [
+        51512,
+        2636,
+        4901,
+        13,
+        51636
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29276312314547026,
+      "compression_ratio": 1.3353658536585367,
+      "no_speech_prob": 0.05608084425330162
+    },
+    {
+      "id": 4,
+      "seek": 2544,
+      "start": 25.44,
+      "end": 29.92,
+      "text": " The Emperor Claudius II thought that men without...",
+      "tokens": [
+        50364,
+        440,
+        17913,
+        24858,
+        4872,
+        6351,
+        1194,
+        300,
+        1706,
+        1553,
+        485,
+        50588
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6545606759878305,
+      "compression_ratio": 0.9272727272727272,
+      "no_speech_prob": 0.11293511092662811
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,186 @@
+{
+  "text": " gets more familiar and easier with each language. So it's not just talent, right? And in sports, sometimes people talk about this athlete is naturally talented or that athlete isn't as naturally talented. He had to work harder and really it's kind of hard to determine that, right? Because...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " gets more familiar and easier with each language.",
+      "tokens": [
+        50364,
+        2170,
+        544,
+        4963,
+        293,
+        3571,
+        365,
+        1184,
+        2856,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2562005303122781,
+      "compression_ratio": 1.5548780487804879,
+      "no_speech_prob": 0.13291501998901367
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.28,
+      "end": 8.040000000000001,
+      "text": " So it's not just talent, right?",
+      "tokens": [
+        50628,
+        407,
+        309,
+        311,
+        406,
+        445,
+        8301,
+        11,
+        558,
+        30,
+        50766
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2562005303122781,
+      "compression_ratio": 1.5548780487804879,
+      "no_speech_prob": 0.13291501998901367
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.040000000000001,
+      "end": 14.040000000000001,
+      "text": " And in sports, sometimes people talk about",
+      "tokens": [
+        50816,
+        400,
+        294,
+        6573,
+        11,
+        2171,
+        561,
+        751,
+        466,
+        51066
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2562005303122781,
+      "compression_ratio": 1.5548780487804879,
+      "no_speech_prob": 0.13291501998901367
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 15.52,
+      "end": 18.2,
+      "text": " this athlete is naturally talented",
+      "tokens": [
+        51140,
+        341,
+        18002,
+        307,
+        8195,
+        13467,
+        51274
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2562005303122781,
+      "compression_ratio": 1.5548780487804879,
+      "no_speech_prob": 0.13291501998901367
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 18.2,
+      "end": 22.2,
+      "text": " or that athlete isn't as naturally talented.",
+      "tokens": [
+        51274,
+        420,
+        300,
+        18002,
+        1943,
+        380,
+        382,
+        8195,
+        13467,
+        13,
+        51474
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2562005303122781,
+      "compression_ratio": 1.5548780487804879,
+      "no_speech_prob": 0.13291501998901367
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 22.2,
+      "end": 27.2,
+      "text": " He had to work harder and really it's kind of hard",
+      "tokens": [
+        51474,
+        634,
+        632,
+        281,
+        589,
+        6081,
+        293,
+        534,
+        309,
+        311,
+        733,
+        295,
+        1152,
+        51724
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2562005303122781,
+      "compression_ratio": 1.5548780487804879,
+      "no_speech_prob": 0.13291501998901367
+    },
+    {
+      "id": 6,
+      "seek": 2720,
+      "start": 27.2,
+      "end": 29.119999999999997,
+      "text": " to determine that, right?",
+      "tokens": [
+        50364,
+        281,
+        6997,
+        300,
+        11,
+        558,
+        30,
+        50460
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4590314718393179,
+      "compression_ratio": 0.8181818181818182,
+      "no_speech_prob": 0.11387511342763901
+    },
+    {
+      "id": 7,
+      "seek": 2720,
+      "start": 29.119999999999997,
+      "end": 30.119999999999997,
+      "text": " Because...",
+      "tokens": [
+        50460,
+        1436,
+        485,
+        50510
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4590314718393179,
+      "compression_ratio": 0.8181818181818182,
+      "no_speech_prob": 0.11387511342763901
+    }
+  ],
+  "language": "en"
+}

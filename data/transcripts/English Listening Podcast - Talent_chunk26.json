@@ -1,0 +1,149 @@
+{
+  "text": " train if they want to become professional speakers or politicians or people who make speeches a lot they still have to train a lot and someone who's not a naturally talented speaker Can probably reach the same level the same high level Just by working really hard. So I think that",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.72,
+      "text": " train if they want to become",
+      "tokens": [
+        50364,
+        3847,
+        498,
+        436,
+        528,
+        281,
+        1813,
+        50500
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41270738659483014,
+      "compression_ratio": 1.5730337078651686,
+      "no_speech_prob": 0.29593753814697266
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.0,
+      "end": 13.0,
+      "text": " professional speakers or politicians or people who make speeches a lot they still have to train a lot and",
+      "tokens": [
+        50564,
+        4843,
+        9518,
+        420,
+        14756,
+        420,
+        561,
+        567,
+        652,
+        29982,
+        257,
+        688,
+        436,
+        920,
+        362,
+        281,
+        3847,
+        257,
+        688,
+        293,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41270738659483014,
+      "compression_ratio": 1.5730337078651686,
+      "no_speech_prob": 0.29593753814697266
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 14.200000000000001,
+      "end": 16.2,
+      "text": " someone who's not a",
+      "tokens": [
+        51074,
+        1580,
+        567,
+        311,
+        406,
+        257,
+        51174
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41270738659483014,
+      "compression_ratio": 1.5730337078651686,
+      "no_speech_prob": 0.29593753814697266
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 16.4,
+      "end": 19.0,
+      "text": " naturally talented speaker",
+      "tokens": [
+        51184,
+        8195,
+        13467,
+        8145,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41270738659483014,
+      "compression_ratio": 1.5730337078651686,
+      "no_speech_prob": 0.29593753814697266
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 20.0,
+      "end": 24.3,
+      "text": " Can probably reach the same level the same high level",
+      "tokens": [
+        51364,
+        1664,
+        1391,
+        2524,
+        264,
+        912,
+        1496,
+        264,
+        912,
+        1090,
+        1496,
+        51579
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41270738659483014,
+      "compression_ratio": 1.5730337078651686,
+      "no_speech_prob": 0.29593753814697266
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 25.44,
+      "end": 29.04,
+      "text": " Just by working really hard. So I think that",
+      "tokens": [
+        51636,
+        1449,
+        538,
+        1364,
+        534,
+        1152,
+        13,
+        407,
+        286,
+        519,
+        300,
+        51816
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41270738659483014,
+      "compression_ratio": 1.5730337078651686,
+      "no_speech_prob": 0.29593753814697266
+    }
+  ],
+  "language": "en"
+}

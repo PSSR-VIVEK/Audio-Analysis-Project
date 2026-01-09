@@ -1,0 +1,193 @@
+{
+  "text": " to chase the best forms of investment to beat the rate of inflation because there is no inflation. There is deflation, so people don't need to search for those investments. They can just keep their money in a bank account and it grows in real value over time because prices are going down. So you see how inflation and deflation",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.16,
+      "text": " to chase the best forms of investment",
+      "tokens": [
+        50364,
+        281,
+        15359,
+        264,
+        1151,
+        6422,
+        295,
+        6078,
+        50572
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3007343037923177,
+      "compression_ratio": 1.6327683615819208,
+      "no_speech_prob": 0.09814241528511047
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.16,
+      "end": 7.2,
+      "text": " to beat the rate of inflation",
+      "tokens": [
+        50572,
+        281,
+        4224,
+        264,
+        3314,
+        295,
+        15860,
+        50724
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3007343037923177,
+      "compression_ratio": 1.6327683615819208,
+      "no_speech_prob": 0.09814241528511047
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.2,
+      "end": 9.76,
+      "text": " because there is no inflation.",
+      "tokens": [
+        50724,
+        570,
+        456,
+        307,
+        572,
+        15860,
+        13,
+        50852
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3007343037923177,
+      "compression_ratio": 1.6327683615819208,
+      "no_speech_prob": 0.09814241528511047
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 9.76,
+      "end": 16.16,
+      "text": " There is deflation, so people don't need to search for those investments.",
+      "tokens": [
+        50852,
+        821,
+        307,
+        1060,
+        24278,
+        11,
+        370,
+        561,
+        500,
+        380,
+        643,
+        281,
+        3164,
+        337,
+        729,
+        13784,
+        13,
+        51172
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3007343037923177,
+      "compression_ratio": 1.6327683615819208,
+      "no_speech_prob": 0.09814241528511047
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 16.16,
+      "end": 20.84,
+      "text": " They can just keep their money in a bank account",
+      "tokens": [
+        51172,
+        814,
+        393,
+        445,
+        1066,
+        641,
+        1460,
+        294,
+        257,
+        3765,
+        2696,
+        51406
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3007343037923177,
+      "compression_ratio": 1.6327683615819208,
+      "no_speech_prob": 0.09814241528511047
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 20.84,
+      "end": 24.36,
+      "text": " and it grows in real value over time",
+      "tokens": [
+        51406,
+        293,
+        309,
+        13156,
+        294,
+        957,
+        2158,
+        670,
+        565,
+        51582
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3007343037923177,
+      "compression_ratio": 1.6327683615819208,
+      "no_speech_prob": 0.09814241528511047
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 24.36,
+      "end": 27.0,
+      "text": " because prices are going down.",
+      "tokens": [
+        51582,
+        570,
+        7901,
+        366,
+        516,
+        760,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3007343037923177,
+      "compression_ratio": 1.6327683615819208,
+      "no_speech_prob": 0.09814241528511047
+    },
+    {
+      "id": 7,
+      "seek": 2700,
+      "start": 27.0,
+      "end": 30.44,
+      "text": " So you see how inflation and deflation",
+      "tokens": [
+        50384,
+        407,
+        291,
+        536,
+        577,
+        15860,
+        293,
+        1060,
+        24278,
+        50536
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6029492725025524,
+      "compression_ratio": 0.95,
+      "no_speech_prob": 0.018427951261401176
+    }
+  ],
+  "language": "en"
+}

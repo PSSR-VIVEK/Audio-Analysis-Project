@@ -1,0 +1,90 @@
+{
+  "text": " If you have problems with the law, you might be arrested by a police officer, which is the neutral form for both men and women instead of police men and police women. Lawyer is...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 16.72,
+      "text": " If you have problems with the law, you might be arrested by a police officer, which is",
+      "tokens": [
+        50364,
+        759,
+        291,
+        362,
+        2740,
+        365,
+        264,
+        2101,
+        11,
+        291,
+        1062,
+        312,
+        12469,
+        538,
+        257,
+        3804,
+        8456,
+        11,
+        597,
+        307,
+        51200
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2995236792215487,
+      "compression_ratio": 1.4188034188034189,
+      "no_speech_prob": 0.2167232185602188
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 16.72,
+      "end": 28.0,
+      "text": " the neutral form for both men and women instead of police men and police women.",
+      "tokens": [
+        51200,
+        264,
+        10598,
+        1254,
+        337,
+        1293,
+        1706,
+        293,
+        2266,
+        2602,
+        295,
+        3804,
+        1706,
+        293,
+        3804,
+        2266,
+        13,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2995236792215487,
+      "compression_ratio": 1.4188034188034189,
+      "no_speech_prob": 0.2167232185602188
+    },
+    {
+      "id": 2,
+      "seek": 2800,
+      "start": 28.0,
+      "end": 30.0,
+      "text": " Lawyer is...",
+      "tokens": [
+        50364,
+        7744,
+        7224,
+        307,
+        485,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.75904267174857,
+      "compression_ratio": 0.6,
+      "no_speech_prob": 0.5260720252990723
+    }
+  ],
+  "language": "en"
+}

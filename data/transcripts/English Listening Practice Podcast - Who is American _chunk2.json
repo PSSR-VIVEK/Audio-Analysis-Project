@@ -1,0 +1,189 @@
+{
+  "text": " Bring up a certain topic. It comes up. So this topic comes up sometimes and it's the topic of the word American. What does the term American mean and who does it refer to? Who is American? So for some of you this might sound crazy. You might not understand what I'm talking about.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 7.28,
+      "text": " Bring up a certain topic. It comes up. So this topic comes up sometimes and",
+      "tokens": [
+        50364,
+        12842,
+        493,
+        257,
+        1629,
+        4829,
+        13,
+        467,
+        1487,
+        493,
+        13,
+        407,
+        341,
+        4829,
+        1487,
+        493,
+        2171,
+        293,
+        50728
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4340231124668905,
+      "compression_ratio": 1.5802469135802468,
+      "no_speech_prob": 0.21851672232151031
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.86,
+      "end": 9.86,
+      "text": " it's the topic of",
+      "tokens": [
+        50757,
+        309,
+        311,
+        264,
+        4829,
+        295,
+        50857
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4340231124668905,
+      "compression_ratio": 1.5802469135802468,
+      "no_speech_prob": 0.21851672232151031
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.16,
+      "end": 12.16,
+      "text": " the word",
+      "tokens": [
+        50872,
+        264,
+        1349,
+        50972
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4340231124668905,
+      "compression_ratio": 1.5802469135802468,
+      "no_speech_prob": 0.21851672232151031
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 12.8,
+      "end": 18.94,
+      "text": " American. What does the term American mean and who does it refer to?",
+      "tokens": [
+        51004,
+        2665,
+        13,
+        708,
+        775,
+        264,
+        1433,
+        2665,
+        914,
+        293,
+        567,
+        775,
+        309,
+        2864,
+        281,
+        30,
+        51311
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4340231124668905,
+      "compression_ratio": 1.5802469135802468,
+      "no_speech_prob": 0.21851672232151031
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 19.44,
+      "end": 21.44,
+      "text": " Who is",
+      "tokens": [
+        51336,
+        2102,
+        307,
+        51436
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4340231124668905,
+      "compression_ratio": 1.5802469135802468,
+      "no_speech_prob": 0.21851672232151031
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 21.44,
+      "end": 22.44,
+      "text": " American?",
+      "tokens": [
+        51436,
+        2665,
+        30,
+        51486
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4340231124668905,
+      "compression_ratio": 1.5802469135802468,
+      "no_speech_prob": 0.21851672232151031
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 22.44,
+      "end": 28.28,
+      "text": " So for some of you this might sound crazy. You might not understand",
+      "tokens": [
+        51486,
+        407,
+        337,
+        512,
+        295,
+        291,
+        341,
+        1062,
+        1626,
+        3219,
+        13,
+        509,
+        1062,
+        406,
+        1223,
+        51778
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4340231124668905,
+      "compression_ratio": 1.5802469135802468,
+      "no_speech_prob": 0.21851672232151031
+    },
+    {
+      "id": 7,
+      "seek": 2828,
+      "start": 28.28,
+      "end": 30.76,
+      "text": " what I'm talking about.",
+      "tokens": [
+        50388,
+        437,
+        286,
+        478,
+        1417,
+        466,
+        13,
+        50488
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.33910173839992946,
+      "compression_ratio": 0.7419354838709677,
+      "no_speech_prob": 0.04266132414340973
+    }
+  ],
+  "language": "en"
+}

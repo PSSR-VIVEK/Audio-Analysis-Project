@@ -1,0 +1,173 @@
+{
+  "text": " and committing yourselves to that relationship. So we decided to pursue a relationship together and continue in a long distance relationship after that. Because of course I went back to the US and she lived in Mexico. And when I met her, I couldn't speak well and I couldn't understand well in terms of Spanish.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.7600000000000002,
+      "text": " and committing yourselves to that relationship.",
+      "tokens": [
+        50364,
+        293,
+        26659,
+        14791,
+        281,
+        300,
+        2480,
+        13,
+        50552
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.218017578125,
+      "compression_ratio": 1.4885057471264367,
+      "no_speech_prob": 0.158138245344162
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.7600000000000002,
+      "end": 8.72,
+      "text": " So we decided to pursue a relationship together",
+      "tokens": [
+        50552,
+        407,
+        321,
+        3047,
+        281,
+        12392,
+        257,
+        2480,
+        1214,
+        50800
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.218017578125,
+      "compression_ratio": 1.4885057471264367,
+      "no_speech_prob": 0.158138245344162
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.72,
+      "end": 13.72,
+      "text": " and continue in a long distance relationship after that.",
+      "tokens": [
+        50800,
+        293,
+        2354,
+        294,
+        257,
+        938,
+        4560,
+        2480,
+        934,
+        300,
+        13,
+        51050
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.218017578125,
+      "compression_ratio": 1.4885057471264367,
+      "no_speech_prob": 0.158138245344162
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 14.72,
+      "end": 18.48,
+      "text": " Because of course I went back to the US",
+      "tokens": [
+        51100,
+        1436,
+        295,
+        1164,
+        286,
+        1437,
+        646,
+        281,
+        264,
+        2546,
+        51288
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.218017578125,
+      "compression_ratio": 1.4885057471264367,
+      "no_speech_prob": 0.158138245344162
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 18.48,
+      "end": 21.56,
+      "text": " and she lived in Mexico.",
+      "tokens": [
+        51288,
+        293,
+        750,
+        5152,
+        294,
+        8612,
+        13,
+        51442
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.218017578125,
+      "compression_ratio": 1.4885057471264367,
+      "no_speech_prob": 0.158138245344162
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 21.56,
+      "end": 25.48,
+      "text": " And when I met her, I couldn't speak well",
+      "tokens": [
+        51442,
+        400,
+        562,
+        286,
+        1131,
+        720,
+        11,
+        286,
+        2809,
+        380,
+        1710,
+        731,
+        51638
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.218017578125,
+      "compression_ratio": 1.4885057471264367,
+      "no_speech_prob": 0.158138245344162
+    },
+    {
+      "id": 6,
+      "seek": 2548,
+      "start": 25.48,
+      "end": 29.96,
+      "text": " and I couldn't understand well in terms of Spanish.",
+      "tokens": [
+        50364,
+        293,
+        286,
+        2809,
+        380,
+        1223,
+        731,
+        294,
+        2115,
+        295,
+        8058,
+        13,
+        50588
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3281306879861014,
+      "compression_ratio": 0.8793103448275862,
+      "no_speech_prob": 0.0030310419388115406
+    }
+  ],
+  "language": "en"
+}

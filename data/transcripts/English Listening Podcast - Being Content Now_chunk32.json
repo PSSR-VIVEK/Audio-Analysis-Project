@@ -1,0 +1,218 @@
+{
+  "text": " It happens. It occurs. Okay? So there are so many things that I hoped for, prayed for that actually happened. And it's easy afterwards to just forget about all those things. So I think it's important to take time, to look back and see all those things that you were really hoping.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.48,
+      "text": " It happens.",
+      "tokens": [
+        50364,
+        467,
+        2314,
+        13,
+        50438
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23148323360242343,
+      "compression_ratio": 1.5120481927710843,
+      "no_speech_prob": 0.1536928415298462
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.48,
+      "end": 2.88,
+      "text": " It occurs.",
+      "tokens": [
+        50438,
+        467,
+        11843,
+        13,
+        50508
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23148323360242343,
+      "compression_ratio": 1.5120481927710843,
+      "no_speech_prob": 0.1536928415298462
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 2.88,
+      "end": 3.88,
+      "text": " Okay?",
+      "tokens": [
+        50508,
+        1033,
+        30,
+        50558
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23148323360242343,
+      "compression_ratio": 1.5120481927710843,
+      "no_speech_prob": 0.1536928415298462
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 3.88,
+      "end": 8.88,
+      "text": " So there are so many things that I hoped for,",
+      "tokens": [
+        50558,
+        407,
+        456,
+        366,
+        370,
+        867,
+        721,
+        300,
+        286,
+        19737,
+        337,
+        11,
+        50808
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23148323360242343,
+      "compression_ratio": 1.5120481927710843,
+      "no_speech_prob": 0.1536928415298462
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 9.52,
+      "end": 13.64,
+      "text": " prayed for that actually happened.",
+      "tokens": [
+        50840,
+        22532,
+        337,
+        300,
+        767,
+        2011,
+        13,
+        51046
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23148323360242343,
+      "compression_ratio": 1.5120481927710843,
+      "no_speech_prob": 0.1536928415298462
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 13.64,
+      "end": 18.2,
+      "text": " And it's easy afterwards to just forget",
+      "tokens": [
+        51046,
+        400,
+        309,
+        311,
+        1858,
+        10543,
+        281,
+        445,
+        2870,
+        51274
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23148323360242343,
+      "compression_ratio": 1.5120481927710843,
+      "no_speech_prob": 0.1536928415298462
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 18.2,
+      "end": 20.02,
+      "text": " about all those things.",
+      "tokens": [
+        51274,
+        466,
+        439,
+        729,
+        721,
+        13,
+        51365
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23148323360242343,
+      "compression_ratio": 1.5120481927710843,
+      "no_speech_prob": 0.1536928415298462
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 20.02,
+      "end": 24.16,
+      "text": " So I think it's important to take time,",
+      "tokens": [
+        51365,
+        407,
+        286,
+        519,
+        309,
+        311,
+        1021,
+        281,
+        747,
+        565,
+        11,
+        51572
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23148323360242343,
+      "compression_ratio": 1.5120481927710843,
+      "no_speech_prob": 0.1536928415298462
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 24.16,
+      "end": 27.92,
+      "text": " to look back and see all those things",
+      "tokens": [
+        51572,
+        281,
+        574,
+        646,
+        293,
+        536,
+        439,
+        729,
+        721,
+        51760
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23148323360242343,
+      "compression_ratio": 1.5120481927710843,
+      "no_speech_prob": 0.1536928415298462
+    },
+    {
+      "id": 9,
+      "seek": 2792,
+      "start": 27.92,
+      "end": 30.160000000000004,
+      "text": " that you were really hoping.",
+      "tokens": [
+        50364,
+        300,
+        291,
+        645,
+        534,
+        7159,
+        13,
+        50476
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6230014695061578,
+      "compression_ratio": 0.7777777777777778,
+      "no_speech_prob": 0.07949570566415787
+    }
+  ],
+  "language": "en"
+}

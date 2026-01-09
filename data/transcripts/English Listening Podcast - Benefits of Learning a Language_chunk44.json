@@ -1,0 +1,184 @@
+{
+  "text": " more capable of doing different things. So this can really boost your self-esteem. And this is also related to travel, for example, like you can travel to a foreign country and speak English there and be understood and understand the other people. That can feel really good boost your confidence.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.4,
+      "text": " more capable of doing different things.",
+      "tokens": [
+        50364,
+        544,
+        8189,
+        295,
+        884,
+        819,
+        721,
+        13,
+        50584
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2036376816885812,
+      "compression_ratio": 1.5166666666666666,
+      "no_speech_prob": 0.22365325689315796
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.4,
+      "end": 8.56,
+      "text": " So this can really boost your self-esteem.",
+      "tokens": [
+        50584,
+        407,
+        341,
+        393,
+        534,
+        9194,
+        428,
+        2698,
+        12,
+        35301,
+        13,
+        50792
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2036376816885812,
+      "compression_ratio": 1.5166666666666666,
+      "no_speech_prob": 0.22365325689315796
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.56,
+      "end": 13.76,
+      "text": " And this is also related to travel, for example,",
+      "tokens": [
+        50792,
+        400,
+        341,
+        307,
+        611,
+        4077,
+        281,
+        3147,
+        11,
+        337,
+        1365,
+        11,
+        51052
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2036376816885812,
+      "compression_ratio": 1.5166666666666666,
+      "no_speech_prob": 0.22365325689315796
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.76,
+      "end": 17.44,
+      "text": " like you can travel to a foreign country",
+      "tokens": [
+        51052,
+        411,
+        291,
+        393,
+        3147,
+        281,
+        257,
+        5329,
+        1941,
+        51236
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2036376816885812,
+      "compression_ratio": 1.5166666666666666,
+      "no_speech_prob": 0.22365325689315796
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 17.44,
+      "end": 21.96,
+      "text": " and speak English there and be understood",
+      "tokens": [
+        51236,
+        293,
+        1710,
+        3669,
+        456,
+        293,
+        312,
+        7320,
+        51462
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2036376816885812,
+      "compression_ratio": 1.5166666666666666,
+      "no_speech_prob": 0.22365325689315796
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 21.96,
+      "end": 24.76,
+      "text": " and understand the other people.",
+      "tokens": [
+        51462,
+        293,
+        1223,
+        264,
+        661,
+        561,
+        13,
+        51602
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2036376816885812,
+      "compression_ratio": 1.5166666666666666,
+      "no_speech_prob": 0.22365325689315796
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 25.72,
+      "end": 28.36,
+      "text": " That can feel really good",
+      "tokens": [
+        51650,
+        663,
+        393,
+        841,
+        534,
+        665,
+        51782
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2036376816885812,
+      "compression_ratio": 1.5166666666666666,
+      "no_speech_prob": 0.22365325689315796
+    },
+    {
+      "id": 7,
+      "seek": 2836,
+      "start": 28.36,
+      "end": 30.0,
+      "text": " boost your confidence.",
+      "tokens": [
+        50396,
+        9194,
+        428,
+        6687,
+        13,
+        50446
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8124731608799526,
+      "compression_ratio": 0.7333333333333333,
+      "no_speech_prob": 0.03830479457974434
+    }
+  ],
+  "language": "en"
+}

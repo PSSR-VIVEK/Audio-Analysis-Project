@@ -1,0 +1,110 @@
+{
+  "text": " The first ending we are going to see is id. The id endings of these words is pronounced as id. Accepted, invented, avoided, planted, permitted, separated, protected, pretended, extended, and decorated.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.0,
+      "text": " The first ending we are going to see is id.",
+      "tokens": [
+        50364,
+        440,
+        700,
+        8121,
+        321,
+        366,
+        516,
+        281,
+        536,
+        307,
+        4496,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.26325899240921957,
+      "compression_ratio": 1.5245901639344261,
+      "no_speech_prob": 0.06882871687412262
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.0,
+      "end": 13.0,
+      "text": " The id endings of these words is pronounced as id.",
+      "tokens": [
+        50664,
+        440,
+        4496,
+        42474,
+        295,
+        613,
+        2283,
+        307,
+        23155,
+        382,
+        4496,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.26325899240921957,
+      "compression_ratio": 1.5245901639344261,
+      "no_speech_prob": 0.06882871687412262
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 13.0,
+      "end": 28.0,
+      "text": " Accepted, invented, avoided, planted, permitted, separated, protected, pretended, extended,",
+      "tokens": [
+        51014,
+        39957,
+        292,
+        11,
+        14479,
+        11,
+        24890,
+        11,
+        17395,
+        11,
+        28658,
+        11,
+        12005,
+        11,
+        10594,
+        11,
+        45056,
+        11,
+        10913,
+        11,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.26325899240921957,
+      "compression_ratio": 1.5245901639344261,
+      "no_speech_prob": 0.06882871687412262
+    },
+    {
+      "id": 3,
+      "seek": 2800,
+      "start": 28.0,
+      "end": 30.0,
+      "text": " and decorated.",
+      "tokens": [
+        50364,
+        293,
+        28422,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5670070250829061,
+      "compression_ratio": 0.6363636363636364,
+      "no_speech_prob": 0.7898464202880859
+    }
+  ],
+  "language": "en"
+}

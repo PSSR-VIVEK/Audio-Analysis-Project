@@ -1,0 +1,131 @@
+{
+  "text": " that I don't really care much about. And recently, I tried to simplify this process for myself. And so what I did recently was I went to the store and I bought some different black shirts and white shirts. And now I just alternate.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.0,
+      "text": " that I don't really care much about.",
+      "tokens": [
+        50364,
+        300,
+        286,
+        500,
+        380,
+        534,
+        1127,
+        709,
+        466,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21456414681893807,
+      "compression_ratio": 1.4335664335664335,
+      "no_speech_prob": 0.22379113733768463
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.0,
+      "end": 11.0,
+      "text": " And recently, I tried to simplify this process for myself.",
+      "tokens": [
+        50564,
+        400,
+        3938,
+        11,
+        286,
+        3031,
+        281,
+        20460,
+        341,
+        1399,
+        337,
+        2059,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21456414681893807,
+      "compression_ratio": 1.4335664335664335,
+      "no_speech_prob": 0.22379113733768463
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.0,
+      "end": 19.0,
+      "text": " And so what I did recently was I went to the store",
+      "tokens": [
+        50914,
+        400,
+        370,
+        437,
+        286,
+        630,
+        3938,
+        390,
+        286,
+        1437,
+        281,
+        264,
+        3531,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21456414681893807,
+      "compression_ratio": 1.4335664335664335,
+      "no_speech_prob": 0.22379113733768463
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 19.0,
+      "end": 26.0,
+      "text": " and I bought some different black shirts and white shirts.",
+      "tokens": [
+        51314,
+        293,
+        286,
+        4243,
+        512,
+        819,
+        2211,
+        20832,
+        293,
+        2418,
+        20832,
+        13,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21456414681893807,
+      "compression_ratio": 1.4335664335664335,
+      "no_speech_prob": 0.22379113733768463
+    },
+    {
+      "id": 4,
+      "seek": 2600,
+      "start": 26.0,
+      "end": 30.0,
+      "text": " And now I just alternate.",
+      "tokens": [
+        50364,
+        400,
+        586,
+        286,
+        445,
+        18873,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17881998750898573,
+      "compression_ratio": 0.7575757575757576,
+      "no_speech_prob": 0.03650692105293274
+    }
+  ],
+  "language": "en"
+}

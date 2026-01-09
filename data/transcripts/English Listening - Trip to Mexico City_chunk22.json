@@ -1,0 +1,184 @@
+{
+  "text": " 2022 it was crowned the coolest neighborhood in the world that year by a particular magazine and Time I read I thought it was super cool still do But what's funny is that This neighborhood in Mexico City, La Condeza is like that but times fine or something in terms of How many",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.36,
+      "text": " 2022 it was crowned the coolest neighborhood in the world",
+      "tokens": [
+        50364,
+        20229,
+        309,
+        390,
+        11841,
+        292,
+        264,
+        22013,
+        7630,
+        294,
+        264,
+        1002,
+        50632
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.494946108924018,
+      "compression_ratio": 1.46448087431694,
+      "no_speech_prob": 0.3700006902217865
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.0,
+      "end": 9.32,
+      "text": " that year by a particular magazine and",
+      "tokens": [
+        50664,
+        300,
+        1064,
+        538,
+        257,
+        1729,
+        11332,
+        293,
+        50830
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.494946108924018,
+      "compression_ratio": 1.46448087431694,
+      "no_speech_prob": 0.3700006902217865
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.96,
+      "end": 15.64,
+      "text": " Time I read I thought it was super cool still do",
+      "tokens": [
+        50912,
+        6161,
+        286,
+        1401,
+        286,
+        1194,
+        309,
+        390,
+        1687,
+        1627,
+        920,
+        360,
+        51146
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.494946108924018,
+      "compression_ratio": 1.46448087431694,
+      "no_speech_prob": 0.3700006902217865
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 16.04,
+      "end": 18.04,
+      "text": " But what's funny is that",
+      "tokens": [
+        51166,
+        583,
+        437,
+        311,
+        4074,
+        307,
+        300,
+        51266
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.494946108924018,
+      "compression_ratio": 1.46448087431694,
+      "no_speech_prob": 0.3700006902217865
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 18.2,
+      "end": 22.76,
+      "text": " This neighborhood in Mexico City, La Condeza is like that",
+      "tokens": [
+        51274,
+        639,
+        7630,
+        294,
+        8612,
+        4392,
+        11,
+        2369,
+        383,
+        7259,
+        2394,
+        307,
+        411,
+        300,
+        51502
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.494946108924018,
+      "compression_ratio": 1.46448087431694,
+      "no_speech_prob": 0.3700006902217865
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 23.32,
+      "end": 24.48,
+      "text": " but",
+      "tokens": [
+        51530,
+        457,
+        51588
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.494946108924018,
+      "compression_ratio": 1.46448087431694,
+      "no_speech_prob": 0.3700006902217865
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 24.48,
+      "end": 27.84,
+      "text": " times fine or something in terms of",
+      "tokens": [
+        51588,
+        1413,
+        2489,
+        420,
+        746,
+        294,
+        2115,
+        295,
+        51756
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.494946108924018,
+      "compression_ratio": 1.46448087431694,
+      "no_speech_prob": 0.3700006902217865
+    },
+    {
+      "id": 7,
+      "seek": 2784,
+      "start": 27.84,
+      "end": 30.56,
+      "text": " How many",
+      "tokens": [
+        50400,
+        1012,
+        867,
+        50500
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5572483539581299,
+      "compression_ratio": 0.5,
+      "no_speech_prob": 0.05370097607374191
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,189 @@
+{
+  "text": " time it is, it's listening time. Okay, let's talk about inflation. First of all, what is inflation? People might have different definitions of inflation and people think about this topic in different ways, but I'll just give an overall definition that most people would be happy with. And that is inflation.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.4,
+      "text": " time it is, it's listening time.",
+      "tokens": [
+        50364,
+        565,
+        309,
+        307,
+        11,
+        309,
+        311,
+        4764,
+        565,
+        13,
+        50584
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17718923414075696,
+      "compression_ratio": 1.5434782608695652,
+      "no_speech_prob": 0.17576465010643005
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.4,
+      "end": 7.640000000000001,
+      "text": " Okay, let's talk about inflation.",
+      "tokens": [
+        50584,
+        1033,
+        11,
+        718,
+        311,
+        751,
+        466,
+        15860,
+        13,
+        50746
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17718923414075696,
+      "compression_ratio": 1.5434782608695652,
+      "no_speech_prob": 0.17576465010643005
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.640000000000001,
+      "end": 10.68,
+      "text": " First of all, what is inflation?",
+      "tokens": [
+        50746,
+        2386,
+        295,
+        439,
+        11,
+        437,
+        307,
+        15860,
+        30,
+        50898
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17718923414075696,
+      "compression_ratio": 1.5434782608695652,
+      "no_speech_prob": 0.17576465010643005
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.68,
+      "end": 15.120000000000001,
+      "text": " People might have different definitions of inflation",
+      "tokens": [
+        50898,
+        3432,
+        1062,
+        362,
+        819,
+        21988,
+        295,
+        15860,
+        51120
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17718923414075696,
+      "compression_ratio": 1.5434782608695652,
+      "no_speech_prob": 0.17576465010643005
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 15.120000000000001,
+      "end": 19.72,
+      "text": " and people think about this topic in different ways,",
+      "tokens": [
+        51120,
+        293,
+        561,
+        519,
+        466,
+        341,
+        4829,
+        294,
+        819,
+        2098,
+        11,
+        51350
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17718923414075696,
+      "compression_ratio": 1.5434782608695652,
+      "no_speech_prob": 0.17576465010643005
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 19.72,
+      "end": 23.84,
+      "text": " but I'll just give an overall definition",
+      "tokens": [
+        51350,
+        457,
+        286,
+        603,
+        445,
+        976,
+        364,
+        4787,
+        7123,
+        51556
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17718923414075696,
+      "compression_ratio": 1.5434782608695652,
+      "no_speech_prob": 0.17576465010643005
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 23.84,
+      "end": 27.76,
+      "text": " that most people would be happy with.",
+      "tokens": [
+        51556,
+        300,
+        881,
+        561,
+        576,
+        312,
+        2055,
+        365,
+        13,
+        51752
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17718923414075696,
+      "compression_ratio": 1.5434782608695652,
+      "no_speech_prob": 0.17576465010643005
+    },
+    {
+      "id": 7,
+      "seek": 2776,
+      "start": 27.76,
+      "end": 30.080000000000002,
+      "text": " And that is inflation.",
+      "tokens": [
+        50364,
+        400,
+        300,
+        307,
+        15860,
+        13,
+        50480
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5051842331886292,
+      "compression_ratio": 0.7333333333333333,
+      "no_speech_prob": 0.004778469447046518
+    }
+  ],
+  "language": "en"
+}

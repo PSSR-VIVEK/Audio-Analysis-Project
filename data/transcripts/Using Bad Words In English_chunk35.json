@@ -1,0 +1,249 @@
+{
+  "text": " If you haven't mastered rules and you break the rules, it's kind of sloppy. Sloppy means that something is messy, it's not done orderly. So like when I was in film school, I remember my teachers would say, before you break the rules and do things that are very bizarre and strange, you first need to master the rules. Otherwise. Game조K",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.88,
+      "text": " If you haven't mastered rules and you break the rules,",
+      "tokens": [
+        50364,
+        759,
+        291,
+        2378,
+        380,
+        38686,
+        4474,
+        293,
+        291,
+        1821,
+        264,
+        4474,
+        11,
+        50608
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18791512520082534,
+      "compression_ratio": 1.6256410256410256,
+      "no_speech_prob": 0.0747930034995079
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.88,
+      "end": 7.12,
+      "text": " it's kind of sloppy.",
+      "tokens": [
+        50608,
+        309,
+        311,
+        733,
+        295,
+        43684,
+        13,
+        50720
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18791512520082534,
+      "compression_ratio": 1.6256410256410256,
+      "no_speech_prob": 0.0747930034995079
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.12,
+      "end": 10.44,
+      "text": " Sloppy means that something is messy,",
+      "tokens": [
+        50720,
+        6187,
+        404,
+        8200,
+        1355,
+        300,
+        746,
+        307,
+        16191,
+        11,
+        50886
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18791512520082534,
+      "compression_ratio": 1.6256410256410256,
+      "no_speech_prob": 0.0747930034995079
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.44,
+      "end": 13.08,
+      "text": " it's not done orderly.",
+      "tokens": [
+        50886,
+        309,
+        311,
+        406,
+        1096,
+        1668,
+        356,
+        13,
+        51018
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18791512520082534,
+      "compression_ratio": 1.6256410256410256,
+      "no_speech_prob": 0.0747930034995079
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 14.08,
+      "end": 17.400000000000002,
+      "text": " So like when I was in film school,",
+      "tokens": [
+        51068,
+        407,
+        411,
+        562,
+        286,
+        390,
+        294,
+        2007,
+        1395,
+        11,
+        51234
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18791512520082534,
+      "compression_ratio": 1.6256410256410256,
+      "no_speech_prob": 0.0747930034995079
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 17.400000000000002,
+      "end": 20.240000000000002,
+      "text": " I remember my teachers would say,",
+      "tokens": [
+        51234,
+        286,
+        1604,
+        452,
+        6023,
+        576,
+        584,
+        11,
+        51376
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18791512520082534,
+      "compression_ratio": 1.6256410256410256,
+      "no_speech_prob": 0.0747930034995079
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 20.240000000000002,
+      "end": 23.44,
+      "text": " before you break the rules and do things",
+      "tokens": [
+        51376,
+        949,
+        291,
+        1821,
+        264,
+        4474,
+        293,
+        360,
+        721,
+        51536
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18791512520082534,
+      "compression_ratio": 1.6256410256410256,
+      "no_speech_prob": 0.0747930034995079
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 23.44,
+      "end": 26.6,
+      "text": " that are very bizarre and strange,",
+      "tokens": [
+        51536,
+        300,
+        366,
+        588,
+        18265,
+        293,
+        5861,
+        11,
+        51694
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18791512520082534,
+      "compression_ratio": 1.6256410256410256,
+      "no_speech_prob": 0.0747930034995079
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 26.6,
+      "end": 29.28,
+      "text": " you first need to master the rules.",
+      "tokens": [
+        51694,
+        291,
+        700,
+        643,
+        281,
+        4505,
+        264,
+        4474,
+        13,
+        51828
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18791512520082534,
+      "compression_ratio": 1.6256410256410256,
+      "no_speech_prob": 0.0747930034995079
+    },
+    {
+      "id": 9,
+      "seek": 2928,
+      "start": 29.28,
+      "end": 30.28,
+      "text": " Otherwise.",
+      "tokens": [
+        50364,
+        10328,
+        13,
+        50414
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.073112106323242,
+      "compression_ratio": 0.7037037037037037,
+      "no_speech_prob": 0.29016536474227905
+    },
+    {
+      "id": 10,
+      "seek": 2928,
+      "start": 35.620000000000005,
+      "end": 39.120000000000005,
+      "text": " Game조K",
+      "tokens": [
+        50681,
+        7522,
+        18934,
+        42,
+        50856
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.073112106323242,
+      "compression_ratio": 0.7037037037037037,
+      "no_speech_prob": 0.29016536474227905
+    }
+  ],
+  "language": "en"
+}

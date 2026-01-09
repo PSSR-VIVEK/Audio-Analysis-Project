@@ -1,0 +1,196 @@
+{
+  "text": " Why did I tell that Joe? We criticize ourselves. And usually we are thinking about the little details that the other person has already forgotten. Right? Not everyone is analyzing every conversation that you had with them. Of course not. So chances are you are thinking way more.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.12,
+      "text": " Why did I tell that Joe?",
+      "tokens": [
+        50364,
+        1545,
+        630,
+        286,
+        980,
+        300,
+        6807,
+        30,
+        50470
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2653006911277771,
+      "compression_ratio": 1.3941176470588235,
+      "no_speech_prob": 0.06299059092998505
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.12,
+      "end": 6.6000000000000005,
+      "text": " We criticize ourselves.",
+      "tokens": [
+        50470,
+        492,
+        31010,
+        4175,
+        13,
+        50694
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2653006911277771,
+      "compression_ratio": 1.3941176470588235,
+      "no_speech_prob": 0.06299059092998505
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.6000000000000005,
+      "end": 12.4,
+      "text": " And usually we are thinking about the little details",
+      "tokens": [
+        50694,
+        400,
+        2673,
+        321,
+        366,
+        1953,
+        466,
+        264,
+        707,
+        4365,
+        50984
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2653006911277771,
+      "compression_ratio": 1.3941176470588235,
+      "no_speech_prob": 0.06299059092998505
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 12.4,
+      "end": 15.92,
+      "text": " that the other person has already forgotten.",
+      "tokens": [
+        50984,
+        300,
+        264,
+        661,
+        954,
+        575,
+        1217,
+        11832,
+        13,
+        51160
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2653006911277771,
+      "compression_ratio": 1.3941176470588235,
+      "no_speech_prob": 0.06299059092998505
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 15.92,
+      "end": 17.32,
+      "text": " Right?",
+      "tokens": [
+        51160,
+        1779,
+        30,
+        51230
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2653006911277771,
+      "compression_ratio": 1.3941176470588235,
+      "no_speech_prob": 0.06299059092998505
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 17.32,
+      "end": 22.68,
+      "text": " Not everyone is analyzing every conversation",
+      "tokens": [
+        51230,
+        1726,
+        1518,
+        307,
+        23663,
+        633,
+        3761,
+        51498
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2653006911277771,
+      "compression_ratio": 1.3941176470588235,
+      "no_speech_prob": 0.06299059092998505
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 22.68,
+      "end": 24.6,
+      "text": " that you had with them.",
+      "tokens": [
+        51498,
+        300,
+        291,
+        632,
+        365,
+        552,
+        13,
+        51594
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2653006911277771,
+      "compression_ratio": 1.3941176470588235,
+      "no_speech_prob": 0.06299059092998505
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 24.6,
+      "end": 25.84,
+      "text": " Of course not.",
+      "tokens": [
+        51594,
+        2720,
+        1164,
+        406,
+        13,
+        51656
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2653006911277771,
+      "compression_ratio": 1.3941176470588235,
+      "no_speech_prob": 0.06299059092998505
+    },
+    {
+      "id": 8,
+      "seek": 2584,
+      "start": 25.84,
+      "end": 29.96,
+      "text": " So chances are you are thinking way more.",
+      "tokens": [
+        50364,
+        407,
+        10486,
+        366,
+        291,
+        366,
+        1953,
+        636,
+        544,
+        13,
+        50570
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4970202048619588,
+      "compression_ratio": 0.9111111111111111,
+      "no_speech_prob": 0.013669167645275593
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,162 @@
+{
+  "text": " So many people champion this idea. And I've heard this many times when I listen to different people, YouTubers, podcasters, whoever, talking about being successful, they talk a lot about how motivation comes and goes. And this is not what...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.32,
+      "text": " So many people champion this idea.",
+      "tokens": [
+        50364,
+        407,
+        867,
+        561,
+        10971,
+        341,
+        1558,
+        13,
+        50580
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20198686244124073,
+      "compression_ratio": 1.391025641025641,
+      "no_speech_prob": 0.020140070468187332
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.32,
+      "end": 8.24,
+      "text": " And I've heard this many times",
+      "tokens": [
+        50580,
+        400,
+        286,
+        600,
+        2198,
+        341,
+        867,
+        1413,
+        50776
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20198686244124073,
+      "compression_ratio": 1.391025641025641,
+      "no_speech_prob": 0.020140070468187332
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.24,
+      "end": 11.76,
+      "text": " when I listen to different people,",
+      "tokens": [
+        50776,
+        562,
+        286,
+        2140,
+        281,
+        819,
+        561,
+        11,
+        50952
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20198686244124073,
+      "compression_ratio": 1.391025641025641,
+      "no_speech_prob": 0.020140070468187332
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.76,
+      "end": 15.56,
+      "text": " YouTubers, podcasters, whoever,",
+      "tokens": [
+        50952,
+        30571,
+        11,
+        2497,
+        16369,
+        1559,
+        11,
+        11387,
+        11,
+        51142
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20198686244124073,
+      "compression_ratio": 1.391025641025641,
+      "no_speech_prob": 0.020140070468187332
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 15.56,
+      "end": 19.84,
+      "text": " talking about being successful,",
+      "tokens": [
+        51142,
+        1417,
+        466,
+        885,
+        4406,
+        11,
+        51356
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20198686244124073,
+      "compression_ratio": 1.391025641025641,
+      "no_speech_prob": 0.020140070468187332
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 19.84,
+      "end": 25.84,
+      "text": " they talk a lot about how motivation comes and goes.",
+      "tokens": [
+        51356,
+        436,
+        751,
+        257,
+        688,
+        466,
+        577,
+        12335,
+        1487,
+        293,
+        1709,
+        13,
+        51656
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20198686244124073,
+      "compression_ratio": 1.391025641025641,
+      "no_speech_prob": 0.020140070468187332
+    },
+    {
+      "id": 6,
+      "seek": 2584,
+      "start": 25.84,
+      "end": 29.84,
+      "text": " And this is not what...",
+      "tokens": [
+        50364,
+        400,
+        341,
+        307,
+        406,
+        437,
+        485,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6995538605584039,
+      "compression_ratio": 0.7931034482758621,
+      "no_speech_prob": 0.2983558177947998
+    }
+  ],
+  "language": "en"
+}

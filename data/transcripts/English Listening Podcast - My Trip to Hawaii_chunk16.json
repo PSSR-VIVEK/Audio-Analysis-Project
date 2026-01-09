@@ -1,0 +1,192 @@
+{
+  "text": " It's a place that has a different vibe. We use the word vibe to talk about the feeling of some environment. So it has a different vibe. It is just really nice to be there. It feels good when you're in Hawaii. And I recommend it to all of you, even if you're not beach people.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " It's a place that has a different vibe.",
+      "tokens": [
+        50364,
+        467,
+        311,
+        257,
+        1081,
+        300,
+        575,
+        257,
+        819,
+        14606,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24525333095241236,
+      "compression_ratio": 1.5316455696202531,
+      "no_speech_prob": 0.1292210817337036
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.08,
+      "end": 9.32,
+      "text": " We use the word vibe to talk about the feeling",
+      "tokens": [
+        50618,
+        492,
+        764,
+        264,
+        1349,
+        14606,
+        281,
+        751,
+        466,
+        264,
+        2633,
+        50830
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24525333095241236,
+      "compression_ratio": 1.5316455696202531,
+      "no_speech_prob": 0.1292210817337036
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.32,
+      "end": 11.76,
+      "text": " of some environment.",
+      "tokens": [
+        50830,
+        295,
+        512,
+        2823,
+        13,
+        50952
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24525333095241236,
+      "compression_ratio": 1.5316455696202531,
+      "no_speech_prob": 0.1292210817337036
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.76,
+      "end": 14.42,
+      "text": " So it has a different vibe.",
+      "tokens": [
+        50952,
+        407,
+        309,
+        575,
+        257,
+        819,
+        14606,
+        13,
+        51085
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24525333095241236,
+      "compression_ratio": 1.5316455696202531,
+      "no_speech_prob": 0.1292210817337036
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 15.6,
+      "end": 19.64,
+      "text": " It is just really nice to be there.",
+      "tokens": [
+        51144,
+        467,
+        307,
+        445,
+        534,
+        1481,
+        281,
+        312,
+        456,
+        13,
+        51346
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24525333095241236,
+      "compression_ratio": 1.5316455696202531,
+      "no_speech_prob": 0.1292210817337036
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 19.64,
+      "end": 23.44,
+      "text": " It feels good when you're in Hawaii.",
+      "tokens": [
+        51346,
+        467,
+        3417,
+        665,
+        562,
+        291,
+        434,
+        294,
+        17930,
+        13,
+        51536
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24525333095241236,
+      "compression_ratio": 1.5316455696202531,
+      "no_speech_prob": 0.1292210817337036
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 23.44,
+      "end": 27.12,
+      "text": " And I recommend it to all of you,",
+      "tokens": [
+        51536,
+        400,
+        286,
+        2748,
+        309,
+        281,
+        439,
+        295,
+        291,
+        11,
+        51720
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24525333095241236,
+      "compression_ratio": 1.5316455696202531,
+      "no_speech_prob": 0.1292210817337036
+    },
+    {
+      "id": 7,
+      "seek": 2712,
+      "start": 27.12,
+      "end": 29.52,
+      "text": " even if you're not beach people.",
+      "tokens": [
+        50364,
+        754,
+        498,
+        291,
+        434,
+        406,
+        7534,
+        561,
+        13,
+        50484
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43531612916426227,
+      "compression_ratio": 0.8,
+      "no_speech_prob": 0.00475921668112278
+    }
+  ],
+  "language": "en"
+}

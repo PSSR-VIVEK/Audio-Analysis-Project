@@ -1,0 +1,170 @@
+{
+  "text": " and you need some alone time afterwards. That doesn't mean that you just don't like social situations. That's not always the case, but you just feel exhausted from those situations. And you actually get energized in solitude. Solitude just refers to being alone. So being alone actually.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.0,
+      "text": " and you need some alone time afterwards.",
+      "tokens": [
+        50364,
+        293,
+        291,
+        643,
+        512,
+        3312,
+        565,
+        10543,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19325726172503302,
+      "compression_ratio": 1.5502958579881656,
+      "no_speech_prob": 0.10430148243904114
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.0,
+      "end": 9.08,
+      "text": " That doesn't mean that you just don't like social situations.",
+      "tokens": [
+        50564,
+        663,
+        1177,
+        380,
+        914,
+        300,
+        291,
+        445,
+        500,
+        380,
+        411,
+        2093,
+        6851,
+        13,
+        50818
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19325726172503302,
+      "compression_ratio": 1.5502958579881656,
+      "no_speech_prob": 0.10430148243904114
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.08,
+      "end": 10.96,
+      "text": " That's not always the case,",
+      "tokens": [
+        50818,
+        663,
+        311,
+        406,
+        1009,
+        264,
+        1389,
+        11,
+        50912
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19325726172503302,
+      "compression_ratio": 1.5502958579881656,
+      "no_speech_prob": 0.10430148243904114
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.96,
+      "end": 15.96,
+      "text": " but you just feel exhausted from those situations.",
+      "tokens": [
+        50912,
+        457,
+        291,
+        445,
+        841,
+        17992,
+        490,
+        729,
+        6851,
+        13,
+        51162
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19325726172503302,
+      "compression_ratio": 1.5502958579881656,
+      "no_speech_prob": 0.10430148243904114
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 18.12,
+      "end": 23.36,
+      "text": " And you actually get energized in solitude.",
+      "tokens": [
+        51270,
+        400,
+        291,
+        767,
+        483,
+        49231,
+        294,
+        1404,
+        4377,
+        13,
+        51532
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19325726172503302,
+      "compression_ratio": 1.5502958579881656,
+      "no_speech_prob": 0.10430148243904114
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 23.36,
+      "end": 27.0,
+      "text": " Solitude just refers to being alone.",
+      "tokens": [
+        51532,
+        7026,
+        4377,
+        445,
+        14942,
+        281,
+        885,
+        3312,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19325726172503302,
+      "compression_ratio": 1.5502958579881656,
+      "no_speech_prob": 0.10430148243904114
+    },
+    {
+      "id": 6,
+      "seek": 2700,
+      "start": 27.0,
+      "end": 30.0,
+      "text": " So being alone actually.",
+      "tokens": [
+        50364,
+        407,
+        885,
+        3312,
+        767,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.555928647518158,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.005930800922214985
+    }
+  ],
+  "language": "en"
+}

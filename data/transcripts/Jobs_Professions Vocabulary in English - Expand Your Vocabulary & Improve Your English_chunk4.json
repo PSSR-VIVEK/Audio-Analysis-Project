@@ -1,0 +1,112 @@
+{
+  "text": " They cook food for their customers. They buy meat from butchers who work at our butchers. They sell sausages, burgers, steak, etc. Restaurants get their bread, cakes and pastries from a bakery.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " They cook food for their customers.",
+      "tokens": [
+        50364,
+        814,
+        2543,
+        1755,
+        337,
+        641,
+        4581,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23515243530273439,
+      "compression_ratio": 1.3131313131313131,
+      "no_speech_prob": 0.054506346583366394
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.0,
+      "end": 14.0,
+      "text": " They buy meat from butchers who work at our butchers.",
+      "tokens": [
+        50614,
+        814,
+        2256,
+        4615,
+        490,
+        457,
+        339,
+        433,
+        567,
+        589,
+        412,
+        527,
+        457,
+        339,
+        433,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23515243530273439,
+      "compression_ratio": 1.3131313131313131,
+      "no_speech_prob": 0.054506346583366394
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 14.0,
+      "end": 21.0,
+      "text": " They sell sausages, burgers, steak, etc.",
+      "tokens": [
+        51064,
+        814,
+        3607,
+        41157,
+        11,
+        28403,
+        11,
+        17009,
+        11,
+        5183,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23515243530273439,
+      "compression_ratio": 1.3131313131313131,
+      "no_speech_prob": 0.054506346583366394
+    },
+    {
+      "id": 3,
+      "seek": 2100,
+      "start": 21.0,
+      "end": 30.0,
+      "text": " Restaurants get their bread, cakes and pastries from a bakery.",
+      "tokens": [
+        50364,
+        31712,
+        1719,
+        483,
+        641,
+        5961,
+        11,
+        19932,
+        293,
+        1791,
+        2244,
+        490,
+        257,
+        37519,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19168893028708064,
+      "compression_ratio": 0.9393939393939394,
+      "no_speech_prob": 0.14930301904678345
+    }
+  ],
+  "language": "en"
+}

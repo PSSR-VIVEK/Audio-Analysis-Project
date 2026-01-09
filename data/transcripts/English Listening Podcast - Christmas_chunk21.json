@@ -1,0 +1,112 @@
+{
+  "text": " has really incredible Christmas decorations and each neighborhood that does this has a different nickname a name for itself so the name might be candy cane lane or starlight circle or something like that and people will go from different parts of the city to",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 7.92,
+      "text": " has really incredible Christmas decorations and each neighborhood that does",
+      "tokens": [
+        50364,
+        575,
+        534,
+        4651,
+        5272,
+        32367,
+        293,
+        1184,
+        7630,
+        300,
+        775,
+        50760
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22922340704470265,
+      "compression_ratio": 1.5695364238410596,
+      "no_speech_prob": 0.13699570298194885
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.92,
+      "end": 18.0,
+      "text": " this has a different nickname a name for itself so the name might be candy cane",
+      "tokens": [
+        50760,
+        341,
+        575,
+        257,
+        819,
+        21641,
+        257,
+        1315,
+        337,
+        2564,
+        370,
+        264,
+        1315,
+        1062,
+        312,
+        11237,
+        27518,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22922340704470265,
+      "compression_ratio": 1.5695364238410596,
+      "no_speech_prob": 0.13699570298194885
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 18.0,
+      "end": 27.04,
+      "text": " lane or starlight circle or something like that and people will go from different",
+      "tokens": [
+        51264,
+        12705,
+        420,
+        3543,
+        2764,
+        6329,
+        420,
+        746,
+        411,
+        300,
+        293,
+        561,
+        486,
+        352,
+        490,
+        819,
+        51716
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22922340704470265,
+      "compression_ratio": 1.5695364238410596,
+      "no_speech_prob": 0.13699570298194885
+    },
+    {
+      "id": 3,
+      "seek": 2704,
+      "start": 27.04,
+      "end": 29.04,
+      "text": " parts of the city to",
+      "tokens": [
+        50364,
+        3166,
+        295,
+        264,
+        2307,
+        281,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5274402499198914,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 0.13674287497997284
+    }
+  ],
+  "language": "en"
+}

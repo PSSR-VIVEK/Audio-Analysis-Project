@@ -1,0 +1,108 @@
+{
+  "text": " They tell you to buy medication which you can buy at a pharmacy or chemists where pharmacists or chemists work. Doctors work with nurses. These help doctors to look at the patients when they are ill.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 15.280000000000001,
+      "text": " They tell you to buy medication which you can buy at a pharmacy or chemists where pharmacists",
+      "tokens": [
+        50364,
+        814,
+        980,
+        291,
+        281,
+        2256,
+        13851,
+        597,
+        291,
+        393,
+        2256,
+        412,
+        257,
+        30639,
+        420,
+        4771,
+        1751,
+        689,
+        31818,
+        1751,
+        51128
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2897268501487938,
+      "compression_ratio": 1.37,
+      "no_speech_prob": 0.2741169333457947
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 15.280000000000001,
+      "end": 19.56,
+      "text": " or chemists work.",
+      "tokens": [
+        51128,
+        420,
+        4771,
+        1751,
+        589,
+        13,
+        51342
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2897268501487938,
+      "compression_ratio": 1.37,
+      "no_speech_prob": 0.2741169333457947
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 19.56,
+      "end": 23.28,
+      "text": " Doctors work with nurses.",
+      "tokens": [
+        51342,
+        39090,
+        589,
+        365,
+        17446,
+        13,
+        51528
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2897268501487938,
+      "compression_ratio": 1.37,
+      "no_speech_prob": 0.2741169333457947
+    },
+    {
+      "id": 3,
+      "seek": 2328,
+      "start": 23.28,
+      "end": 29.840000000000003,
+      "text": " These help doctors to look at the patients when they are ill.",
+      "tokens": [
+        50364,
+        1981,
+        854,
+        8778,
+        281,
+        574,
+        412,
+        264,
+        4209,
+        562,
+        436,
+        366,
+        3171,
+        13,
+        50692
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35713618993759155,
+      "compression_ratio": 0.953125,
+      "no_speech_prob": 0.12776024639606476
+    }
+  ],
+  "language": "en"
+}

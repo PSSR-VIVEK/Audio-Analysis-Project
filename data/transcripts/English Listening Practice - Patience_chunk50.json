@@ -1,0 +1,167 @@
+{
+  "text": " that can possibly irritate us and affect our mood, and they can cause us to lose our cool sometimes and we need to be careful with this and we need to exercise patience and to really understand that kids need instruction and discipline and they need time. They need time to learn.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " that can possibly irritate us and affect our mood,",
+      "tokens": [
+        50364,
+        300,
+        393,
+        6264,
+        16029,
+        473,
+        505,
+        293,
+        3345,
+        527,
+        9268,
+        11,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18351933360099792,
+      "compression_ratio": 1.655844155844156,
+      "no_speech_prob": 0.097601979970932
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.28,
+      "end": 11.28,
+      "text": " and they can cause us to lose our cool sometimes",
+      "tokens": [
+        50678,
+        293,
+        436,
+        393,
+        3082,
+        505,
+        281,
+        3624,
+        527,
+        1627,
+        2171,
+        50928
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18351933360099792,
+      "compression_ratio": 1.655844155844156,
+      "no_speech_prob": 0.097601979970932
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 12.16,
+      "end": 15.280000000000001,
+      "text": " and we need to be careful with this",
+      "tokens": [
+        50972,
+        293,
+        321,
+        643,
+        281,
+        312,
+        5026,
+        365,
+        341,
+        51128
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18351933360099792,
+      "compression_ratio": 1.655844155844156,
+      "no_speech_prob": 0.097601979970932
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 15.280000000000001,
+      "end": 18.400000000000002,
+      "text": " and we need to exercise patience",
+      "tokens": [
+        51128,
+        293,
+        321,
+        643,
+        281,
+        5380,
+        14826,
+        51284
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18351933360099792,
+      "compression_ratio": 1.655844155844156,
+      "no_speech_prob": 0.097601979970932
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 18.400000000000002,
+      "end": 23.400000000000002,
+      "text": " and to really understand that kids need instruction",
+      "tokens": [
+        51284,
+        293,
+        281,
+        534,
+        1223,
+        300,
+        2301,
+        643,
+        10951,
+        51534
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18351933360099792,
+      "compression_ratio": 1.655844155844156,
+      "no_speech_prob": 0.097601979970932
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 24.28,
+      "end": 27.84,
+      "text": " and discipline and they need time.",
+      "tokens": [
+        51578,
+        293,
+        13635,
+        293,
+        436,
+        643,
+        565,
+        13,
+        51756
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18351933360099792,
+      "compression_ratio": 1.655844155844156,
+      "no_speech_prob": 0.097601979970932
+    },
+    {
+      "id": 6,
+      "seek": 2784,
+      "start": 27.84,
+      "end": 30.16,
+      "text": " They need time to learn.",
+      "tokens": [
+        50364,
+        814,
+        643,
+        565,
+        281,
+        1466,
+        13,
+        50480
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.674477736155192,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.019482754170894623
+    }
+  ],
+  "language": "en"
+}

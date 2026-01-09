@@ -1,0 +1,165 @@
+{
+  "text": " one big goal you have several smaller goals. So of course you can achieve goals better like this because there are more goals to achieve and they're easier to achieve. But really the reason why these mini goals are so effective is because they provide us with the satisfaction of.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " one big goal you have several smaller goals.",
+      "tokens": [
+        50364,
+        472,
+        955,
+        3387,
+        291,
+        362,
+        2940,
+        4356,
+        5493,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24823448874733664,
+      "compression_ratio": 1.6428571428571428,
+      "no_speech_prob": 0.4338129460811615
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.58,
+      "end": 10.28,
+      "text": " So of course you can achieve goals better like this",
+      "tokens": [
+        50643,
+        407,
+        295,
+        1164,
+        291,
+        393,
+        4584,
+        5493,
+        1101,
+        411,
+        341,
+        50878
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24823448874733664,
+      "compression_ratio": 1.6428571428571428,
+      "no_speech_prob": 0.4338129460811615
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.28,
+      "end": 13.44,
+      "text": " because there are more goals to achieve",
+      "tokens": [
+        50878,
+        570,
+        456,
+        366,
+        544,
+        5493,
+        281,
+        4584,
+        51036
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24823448874733664,
+      "compression_ratio": 1.6428571428571428,
+      "no_speech_prob": 0.4338129460811615
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.44,
+      "end": 15.94,
+      "text": " and they're easier to achieve.",
+      "tokens": [
+        51036,
+        293,
+        436,
+        434,
+        3571,
+        281,
+        4584,
+        13,
+        51161
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24823448874733664,
+      "compression_ratio": 1.6428571428571428,
+      "no_speech_prob": 0.4338129460811615
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 15.94,
+      "end": 20.94,
+      "text": " But really the reason why these mini goals are so effective",
+      "tokens": [
+        51161,
+        583,
+        534,
+        264,
+        1778,
+        983,
+        613,
+        8382,
+        5493,
+        366,
+        370,
+        4942,
+        51411
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24823448874733664,
+      "compression_ratio": 1.6428571428571428,
+      "no_speech_prob": 0.4338129460811615
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 23.36,
+      "end": 28.36,
+      "text": " is because they provide us with the satisfaction",
+      "tokens": [
+        51532,
+        307,
+        570,
+        436,
+        2893,
+        505,
+        365,
+        264,
+        18715,
+        51782
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24823448874733664,
+      "compression_ratio": 1.6428571428571428,
+      "no_speech_prob": 0.4338129460811615
+    },
+    {
+      "id": 6,
+      "seek": 2836,
+      "start": 28.36,
+      "end": 30.0,
+      "text": " of.",
+      "tokens": [
+        50392,
+        295,
+        13,
+        50446
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3287073135375977,
+      "compression_ratio": 0.2727272727272727,
+      "no_speech_prob": 0.4339139759540558
+    }
+  ],
+  "language": "en"
+}

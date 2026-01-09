@@ -1,0 +1,173 @@
+{
+  "text": " to go somewhere else in Mexico with more flight options and Maybe somewhere that would be a little bit easier for everyone Okay, so that's why we chose Mexico City because also my sister's family and my dad None of them had ever been to Mexico City. So I love Mexico City I had already been there What",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " to go somewhere else in Mexico with more flight options and",
+      "tokens": [
+        50364,
+        281,
+        352,
+        4079,
+        1646,
+        294,
+        8612,
+        365,
+        544,
+        7018,
+        3956,
+        293,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37227439880371094,
+      "compression_ratio": 1.5828877005347595,
+      "no_speech_prob": 0.19069300591945648
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.0,
+      "end": 11.52,
+      "text": " Maybe somewhere that would be a little bit easier for everyone",
+      "tokens": [
+        50714,
+        2704,
+        4079,
+        300,
+        576,
+        312,
+        257,
+        707,
+        857,
+        3571,
+        337,
+        1518,
+        50940
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37227439880371094,
+      "compression_ratio": 1.5828877005347595,
+      "no_speech_prob": 0.19069300591945648
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 12.0,
+      "end": 16.6,
+      "text": " Okay, so that's why we chose Mexico City because",
+      "tokens": [
+        50964,
+        1033,
+        11,
+        370,
+        300,
+        311,
+        983,
+        321,
+        5111,
+        8612,
+        4392,
+        570,
+        51194
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37227439880371094,
+      "compression_ratio": 1.5828877005347595,
+      "no_speech_prob": 0.19069300591945648
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 17.2,
+      "end": 19.96,
+      "text": " also my sister's family and my dad",
+      "tokens": [
+        51224,
+        611,
+        452,
+        4892,
+        311,
+        1605,
+        293,
+        452,
+        3546,
+        51362
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37227439880371094,
+      "compression_ratio": 1.5828877005347595,
+      "no_speech_prob": 0.19069300591945648
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 21.12,
+      "end": 26.560000000000002,
+      "text": " None of them had ever been to Mexico City. So I love Mexico City",
+      "tokens": [
+        51420,
+        14492,
+        295,
+        552,
+        632,
+        1562,
+        668,
+        281,
+        8612,
+        4392,
+        13,
+        407,
+        286,
+        959,
+        8612,
+        4392,
+        51692
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37227439880371094,
+      "compression_ratio": 1.5828877005347595,
+      "no_speech_prob": 0.19069300591945648
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 26.560000000000002,
+      "end": 29.04,
+      "text": " I had already been there",
+      "tokens": [
+        51692,
+        286,
+        632,
+        1217,
+        668,
+        456,
+        51816
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37227439880371094,
+      "compression_ratio": 1.5828877005347595,
+      "no_speech_prob": 0.19069300591945648
+    },
+    {
+      "id": 6,
+      "seek": 2904,
+      "start": 29.04,
+      "end": 31.34,
+      "text": " What",
+      "tokens": [
+        50379,
+        708,
+        50479
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.1559836864471436,
+      "compression_ratio": 0.3333333333333333,
+      "no_speech_prob": 0.12779507040977478
+    }
+  ],
+  "language": "en"
+}

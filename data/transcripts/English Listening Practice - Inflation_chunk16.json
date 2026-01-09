@@ -1,0 +1,173 @@
+{
+  "text": " Think of a basic example right in the years 2020 and 2021 in many places for example in the United States the government gave out a lot of $3 to people a lot of people received stimulus checks and there were other forms of stimulus that",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.64,
+      "text": " Think of a basic example right in the years",
+      "tokens": [
+        50364,
+        6557,
+        295,
+        257,
+        3875,
+        1365,
+        558,
+        294,
+        264,
+        924,
+        50596
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5150322523273405,
+      "compression_ratio": 1.48,
+      "no_speech_prob": 0.08767052739858627
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.44,
+      "end": 7.76,
+      "text": " 2020 and 2021 in",
+      "tokens": [
+        50636,
+        4808,
+        293,
+        7201,
+        294,
+        50752
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5150322523273405,
+      "compression_ratio": 1.48,
+      "no_speech_prob": 0.08767052739858627
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.76,
+      "end": 12.48,
+      "text": " many places for example in the United States",
+      "tokens": [
+        50802,
+        867,
+        3190,
+        337,
+        1365,
+        294,
+        264,
+        2824,
+        3040,
+        50988
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5150322523273405,
+      "compression_ratio": 1.48,
+      "no_speech_prob": 0.08767052739858627
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.24,
+      "end": 16.76,
+      "text": " the government gave out a lot of",
+      "tokens": [
+        51026,
+        264,
+        2463,
+        2729,
+        484,
+        257,
+        688,
+        295,
+        51202
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5150322523273405,
+      "compression_ratio": 1.48,
+      "no_speech_prob": 0.08767052739858627
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 17.84,
+      "end": 21.6,
+      "text": " $3 to people a lot of people received",
+      "tokens": [
+        51256,
+        1848,
+        18,
+        281,
+        561,
+        257,
+        688,
+        295,
+        561,
+        4613,
+        51444
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5150322523273405,
+      "compression_ratio": 1.48,
+      "no_speech_prob": 0.08767052739858627
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 22.2,
+      "end": 24.2,
+      "text": " stimulus checks and",
+      "tokens": [
+        51474,
+        21366,
+        13834,
+        293,
+        51574
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5150322523273405,
+      "compression_ratio": 1.48,
+      "no_speech_prob": 0.08767052739858627
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 24.72,
+      "end": 27.2,
+      "text": " there were other forms of",
+      "tokens": [
+        51600,
+        456,
+        645,
+        661,
+        6422,
+        295,
+        51724
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5150322523273405,
+      "compression_ratio": 1.48,
+      "no_speech_prob": 0.08767052739858627
+    },
+    {
+      "id": 7,
+      "seek": 2720,
+      "start": 27.2,
+      "end": 30.0,
+      "text": " stimulus that",
+      "tokens": [
+        50404,
+        21366,
+        300,
+        50504
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6433400630950927,
+      "compression_ratio": 0.6190476190476191,
+      "no_speech_prob": 0.033784881234169006
+    }
+  ],
+  "language": "en"
+}

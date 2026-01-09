@@ -1,0 +1,151 @@
+{
+  "text": " Thy, thy mouth, and we also have thine, thine heart. You might be wondering what those mean. Well, in the past, English distinguished between the second person singular and the second person plural. What does that mean? If you're talking to one...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 7.0,
+      "text": " Thy, thy mouth, and we also have thine, thine heart.",
+      "tokens": [
+        50364,
+        40010,
+        11,
+        15196,
+        4525,
+        11,
+        293,
+        321,
+        611,
+        362,
+        258,
+        533,
+        11,
+        258,
+        533,
+        1917,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4011375427246094,
+      "compression_ratio": 1.46,
+      "no_speech_prob": 0.1609664261341095
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 9.200000000000001,
+      "end": 13.280000000000001,
+      "text": " You might be wondering what those mean.",
+      "tokens": [
+        50824,
+        509,
+        1062,
+        312,
+        6359,
+        437,
+        729,
+        914,
+        13,
+        51028
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4011375427246094,
+      "compression_ratio": 1.46,
+      "no_speech_prob": 0.1609664261341095
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 13.280000000000001,
+      "end": 24.28,
+      "text": " Well, in the past, English distinguished between the second person singular and the second",
+      "tokens": [
+        51028,
+        1042,
+        11,
+        294,
+        264,
+        1791,
+        11,
+        3669,
+        21702,
+        1296,
+        264,
+        1150,
+        954,
+        20010,
+        293,
+        264,
+        1150,
+        51578
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4011375427246094,
+      "compression_ratio": 1.46,
+      "no_speech_prob": 0.1609664261341095
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 24.28,
+      "end": 26.400000000000002,
+      "text": " person plural.",
+      "tokens": [
+        51578,
+        954,
+        25377,
+        13,
+        51684
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4011375427246094,
+      "compression_ratio": 1.46,
+      "no_speech_prob": 0.1609664261341095
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 26.400000000000002,
+      "end": 27.8,
+      "text": " What does that mean?",
+      "tokens": [
+        51684,
+        708,
+        775,
+        300,
+        914,
+        30,
+        51754
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4011375427246094,
+      "compression_ratio": 1.46,
+      "no_speech_prob": 0.1609664261341095
+    },
+    {
+      "id": 5,
+      "seek": 2780,
+      "start": 27.8,
+      "end": 30.02,
+      "text": " If you're talking to one...",
+      "tokens": [
+        50400,
+        759,
+        291,
+        434,
+        1417,
+        281,
+        472,
+        485,
+        50475
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7486422538757325,
+      "compression_ratio": 0.7714285714285715,
+      "no_speech_prob": 0.1241384968161583
+    }
+  ],
+  "language": "en"
+}

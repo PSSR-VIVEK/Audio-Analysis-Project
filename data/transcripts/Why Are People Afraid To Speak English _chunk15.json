@@ -1,0 +1,172 @@
+{
+  "text": " the wrong words many times. Okay? That's not something you can avoid. And it's not something that you will avoid when you're fluent even. Because fluency does not mean perfect accuracy. Fluency and accuracy are two different things. So even when you become fluent in English, you're...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.7600000000000002,
+      "text": " the wrong words many times.",
+      "tokens": [
+        50364,
+        264,
+        2085,
+        2283,
+        867,
+        1413,
+        13,
+        50502
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38309139675564235,
+      "compression_ratio": 1.5163398692810457,
+      "no_speech_prob": 0.35140833258628845
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.7600000000000002,
+      "end": 3.7600000000000002,
+      "text": " Okay?",
+      "tokens": [
+        50502,
+        1033,
+        30,
+        50552
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38309139675564235,
+      "compression_ratio": 1.5163398692810457,
+      "no_speech_prob": 0.35140833258628845
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 3.7600000000000002,
+      "end": 7.6000000000000005,
+      "text": " That's not something you can avoid.",
+      "tokens": [
+        50552,
+        663,
+        311,
+        406,
+        746,
+        291,
+        393,
+        5042,
+        13,
+        50744
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38309139675564235,
+      "compression_ratio": 1.5163398692810457,
+      "no_speech_prob": 0.35140833258628845
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 7.6000000000000005,
+      "end": 14.8,
+      "text": " And it's not something that you will avoid when you're fluent even.",
+      "tokens": [
+        50744,
+        400,
+        309,
+        311,
+        406,
+        746,
+        300,
+        291,
+        486,
+        5042,
+        562,
+        291,
+        434,
+        40799,
+        754,
+        13,
+        51104
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38309139675564235,
+      "compression_ratio": 1.5163398692810457,
+      "no_speech_prob": 0.35140833258628845
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 14.8,
+      "end": 20.6,
+      "text": " Because fluency does not mean perfect accuracy.",
+      "tokens": [
+        51104,
+        1436,
+        5029,
+        3020,
+        775,
+        406,
+        914,
+        2176,
+        14170,
+        13,
+        51394
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38309139675564235,
+      "compression_ratio": 1.5163398692810457,
+      "no_speech_prob": 0.35140833258628845
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 20.6,
+      "end": 24.68,
+      "text": " Fluency and accuracy are two different things.",
+      "tokens": [
+        51394,
+        33612,
+        3020,
+        293,
+        14170,
+        366,
+        732,
+        819,
+        721,
+        13,
+        51598
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38309139675564235,
+      "compression_ratio": 1.5163398692810457,
+      "no_speech_prob": 0.35140833258628845
+    },
+    {
+      "id": 6,
+      "seek": 2468,
+      "start": 24.68,
+      "end": 30.68,
+      "text": " So even when you become fluent in English, you're...",
+      "tokens": [
+        50364,
+        407,
+        754,
+        562,
+        291,
+        1813,
+        40799,
+        294,
+        3669,
+        11,
+        291,
+        434,
+        485,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5888732274373373,
+      "compression_ratio": 0.9285714285714286,
+      "no_speech_prob": 0.033963464200496674
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,91 @@
+{
+  "text": " in a Formula 1 race was set in 2018 or 2018 with an average speed of 263 km per hour. This record was set by Raikon in Italy. In case you have never watched.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 19.5,
+      "text": " in a Formula 1 race was set in 2018 or 2018 with an average speed of 263 km per hour.",
+      "tokens": [
+        50364,
+        294,
+        257,
+        35872,
+        502,
+        4569,
+        390,
+        992,
+        294,
+        6096,
+        420,
+        6096,
+        365,
+        364,
+        4274,
+        3073,
+        295,
+        7551,
+        18,
+        10698,
+        680,
+        1773,
+        13,
+        51339
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35156929798615283,
+      "compression_ratio": 1.146788990825688,
+      "no_speech_prob": 0.0932767316699028
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 19.5,
+      "end": 27.46,
+      "text": " This record was set by Raikon in Italy.",
+      "tokens": [
+        51339,
+        639,
+        2136,
+        390,
+        992,
+        538,
+        7591,
+        1035,
+        266,
+        294,
+        10705,
+        13,
+        51737
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.35156929798615283,
+      "compression_ratio": 1.146788990825688,
+      "no_speech_prob": 0.0932767316699028
+    },
+    {
+      "id": 2,
+      "seek": 2746,
+      "start": 27.46,
+      "end": 29.46,
+      "text": " In case you have never watched.",
+      "tokens": [
+        50364,
+        682,
+        1389,
+        291,
+        362,
+        1128,
+        6337,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5772343158721924,
+      "compression_ratio": 0.7948717948717948,
+      "no_speech_prob": 0.7290418148040771
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,92 @@
+{
+  "text": " vehicles. There are different types of drivers like taxi drivers or train drivers. However, the people who fly airplanes are called pilots. If your vehicle has a problem, you take it to the mechanic where mechanic",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 11.84,
+      "text": " vehicles. There are different types of drivers like taxi drivers or train drivers.",
+      "tokens": [
+        50364,
+        8948,
+        13,
+        821,
+        366,
+        819,
+        3467,
+        295,
+        11590,
+        411,
+        18984,
+        11590,
+        420,
+        3847,
+        11590,
+        13,
+        50956
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2182582391274942,
+      "compression_ratio": 1.3529411764705883,
+      "no_speech_prob": 0.30631792545318604
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 11.84,
+      "end": 23.68,
+      "text": " However, the people who fly airplanes are called pilots. If your vehicle has a",
+      "tokens": [
+        50956,
+        2908,
+        11,
+        264,
+        561,
+        567,
+        3603,
+        32947,
+        366,
+        1219,
+        21506,
+        13,
+        759,
+        428,
+        5864,
+        575,
+        257,
+        51548
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2182582391274942,
+      "compression_ratio": 1.3529411764705883,
+      "no_speech_prob": 0.30631792545318604
+    },
+    {
+      "id": 2,
+      "seek": 2368,
+      "start": 23.68,
+      "end": 29.92,
+      "text": " problem, you take it to the mechanic where mechanic",
+      "tokens": [
+        50364,
+        1154,
+        11,
+        291,
+        747,
+        309,
+        281,
+        264,
+        23860,
+        689,
+        23860,
+        50676
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4423960539010855,
+      "compression_ratio": 1.02,
+      "no_speech_prob": 0.10350117087364197
+    }
+  ],
+  "language": "en"
+}

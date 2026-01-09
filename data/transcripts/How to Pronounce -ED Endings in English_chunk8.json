@@ -1,0 +1,72 @@
+{
+  "text": " vibration in your throat. I know it sounds strange but it's important to know which ones are unvoiced sounds. That means that and are unvoiced sounds because they are",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 16.2,
+      "text": " vibration in your throat. I know it sounds strange but it's important to know which ones are",
+      "tokens": [
+        50364,
+        20006,
+        294,
+        428,
+        12394,
+        13,
+        286,
+        458,
+        309,
+        3263,
+        5861,
+        457,
+        309,
+        311,
+        1021,
+        281,
+        458,
+        597,
+        2306,
+        366,
+        51174
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30001124091770337,
+      "compression_ratio": 1.1219512195121952,
+      "no_speech_prob": 0.1417902261018753
+    },
+    {
+      "id": 1,
+      "seek": 1620,
+      "start": 16.2,
+      "end": 29.759999999999998,
+      "text": " unvoiced sounds. That means that and are unvoiced sounds because they are",
+      "tokens": [
+        50364,
+        517,
+        3080,
+        4233,
+        3263,
+        13,
+        663,
+        1355,
+        300,
+        293,
+        366,
+        517,
+        3080,
+        4233,
+        3263,
+        570,
+        436,
+        366,
+        51042
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4412345886230469,
+      "compression_ratio": 1.140625,
+      "no_speech_prob": 0.16827189922332764
+    }
+  ],
+  "language": "en"
+}

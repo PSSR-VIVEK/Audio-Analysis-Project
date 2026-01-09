@@ -1,0 +1,123 @@
+{
+  "text": " poor, heavy, light, hard working, lazy, same, insane. So let's test yourself now. What is the opposite word of noisy? It is quiet. What is the opposite word of open?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 15.0,
+      "text": " poor, heavy, light, hard working, lazy, same, insane.",
+      "tokens": [
+        50364,
+        4716,
+        11,
+        4676,
+        11,
+        1442,
+        11,
+        1152,
+        1364,
+        11,
+        14847,
+        11,
+        912,
+        11,
+        10838,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2786094058643688,
+      "compression_ratio": 1.1711711711711712,
+      "no_speech_prob": 0.3114578425884247
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 15.0,
+      "end": 18.0,
+      "text": " So let's test yourself now.",
+      "tokens": [
+        51114,
+        407,
+        718,
+        311,
+        1500,
+        1803,
+        586,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2786094058643688,
+      "compression_ratio": 1.1711711711711712,
+      "no_speech_prob": 0.3114578425884247
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 18.0,
+      "end": 23.5,
+      "text": " What is the opposite word of noisy?",
+      "tokens": [
+        51264,
+        708,
+        307,
+        264,
+        6182,
+        1349,
+        295,
+        24518,
+        30,
+        51539
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2786094058643688,
+      "compression_ratio": 1.1711711711711712,
+      "no_speech_prob": 0.3114578425884247
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 23.5,
+      "end": 26.0,
+      "text": " It is quiet.",
+      "tokens": [
+        51539,
+        467,
+        307,
+        5677,
+        13,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2786094058643688,
+      "compression_ratio": 1.1711711711711712,
+      "no_speech_prob": 0.3114578425884247
+    },
+    {
+      "id": 4,
+      "seek": 2600,
+      "start": 26.0,
+      "end": 30.0,
+      "text": " What is the opposite word of open?",
+      "tokens": [
+        50364,
+        708,
+        307,
+        264,
+        6182,
+        1349,
+        295,
+        1269,
+        30,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23729246312921698,
+      "compression_ratio": 0.8292682926829268,
+      "no_speech_prob": 0.03318294882774353
+    }
+  ],
+  "language": "en"
+}

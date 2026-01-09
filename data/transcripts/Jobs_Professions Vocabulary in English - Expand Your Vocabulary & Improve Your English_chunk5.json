@@ -1,0 +1,140 @@
+{
+  "text": " where bakers work. Waiters, waitresses or servers, the neutral form for both men and women, also work at restaurants and cafes. They are the people who take the food and drink to people's tables.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.0,
+      "text": " where bakers work.",
+      "tokens": [
+        50364,
+        689,
+        5657,
+        433,
+        589,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23741690317789713,
+      "compression_ratio": 1.4233576642335766,
+      "no_speech_prob": 0.0567801296710968
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.0,
+      "end": 9.0,
+      "text": " Waiters, waitresses or servers,",
+      "tokens": [
+        50614,
+        3802,
+        433,
+        11,
+        1699,
+        40352,
+        420,
+        15909,
+        11,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23741690317789713,
+      "compression_ratio": 1.4233576642335766,
+      "no_speech_prob": 0.0567801296710968
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.0,
+      "end": 15.0,
+      "text": " the neutral form for both men and women,",
+      "tokens": [
+        50864,
+        264,
+        10598,
+        1254,
+        337,
+        1293,
+        1706,
+        293,
+        2266,
+        11,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23741690317789713,
+      "compression_ratio": 1.4233576642335766,
+      "no_speech_prob": 0.0567801296710968
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 16.0,
+      "end": 20.0,
+      "text": " also work at restaurants and cafes.",
+      "tokens": [
+        51164,
+        611,
+        589,
+        412,
+        11486,
+        293,
+        48851,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23741690317789713,
+      "compression_ratio": 1.4233576642335766,
+      "no_speech_prob": 0.0567801296710968
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 21.0,
+      "end": 25.0,
+      "text": " They are the people who take the food",
+      "tokens": [
+        51414,
+        814,
+        366,
+        264,
+        561,
+        567,
+        747,
+        264,
+        1755,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23741690317789713,
+      "compression_ratio": 1.4233576642335766,
+      "no_speech_prob": 0.0567801296710968
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 25.0,
+      "end": 29.0,
+      "text": " and drink to people's tables.",
+      "tokens": [
+        51614,
+        293,
+        2822,
+        281,
+        561,
+        311,
+        8020,
+        13,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23741690317789713,
+      "compression_ratio": 1.4233576642335766,
+      "no_speech_prob": 0.0567801296710968
+    }
+  ],
+  "language": "en"
+}

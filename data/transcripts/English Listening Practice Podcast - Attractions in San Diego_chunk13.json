@@ -1,0 +1,164 @@
+{
+  "text": " that is hosted by certain hosts. They put on a show. So SeaWorld puts on these amazing shows in which these animals actually perform. It's pretty crazy when you think about it and when you see what these animals are trained to do. So admittedly...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " that is hosted by certain hosts.",
+      "tokens": [
+        50364,
+        300,
+        307,
+        19204,
+        538,
+        1629,
+        21573,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1896535177079458,
+      "compression_ratio": 1.4935064935064934,
+      "no_speech_prob": 0.4020736515522003
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.32,
+      "end": 7.72,
+      "text": " They put on a show.",
+      "tokens": [
+        50630,
+        814,
+        829,
+        322,
+        257,
+        855,
+        13,
+        50750
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1896535177079458,
+      "compression_ratio": 1.4935064935064934,
+      "no_speech_prob": 0.4020736515522003
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.72,
+      "end": 12.22,
+      "text": " So SeaWorld puts on these amazing shows",
+      "tokens": [
+        50750,
+        407,
+        11352,
+        37881,
+        8137,
+        322,
+        613,
+        2243,
+        3110,
+        50975
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1896535177079458,
+      "compression_ratio": 1.4935064935064934,
+      "no_speech_prob": 0.4020736515522003
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.56,
+      "end": 18.06,
+      "text": " in which these animals actually perform.",
+      "tokens": [
+        51042,
+        294,
+        597,
+        613,
+        4882,
+        767,
+        2042,
+        13,
+        51267
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1896535177079458,
+      "compression_ratio": 1.4935064935064934,
+      "no_speech_prob": 0.4020736515522003
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 18.06,
+      "end": 22.8,
+      "text": " It's pretty crazy when you think about it",
+      "tokens": [
+        51267,
+        467,
+        311,
+        1238,
+        3219,
+        562,
+        291,
+        519,
+        466,
+        309,
+        51504
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1896535177079458,
+      "compression_ratio": 1.4935064935064934,
+      "no_speech_prob": 0.4020736515522003
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 22.8,
+      "end": 27.8,
+      "text": " and when you see what these animals are trained to do.",
+      "tokens": [
+        51504,
+        293,
+        562,
+        291,
+        536,
+        437,
+        613,
+        4882,
+        366,
+        8895,
+        281,
+        360,
+        13,
+        51754
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1896535177079458,
+      "compression_ratio": 1.4935064935064934,
+      "no_speech_prob": 0.4020736515522003
+    },
+    {
+      "id": 6,
+      "seek": 2780,
+      "start": 27.8,
+      "end": 30.0,
+      "text": " So admittedly...",
+      "tokens": [
+        50374,
+        407,
+        14920,
+        356,
+        485,
+        50474
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.733752795628139,
+      "compression_ratio": 0.6666666666666666,
+      "no_speech_prob": 0.029172532260417938
+    }
+  ],
+  "language": "en"
+}

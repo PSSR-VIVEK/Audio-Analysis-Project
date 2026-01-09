@@ -1,0 +1,148 @@
+{
+  "text": " about that thing and then they just repeated to other people and That's not a characteristic of a deep thinker. So you want to be able to Hear things or learn things and then research them for yourself Actually learn to do your own research learn to learn things",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.36,
+      "text": " about that thing and then they just repeated to other people and",
+      "tokens": [
+        50364,
+        466,
+        300,
+        551,
+        293,
+        550,
+        436,
+        445,
+        10477,
+        281,
+        661,
+        561,
+        293,
+        50632
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4169840351227791,
+      "compression_ratio": 1.5961538461538463,
+      "no_speech_prob": 0.14845672249794006
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.640000000000001,
+      "end": 13.34,
+      "text": " That's not a characteristic of a deep thinker. So you want to be able to",
+      "tokens": [
+        50696,
+        663,
+        311,
+        406,
+        257,
+        16282,
+        295,
+        257,
+        2452,
+        519,
+        260,
+        13,
+        407,
+        291,
+        528,
+        281,
+        312,
+        1075,
+        281,
+        51031
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4169840351227791,
+      "compression_ratio": 1.5961538461538463,
+      "no_speech_prob": 0.14845672249794006
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 15.120000000000001,
+      "end": 19.42,
+      "text": " Hear things or learn things and then",
+      "tokens": [
+        51120,
+        30685,
+        721,
+        420,
+        1466,
+        721,
+        293,
+        550,
+        51335
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4169840351227791,
+      "compression_ratio": 1.5961538461538463,
+      "no_speech_prob": 0.14845672249794006
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 20.5,
+      "end": 22.5,
+      "text": " research them for yourself",
+      "tokens": [
+        51389,
+        2132,
+        552,
+        337,
+        1803,
+        51489
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4169840351227791,
+      "compression_ratio": 1.5961538461538463,
+      "no_speech_prob": 0.14845672249794006
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 23.7,
+      "end": 28.18,
+      "text": " Actually learn to do your own research learn to",
+      "tokens": [
+        51549,
+        5135,
+        1466,
+        281,
+        360,
+        428,
+        1065,
+        2132,
+        1466,
+        281,
+        51773
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4169840351227791,
+      "compression_ratio": 1.5961538461538463,
+      "no_speech_prob": 0.14845672249794006
+    },
+    {
+      "id": 5,
+      "seek": 2818,
+      "start": 28.18,
+      "end": 30.82,
+      "text": " learn things",
+      "tokens": [
+        50396,
+        1466,
+        721,
+        50496
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6027062416076661,
+      "compression_ratio": 0.6,
+      "no_speech_prob": 0.032360076904296875
+    }
+  ],
+  "language": "en"
+}

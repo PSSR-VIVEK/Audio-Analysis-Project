@@ -1,0 +1,132 @@
+{
+  "text": " Right they have a lot of anxiety about different things and they might overreact to small or minor things These are things that I am constantly trying to work on because I have these tendencies. I'm a Rodic person But I'm trying not to be",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.2,
+      "text": " Right they have a lot of anxiety about different things and",
+      "tokens": [
+        50364,
+        1779,
+        436,
+        362,
+        257,
+        688,
+        295,
+        9119,
+        466,
+        819,
+        721,
+        293,
+        50674
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3754769602129536,
+      "compression_ratio": 1.4875,
+      "no_speech_prob": 0.15321919322013855
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.2,
+      "end": 12.32,
+      "text": " they might overreact to small or minor things",
+      "tokens": [
+        50724,
+        436,
+        1062,
+        670,
+        265,
+        578,
+        281,
+        1359,
+        420,
+        6696,
+        721,
+        50980
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3754769602129536,
+      "compression_ratio": 1.4875,
+      "no_speech_prob": 0.15321919322013855
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 13.44,
+      "end": 22.82,
+      "text": " These are things that I am constantly trying to work on because I have these tendencies. I'm a",
+      "tokens": [
+        51036,
+        1981,
+        366,
+        721,
+        300,
+        286,
+        669,
+        6460,
+        1382,
+        281,
+        589,
+        322,
+        570,
+        286,
+        362,
+        613,
+        45488,
+        13,
+        286,
+        478,
+        257,
+        51505
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3754769602129536,
+      "compression_ratio": 1.4875,
+      "no_speech_prob": 0.15321919322013855
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 23.38,
+      "end": 25.14,
+      "text": " Rodic person",
+      "tokens": [
+        51533,
+        11097,
+        299,
+        954,
+        51621
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3754769602129536,
+      "compression_ratio": 1.4875,
+      "no_speech_prob": 0.15321919322013855
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 25.14,
+      "end": 29.080000000000002,
+      "text": " But I'm trying not to be",
+      "tokens": [
+        51621,
+        583,
+        286,
+        478,
+        1382,
+        406,
+        281,
+        312,
+        51818
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3754769602129536,
+      "compression_ratio": 1.4875,
+      "no_speech_prob": 0.15321919322013855
+    }
+  ],
+  "language": "en"
+}

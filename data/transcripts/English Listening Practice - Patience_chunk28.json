@@ -1,0 +1,109 @@
+{
+  "text": " takes a long time. I constantly get questions from people asking about their language learning process and usually they express frustration that they aren't improving fast or they feel stuck or they feel like their progress is not nudging fake",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 9.84,
+      "text": " takes a long time. I constantly get questions from people asking about their",
+      "tokens": [
+        50364,
+        2516,
+        257,
+        938,
+        565,
+        13,
+        286,
+        6460,
+        483,
+        1651,
+        490,
+        561,
+        3365,
+        466,
+        641,
+        50856
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15953728556632996,
+      "compression_ratio": 1.5436241610738255,
+      "no_speech_prob": 0.20157290995121002
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 9.84,
+      "end": 18.92,
+      "text": " language learning process and usually they express frustration that they aren't",
+      "tokens": [
+        50856,
+        2856,
+        2539,
+        1399,
+        293,
+        2673,
+        436,
+        5109,
+        20491,
+        300,
+        436,
+        3212,
+        380,
+        51310
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15953728556632996,
+      "compression_ratio": 1.5436241610738255,
+      "no_speech_prob": 0.20157290995121002
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 18.92,
+      "end": 29.78,
+      "text": " improving fast or they feel stuck or they feel like their progress is not",
+      "tokens": [
+        51310,
+        11470,
+        2370,
+        420,
+        436,
+        841,
+        5541,
+        420,
+        436,
+        841,
+        411,
+        641,
+        4205,
+        307,
+        406,
+        51853
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15953728556632996,
+      "compression_ratio": 1.5436241610738255,
+      "no_speech_prob": 0.20157290995121002
+    },
+    {
+      "id": 3,
+      "seek": 2978,
+      "start": 29.78,
+      "end": 34.6,
+      "text": " nudging fake",
+      "tokens": [
+        50368,
+        40045,
+        3249,
+        7592,
+        50605
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.470917383829753,
+      "compression_ratio": 0.6,
+      "no_speech_prob": 0.5549295544624329
+    }
+  ],
+  "language": "en"
+}

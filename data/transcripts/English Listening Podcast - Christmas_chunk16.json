@@ -1,0 +1,169 @@
+{
+  "text": " For most people, after Thanksgiving, it's Christmas time. It's the Christmas season. So this starts at the end of November, of course, and then it continues on through December. So we have multiple weeks. We have a full month where everything deals deals like Christmas this season.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " For most people, after Thanksgiving, it's Christmas time.",
+      "tokens": [
+        50364,
+        1171,
+        881,
+        561,
+        11,
+        934,
+        21230,
+        11,
+        309,
+        311,
+        5272,
+        565,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20783626671993372,
+      "compression_ratio": 1.4090909090909092,
+      "no_speech_prob": 0.08618500828742981
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.24,
+      "end": 7.44,
+      "text": " It's the Christmas season.",
+      "tokens": [
+        50626,
+        467,
+        311,
+        264,
+        5272,
+        3196,
+        13,
+        50736
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20783626671993372,
+      "compression_ratio": 1.4090909090909092,
+      "no_speech_prob": 0.08618500828742981
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.44,
+      "end": 12.44,
+      "text": " So this starts at the end of November, of course,",
+      "tokens": [
+        50736,
+        407,
+        341,
+        3719,
+        412,
+        264,
+        917,
+        295,
+        7674,
+        11,
+        295,
+        1164,
+        11,
+        50986
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20783626671993372,
+      "compression_ratio": 1.4090909090909092,
+      "no_speech_prob": 0.08618500828742981
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 12.72,
+      "end": 17.04,
+      "text": " and then it continues on through December.",
+      "tokens": [
+        51000,
+        293,
+        550,
+        309,
+        6515,
+        322,
+        807,
+        7687,
+        13,
+        51216
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20783626671993372,
+      "compression_ratio": 1.4090909090909092,
+      "no_speech_prob": 0.08618500828742981
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 17.04,
+      "end": 20.6,
+      "text": " So we have multiple weeks.",
+      "tokens": [
+        51216,
+        407,
+        321,
+        362,
+        3866,
+        3259,
+        13,
+        51394
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20783626671993372,
+      "compression_ratio": 1.4090909090909092,
+      "no_speech_prob": 0.08618500828742981
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 20.6,
+      "end": 25.6,
+      "text": " We have a full month where everything deals",
+      "tokens": [
+        51394,
+        492,
+        362,
+        257,
+        1577,
+        1618,
+        689,
+        1203,
+        11215,
+        51644
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20783626671993372,
+      "compression_ratio": 1.4090909090909092,
+      "no_speech_prob": 0.08618500828742981
+    },
+    {
+      "id": 6,
+      "seek": 2560,
+      "start": 25.6,
+      "end": 30.6,
+      "text": " deals like Christmas this season.",
+      "tokens": [
+        50412,
+        11215,
+        411,
+        5272,
+        341,
+        3196,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9187466303507487,
+      "compression_ratio": 0.8048780487804879,
+      "no_speech_prob": 0.05099528282880783
+    }
+  ],
+  "language": "en"
+}

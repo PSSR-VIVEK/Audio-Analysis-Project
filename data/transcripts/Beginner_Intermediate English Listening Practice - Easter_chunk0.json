@@ -1,0 +1,112 @@
+{
+  "text": " Easter is a Christian festival that is celebrated all over the world. Easter celebrates the resurrection of Jesus when he came back to life. In the United Kingdom, Easter has been celebrated for hundreds of years. There are many Easter celebrations.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 9.0,
+      "text": " Easter is a Christian festival that is celebrated all over the world.",
+      "tokens": [
+        50364,
+        9403,
+        307,
+        257,
+        5778,
+        12091,
+        300,
+        307,
+        19366,
+        439,
+        670,
+        264,
+        1002,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13366766770680746,
+      "compression_ratio": 1.4391891891891893,
+      "no_speech_prob": 0.016174646094441414
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 9.0,
+      "end": 18.0,
+      "text": " Easter celebrates the resurrection of Jesus when he came back to life.",
+      "tokens": [
+        50814,
+        9403,
+        47182,
+        264,
+        24150,
+        295,
+        2705,
+        562,
+        415,
+        1361,
+        646,
+        281,
+        993,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13366766770680746,
+      "compression_ratio": 1.4391891891891893,
+      "no_speech_prob": 0.016174646094441414
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 18.0,
+      "end": 27.0,
+      "text": " In the United Kingdom, Easter has been celebrated for hundreds of years.",
+      "tokens": [
+        51264,
+        682,
+        264,
+        2824,
+        11277,
+        11,
+        9403,
+        575,
+        668,
+        19366,
+        337,
+        6779,
+        295,
+        924,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13366766770680746,
+      "compression_ratio": 1.4391891891891893,
+      "no_speech_prob": 0.016174646094441414
+    },
+    {
+      "id": 3,
+      "seek": 2700,
+      "start": 27.0,
+      "end": 30.0,
+      "text": " There are many Easter celebrations.",
+      "tokens": [
+        50364,
+        821,
+        366,
+        867,
+        9403,
+        38504,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1803320911195543,
+      "compression_ratio": 0.8536585365853658,
+      "no_speech_prob": 0.022087329998612404
+    }
+  ],
+  "language": "en"
+}

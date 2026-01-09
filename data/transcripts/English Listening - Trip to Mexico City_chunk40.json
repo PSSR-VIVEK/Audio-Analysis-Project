@@ -1,0 +1,188 @@
+{
+  "text": " this neighborhood a little bit. It has a really interesting kind of appearance. I think that it's beautiful neighborhood and a really good breakfast there. So that was great. And then from there, we went further down towards the outside of the city to Sochi Milco, which is where tourists usually go.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.84,
+      "text": " this neighborhood a little bit.",
+      "tokens": [
+        50364,
+        341,
+        7630,
+        257,
+        707,
+        857,
+        13,
+        50506
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24581506218708737,
+      "compression_ratio": 1.5172413793103448,
+      "no_speech_prob": 0.28472721576690674
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.84,
+      "end": 7.84,
+      "text": " It has a really interesting kind of appearance.",
+      "tokens": [
+        50506,
+        467,
+        575,
+        257,
+        534,
+        1880,
+        733,
+        295,
+        8967,
+        13,
+        50756
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24581506218708737,
+      "compression_ratio": 1.5172413793103448,
+      "no_speech_prob": 0.28472721576690674
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.84,
+      "end": 10.52,
+      "text": " I think that it's beautiful neighborhood",
+      "tokens": [
+        50756,
+        286,
+        519,
+        300,
+        309,
+        311,
+        2238,
+        7630,
+        50890
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24581506218708737,
+      "compression_ratio": 1.5172413793103448,
+      "no_speech_prob": 0.28472721576690674
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.52,
+      "end": 14.56,
+      "text": " and a really good breakfast there.",
+      "tokens": [
+        50890,
+        293,
+        257,
+        534,
+        665,
+        8201,
+        456,
+        13,
+        51092
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24581506218708737,
+      "compression_ratio": 1.5172413793103448,
+      "no_speech_prob": 0.28472721576690674
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 14.56,
+      "end": 16.44,
+      "text": " So that was great.",
+      "tokens": [
+        51092,
+        407,
+        300,
+        390,
+        869,
+        13,
+        51186
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24581506218708737,
+      "compression_ratio": 1.5172413793103448,
+      "no_speech_prob": 0.28472721576690674
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 16.44,
+      "end": 20.84,
+      "text": " And then from there, we went further down",
+      "tokens": [
+        51186,
+        400,
+        550,
+        490,
+        456,
+        11,
+        321,
+        1437,
+        3052,
+        760,
+        51406
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24581506218708737,
+      "compression_ratio": 1.5172413793103448,
+      "no_speech_prob": 0.28472721576690674
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 20.84,
+      "end": 25.44,
+      "text": " towards the outside of the city to Sochi Milco,",
+      "tokens": [
+        51406,
+        3030,
+        264,
+        2380,
+        295,
+        264,
+        2307,
+        281,
+        407,
+        8036,
+        7036,
+        1291,
+        11,
+        51636
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24581506218708737,
+      "compression_ratio": 1.5172413793103448,
+      "no_speech_prob": 0.28472721576690674
+    },
+    {
+      "id": 7,
+      "seek": 2544,
+      "start": 25.44,
+      "end": 29.840000000000003,
+      "text": " which is where tourists usually go.",
+      "tokens": [
+        50364,
+        597,
+        307,
+        689,
+        20273,
+        2673,
+        352,
+        13,
+        50584
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5253657341003418,
+      "compression_ratio": 0.813953488372093,
+      "no_speech_prob": 0.004601035732775927
+    }
+  ],
+  "language": "en"
+}

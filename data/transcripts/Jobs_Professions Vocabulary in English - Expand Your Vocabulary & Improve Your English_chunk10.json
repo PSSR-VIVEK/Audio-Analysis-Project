@@ -1,0 +1,89 @@
+{
+  "text": " They take pictures of them for magazines, adverts or for social media. Models often wear fashionable clothes which are made by hand by tailors. Drivers are the people who drive.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 13.64,
+      "text": " They take pictures of them for magazines, adverts or for social media. Models often",
+      "tokens": [
+        50364,
+        814,
+        747,
+        5242,
+        295,
+        552,
+        337,
+        22975,
+        11,
+        614,
+        36999,
+        420,
+        337,
+        2093,
+        3021,
+        13,
+        6583,
+        1625,
+        2049,
+        51046
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3787657419840495,
+      "compression_ratio": 1.2434782608695651,
+      "no_speech_prob": 0.24902760982513428
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 13.64,
+      "end": 24.28,
+      "text": " wear fashionable clothes which are made by hand by tailors.",
+      "tokens": [
+        51046,
+        3728,
+        40735,
+        5534,
+        597,
+        366,
+        1027,
+        538,
+        1011,
+        538,
+        6838,
+        830,
+        13,
+        51578
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3787657419840495,
+      "compression_ratio": 1.2434782608695651,
+      "no_speech_prob": 0.24902760982513428
+    },
+    {
+      "id": 2,
+      "seek": 2428,
+      "start": 24.28,
+      "end": 31.28,
+      "text": " Drivers are the people who drive.",
+      "tokens": [
+        50414,
+        19150,
+        840,
+        366,
+        264,
+        561,
+        567,
+        3332,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5970315066250887,
+      "compression_ratio": 0.8461538461538461,
+      "no_speech_prob": 0.3581761419773102
+    }
+  ],
+  "language": "en"
+}

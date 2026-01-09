@@ -1,0 +1,148 @@
+{
+  "text": " But I have ridden a horse in England. There are quite a lot of horses in this country and a lot of horse riding schools. But it is quite expensive to ride a horse. So I don't do it very often. What makes a car?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.2,
+      "text": " But I have ridden a horse in England.",
+      "tokens": [
+        50364,
+        583,
+        286,
+        362,
+        3973,
+        1556,
+        257,
+        6832,
+        294,
+        8196,
+        13,
+        50624
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3365976042666678,
+      "compression_ratio": 1.4328358208955223,
+      "no_speech_prob": 0.012025541625916958
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.24,
+      "end": 11.84,
+      "text": " There are quite a lot of horses in this country",
+      "tokens": [
+        50726,
+        821,
+        366,
+        1596,
+        257,
+        688,
+        295,
+        13112,
+        294,
+        341,
+        1941,
+        50956
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3365976042666678,
+      "compression_ratio": 1.4328358208955223,
+      "no_speech_prob": 0.012025541625916958
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 12.56,
+      "end": 16.0,
+      "text": " and a lot of horse riding schools.",
+      "tokens": [
+        50992,
+        293,
+        257,
+        688,
+        295,
+        6832,
+        9546,
+        4656,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3365976042666678,
+      "compression_ratio": 1.4328358208955223,
+      "no_speech_prob": 0.012025541625916958
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 16.96,
+      "end": 22.2,
+      "text": " But it is quite expensive to ride a horse.",
+      "tokens": [
+        51212,
+        583,
+        309,
+        307,
+        1596,
+        5124,
+        281,
+        5077,
+        257,
+        6832,
+        13,
+        51474
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3365976042666678,
+      "compression_ratio": 1.4328358208955223,
+      "no_speech_prob": 0.012025541625916958
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 22.84,
+      "end": 26.64,
+      "text": " So I don't do it very often.",
+      "tokens": [
+        51506,
+        407,
+        286,
+        500,
+        380,
+        360,
+        309,
+        588,
+        2049,
+        13,
+        51696
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3365976042666678,
+      "compression_ratio": 1.4328358208955223,
+      "no_speech_prob": 0.012025541625916958
+    },
+    {
+      "id": 5,
+      "seek": 2664,
+      "start": 26.64,
+      "end": 30.64,
+      "text": " What makes a car?",
+      "tokens": [
+        50414,
+        708,
+        1669,
+        257,
+        1032,
+        30,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6167149543762207,
+      "compression_ratio": 0.68,
+      "no_speech_prob": 0.06029246002435684
+    }
+  ],
+  "language": "en"
+}
