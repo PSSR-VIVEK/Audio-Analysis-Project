@@ -5,7 +5,6 @@ import noisereduce as nr
 from scipy.signal import resample
 
 RAW = "data/wav_clean"
-
 OUT = "data/processed_audio"
 os.makedirs(OUT, exist_ok=True)
 
