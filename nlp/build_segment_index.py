@@ -1,61 +1,154 @@
 import json
-import os
-import re
+import csv
+from pathlib import Path
+from textblob import TextBlob
 
-SEGMENTS_FILE = "results/segmented_embedding.txt"
-KEYWORDS_FILE = "results/keywords.txt"
+EMBEDDING_FILE = "results/segmented_embedding.txt"
+SUMMARY_FILE = "results/segment_summaries.txt"
+KEYWORD_FILE = "results/segment_keywords.csv"
 OUTPUT_FILE = "results/segments_final.json"
 
+# ------------------------
+# Load embedding segments
+# ------------------------
+
+print("📥 Loading embedding segments...")
+
 segments = []
-current_segment = None
+current_id = None
+current_text = []
 
-# ---------- Load keywords ----------
-keywords_map = {}
-if os.path.exists(KEYWORDS_FILE):
-    with open(KEYWORDS_FILE, "r", encoding="utf-8") as f:
-        for block in f.read().split("\n\n"):
-            if "SEGMENT" in block:
-                lines = block.strip().split("\n")
-                seg_id = re.findall(r"\d+", lines[0])
-                if seg_id:
-                    keywords_map[seg_id[0]] = lines[-1].replace("Keywords:", "").strip()
-
-# ---------- Parse segments ----------
-with open(SEGMENTS_FILE, "r", encoding="utf-8") as f:
+with open(EMBEDDING_FILE, "r", encoding="utf-8") as f:
     for line in f:
         line = line.strip()
 
-        # Detect any segment header format
-        if re.search(r"SEGMENT\s*\d+", line):
-            if current_segment:
-                segments.append(current_segment)
+        # Match: --- SEGMENT 12 ---
+        if line.startswith("--- SEGMENT"):
+            if current_id is not None:
+                segments.append({
+                    "id": str(current_id),
+                    "text": " ".join(current_text).strip()
+                })
 
-            seg_id = re.findall(r"\d+", line)[0]
-            current_segment = {
-                "id": seg_id,
-                "text": "",
-                "keywords": keywords_map.get(seg_id, "N/A"),
-            }
+            current_id = (
+                line.replace("---", "")
+                .replace("SEGMENT", "")
+                .replace("-", "")
+                .strip()
+            )
 
-        else:
-            if current_segment and line:
-                current_segment["text"] += line + " "
+            current_text = []
 
-# Add last segment
-if current_segment:
-    segments.append(current_segment)
+        elif line:
+            current_text.append(line)
 
-# ---------- Generate titles ----------
+    # last segment
+    if current_id is not None:
+        segments.append({
+            "id": str(current_id),
+            "text": " ".join(current_text).strip()
+        })
+
+print(f"📊 Total embedding segments: {len(segments)}")
+
+if len(segments) == 0:
+    print("❌ ZERO segments parsed — stopping.")
+    exit()
+
+# ------------------------
+# Load summaries
+# ------------------------
+
+summaries = {}
+
+if Path(SUMMARY_FILE).exists():
+    print("📄 Loading summaries...")
+
+    with open(SUMMARY_FILE, "r", encoding="utf-8") as f:
+        current = None
+        buffer = []
+
+        for line in f:
+            line = line.strip()
+
+            if line.startswith("SEGMENT"):
+                if current:
+                    summaries[current] = " ".join(buffer)
+
+                current = (
+                    line.replace("SEGMENT", "")
+                    .replace(":", "")
+                    .strip()
+                )
+
+                buffer = []
+
+            else:
+                buffer.append(line)
+
+        if current:
+            summaries[current] = " ".join(buffer)
+
+else:
+    print("⚠ No summary file found.")
+
+# ------------------------
+# Load keywords CSV
+# ------------------------
+
+keywords = {}
+
+if Path(KEYWORD_FILE).exists():
+    print("🔑 Loading keywords...")
+
+    with open(KEYWORD_FILE, newline="", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+
+        for row in reader:
+            seg_id = row["Segment"].strip()
+            kw = row["Keywords"].strip()
+            keywords[seg_id] = kw
+
+else:
+    print("⚠ No keyword CSV found.")
+
+# ------------------------
+# Merge everything + sentiment
+# ------------------------
+
+final_segments = []
+
+print("🧠 Running sentiment analysis...")
+
 for seg in segments:
-    first_sentence = seg["text"].split(".")[0][:80]
-    kw = seg["keywords"].split(",")[:2]
-    kw_text = ", ".join(kw)
+    sid = seg["id"]
+    text = seg["text"]
 
-    seg["title"] = f"{first_sentence} ({kw_text})".strip()
+    blob = TextBlob(text)
+    polarity = blob.sentiment.polarity
 
-# ---------- Save ----------
+    label = (
+        "Positive" if polarity > 0.1 else
+        "Negative" if polarity < -0.1 else
+        "Neutral"
+    )
+
+    final_segments.append({
+        "id": sid,
+        "title": text[:80] + "...",
+        "text": text,
+        "summary": summaries.get(sid, ""),
+        "keywords": keywords.get(sid, ""),
+        "sentiment": label,
+        "sentiment_score": round(polarity, 3)
+    })
+
+# ------------------------
+# Save JSON
+# ------------------------
+
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-    json.dump(segments, f, indent=2)
+    json.dump(final_segments, f, indent=2)
 
 print(f"✅ Final segment index saved to: {OUTPUT_FILE}")
-print(f"📊 Total segments indexed: {len(segments)}")
+print(f"📊 Total segments indexed: {len(final_segments)}")

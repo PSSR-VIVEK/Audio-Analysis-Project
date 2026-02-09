@@ -1,36 +1,105 @@
+import os
 import re
-from sklearn.feature_extraction.text import TfidfVectorizer
+from transformers import pipeline
 
-INPUT = "results/segmented_embedding.txt"
-OUTPUT = "results/segment_summaries.txt"
+INPUT_FILE = "results/segmented_embedding.txt"
+OUT_FILE = "results/segment_summaries.txt"
 
-with open(INPUT, "r", encoding="utf-8") as f:
-    content = f.read()
+os.makedirs("results", exist_ok=True)
 
-segments = re.split(r"--- SEGMENT \d+ ---", content)
-segments = [s.strip() for s in segments if s.strip()]
+print("🚀 Loading summarization model...")
 
-summaries = []
+summarizer = pipeline(
+    "summarization",
+    model="facebook/bart-large-cnn",
+    device=-1
+)
 
-print("Generating summaries for", len(segments), "segments...")
+# -------------------------------
+# LOAD SEGMENTS
+# -------------------------------
 
-for idx, segment in enumerate(segments):
-    sentences = segment.split(". ")
-    
-    if len(sentences) <= 2:
-        summary = segment
-    else:
-        vectorizer = TfidfVectorizer(stop_words="english")
-        X = vectorizer.fit_transform(sentences)
-        scores = X.sum(axis=1).A1
+def load_segments(path):
+    segments = {}
+    current_id = None
+    buffer = []
 
-        top_sent = sentences[scores.argmax()]
-        summary = top_sent.strip()
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
 
-    summaries.append(f"SEGMENT {idx+1}:\nSummary: {summary}\n")
+            match = re.search(r"SEGMENT\s+(\d+)", line)
 
-with open(OUTPUT, "w", encoding="utf-8") as f:
-    f.write("\n".join(summaries))
+            if match:
+                if current_id is not None:
+                    segments[current_id] = " ".join(buffer)
+                current_id = int(match.group(1))
+                buffer = []
 
-print("Summarization completed.")
-print("Saved at:", OUTPUT)
+            elif line.startswith("==="):
+                continue
+            else:
+                buffer.append(line)
+
+        if current_id is not None:
+            segments[current_id] = " ".join(buffer)
+
+    return segments
+
+
+# -------------------------------
+# FIND LAST COMPLETED
+# -------------------------------
+
+last_done = 0
+
+if os.path.exists(OUT_FILE):
+    with open(OUT_FILE, "r", encoding="utf-8") as f:
+        for line in f:
+            m = re.match(r"SEGMENT\s+(\d+)", line)
+            if m:
+                last_done = int(m.group(1))
+
+print("⏩ Resuming from segment:", last_done + 1)
+
+
+segments = load_segments(INPUT_FILE)
+print("📊 Total segments available:", len(segments))
+
+# -------------------------------
+# RESUME LOOP
+# -------------------------------
+
+with open(OUT_FILE, "a", encoding="utf-8") as out:
+
+    for sid in sorted(segments):
+
+        if sid <= last_done:
+            continue
+
+        text = segments[sid]
+
+        print("✍ Summarizing segment", sid)
+
+        if len(text.strip()) < 40:
+            summary = text
+
+        else:
+            chunks = [text[i:i+900] for i in range(0, len(text), 900)]
+
+            summaries = []
+            for ch in chunks:
+                result = summarizer(
+                    ch,
+                    max_length=90,
+                    min_length=30,
+                    do_sample=False
+                )
+                summaries.append(result[0]["summary_text"])
+
+            summary = " ".join(summaries)
+
+        out.write(f"SEGMENT {sid}:\n")
+        out.write(f"Summary: {summary}\n\n")
+
+print("✅ Resume summarization completed.")
