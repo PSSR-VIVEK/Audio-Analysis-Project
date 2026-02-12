@@ -236,7 +236,7 @@
   {
     "id": "27",
     "title": "To make a living, which means to earn the money that someone needs to live, an e...",
-    "text": "To make a living, which means to earn the money that someone needs to live, an example would be it's hard to make a living off YouTube. To make ends meet, which means to have enough money to live and to pay the bills. An example would be it is hard to make ends meet when you are paying \u00a3700 a month on rent. To make ends meet, which means to have enough money to pay the bills. Value for money, which means it is worth a money. An example would be it cost 25 pounds when usually it costs 60 pounds.",
+    "text": "To make a living, which means to earn the money that someone needs to live, an example would be it's hard to make a living off YouTube. To make ends meet, which means to have enough money to live and to pay the bills. An example would be it is hard to make ends meet when you are paying £700 a month on rent. To make ends meet, which means to have enough money to pay the bills. Value for money, which means it is worth a money. An example would be it cost 25 pounds when usually it costs 60 pounds.",
     "summary": "Summary: \"I have a new job and my salary has almost doubled. I'm very happy,\" she says. \"I'm very proud of what I've done,\" she adds. ",
     "keywords": "want, time, think, things, talk",
     "sentiment": "Neutral",
@@ -245,7 +245,7 @@
   {
     "id": "28",
     "title": "It was great value for money. To make good money, which means to earn an income ...",
-    "text": "It was great value for money. To make good money, which means to earn an income that allows you to live a comfortable life. An example would be top models make good money. To go on a shopping spree, which means to go shopping and buy a lot of things, an example would be, she goes on a shopping spree twice a year and spends thousands of pounds. To make a loss, which means to lose money, an example would be, the company made a loss this year due to the pandemic. A tight budget, which means as... amount of money that you have available to spend. For example, I have been on a tight budget since I lost my job. A ripoff, which means when you are overcharged for something. For example, the bus driver charged me \u00a312 instead of \u00a37 but I didn't realise what a ripoff.",
+    "text": "It was great value for money. To make good money, which means to earn an income that allows you to live a comfortable life. An example would be top models make good money. To go on a shopping spree, which means to go shopping and buy a lot of things, an example would be, she goes on a shopping spree twice a year and spends thousands of pounds. To make a loss, which means to lose money, an example would be, the company made a loss this year due to the pandemic. A tight budget, which means as... amount of money that you have available to spend. For example, I have been on a tight budget since I lost my job. A ripoff, which means when you are overcharged for something. For example, the bus driver charged me £12 instead of £7 but I didn't realise what a ripoff.",
     "summary": "Summary: Over the moon, which also means very happy. For example, her mom was over the moon when she announced that she was pregnant. ",
     "keywords": "good, things, lot, want, think",
     "sentiment": "Positive",
@@ -271,8 +271,8 @@
   },
   {
     "id": "31",
-    "title": "No, money doesn't grow on trees. I gave you \u00a310 last week....",
-    "text": "No, money doesn't grow on trees. I gave you \u00a310 last week.",
+    "title": "No, money doesn't grow on trees. I gave you £10 last week....",
+    "text": "No, money doesn't grow on trees. I gave you £10 last week.",
     "summary": "Summary: \"They have been in seven heaven since. For example, they have been touring the world for three months and they've been in six heaven since,\" he said. ",
     "keywords": "want, time, think, things, talk",
     "sentiment": "Neutral",
@@ -687,7 +687,7 @@
     "id": "77",
     "title": "Florescent....",
     "text": "Florescent.",
-    "summary": "Summary: To make a living, which means to earn the money that someone needs to live. An example would be it is hard to make ends meet when you are paying \u00a3700 a month on rent. ",
+    "summary": "Summary: To make a living, which means to earn the money that someone needs to live. An example would be it is hard to make ends meet when you are paying £700 a month on rent. ",
     "keywords": "want, time, think, things, talk",
     "sentiment": "Neutral",
     "sentiment_score": 0.0
@@ -750,7 +750,7 @@
     "id": "84",
     "title": "them....",
     "text": "them.",
-    "summary": "Summary: A ripoff is when you are overcharged for something. For example, the bus driver charged me \u00a312 instead of \u00a37 but I didn't realise what a ripoff. ",
+    "summary": "Summary: A ripoff is when you are overcharged for something. For example, the bus driver charged me £12 instead of £7 but I didn't realise what a ripoff. ",
     "keywords": "want, time, think, things, talk",
     "sentiment": "Neutral",
     "sentiment_score": 0.0
@@ -804,7 +804,7 @@
     "id": "90",
     "title": "Encourage. I encouraged her....",
     "text": "Encourage. I encouraged her.",
-    "summary": "Summary: I gave you \u00a310 last week. ",
+    "summary": "Summary: I gave you £10 last week. ",
     "keywords": "want, time, think, things, talk",
     "sentiment": "Neutral",
     "sentiment_score": 0.0
@@ -1083,7 +1083,7 @@
     "id": "121",
     "title": "Read, read. red....",
     "text": "Read, read. red.",
-    "summary": "Summary: \"I don't know if she was hitting on me or if she were just being friendly. An example would be, I don\u2019t know if I\u2019m supposed to say \u2018yes\u2019 or \u2018no\u2019,\" he said. \u201cI\u2019d like to think I would be able to answer that question.\u201d ",
+    "summary": "Summary: \"I don't know if she was hitting on me or if she were just being friendly. An example would be, I don’t know if I’m supposed to say ‘yes’ or ‘no’,\" he said. “I’d like to think I would be able to answer that question.” ",
     "keywords": "want, time, think, things, talk",
     "sentiment": "Neutral",
     "sentiment_score": 0.0
@@ -1317,7 +1317,7 @@
     "id": "147",
     "title": "A lot of people love watching movies. In fact, people in England watch around 17...",
     "text": "A lot of people love watching movies. In fact, people in England watch around 172 films per year. Committees, thrillers, dramas and action movies are the most popular genres in England. Star Wars The Force Awakens Skyfall and no time to die, which are both James Bond films, are the most successful films of all time in England. There are many film genres, action, comedy, drama, horror, romance, western, science fiction, historical, musical, etc. Normally, when you watch cable TV, there are a lot of adverts. Sometimes, they last 10 minutes, which is a lot of time for people to lose. I don't normally stream a lot of movies. I prefer watching series.",
-    "summary": "Summary: \"He wasn't productive at...  he wasn'tproductive at all. An example would be, he wasn\u2019t productive at ...  he didn't go to the gym\" ",
+    "summary": "Summary: \"He wasn't productive at...  he wasn'tproductive at all. An example would be, he wasn’t productive at ...  he didn't go to the gym\" ",
     "keywords": "lot, time, people, don, things",
     "sentiment": "Positive",
     "sentiment_score": 0.275
@@ -1370,7 +1370,7 @@
   {
     "id": "153",
     "title": "The third question is, do you pay for a streaming service like an Netflix, HBO o...",
-    "text": "The third question is, do you pay for a streaming service like an Netflix, HBO or Amazon Prime video? Yes, I pay for a streaming service because I don't like to watch Advert. I think that it is better to pay \u00a310 per month. and choose what you want to watch because if you turn on the TV in England, there aren't a lot of good programs or movies or series on TV. And finally, which is your favorite movie? My favorite movie is... called Walk to Remember. It is a romantic comedy. At the start it's a little bit sad, but there is a happy ending and that is what I like in a film. I don't like it when the ending is sad.",
+    "text": "The third question is, do you pay for a streaming service like an Netflix, HBO or Amazon Prime video? Yes, I pay for a streaming service because I don't like to watch Advert. I think that it is better to pay £10 per month. and choose what you want to watch because if you turn on the TV in England, there aren't a lot of good programs or movies or series on TV. And finally, which is your favorite movie? My favorite movie is... called Walk to Remember. It is a romantic comedy. At the start it's a little bit sad, but there is a happy ending and that is what I like in a film. I don't like it when the ending is sad.",
     "summary": "Summary: I'm on a roll, so I'm focusing more on myself. Bend over backwards, which means make an extra effort to help. An example would be, I bent over backwards for my colleagues in my previous job. ",
     "keywords": "like, don, good, want, lot",
     "sentiment": "Positive",
@@ -1648,8 +1648,8 @@
   },
   {
     "id": "184",
-    "title": "\u00a325 each. So if there are four adults then it's a lot of money. Yes, the London ...",
-    "text": "\u00a325 each. So if there are four adults then it's a lot of money. Yes, the London eyes are very busy attraction. And where would you recommend staying? Would you recommend staying in the centre of the city or on the outskirts and catch a buff in? I would recommend staying just on the outskirts where you've got easy access to a bus or a train or a... Yeah, the last time I stayed in London, I caught a bus into the centre which left me a big bend, so at houses of Parliament and it only cost \u00a31.70, so it worked out a lot cheaper than staying in the centre of London, which would have cost about \u00a350 more per minute.",
+    "title": "£25 each. So if there are four adults then it's a lot of money. Yes, the London ...",
+    "text": "£25 each. So if there are four adults then it's a lot of money. Yes, the London eyes are very busy attraction. And where would you recommend staying? Would you recommend staying in the centre of the city or on the outskirts and catch a buff in? I would recommend staying just on the outskirts where you've got easy access to a bus or a train or a... Yeah, the last time I stayed in London, I caught a bus into the centre which left me a big bend, so at houses of Parliament and it only cost £1.70, so it worked out a lot cheaper than staying in the centre of London, which would have cost about £50 more per minute.",
     "summary": "Summary: The city was very busy last night. Busy. Very busy. The city wasvery busy.  Last night. It was very. busy. ",
     "keywords": "lot, time, just, want, things",
     "sentiment": "Positive",
@@ -1740,7 +1740,7 @@
     "id": "194",
     "title": "I remember a big city. I was quite... prize when I last visited London because c...",
     "text": "I remember a big city. I was quite... prize when I last visited London because compared to other cities it didn't really feel like a busy capital. I think that maybe the walkway on the south environment is quite new because I had never thought about walking on that side.",
-    "summary": "Summary: Mortgage, I will pay off my mortgage in 20 years. Mortgage, I'll pay offmy mortgage in20 years. mortgage,    mortgage, I\u2019m paying off my Mortgage. mortgage. ",
+    "summary": "Summary: Mortgage, I will pay off my mortgage in 20 years. Mortgage, I'll pay offmy mortgage in20 years. mortgage,    mortgage, I’m paying off my Mortgage. mortgage. ",
     "keywords": "really, think, like, want, things",
     "sentiment": "Neutral",
     "sentiment_score": 0.052
@@ -1783,8 +1783,8 @@
   },
   {
     "id": "199",
-    "title": "Yeah, it is quite expensive. So I think the last time I went a hot dog was \u00a38 wh...",
-    "text": "Yeah, it is quite expensive. So I think the last time I went a hot dog was \u00a38 which was quite expensive. So we just walked around and then walked further out when we wanted something for lunch. When we go... to a big city. We normally go to a shop or supermarket and by sandwiches and snacks there. We don't tend to eat out in big cities. Another place that you can visit for free is the Sky Garden, which you have to book online. I think you have to book it a week before because when I went it was too late. I hadn't booked it the week before so I couldn't go up. there.",
+    "title": "Yeah, it is quite expensive. So I think the last time I went a hot dog was £8 wh...",
+    "text": "Yeah, it is quite expensive. So I think the last time I went a hot dog was £8 which was quite expensive. So we just walked around and then walked further out when we wanted something for lunch. When we go... to a big city. We normally go to a shop or supermarket and by sandwiches and snacks there. We don't tend to eat out in big cities. Another place that you can visit for free is the Sky Garden, which you have to book online. I think you have to book it a week before because when I went it was too late. I hadn't booked it the week before so I couldn't go up. there.",
     "summary": "Summary: I need some scissors to cut this piece of paper. Scissors, I need someissors. Sc scissors, Ineed some scissors.  Scissors. ",
     "keywords": "think, time, don, just, things",
     "sentiment": "Neutral",
@@ -1937,7 +1937,7 @@
   {
     "id": "216",
     "title": "A department store is a place that sells almost everything. It sells clothes, fu...",
-    "text": "A department store is a place that sells almost everything. It sells clothes, furniture, electronics, beauty products, etc. I like going to department stores because you can buy a lot of things and you don't need to go into different shops. A florist is a shop that sells flowers. I love fashion so I often go to clotheshops. I like to go with my friends because they enjoy shopping too. A bookstore or a bookshop is where you can buy books, magazines or newspapers. I love going to bookshop. because I really like reading. When I go to a bookshop I always want to buy all of the books but I can't because books are quite expensive. They normally cost \u00a312. So it's a lot of money if you buy by books. or a coffee shop is a place where you can relax and have a cup of coffee tea or a snack. Caf\u00e9s often sell sandwiches or cakes but they don't sell big meals. I like going to cafes with my friends to chat with them. usually have a cup of tea and a crescent.",
+    "text": "A department store is a place that sells almost everything. It sells clothes, furniture, electronics, beauty products, etc. I like going to department stores because you can buy a lot of things and you don't need to go into different shops. A florist is a shop that sells flowers. I love fashion so I often go to clotheshops. I like to go with my friends because they enjoy shopping too. A bookstore or a bookshop is where you can buy books, magazines or newspapers. I love going to bookshop. because I really like reading. When I go to a bookshop I always want to buy all of the books but I can't because books are quite expensive. They normally cost £12. So it's a lot of money if you buy by books. or a coffee shop is a place where you can relax and have a cup of coffee tea or a snack. Cafés often sell sandwiches or cakes but they don't sell big meals. I like going to cafes with my friends to chat with them. usually have a cup of tea and a crescent.",
     "summary": "Summary: We will need. ",
     "keywords": "like, going, lot, don, different",
     "sentiment": "Positive",
@@ -3126,7 +3126,7 @@
     "id": "348",
     "title": "So it's been a little while so I hope you're ready to hear a little bit about my...",
     "text": "So it's been a little while so I hope you're ready to hear a little bit about my travels because in this episode I'm going to talk about my recent trip to Mexico City and then in the next episode I'm going to talk about my trip to Puebla, a different state in Mexico. So I went to to go somewhere else in Mexico with more flight options and Maybe somewhere that would be a little bit easier for everyone Okay, so that's why we chose Mexico City because also my sister's family and my dad None of them had ever been to Mexico City. So I love Mexico City I had already been there What before this year. My wife had been there once. She really liked it. So we love Mexico City. I think it's a fantastic place to travel to. So I said let's go back to Mexico City. That would be awesome to take my family there. So we decided on Mexico City and my sister said yes. Dad wanted to go. So we took... a whole family trip to this city. So we ended up renting an Airbnb with four bedrooms. We needed four rooms to fit all of us because we had, I think, nine people in total, if I'm not mistaken. So yeah, four rooms were necessary. And so it was a little complicated with the kids. kids, just making sure the sleeping arrangements were okay and it wasn't a lot of space even though it was for bedrooms. That sounds like a lot and it is but there wasn't a lot of common area. So the common area means like the shared area of a house or apartment like the living room, the dining room, etc. So the common area was pretty small so it was a little complicated Especially with these and stuff, but it wasn't bad. It was a Great place to rent I think I think it's a good air being Overall, so where did we stay exactly in Mexico City? Most of you probably don't know much about the neighborhoods of Mexico City But some Some of you might, I have a lot of Mexican listeners, so some of you might know different neighborhoods and maybe some of you have been to this neighborhood that I'm going to talk about, which is La Condeza. So this is the most chic neighborhood, probably in all of Mexico. So the word chic means like stylish, maybe a little elegant. fashionable, let's say. It's a very fashionable neighborhood. And if you know what neighborhood I'm talking about, and you know what I'm saying is true, it is a neighborhood, Mexico City, with many trees, many interesting buildings that are very picturesque.",
-    "summary": "Summary: I don't know how to swim. Swim, swam,. swam. I don\u2019t knowHow to Swim. Swim. Swam. Swimming. ",
+    "summary": "Summary: I don't know how to swim. Swim, swam,. swam. I don’t knowHow to Swim. Swim. Swam. Swimming. ",
     "keywords": "know, lot, think, talk, like",
     "sentiment": "Positive",
     "sentiment_score": 0.166
@@ -3261,7 +3261,7 @@
     "id": "363",
     "title": "about this castle is that it's one of only two royal palaces that were inhabited...",
     "text": "about this castle is that it's one of only two royal palaces that were inhabited by monarchs in North America.",
-    "summary": "Summary: \"I don't understand the question. Understand, understood, understood. I don't understands the question,\" he said. \"I don's understand the questions. I\u00a0understand\u00a0the questions\" ",
+    "summary": "Summary: \"I don't understand the question. Understand, understood, understood. I don't understands the question,\" he said. \"I don's understand the questions. I understand the questions\" ",
     "keywords": "want, time, think, things, talk",
     "sentiment": "Neutral",
     "sentiment_score": 0.0
@@ -3611,7 +3611,7 @@
   {
     "id": "402",
     "title": "And I want to remind you that if you want my extensions about my prejudice, if y...",
-    "text": "And I want to remind you that if you want my extensions about my prejudice, if you want my training, please,\u96bb flip flip flip from people have a natural interest in foreigners. So I might have that perception that people in Mexico are super friendly, but it's because I'm a foreigner and they want to talk to me. I've been in situations where it's me and then a Mexican person and when we go into a social setting, everyone is interested in me. Not the other... Mexican person because I'm a foreigner. So in the US, this is kind of the opposite. If you go to big cities in the US where most people go when they travel as tourists to the US, you are going to go to places where the people are very accustomed to seeing foreigners.",
+    "text": "And I want to remind you that if you want my extensions about my prejudice, if you want my training, please,隻 flip flip flip from people have a natural interest in foreigners. So I might have that perception that people in Mexico are super friendly, but it's because I'm a foreigner and they want to talk to me. I've been in situations where it's me and then a Mexican person and when we go into a social setting, everyone is interested in me. Not the other... Mexican person because I'm a foreigner. So in the US, this is kind of the opposite. If you go to big cities in the US where most people go when they travel as tourists to the US, you are going to go to places where the people are very accustomed to seeing foreigners.",
     "summary": "Summary: The parrot flew around the zoo. ",
     "keywords": "want, people, talk, going, things",
     "sentiment": "Positive",
@@ -3819,7 +3819,7 @@
     "id": "425",
     "title": "see things from a different angle maybe and see why you might feel that American...",
     "text": "see things from a different angle maybe and see why you might feel that Americans are friendly not friendly and if this interests you I highly recommend that you listen to my US conversations podcast because you'll be able to listen to other Americans talking to me and you can see our interaction together maybe get a better steal from the people of the US Let's get started. Are your ears ready? You know what time it is. It's listening time.",
-    "summary": "Summary: Romance and comedy are my favourite genres because they are films that are easy to watch and they are difficult to follow. When I watch a suspense or an action... \u00a0I find it hard to follow because I'm not used to it. ",
+    "summary": "Summary: Romance and comedy are my favourite genres because they are films that are easy to watch and they are difficult to follow. When I watch a suspense or an action...  I find it hard to follow because I'm not used to it. ",
     "keywords": "time, listening, different, know, things",
     "sentiment": "Positive",
     "sentiment_score": 0.178
@@ -3845,7 +3845,7 @@
   {
     "id": "428",
     "title": "got permanent residence card. I was so happy, I was so glad. And then afterwards...",
-    "text": "got permanent residence card. I was so happy, I was so glad. And then afterwards, I kind of just continued on with my life and my problems and everything else just continued in the US. And I didn't magically become a hundred percent content and happy just because the immigration process was over and he-j\u0105 were in US.",
+    "text": "got permanent residence card. I was so happy, I was so glad. And then afterwards, I kind of just continued on with my life and my problems and everything else just continued in the US. And I didn't magically become a hundred percent content and happy just because the immigration process was over and he-ją were in US.",
     "summary": "Summary: \"I like to watch comedies or even romantic comedies which are a mix of romance and comedy. So I like to watching comedies,\" she said. ",
     "keywords": "just, want, think, time, things",
     "sentiment": "Positive",
@@ -3900,7 +3900,7 @@
     "id": "434",
     "title": "No, it doesn't work like that....",
     "text": "No, it doesn't work like that.",
-    "summary": "Summary: I pay for a streaming service because I don't like to watch Advert. I think that it is better to pay \u00a310 per month. The third question is, do you pay for an Netflix, HBO or Amazon Prime video? ",
+    "summary": "Summary: I pay for a streaming service because I don't like to watch Advert. I think that it is better to pay £10 per month. The third question is, do you pay for an Netflix, HBO or Amazon Prime video? ",
     "keywords": "like, want, think, time, things",
     "sentiment": "Neutral",
     "sentiment_score": 0.0
@@ -4098,7 +4098,7 @@
     "id": "456",
     "title": "This is an interesting one. So, I guess learning a language requires a lot of fo...",
     "text": "This is an interesting one. So, I guess learning a language requires a lot of focus. It really engages your concentration because when you're reading something or when you're listening to something in a foreign language, you have... to be more focused than if you listen to something or read something in your native language, right? If you're interacting in a foreign language and someone says something to you in a foreign language, if you're not paying full attention, you might not understand them. You might miss a few words or something like that. So you really have to be focused. I'm sure that you know this. I'm sure that when you try to listen to native English speakers speak fast or when you use my advanced episode or my US Conversations podcast, I'm sure you have to pay attention. Right, you have to be focused. And so this makes sense that a benefit of learning a lot. language can be that your brain is able to concentrate better, to focus better.",
-    "summary": "Summary: Learn a language requires a lot of focus. It really engages your concentration. If you're interacting in a foreign language, if you're not paying full attention, you might not understand them. Your brain is able to concentrate better, to focus better.  that your brain is\u00a0able\u00a0to\u00a0concentrate\u00a0better, to\u00a0focus\u00a0better. ",
+    "summary": "Summary: Learn a language requires a lot of focus. It really engages your concentration. If you're interacting in a foreign language, if you're not paying full attention, you might not understand them. Your brain is able to concentrate better, to focus better.  that your brain is able to concentrate better, to focus better. ",
     "keywords": "language, right, lot, really, listening",
     "sentiment": "Positive",
     "sentiment_score": 0.267
@@ -4116,7 +4116,7 @@
     "id": "458",
     "title": "This is one that I had never thought of before. I guess this might have somethin...",
     "text": "This is one that I had never thought of before. I guess this might have something to do with the fact that...",
-    "summary": "Summary: This is one that I had never thought of before. I guess this might have something to do with the fact that... \u00a0I'm not sure what it is. ",
+    "summary": "Summary: This is one that I had never thought of before. I guess this might have something to do with the fact that...  I'm not sure what it is. ",
     "keywords": "want, time, think, things, talk",
     "sentiment": "Neutral",
     "sentiment_score": 0.0
@@ -5187,7 +5187,7 @@
     "id": "577",
     "title": "So that phrase of verb is inseparable. So there is that technical aspect of phra...",
     "text": "So that phrase of verb is inseparable. So there is that technical aspect of phrase of verbs. But even this technical aspect is learned through repeated exposure. Okay. When you hear this phrase used in context enough, eventually you'll know how to say. separated, should it not be separated, it's just like vocabulary. Eventually, you hear it enough and the meaning sticks and it feels natural for you to use. So, in summary, you should learn phrasal verbs naturally through exposure, through listening, reading and and don't worry about them and create all these lists and memorize them like... that I wouldn't recommend that because that doesn't work well for vocabulary and it doesn't work well in the sense that you're probably going to start to associate the different phrasal verbs with each other, right? All the get phrasal verbs, all the go phrasal verbs. And one other thing I forgot to mention is that students often ask me why do you put our way? the word get there. What does the word up mean? And they try to separate the meaning of the two words, verb and the preposition. And that's something that you need to get out of your mind immediately. Okay, just forget the fact that it has these two words and don't separate these two words and say why does break go with down here. and people have trouble with them because they might not have them in their own language and it's kind of a new concept and they aren't really sure how to approach phrasal verbs and how to think about them. And so in this episode I want to give you my advice on how to learn phrasal verbs and then I'm going to tell you about how down and not out or whatever. Like don't do that. Just learn the phrase as one vocabulary phrase that you don't analyze for its individual words. Okay? So learn phrasal verbs naturally through exposure. I know that some people don't like this answer this advice. They want some interesting trick or tip.",
-    "summary": "Summary: You should learn phrasal verbs naturally through exposure, through listening, reading and and don't worry about them. I wouldn't recommend that because that doesn't work well for vocabulary. So that phrase of verb is inseparable. So there is that technical aspect of phrase of verbs. Students often ask me why do you put our way? the word get there? What does the word up mean? And they try to separate the meaning of the two words, verb and the preposition. And that's something that you need to get out of your mind immediately. Just learn the phrase as one vocabulary phrase that you don't analyze for its individual words. Some people don't like this answer this advice. They want some interesting trick or tip. urally through exposure. I know that some people don\u2019t like this. ",
+    "summary": "Summary: You should learn phrasal verbs naturally through exposure, through listening, reading and and don't worry about them. I wouldn't recommend that because that doesn't work well for vocabulary. So that phrase of verb is inseparable. So there is that technical aspect of phrase of verbs. Students often ask me why do you put our way? the word get there? What does the word up mean? And they try to separate the meaning of the two words, verb and the preposition. And that's something that you need to get out of your mind immediately. Just learn the phrase as one vocabulary phrase that you don't analyze for its individual words. Some people don't like this answer this advice. They want some interesting trick or tip. urally through exposure. I know that some people don’t like this. ",
     "keywords": "don, like, just, say, going",
     "sentiment": "Positive",
     "sentiment_score": 0.14
@@ -6094,9 +6094,9 @@
   },
   {
     "id": "678",
-    "title": "H\uac04 bla bla bla,...",
-    "text": "H\uac04 bla bla bla,",
-    "summary": "Summary: H\uac04 bla bla bla, ",
+    "title": "H간 bla bla bla,...",
+    "text": "H간 bla bla bla,",
+    "summary": "Summary: H간 bla bla bla, ",
     "keywords": "want, time, think, things, talk",
     "sentiment": "Neutral",
     "sentiment_score": 0.0
@@ -6186,7 +6186,7 @@
     "id": "688",
     "title": "And I've seen the effects of this and I have seen that they...",
     "text": "And I've seen the effects of this and I have seen that they",
-    "summary": "Summary: \"I've seen the effects of this and I have seen that they  they \u00a0have  \u00a0effects,\" he says. \"I have seen the\u00a0effects\u00a0of this. And I've seen  that they are very, very bad\" ",
+    "summary": "Summary: \"I've seen the effects of this and I have seen that they  they  have   effects,\" he says. \"I have seen the effects of this. And I've seen  that they are very, very bad\" ",
     "keywords": "want, time, think, things, talk",
     "sentiment": "Neutral",
     "sentiment_score": 0.0
@@ -7095,7 +7095,7 @@
     "id": "789",
     "title": "understand a conversation between two people who are speaking English and first ...",
     "text": "understand a conversation between two people who are speaking English and first you have the goal to understand a conversation with subtitles between two people and then after that you have the goal of understanding a whole conversation between two people without having any subtitles and of course you can use my US Conversations podcast that",
-    "summary": "Summary: First you have to understand a conversation with subtitles between two people. Then after that you have the goal of understanding a whole conversation without having any subtitles. And of course you can use my US Conversations podcast that   \u00a0understands a\u00a0conversation\u00a0between\u00a0two people. ",
+    "summary": "Summary: First you have to understand a conversation with subtitles between two people. Then after that you have the goal of understanding a whole conversation without having any subtitles. And of course you can use my US Conversations podcast that    understands a conversation between two people. ",
     "keywords": "people, english, want, time, things",
     "sentiment": "Positive",
     "sentiment_score": 0.15
@@ -7337,7 +7337,7 @@
   {
     "id": "816",
     "title": "So first of all, with language learning, I've already talked about this, I talke...",
-    "text": "So first of all, with language learning, I've already talked about this, I talked about it in the last two episodes. So I'll just kind of go quickly through this one. But during my 100-day Italian challenge, I was motivated for the first 50 days because I thought that I might continue on with Italian after this challenge, but around day 50, I decided that I wasn't going to continue on with Italian, and so I lost motivation for the second half of that challenge. So during the first 50 days, I learned a lot, I improved a ton, and during \uac11 medicine, I learned it very quickly that there isn't any other practice in this experience, so I still haven't. the second 50 days, I didn't improve that much. However, I was super disciplined. I studied virtually every day. I think there was one day when I couldn't because a lot of stressful circumstances and things that were happening that day. But I basically studied. Every day I was really organized, I followed very specific routine. I was extremely disciplined throughout this whole challenge. However, during the second half I wasn't motivated. And what happened? Well, when I was listening to things, I wasn't really paying much attention. I was in my mind with somewhere else. With you. I want to have a good day and just enjoy that morning and that day. So it provides a little bit of motivation for me. And speaking of motivation, we're going to talk about motivation and discipline in today's episode. I mentioned this in both of the last two episodes. that phrase in English, your mind is somewhere else to mean that you're distracted. You're thinking about something else. So my mind was somewhere else when I was listening. When I was reading, I wasn't really paying that much attention to what I was reading. I wasn't focusing on the new words as much. I wasn't really trying to notice. and retain these words. I was kind of just doing the studying just to do it. I wasn't motivated to really improve a lot because I knew that I wasn't going to continue on with Italian after this. I was just going to complete this challenge to help other people, but I'm not going to continue.",
+    "text": "So first of all, with language learning, I've already talked about this, I talked about it in the last two episodes. So I'll just kind of go quickly through this one. But during my 100-day Italian challenge, I was motivated for the first 50 days because I thought that I might continue on with Italian after this challenge, but around day 50, I decided that I wasn't going to continue on with Italian, and so I lost motivation for the second half of that challenge. So during the first 50 days, I learned a lot, I improved a ton, and during 갑 medicine, I learned it very quickly that there isn't any other practice in this experience, so I still haven't. the second 50 days, I didn't improve that much. However, I was super disciplined. I studied virtually every day. I think there was one day when I couldn't because a lot of stressful circumstances and things that were happening that day. But I basically studied. Every day I was really organized, I followed very specific routine. I was extremely disciplined throughout this whole challenge. However, during the second half I wasn't motivated. And what happened? Well, when I was listening to things, I wasn't really paying much attention. I was in my mind with somewhere else. With you. I want to have a good day and just enjoy that morning and that day. So it provides a little bit of motivation for me. And speaking of motivation, we're going to talk about motivation and discipline in today's episode. I mentioned this in both of the last two episodes. that phrase in English, your mind is somewhere else to mean that you're distracted. You're thinking about something else. So my mind was somewhere else when I was listening. When I was reading, I wasn't really paying that much attention to what I was reading. I wasn't focusing on the new words as much. I wasn't really trying to notice. and retain these words. I was kind of just doing the studying just to do it. I wasn't motivated to really improve a lot because I knew that I wasn't going to continue on with Italian after this. I was just going to complete this challenge to help other people, but I'm not going to continue.",
     "summary": "Summary: \"I was motivated for the first 50 days because I thought that I might continue on with Italian after this challenge,\" she says. \"Around day 50, I decided that I wasn't going to continue with Italian, and so I lost motivation\" During the second half of this challenge, I wasn't motivated. I was in my mind with somewhere else. I want to have a good day and just enjoy that morning and that day. \"I wasn't motivated to really improve a lot because I knew that I wasn't going to continue on with Italian after this,\" she said. \"I was just going to complete this challenge to help other people, but I'm not going to continuing\" ",
     "keywords": "going, really, just, lot, listening",
     "sentiment": "Positive",
@@ -7518,7 +7518,7 @@
     "id": "836",
     "title": "I'm not denying that. Of course, however......",
     "text": "I'm not denying that. Of course, however...",
-    "summary": "Summary: \"I'm not denying that. Of course, however...  Of course,\" he said. \"I'm\u00a0not denying\u00a0that. I'm not denied that.\" ",
+    "summary": "Summary: \"I'm not denying that. Of course, however...  Of course,\" he said. \"I'm not denying that. I'm not denied that.\" ",
     "keywords": "want, time, think, things, talk",
     "sentiment": "Neutral",
     "sentiment_score": 0.0
@@ -7608,7 +7608,7 @@
     "id": "846",
     "title": "I'll call it. What I mean by this is I want to listen. for this amount of time t...",
     "text": "I'll call it. What I mean by this is I want to listen. for this amount of time to content that I really like and that's interesting for me and that is maybe not the hardest content because it's in my field of interest or it's related to my work or my goals or whatever however it's going to be native content so me for native speakers and I'm gonna do this with and without subtitles. I haven't really figured that out yet but with this portion, this part of my learning plan, I'll probably just keep the subtitles on most of the time and I might spend some of the time reading the subtitles while listening some of the time. Just listen. and then if I need to, one guy, don't catch a certain word or something, I'll look down at the subtitles. By the way, we can say that you catch something or you don't catch something to mean that you didn't hear or understand something well. If you catch it, you heard it and understood it well and if you didn't catch it, then you didn't hear or understand it. well.",
-    "summary": "Summary: \"I want to listen for this amount of time to content that I really like and that's interesting for me\" \"I'll probably just keep the subtitles on most of the time\" \"If I need to, one guy, don't catch a certain word, I'll look down at the subtitles\" If you didn't hear or understand it. well, you weren't paying attention. u heard it and understood it well and if you didn\u2019t catch it, then you didn's hear and understand it well. well. ",
+    "summary": "Summary: \"I want to listen for this amount of time to content that I really like and that's interesting for me\" \"I'll probably just keep the subtitles on most of the time\" \"If I need to, one guy, don't catch a certain word, I'll look down at the subtitles\" If you didn't hear or understand it. well, you weren't paying attention. u heard it and understood it well and if you didn’t catch it, then you didn's hear and understand it well. well. ",
     "keywords": "time, really, don, just, listening",
     "sentiment": "Neutral",
     "sentiment_score": 0.093
@@ -7806,7 +7806,7 @@
     "id": "868",
     "title": "do the things on my own that are easy to do on my own, like listening and readin...",
     "text": "do the things on my own that are easy to do on my own, like listening and reading, and even grammar if I want to. And then I want to use a teacher to do what I can't do by myself, which is my speaking practice. So I plan on doing that twice a week and just talking about different topics each time. And on the days when I have a conversation class, I'll do less. listening on those days so that I can use that extra time to do some speaking. And that speaking practice gives me listening practice as well because the teacher will be talking to me. So speaking is really, really important. I know that I always talk about listening. I'm the listening guy, of course. My podcast is called Listening Time and that should be the... base of your learning. However, speaking is essential at a certain point. And that point is different for different people. But I feel like I'm ready to start speaking regularly. I think I probably should have started months ago. But now I'm ready. And so I want to do it. I want to do it consistently. It's important to speak consistently. not twice a month. It's better to do it at least once a week and my opinion twice a week is even better and so I want to try that. So that's pretty much my plan and I'll do passive listening when I can. I'll put my headphone in with a podcast when I'm walking or doing some household chore or whatever and so Everything I mentioned so far is just my active two hours a day that I want to spend But if I can I'll also do passive listening and This is the time when I never use subtitles So whenever I'm listening passively I'm only listening I'm not reading any subtitles so I hope to be able to do 30 minutes at least a passive listening If I can find time to do that while running or exercising or something, I can do even more than 30 minutes on some days Maybe an hour or whatever and that's a lot of listening practice without some titles So it's also important to listen without using subtitles or transcript and just practice listening without the aid of anything And aid just means some type of help",
-    "summary": "Summary: \"I want to use a teacher to do what I can't do by myself, which is my speaking practice\" \"I feel like I'm ready to start speaking regu\" \"It's important to speak consistently. not twice a month. It's better to do it at least once a week and my opinion twice a week is even better and so I want to try that\" It's also important to listen without using subtitles or transcript and just practice listening without the aid of anything. And aid just means some type of help \u00a0and that's a lot of listening practice. ",
+    "summary": "Summary: \"I want to use a teacher to do what I can't do by myself, which is my speaking practice\" \"I feel like I'm ready to start speaking regu\" \"It's important to speak consistently. not twice a month. It's better to do it at least once a week and my opinion twice a week is even better and so I want to try that\" It's also important to listen without using subtitles or transcript and just practice listening without the aid of anything. And aid just means some type of help  and that's a lot of listening practice. ",
     "keywords": "listening, want, time, just, different",
     "sentiment": "Positive",
     "sentiment_score": 0.144
@@ -8778,7 +8778,7 @@
     "id": "976",
     "title": "And that's a little excess. Because in reality,...",
     "text": "And that's a little excess. Because in reality,",
-    "summary": "Summary: A little excess. And that's a little excess, in reality. Because in reality, \u00a0there's no excess. There's just a lot of reality. ",
+    "summary": "Summary: A little excess. And that's a little excess, in reality. Because in reality,  there's no excess. There's just a lot of reality. ",
     "keywords": "want, time, think, things, talk",
     "sentiment": "Negative",
     "sentiment_score": -0.188
@@ -8912,7 +8912,7 @@
   {
     "id": "991",
     "title": "that takes a little bit of that stress out of my life. I don't have to think abo...",
-    "text": "that takes a little bit of that stress out of my life. I don't have to think about what I'm going to eat for breakfast every day. So it's a simple one, but it's something that I wanted to mention because I definitely don't overthink it. And one other thing that I don't overthink is the improvement that I'm making in in my language learning process, if I'm practicing every day. I mention this because many language learners, many of you probably overthink this, question yourself, am I really improving? I don't feel like I'm improving. I don't feel like I'm seeing any difference in my level, I don't know Latest academic degree I don't understand the grade, my first grade, my number one and my few graduated papers, I don't mean any class year e\u0e39\u0e49et, I just said something, But you're doing your listening practice every day and maybe you're reading things in English and maybe you're even speaking from time to time. And if you're doing those things, you're improving. Maybe it's little by little, but you're improving if you have that consistent, regular practice. So, I don't overthink this because I know that it takes many, many hours to learn a language and I know that when you reach a lower intermediate level, it seems like it takes a really long time to see improvement at that point.",
+    "text": "that takes a little bit of that stress out of my life. I don't have to think about what I'm going to eat for breakfast every day. So it's a simple one, but it's something that I wanted to mention because I definitely don't overthink it. And one other thing that I don't overthink is the improvement that I'm making in in my language learning process, if I'm practicing every day. I mention this because many language learners, many of you probably overthink this, question yourself, am I really improving? I don't feel like I'm improving. I don't feel like I'm seeing any difference in my level, I don't know Latest academic degree I don't understand the grade, my first grade, my number one and my few graduated papers, I don't mean any class year eู้et, I just said something, But you're doing your listening practice every day and maybe you're reading things in English and maybe you're even speaking from time to time. And if you're doing those things, you're improving. Maybe it's little by little, but you're improving if you have that consistent, regular practice. So, I don't overthink this because I know that it takes many, many hours to learn a language and I know that when you reach a lower intermediate level, it seems like it takes a really long time to see improvement at that point.",
     "summary": "Summary: I don't have to think about what I'm going to eat for breakfast every day. that takes a little bit of that stress out of my life. And one other thing that I don't overthink is the improvement that I'm making in in my language learning process. I mention this because many language learners, many of you probably overthink this, question yourself. I know that it takes many, many hours to learn a language and I know that when you reach a lower intermediate level, it seems like it takes a really long time to see improvement at that point. So, I don't overthink this. And if you're doing those things, you're improving. Maybe it's little by little, but you're improved if you have that consistent, regular practice. ",
     "keywords": "don, language, know, time, like",
     "sentiment": "Neutral",
@@ -10173,7 +10173,7 @@
     "id": "1131",
     "title": "When I help cook, that's very rare, but sometimes I will help with the cooking p...",
     "text": "When I help cook, that's very rare, but sometimes I will help with the cooking process. On those occasions, I usually make things worse. I usually actually hurt the process. instead of helping it. I can't do things correctly. I don't have the natural ability to use my hands to cut or slice or do things like that. It's like I lack common sense in the kitchen. I can't do basic things. By the way, when you say that you lack something, that means that you don't have it. definitely does. And remember that you can start using my advanced podcast episodes if you feel ready. In those episodes I speak at normal speed. So you have the opportunity to practice with native English, with real English that's spoken fast. So that's definitely the next step for you. You should challenge yourself with that type of... So I lack common sense and I lack the basic skills that you need to cook. And when I try to cook, I do it extremely slowly. It takes me a really long time to do different things, especially cutting and preparing things like vegetables. That takes me forever. So I'm definitely... not talented at cooking. And one other thing I'm definitely not talented at is cardio activities. So in other words, like running or doing something like that for long distances without stopping. I've always been really bad at this. This has never come actually to me even when I played sports, like in high school when I played basketball. I always got tired from running back and forth more easily than my teammates did. And I was never good at swimming long distances. I was never good at running long distances, even though I'm trying to get better at that. Now it's something that I've never been good at. It's never been a natural thing for me. And I remember playing soccer, for example, and when I had to play in the midfield, like the people in the middle that have to run a lot, this was really hard for me. I hated being in the midfield. So as you can see, cardio activities are something that I'm not talented at. However, like I said,",
-    "summary": "Summary: \"I lack common sense in the kitchen. I can't do basic things. When I help cook, that's very rare, but sometimes I will help with the cooking process,\" he says. \"I usually actually hurt the process. instead of helping it\" \"It takes me a really long time to do different things, especially cutting and preparing things like vegetables. That takes me forever,\" he says. \"I've always been really bad at this. This has never come actually to me even when I played sports\" I hated being in the midfield, like the people in the middle that have to run a lot, this was really hard for me. So as you can see, cardio activities are something that I'm not talented at. However, like I said,  to play in the\u00a0midfield\u00a0was really hard. ",
+    "summary": "Summary: \"I lack common sense in the kitchen. I can't do basic things. When I help cook, that's very rare, but sometimes I will help with the cooking process,\" he says. \"I usually actually hurt the process. instead of helping it\" \"It takes me a really long time to do different things, especially cutting and preparing things like vegetables. That takes me forever,\" he says. \"I've always been really bad at this. This has never come actually to me even when I played sports\" I hated being in the midfield, like the people in the middle that have to run a lot, this was really hard for me. So as you can see, cardio activities are something that I'm not talented at. However, like I said,  to play in the midfield was really hard. ",
     "keywords": "like, things, good, really, english",
     "sentiment": "Neutral",
     "sentiment_score": -0.07
@@ -10702,8 +10702,8 @@
   },
   {
     "id": "1190",
-    "title": "Imagine if you were pr\u00e9sent... someone waiting for a pedestrian to cross the str...",
-    "text": "Imagine if you were pr\u00e9sent... someone waiting for a pedestrian to cross the street and everyone behind you is getting mad at you and honking. Or imagine if you're the pedestrian. Imagine if you're someone crossing a busy intersection and you know that all of these other cars are honking at this one driver because he's letting you cross the street safely. You probably wouldn't be happy. about that. So you also shouldn't do that when other people are waiting for pedestrians to cross the street. So again, this is the golden rule. We shouldn't just think that our actions in our car only affect us, right? We should drive how we would want other people around us to drive. So I think that's important. Another instance in which I think it's good to practice the Gold Rule is when you encounter new people in an environment in which you are very comfortable. So for example, when there's a new person at work and you've already been there for a long time, you have your friends at the office and you're comfortable. And a new person. and comes in. Or an even better example would be in school when there's a new student who comes in middle of the year and they have no friends at that school. They don't know anyone, but you do have friends.",
+    "title": "Imagine if you were présent... someone waiting for a pedestrian to cross the str...",
+    "text": "Imagine if you were présent... someone waiting for a pedestrian to cross the street and everyone behind you is getting mad at you and honking. Or imagine if you're the pedestrian. Imagine if you're someone crossing a busy intersection and you know that all of these other cars are honking at this one driver because he's letting you cross the street safely. You probably wouldn't be happy. about that. So you also shouldn't do that when other people are waiting for pedestrians to cross the street. So again, this is the golden rule. We shouldn't just think that our actions in our car only affect us, right? We should drive how we would want other people around us to drive. So I think that's important. Another instance in which I think it's good to practice the Gold Rule is when you encounter new people in an environment in which you are very comfortable. So for example, when there's a new person at work and you've already been there for a long time, you have your friends at the office and you're comfortable. And a new person. and comes in. Or an even better example would be in school when there's a new student who comes in middle of the year and they have no friends at that school. They don't know anyone, but you do have friends.",
     "summary": "Summary: We shouldn't just think that our actions in our car only affect us, right? We should drive how we would want other people around us to drive. Another instance in which I think it's good to practice the Gold Rule is when you encounter new people. A new person. on at work and you've already been there for a long time, you have your friends at the office and you're comfortable. Or an even better example would be in school when there's a new student who comes in middle of the year and they don't know anyone, but you do have friends. ",
     "keywords": "people, think, know, good, right",
     "sentiment": "Positive",
@@ -12666,7 +12666,7 @@
     "id": "1408",
     "title": "If you want to practice reading fiction in English, the links to those are also ...",
     "text": "If you want to practice reading fiction in English, the links to those are also in the episode description.",
-    "summary": "Summary: If you want to practice reading fiction in English, the links to those are also in the episode description.  If you want  to practice\u00a0reading\u00a0fiction in\u00a0English, the\u00a0links to those\u00a0are also in\u00a0the\u00a0episode description. ",
+    "summary": "Summary: If you want to practice reading fiction in English, the links to those are also in the episode description.  If you want  to practice reading fiction in English, the links to those are also in the episode description. ",
     "keywords": "english, want, think, time, things",
     "sentiment": "Neutral",
     "sentiment_score": 0.0
@@ -12998,8 +12998,8 @@
   {
     "id": "1445",
     "title": "So admittedly... I haven't been to SeaWorld in many years, so I'm talking from m...",
-    "text": "So admittedly... I haven't been to SeaWorld in many years, so I'm talking from my experience as a kid. However, I do remember as a kid that my favorite show, I don't know if it's still there, but when I was a kid, they had this show, which was a Sea Lion and Otter show. These are two different animals. If you don't know what they are, you should look them up because it will be hard for me to describe these animals here. You should probably just look at a picture of them to know what I'm talking about. But in this show, they had these sea lions and these otters that acted and did... this whole performance it was amazing there were also human performers human actors there too and they performed with these animals and there was a whole storyline it was really cool and there are other shows like this with dolphins whales and things like that i don't know what's still there what's not there anymore. I know that SeaWorld has changed a lot since I last went. So they might not have all of these shows that I'm remembering, but I'm sure they still have some shows and this is still part of that theme park, right? And if I'm not mistaken, there are also different rides, parts that are going on. hide, refers to this attraction in which you can get on something and it takes you fast or it spins you around or whatever like a roller coaster is a ride. So there are rides. And I went a long time ago, I remember that there was this 4D Ruby 4D because... It was 3D, but it also added the element of like spraying you with water and things like that as part of the movie. So that was really amazing back then in the early 2000s when I went. That was a really fun thing for kids and there wasn't really anything. that you can visit if you come to San Diego and you have the desire to see some of the different theme parks here in the city. So I'm sure this episode will be interesting for you, especially if you want to come to San Diego one day. And I wanted to do something a little different with this podcast episode. else like it at that time. So I have good memories of that as well. So SeaWorld is definitely an interesting option to consider if you want to go to a theme park in San Diego. Another theme park which is located in the north of San Diego, the north of this county as we would call it is Legoland. This theme park is exactly what it sounds like. It's completely Lego focused. The whole theme of this park is Legos. You sure most of you are familiar with Legos. This brand of these little bricks that you can use to build things. The panels here make your building very easy for you. Mostly cool, or happy with pendants and\ud654. Now we will be doing some moving film of \u043a\u043e\u043c\u043d\u0430 truly.",
-    "summary": "Summary: When I was a kid, they had this show, which was a Sea Lion and Otter show. These are two different animals. If you don't know what they are, you should look them up. There were also human performers human actors there too and they performed with these animals. There are also different rides, parts that are going on. hide, refers to this attraction in which you can get on something and it takes you fast or it spins you around or whatever like a roller coaster is a ride. And I went a long time ago, there was this 4D Ruby 4D because... It was 3D, but it also added the element of like spraying you with water and things like that as part of SeaWorld is definitely an interesting option to consider if you want to go to a theme park in San Diego. Another theme park which is located in the north of San Diego is Legoland. The whole theme of this park is Legos. . .   \u00a0 \u00a0\u201cI\u2019m sorry.\u201d \u201cWhat\u2019s up?\u201d you ask. \u201cI don\u2019t know. What\u2019 going on.\u2019 \u201cYou\u2019re in trouble,\u201d I tell you. \u2018I\ufffd\u2019 I\u2019ve been in trouble. . \u2018What happened?\u2019 you ",
+    "text": "So admittedly... I haven't been to SeaWorld in many years, so I'm talking from my experience as a kid. However, I do remember as a kid that my favorite show, I don't know if it's still there, but when I was a kid, they had this show, which was a Sea Lion and Otter show. These are two different animals. If you don't know what they are, you should look them up because it will be hard for me to describe these animals here. You should probably just look at a picture of them to know what I'm talking about. But in this show, they had these sea lions and these otters that acted and did... this whole performance it was amazing there were also human performers human actors there too and they performed with these animals and there was a whole storyline it was really cool and there are other shows like this with dolphins whales and things like that i don't know what's still there what's not there anymore. I know that SeaWorld has changed a lot since I last went. So they might not have all of these shows that I'm remembering, but I'm sure they still have some shows and this is still part of that theme park, right? And if I'm not mistaken, there are also different rides, parts that are going on. hide, refers to this attraction in which you can get on something and it takes you fast or it spins you around or whatever like a roller coaster is a ride. So there are rides. And I went a long time ago, I remember that there was this 4D Ruby 4D because... It was 3D, but it also added the element of like spraying you with water and things like that as part of the movie. So that was really amazing back then in the early 2000s when I went. That was a really fun thing for kids and there wasn't really anything. that you can visit if you come to San Diego and you have the desire to see some of the different theme parks here in the city. So I'm sure this episode will be interesting for you, especially if you want to come to San Diego one day. And I wanted to do something a little different with this podcast episode. else like it at that time. So I have good memories of that as well. So SeaWorld is definitely an interesting option to consider if you want to go to a theme park in San Diego. Another theme park which is located in the north of San Diego, the north of this county as we would call it is Legoland. This theme park is exactly what it sounds like. It's completely Lego focused. The whole theme of this park is Legos. You sure most of you are familiar with Legos. This brand of these little bricks that you can use to build things. The panels here make your building very easy for you. Mostly cool, or happy with pendants and화. Now we will be doing some moving film of комна truly.",
+    "summary": "Summary: When I was a kid, they had this show, which was a Sea Lion and Otter show. These are two different animals. If you don't know what they are, you should look them up. There were also human performers human actors there too and they performed with these animals. There are also different rides, parts that are going on. hide, refers to this attraction in which you can get on something and it takes you fast or it spins you around or whatever like a roller coaster is a ride. And I went a long time ago, there was this 4D Ruby 4D because... It was 3D, but it also added the element of like spraying you with water and things like that as part of SeaWorld is definitely an interesting option to consider if you want to go to a theme park in San Diego. Another theme park which is located in the north of San Diego is Legoland. The whole theme of this park is Legos. . .      “I’m sorry.” “What’s up?” you ask. “I don’t know. What’ going on.’ “You’re in trouble,” I tell you. ‘I�’ I’ve been in trouble. . ‘What happened?’ you ",
     "keywords": "like, know, different, really, things",
     "sentiment": "Positive",
     "sentiment_score": 0.238
@@ -13692,7 +13692,7 @@
     "id": "1522",
     "title": "We don't want to make the other person feel like they can't complete their thoug...",
     "text": "We don't want to make the other person feel like they can't complete their thoughts because we want to talk. So actually listen, actually care. about what the other person is saying and that will make the other person feel cared about and it will make them feel like they're having a good conversation when you listen to them. Another tip that I have for you is to practice with your body language. What is body language? This refers to any non-verbal things that you do. want to be better conversationalists in our own language and of course as language learners we want to get better at speaking to people and having a conversation in our foreign language that we're learning so I'm sure you'll like this topic and before we start remember that if you need my help to understand native speakers when they speak fast then make sure communicate something to another person. And when I say nonverbal, I'm saying something besides just the words that you say. So we communicate with our words, but we also communicate with things besides our words. It could be with your tone of voice if you have a certain tone that can communicate something. It can be the way that you use your body or your position, how you're positioned, or it could be whether you're smiling or nodding those types of things. The word nod means that you move your head up and down to say yes to someone. So if someone asks you if you're okay and you nod... This means that you're moving your head up and down to say yes. So nodding is a type of body language and agreeing while the other person is talking maybe you go yeah while they're speaking. For example that could be something that communicates a message to the other person. At your listening to them you're do you know? engaged in what they're saying, right? So all of these things are important.",
-    "summary": "Summary: We don't want to make the other person feel like they can't complete their thoughts because we want to talk. Another tip that I have for you is to practice with your body language. This refers to any non-verbal things that you do. We communicate with our words, but we also communicate with things besides our words. It could be with your tone of voice if you have a certain tone that can communicate something. It can be the way that you use your body or your position, how you're positioned, or it could be whether you're smiling. E things are important. ese things are not important, but they are important to us.   \u00a0We need to make sure that we do what is important. ",
+    "summary": "Summary: We don't want to make the other person feel like they can't complete their thoughts because we want to talk. Another tip that I have for you is to practice with your body language. This refers to any non-verbal things that you do. We communicate with our words, but we also communicate with things besides our words. It could be with your tone of voice if you have a certain tone that can communicate something. It can be the way that you use your body or your position, how you're positioned, or it could be whether you're smiling. E things are important. ese things are not important, but they are important to us.    We need to make sure that we do what is important. ",
     "keywords": "language, say, things, want, like",
     "sentiment": "Positive",
     "sentiment_score": 0.179
@@ -13773,7 +13773,7 @@
     "id": "1531",
     "title": "You see how that transition was very smooth. Again you're not always going to be...",
     "text": "You see how that transition was very smooth. Again you're not always going to be able to do this and this is definitely a skill that you have to develop over time. However if you have more of these... natural transitions, the conversation will feel better. And one other tip that's very similar to the last one is to try to avoid awkward silences, meaning you don't want to have these moments where both of you are silent and you don't know what to say and both people are waiting for the other person to say something. That can be uncomfortable and it can make the conversation feel like it's not flowing well. So this is something that's also really hard to always get right. You're gonna have to practice with this and it's gonna take a lot of experience and time to develop this skill but I think it's worth it to try to develop this ability to make sure there aren't any. awkward silences or that there are only a few of them in your conversation.",
-    "summary": "Summary: Trying to avoid awkward silences is a skill that you have to develop over time. You're gonna have to practice with this and it's gonna take a lot of experience. There are only a few of them in your conversation. t there are only one or two of them  in your\u00a0conversation\u00a0t. ",
+    "summary": "Summary: Trying to avoid awkward silences is a skill that you have to develop over time. You're gonna have to practice with this and it's gonna take a lot of experience. There are only a few of them in your conversation. t there are only one or two of them  in your conversation t. ",
     "keywords": "say, time, don, right, going",
     "sentiment": "Neutral",
     "sentiment_score": 0.038
@@ -13989,7 +13989,7 @@
     "id": "1555",
     "title": "A lot of things are the of the examant further and you can maybe develop a bette...",
     "text": "A lot of things are the of the examant further and you can maybe develop a better idea upon further examination.",
-    "summary": "Summary: A lot of things are the of the examant further and you can maybe develop a better idea upon further examination. A lot of  things are  the of  examant\u00a0 further and  you can perhaps develop a\u00a0better\u00a0 idea. ",
+    "summary": "Summary: A lot of things are the of the examant further and you can maybe develop a better idea upon further examination. A lot of  things are  the of  examant  further and  you can perhaps develop a better  idea. ",
     "keywords": "things, lot, time, want, think",
     "sentiment": "Positive",
     "sentiment_score": 0.167
@@ -15123,7 +15123,7 @@
     "id": "1681",
     "title": "And so I want to talk about three specific failures that I've encountered in my ...",
     "text": "And so I want to talk about three specific failures that I've encountered in my life and the lessons I learned from them. So the first failure I want to talk about is film school. I think I mentioned in a previous episode that I attended film school when I was 18. I thought that I wanted to work in. film industry and make films and that was something that I had as a dream when I was young and a little immature. I didn't know what exactly I wanted to do and I thought that film sounded interesting. So I went to film school and I very quickly realized that I didn't like it. I realized that I didn't like it. any of the technical aspects of filmmaking and I realized that I didn't like the industry at all. I didn't like the culture in that industry. I didn't really like anything about it and that was really disappointing because I had signed up for a one-year course that was very intense and I had to do a lot of stuff every day during that program. And so I didn't actually finish the program. I actually stopped halfway through and dropped out of film school. In English, when we use the phrasal verb drop out, when you drop out of school or drop out of a program, what we're saying is that you don't finish it. You actually quit in a way. And so I...",
-    "summary": "Summary: The first failure I want to talk about is film school. I realized that I didn't like it. any of the technical aspects of filmmaking. I didn\u2019t really like anything about it and that was really disappointing because I had signed up for a one-year course. I actually stopped halfway through and dropped out of film school. In English, when we use the phrasal verb drop out, what we're saying is that you don't finish it. You actually quit in a way. And so I... ",
+    "summary": "Summary: The first failure I want to talk about is film school. I realized that I didn't like it. any of the technical aspects of filmmaking. I didn’t really like anything about it and that was really disappointing because I had signed up for a one-year course. I actually stopped halfway through and dropped out of film school. In English, when we use the phrasal verb drop out, what we're saying is that you don't finish it. You actually quit in a way. And so I... ",
     "keywords": "like, talk, want, really, english",
     "sentiment": "Neutral",
     "sentiment_score": 0.043
@@ -15501,7 +15501,7 @@
     "id": "1723",
     "title": "So I'm probably going to have better results after these 100 days than someone e...",
     "text": "So I'm probably going to have better results after these 100 days than someone else will if they just...",
-    "summary": "Summary: \"I'm probably going to have better results after these 100 days than someone else will if they just... \u00a0if they just focus on me,\" he says. ",
+    "summary": "Summary: \"I'm probably going to have better results after these 100 days than someone else will if they just...  if they just focus on me,\" he says. ",
     "keywords": "going, just, want, time, things",
     "sentiment": "Positive",
     "sentiment_score": 0.5
@@ -16373,7 +16373,7 @@
   {
     "id": "1820",
     "title": "I hope that this episode was interesting for you. and I hope it was good practic...",
-    "text": "I hope that this episode was interesting for you. and I hope it was good practice for your listening. Remember that if you want my advanced episodes, if you want to practice with real English, spoken fast, then make sure to become a listening time family member or VIP and you'll get two new advanced episodes every month. So if you're interested in that, the link is in the episode description below this episode. That's patreon.com slash listen time. and you have the transcript for this episode down there as well. So click on that if you need it. And if you like this podcast and you want to help me out and help other English learners out, please share it with anyone you know. And also please give it a five star rating and write a review if you can. I really appreciate it. All right, thank you for listening to this episode and I'll talk to you on the next. with your friends, with family members, anyone you know who's learning English and help them out and help me out. I really appreciate that. And if you can, please give this podcast a five star rating and a review. Alright, let's get started. Are your ears ready? You know what time it is. It's listening time. Okay, let's talk about swimming. Fasting \u00fcrinking Let me talk about swimming in terms of exercise and then we'll talk about it in terms of fun and in terms of safety. But first of all, exercise. Swimming is a fantastic exercise. A lot of you already know this and if you're a swimmer, you probably know this very well. So swimming is a great cardio exercise. In English, we use the word cardio to refer to exercises. that are good for your heart. When you're working your heart muscle, this is a cardio exercise. So for example, if you like to run, you do cardio when you run, or just walking can be cardio. Anything like that, or you're working your heart, that's cardio, as we call it. The swim is great for your heart. And the good E is...",
+    "text": "I hope that this episode was interesting for you. and I hope it was good practice for your listening. Remember that if you want my advanced episodes, if you want to practice with real English, spoken fast, then make sure to become a listening time family member or VIP and you'll get two new advanced episodes every month. So if you're interested in that, the link is in the episode description below this episode. That's patreon.com slash listen time. and you have the transcript for this episode down there as well. So click on that if you need it. And if you like this podcast and you want to help me out and help other English learners out, please share it with anyone you know. And also please give it a five star rating and write a review if you can. I really appreciate it. All right, thank you for listening to this episode and I'll talk to you on the next. with your friends, with family members, anyone you know who's learning English and help them out and help me out. I really appreciate that. And if you can, please give this podcast a five star rating and a review. Alright, let's get started. Are your ears ready? You know what time it is. It's listening time. Okay, let's talk about swimming. Fasting ürinking Let me talk about swimming in terms of exercise and then we'll talk about it in terms of fun and in terms of safety. But first of all, exercise. Swimming is a fantastic exercise. A lot of you already know this and if you're a swimmer, you probably know this very well. So swimming is a great cardio exercise. In English, we use the word cardio to refer to exercises. that are good for your heart. When you're working your heart muscle, this is a cardio exercise. So for example, if you like to run, you do cardio when you run, or just walking can be cardio. Anything like that, or you're working your heart, that's cardio, as we call it. The swim is great for your heart. And the good E is...",
     "summary": "Summary: I hope that this episode was interesting for you. and I hope it was good practice for your listening. If you want my advanced episodes, if you want to practice with real English, spoken fast, then make sure to become a listening time family member or VIP. And also please give it a five star rating and write a review if you can. Swimming is a great cardio exercise. In English, we use the word cardio to refer to exercises. that are good for your heart. When you're working your heart muscle, this is a cardio exercise, like running. The swim is great for your heart. If you're working your heart, that's cardio, as we call it. And the good E is... ",
     "keywords": "know, listening, talk, english, time",
     "sentiment": "Positive",
@@ -17103,7 +17103,7 @@
     "id": "1901",
     "title": "In English, when we say that something dies out, we're saying that it disappears...",
     "text": "In English, when we say that something dies out, we're saying that it disappears. it goes away.",
-    "summary": "Summary: In English, when we say that something dies out, we're saying that it disappears. it goes away. In English, \u00a0when we say something dies, we mean that it dies out. ",
+    "summary": "Summary: In English, when we say that something dies out, we're saying that it disappears. it goes away. In English,  when we say something dies, we mean that it dies out. ",
     "keywords": "english, say, want, time, things",
     "sentiment": "Neutral",
     "sentiment_score": 0.0
@@ -17211,7 +17211,7 @@
     "id": "1913",
     "title": "Alright, why don't we stop there for today?...",
     "text": "Alright, why don't we stop there for today?",
-    "summary": "Summary:  Alright, why don't we stop there for today? \u00a0We've got a lot to talk about, so let's get to it. ",
+    "summary": "Summary:  Alright, why don't we stop there for today?  We've got a lot to talk about, so let's get to it. ",
     "keywords": "don, want, think, time, things",
     "sentiment": "Neutral",
     "sentiment_score": 0.0
@@ -17741,8 +17741,8 @@
   {
     "id": "1972",
     "title": "something like that. on a cat cafe, they have a different system. The one that I...",
-    "text": "something like that. on a cat cafe, they have a different system. The one that I went to had a fixed rate of \u00a37 per hour which I thought was quite cheap. This included hot drink as well, so you can ask for coffee or a cup of tea for example, but it didn't include food, so if you wanted to buy a sandwich you would have to pay extra. I have seen that in other cat cafes you pay per minute and from when I've gone to other activities like this I think that this is not as good because you're constantly thinking about how much time you've spent there and you feel rushed like you have to leave in 20 minutes. because if not it's going to be very expensive.",
-    "summary": "Summary: The one I went to had a fixed rate of \u00a37 per hour. This included hot drink as well, so you can ask for coffee or a cup of tea. But it didn't include food, so if you wanted to buy a sandwich you would have to pay extra. I have seen that in other cat cafes you pay per minute. ",
+    "text": "something like that. on a cat cafe, they have a different system. The one that I went to had a fixed rate of £7 per hour which I thought was quite cheap. This included hot drink as well, so you can ask for coffee or a cup of tea for example, but it didn't include food, so if you wanted to buy a sandwich you would have to pay extra. I have seen that in other cat cafes you pay per minute and from when I've gone to other activities like this I think that this is not as good because you're constantly thinking about how much time you've spent there and you feel rushed like you have to leave in 20 minutes. because if not it's going to be very expensive.",
+    "summary": "Summary: The one I went to had a fixed rate of £7 per hour. This included hot drink as well, so you can ask for coffee or a cup of tea. But it didn't include food, so if you wanted to buy a sandwich you would have to pay extra. I have seen that in other cat cafes you pay per minute. ",
     "keywords": "like, good, different, going, time",
     "sentiment": "Neutral",
     "sentiment_score": 0.054
@@ -18201,7 +18201,7 @@
     "id": "2023",
     "title": "It is true that there are some hostels that have individual rooms, but they ofte...",
     "text": "It is true that there are some hostels that have individual rooms, but they often have shared bathrooms to keep costs down. So when I travel for pleasure and not for work, I prefer to spend a bit more money and to stay at a hotel or an apartment. For example, if I go on holiday... to France for a week, then I might prefer to say at an apartment which are usually independent and have their own kitchen. I think that it's quite useful to have your own kitchen when you go on holiday because it can reduce your general costs of that holiday. If there are three of you and you go out for breakfast, lunch and dinner, then it quickly becomes... quite expensive because you might have to spend 15 euros per meal per person. So if you are a person who is travelling on a budget then maybe an apartment would be a good option. Hotels can have from one star to five stars depending on the facilities that it has.",
-    "summary": "Summary: When I travel for pleasure and not for work, I prefer to spend a bit more money and to stay at a hotel or an apartment. For example, if I go on holiday... to France for a week, then I might prefer to say at an apartment which are usually independent and have their own kitchen. T has. t has.  t has   t   \u00a0t has  t\u00a0t\u00a0t   has t has t t  t. ",
+    "summary": "Summary: When I travel for pleasure and not for work, I prefer to spend a bit more money and to stay at a hotel or an apartment. For example, if I go on holiday... to France for a week, then I might prefer to say at an apartment which are usually independent and have their own kitchen. T has. t has.  t has   t    t has  t t t   has t has t t  t. ",
     "keywords": "good, say, think, want, things",
     "sentiment": "Positive",
     "sentiment_score": 0.231
@@ -18669,7 +18669,7 @@
     "id": "2075",
     "title": "So how do you do this? Well, I always recommend using......",
     "text": "So how do you do this? Well, I always recommend using...",
-    "summary": "Summary: How do you do this? Well, I always recommend using...  I always recommending using... http://www.dailymail.co.uk/news/article-261515/How-do-you-do\u00a0this-how-do you do it.html#storylink=cpy. So how do you doing this? ",
+    "summary": "Summary: How do you do this? Well, I always recommend using...  I always recommending using... http://www.dailymail.co.uk/news/article-261515/How-do-you-do this-how-do you do it.html#storylink=cpy. So how do you doing this? ",
     "keywords": "want, time, think, things, talk",
     "sentiment": "Neutral",
     "sentiment_score": 0.0
@@ -19046,7 +19046,7 @@
   {
     "id": "2117",
     "title": "In the UK supermarkets and other shops are allowed to sell basic medicine like i...",
-    "text": "In the UK supermarkets and other shops are allowed to sell basic medicine like ibuprofen, pericetamol, cough mixtures, aliti tablets etc. I know that in other countries this is not so common. In many other places in the world you can only buy medicine at the chemist. You're not allowed to buy more than two packets at a time. in England for safety reasons, but it is much more practical than going to the chemist every time you need some medicine. An over-the-counter drug is one that you can buy without the prescription from the doctor. However, if you require a special treatment or a specific drug, you have to show your order it so that it can be sent to that pharmacy. Interestingly, there is a prescription charge of \u00a39.65 per item. So if your prescription has three drugs on it, you have to pay the prescription charge three times. No matter what you're prescribed, you will always pay that amount per item.",
+    "text": "In the UK supermarkets and other shops are allowed to sell basic medicine like ibuprofen, pericetamol, cough mixtures, aliti tablets etc. I know that in other countries this is not so common. In many other places in the world you can only buy medicine at the chemist. You're not allowed to buy more than two packets at a time. in England for safety reasons, but it is much more practical than going to the chemist every time you need some medicine. An over-the-counter drug is one that you can buy without the prescription from the doctor. However, if you require a special treatment or a specific drug, you have to show your order it so that it can be sent to that pharmacy. Interestingly, there is a prescription charge of £9.65 per item. So if your prescription has three drugs on it, you have to pay the prescription charge three times. No matter what you're prescribed, you will always pay that amount per item.",
     "summary": "Summary: In the UK supermarkets and other shops are allowed to sell basic medicine like ibuprofen, pericetamol, cough mixtures, aliti tablets etc. In many other places in the world you can only buy medicine at the chemist. You're not allowed to buy more than two packets at a time. The amount per item is based on the weight of the item and the amount of time it took to make the item. For more information on how to order your items, visit www.walmart.com/walmart-items. ",
     "keywords": "time, going, know, like, things",
     "sentiment": "Positive",
@@ -19055,8 +19055,8 @@
   {
     "id": "2118",
     "title": "It can be... very positive if the medicine is expensive in other countries but n...",
-    "text": "It can be... very positive if the medicine is expensive in other countries but negative is a cheap medicine which you have to pay a higher price for. People who are over 60 don't have to pay for prescriptions in this country. This is extremely beneficial for older people who have a lot of health problems. Imagine having to take 10 types of medicine that would be more than \u00a390 a month. As I said, basic medication like paracetamol or ibuprofen which are pain relievers can be bought at supermarkets and normally cost only 40 or 50p per packet.",
-    "summary": "Summary: People who are over 60 don't have to pay for prescriptions in this country. This is extremely beneficial for older people who have a lot of health problems. Imagine having to take 10 types of medicine that would be more than \u00a390 a month. ",
+    "text": "It can be... very positive if the medicine is expensive in other countries but negative is a cheap medicine which you have to pay a higher price for. People who are over 60 don't have to pay for prescriptions in this country. This is extremely beneficial for older people who have a lot of health problems. Imagine having to take 10 types of medicine that would be more than £90 a month. As I said, basic medication like paracetamol or ibuprofen which are pain relievers can be bought at supermarkets and normally cost only 40 or 50p per packet.",
+    "summary": "Summary: People who are over 60 don't have to pay for prescriptions in this country. This is extremely beneficial for older people who have a lot of health problems. Imagine having to take 10 types of medicine that would be more than £90 a month. ",
     "keywords": "people, lot, don, like, things",
     "sentiment": "Neutral",
     "sentiment_score": 0.059
@@ -19092,7 +19092,7 @@
     "id": "2122",
     "title": "How does it work in your country? Let me know in the comment section because I k...",
     "text": "How does it work in your country? Let me know in the comment section because I know that it is quite controversial, especially",
-    "summary": "Summary: How does it work in your country? Let me know in the comment section. I know that it is quite controversial, especially  \u00a0in the UK. ",
+    "summary": "Summary: How does it work in your country? Let me know in the comment section. I know that it is quite controversial, especially   in the UK. ",
     "keywords": "know, want, think, time, things",
     "sentiment": "Positive",
     "sentiment_score": 0.275
@@ -19388,7 +19388,7 @@
   {
     "id": "2155",
     "title": "The food is freshly cooked and it's quite tasty. and people were actually impres...",
-    "text": "The food is freshly cooked and it's quite tasty. and people were actually impressed with the quality in food, considering that the prices are quite low. Apparently the service was fast and friendly, and it was clean inside and out, so I thought that I couldn't go wrong and I decided to go to this cafe. When I went in the cafe, it seemed like the majority of people were having a... of full English breakfast. So I looked at the menu and it said that two pieces of bacon, two sausages, one egg, some beans, tomatoes, mushrooms and two slices of toast was \u00a37. It also included tea or coffee so I thought this was a great deal. hot sandwiches on offer and the most popular ones were bacon and egg, bacon and tomato, sausage and cheese and bacon mushrooms. It seemed like everything included bacon or sausage so I don't know if you would like this cafe if you don't like these two options or if you have vegetarian. These hot sandwiches cost three if they, which is quite a good price. And if you wanted a hot beverage with one of your hot sandwiches, you could choose from tea, coffee, hot chocolate or minestrone soup. I thought that it was quite strange to include soup in the hot beverage section. And if you wanted a hot beverage with one of your hot sandwiches, you could choose from tea was one, if they, their coffee was 190 and the hot chocolate was \u00a32. You could also buy some cans of soft drinks and they were \u00a31 each which I think is quite a good price. I decided to order a bacon and cheese hot sandwich with a cup of tea because I was quite tight.",
+    "text": "The food is freshly cooked and it's quite tasty. and people were actually impressed with the quality in food, considering that the prices are quite low. Apparently the service was fast and friendly, and it was clean inside and out, so I thought that I couldn't go wrong and I decided to go to this cafe. When I went in the cafe, it seemed like the majority of people were having a... of full English breakfast. So I looked at the menu and it said that two pieces of bacon, two sausages, one egg, some beans, tomatoes, mushrooms and two slices of toast was £7. It also included tea or coffee so I thought this was a great deal. hot sandwiches on offer and the most popular ones were bacon and egg, bacon and tomato, sausage and cheese and bacon mushrooms. It seemed like everything included bacon or sausage so I don't know if you would like this cafe if you don't like these two options or if you have vegetarian. These hot sandwiches cost three if they, which is quite a good price. And if you wanted a hot beverage with one of your hot sandwiches, you could choose from tea, coffee, hot chocolate or minestrone soup. I thought that it was quite strange to include soup in the hot beverage section. And if you wanted a hot beverage with one of your hot sandwiches, you could choose from tea was one, if they, their coffee was 190 and the hot chocolate was £2. You could also buy some cans of soft drinks and they were £1 each which I think is quite a good price. I decided to order a bacon and cheese hot sandwich with a cup of tea because I was quite tight.",
     "summary": "Summary: The food is freshly cooked and it's quite tasty. People were actually impressed with the quality in food, considering that the prices are quite low. The service was fast and friendly, and it was clean inside and out. These hot sandwiches cost three if they, which is quite a good price. And if you wanted a hot beverage with one of your hot sandwiches, you could choose from tea, coffee, hot chocolate or minestrone soup. ",
     "keywords": "like, good, don, people, english",
     "sentiment": "Positive",
@@ -19406,8 +19406,8 @@
   {
     "id": "2157",
     "title": "The sandwich was decent and the cup of tea was like a normal cup of tea. It wasn...",
-    "text": "The sandwich was decent and the cup of tea was like a normal cup of tea. It wasn't the best food that I've ever tried but it did the job. So I agree with the column which said it's cheap and cheerful. I think that if you're paying \u00a34 for a cup of tea and hot sandwich you can't expect much more. Many people love going shopping and they enjoy going on a shopping spree for different reasons. Most of the time it's not just about buying things, it's more about how it makes people feel. Going shopping can feel like going on a treasure hunt. You are searching for something special or for a bargain. And when you find that item it can make you feel very happy. shopping is also fun for some people. In fact, the shopping centres and stores themselves are designed to be interesting with nice music playing in the background and displays with models wearing the perfect outfits. For a lot of people it's a way to relax and to enjoy themselves especially when they go with friends or family. It can also help. These products are normally expensive, so if you keep an eye on the price and wait for a good offer, then you could save hundreds of pounds. Lastly, beauty and personal care products are sold during sales. For example, fragrances, skincare products or cosmetics. People usually make the most... of the sales to stock up on their favourite products. Stock up on means to buy a large quantity of items to use them later on in the future. For example, when I go to the supermarket, I usually stock up on milk. So that means that I buy six cartons instead of just one.",
-    "summary": "Summary: I think that if you're paying \u00a34 for a cup of tea and hot sandwich you can't expect much more. It wasn't the best food that I've ever tried but it did the job. Many people love going shopping for different reasons. People usually make the most... of the sales to stock up on their favourite products. Stock up on means to buy a large quantity of items to use later on. Beauty and personal care products are sold during sales. ",
+    "text": "The sandwich was decent and the cup of tea was like a normal cup of tea. It wasn't the best food that I've ever tried but it did the job. So I agree with the column which said it's cheap and cheerful. I think that if you're paying £4 for a cup of tea and hot sandwich you can't expect much more. Many people love going shopping and they enjoy going on a shopping spree for different reasons. Most of the time it's not just about buying things, it's more about how it makes people feel. Going shopping can feel like going on a treasure hunt. You are searching for something special or for a bargain. And when you find that item it can make you feel very happy. shopping is also fun for some people. In fact, the shopping centres and stores themselves are designed to be interesting with nice music playing in the background and displays with models wearing the perfect outfits. For a lot of people it's a way to relax and to enjoy themselves especially when they go with friends or family. It can also help. These products are normally expensive, so if you keep an eye on the price and wait for a good offer, then you could save hundreds of pounds. Lastly, beauty and personal care products are sold during sales. For example, fragrances, skincare products or cosmetics. People usually make the most... of the sales to stock up on their favourite products. Stock up on means to buy a large quantity of items to use them later on in the future. For example, when I go to the supermarket, I usually stock up on milk. So that means that I buy six cartons instead of just one.",
+    "summary": "Summary: I think that if you're paying £4 for a cup of tea and hot sandwich you can't expect much more. It wasn't the best food that I've ever tried but it did the job. Many people love going shopping for different reasons. People usually make the most... of the sales to stock up on their favourite products. Stock up on means to buy a large quantity of items to use later on. Beauty and personal care products are sold during sales. ",
     "keywords": "people, going, just, like, good",
     "sentiment": "Positive",
     "sentiment_score": 0.317
@@ -19479,7 +19479,7 @@
     "id": "2165",
     "title": "buying items which are a lower quality. When we see that something is on sale, w...",
     "text": "buying items which are a lower quality. When we see that something is on sale, we normally assume that it is a good deal, but sometimes shops put these things on sale to get rid of them because those products aren't selling well or because they are lower quality. The top selling items during sales are clothing and accessories because people like to update their wardrobes with new styles and trends and sales allows them to do so at a discounted price. However I have found that when you go to the sales, it is very difficult to find the item that you would like to purchase in your size. It's normally the sizes that people don't usually buy and be uglier coloured or patterned items like for example bright of orange and bright pink. Electronics are another popular category during sales. A lot of people like to buy smartphones, televisions, laptops and other small gadgets when they are on offer.",
-    "summary": "Summary: The top selling items during sales are clothing and accessories. Electronics are another popular category during sales. A lot of people like to buy smartphones, televisions, laptops and other small gadgets.  r. r.    r.r. r   R.R. r r. R. r\u00a0r  r  r ",
+    "summary": "Summary: The top selling items during sales are clothing and accessories. Electronics are another popular category during sales. A lot of people like to buy smartphones, televisions, laptops and other small gadgets.  r. r.    r.r. r   R.R. r r. R. r r  r  r ",
     "keywords": "like, people, good, things, lot",
     "sentiment": "Positive",
     "sentiment_score": 0.174
@@ -19721,7 +19721,7 @@
   {
     "id": "2192",
     "title": "If you want one million then I think that you wouldn't. quit your job but if you...",
-    "text": "If you want one million then I think that you wouldn't. quit your job but if you want like 300 million then I think you would. I don't think you would want to spend eight hours at work per day knowing that you've got enough money to survive. People always say that you can make more money but you can never make more time so I think that is the rule I would follow. What would you do if you- not telling your partner or your parents because you would be so happy, especially if it's a large sum of money, maybe not if it's \u00a320,000 because it's not life-changing. But if it was a big sum of money, I think that you would tell your parents even though you answered no to this question. I suppose it also depends on the relationship that you have with your partner. parents if you don't get on well with them then they wouldn't notice because you're not in contact with them so much.",
+    "text": "If you want one million then I think that you wouldn't. quit your job but if you want like 300 million then I think you would. I don't think you would want to spend eight hours at work per day knowing that you've got enough money to survive. People always say that you can make more money but you can never make more time so I think that is the rule I would follow. What would you do if you- not telling your partner or your parents because you would be so happy, especially if it's a large sum of money, maybe not if it's £20,000 because it's not life-changing. But if it was a big sum of money, I think that you would tell your parents even though you answered no to this question. I suppose it also depends on the relationship that you have with your partner. parents if you don't get on well with them then they wouldn't notice because you're not in contact with them so much.",
     "summary": "Summary: If you want one million then I think that you wouldn't. quit your job. I don't think you would want to spend eight hours at work per day knowing that you've got enough money to survive. People always say that you can make more money but you can never make more time. ",
     "keywords": "think, want, don, say, time",
     "sentiment": "Positive",
@@ -19766,7 +19766,7 @@
   {
     "id": "2197",
     "title": "This is optional. You don't have to divide your video into cards. I think that i...",
-    "text": "This is optional. You don't have to divide your video into cards. I think that in some videos it makes sense to, especially when it's a tutorial, but if you're just talking in a video, I don't think you really need to. And then the subtitle. are created automatically by YouTube, but the problem is that they don't have any capital letters or full stops. So it's a good idea to edit them once they have been generated automatically. One of my favourite things to look at on YouTube Studio are the analytics. So I can look at where people are watching my videos. videos from which videos are the most popular, whether I have more male or female viewers, and what age groups watch my videos. The one that I find the most interesting is the country's section, because I can see that people are watching these videos all over the world, and I think it's amazing that something you can really... record in your house, have been listened to in so many other countries. It really fascinates me and I don't think that I will ever get used to it. If you have enjoyed this video, please give it a thumbs up because interaction is good for our YouTube channel because it promotes your videos more and please subscribe because then you won't miss any videos in the future. it would be hard to spend so many hours creating videos for people to watch because I wouldn't enjoy it. Maybe you're interested in photography, fashion, cooking, gaming, anything that you find interesting. Then you've got to think about what type of content it is going to be. Is it going to be tutorials? Is it going to be kind of used or\u6a23...",
+    "text": "This is optional. You don't have to divide your video into cards. I think that in some videos it makes sense to, especially when it's a tutorial, but if you're just talking in a video, I don't think you really need to. And then the subtitle. are created automatically by YouTube, but the problem is that they don't have any capital letters or full stops. So it's a good idea to edit them once they have been generated automatically. One of my favourite things to look at on YouTube Studio are the analytics. So I can look at where people are watching my videos. videos from which videos are the most popular, whether I have more male or female viewers, and what age groups watch my videos. The one that I find the most interesting is the country's section, because I can see that people are watching these videos all over the world, and I think it's amazing that something you can really... record in your house, have been listened to in so many other countries. It really fascinates me and I don't think that I will ever get used to it. If you have enjoyed this video, please give it a thumbs up because interaction is good for our YouTube channel because it promotes your videos more and please subscribe because then you won't miss any videos in the future. it would be hard to spend so many hours creating videos for people to watch because I wouldn't enjoy it. Maybe you're interested in photography, fashion, cooking, gaming, anything that you find interesting. Then you've got to think about what type of content it is going to be. Is it going to be tutorials? Is it going to be kind of used or樣...",
     "summary": "Summary: You don't have to divide your video into cards. I think that in some videos it makes sense to, especially when it's a tutorial. If you're just talking in a video, I don't think you really need to. And then the subtitle are created automatically by YouTube. I don't think that I will ever get used to it. It would be hard to spend so many hours creating videos for people to watch because I wouldn't enjoy it. If you have enjoyed this video, please give it a thumbs up because interaction is good for our YouTube channel because it promotes your videos more. ",
     "keywords": "think, don, going, really, people",
     "sentiment": "Positive",
@@ -20009,8 +20009,8 @@
   {
     "id": "2224",
     "title": "This means that something is very expensive or has an unfair pricing. For exampl...",
-    "text": "This means that something is very expensive or has an unfair pricing. For example, charging \u00a310 for a cup of coffee is daylight robbery. And lastly, we have Carpe Diem, which means to seize the day or make the most of the present moment.",
-    "summary": "Summary: Carpe Diem means to seize the day or make the most of the present moment. This means that something is very expensive or has an unfair pricing. For example, charging \u00a310 for coffee is daylight robbery. ",
+    "text": "This means that something is very expensive or has an unfair pricing. For example, charging £10 for a cup of coffee is daylight robbery. And lastly, we have Carpe Diem, which means to seize the day or make the most of the present moment.",
+    "summary": "Summary: Carpe Diem means to seize the day or make the most of the present moment. This means that something is very expensive or has an unfair pricing. For example, charging £10 for coffee is daylight robbery. ",
     "keywords": "want, time, think, things, talk",
     "sentiment": "Negative",
     "sentiment_score": -0.13
@@ -20991,7 +20991,7 @@
     "id": "2333",
     "title": "And I wanted to kind of simulate what it would be like for......",
     "text": "And I wanted to kind of simulate what it would be like for...",
-    "summary": "Summary: \"I wanted to kind of simulate what it would be like for... \u00a0to be a father. And I wanted to sort of simulate ... what it was like to be a dad,\" he says. ",
+    "summary": "Summary: \"I wanted to kind of simulate what it would be like for...  to be a father. And I wanted to sort of simulate ... what it was like to be a dad,\" he says. ",
     "keywords": "like, want, think, time, things",
     "sentiment": "Positive",
     "sentiment_score": 0.6
@@ -21135,7 +21135,7 @@
     "id": "2349",
     "title": "As you have probably seen in films people usually laugh. Hello and welcome to El...",
     "text": "As you have probably seen in films people usually laugh. Hello and welcome to Elephant English Podcasts. In today's video we're going to be talking about New Year's resolutions. First I'm going to be asking my mum some questions about them and then I'm going to be telling her some ideas for New Year's resolutions that she can make and she's going to be saying if they're a good idea or not.",
-    "summary": "Summary:  Elephant English Podcasts: New Year's resolutions. First I'm going to be asking my mum some questions about them. Then I'll be telling her some ideas for New Year\u2019s resolutions that she can make. ",
+    "summary": "Summary:  Elephant English Podcasts: New Year's resolutions. First I'm going to be asking my mum some questions about them. Then I'll be telling her some ideas for New Year’s resolutions that she can make. ",
     "keywords": "going, good, english, people, things",
     "sentiment": "Positive",
     "sentiment_score": 0.332
@@ -21207,7 +21207,7 @@
     "id": "2357",
     "title": "I think the most New Year's resolutions are about having a healthy diet or exerc...",
     "text": "I think the most New Year's resolutions are about having a healthy diet or exercising more, not too much of a change but enough of a change to make a difference in their life. Do you normally make New Year's resolutions? No, I don't normally make any New Year's resolutions.",
-    "summary": "Summary: I think the most New Year's resolutions are about having a healthy diet or exercising more, not too much of a change but enough to make a difference in their life. Do you normally make New Year\u2019s resolutions? No, I don\u2019t normally make any New year's resolutions. ",
+    "summary": "Summary: I think the most New Year's resolutions are about having a healthy diet or exercising more, not too much of a change but enough to make a difference in their life. Do you normally make New Year’s resolutions? No, I don’t normally make any New year's resolutions. ",
     "keywords": "don, think, time, want, things",
     "sentiment": "Positive",
     "sentiment_score": 0.241
@@ -21385,9 +21385,9 @@
   },
   {
     "id": "2377",
-    "title": "They normally cost about \u00a310 or \u00a315 for 30 minutes. If you have visited London, ...",
-    "text": "They normally cost about \u00a310 or \u00a315 for 30 minutes. If you have visited London, you will probably have seen these little boats in Hyde Park. If it's a nice day, it's sunny and it's warm, it's a fun activity to do at Hyde Park. You can go on one with your family or your friends.",
-    "summary": "Summary: If it's sunny and it's warm, it's a fun activity to do at Hyde Park. You can go on one with your family or your friends. Normally cost about \u00a310 or \u00a315 for 30 minutes. ",
+    "title": "They normally cost about £10 or £15 for 30 minutes. If you have visited London, ...",
+    "text": "They normally cost about £10 or £15 for 30 minutes. If you have visited London, you will probably have seen these little boats in Hyde Park. If it's a nice day, it's sunny and it's warm, it's a fun activity to do at Hyde Park. You can go on one with your family or your friends.",
+    "summary": "Summary: If it's sunny and it's warm, it's a fun activity to do at Hyde Park. You can go on one with your family or your friends. Normally cost about £10 or £15 for 30 minutes. ",
     "keywords": "want, time, think, things, talk",
     "sentiment": "Positive",
     "sentiment_score": 0.293
@@ -21639,7 +21639,7 @@
     "id": "2405",
     "title": "I would like to know your opinion on this because......",
     "text": "I would like to know your opinion on this because...",
-    "summary": "Summary: I would like to know your opinion on this because... \u00a0I'm not sure what the answer is. I would like you to tell me what you think about this. Please email me at jennifer.smith@mailonline.co.uk. ",
+    "summary": "Summary: I would like to know your opinion on this because...  I'm not sure what the answer is. I would like you to tell me what you think about this. Please email me at jennifer.smith@mailonline.co.uk. ",
     "keywords": "know, like, want, time, things",
     "sentiment": "Neutral",
     "sentiment_score": 0.0
@@ -21918,7 +21918,7 @@
     "id": "2436",
     "title": "It's, ooh, I wonder what Lindsay has to say on this episode....",
     "text": "It's, ooh, I wonder what Lindsay has to say on this episode.",
-    "summary": "Summary: \"It's, ooh, I wonder what Lindsay has to say on this episode. It's, \u00a0Ooh, what will Lindsay have to say?\" ",
+    "summary": "Summary: \"It's, ooh, I wonder what Lindsay has to say on this episode. It's,  Ooh, what will Lindsay have to say?\" ",
     "keywords": "say, want, think, time, things",
     "sentiment": "Neutral",
     "sentiment_score": 0.0
@@ -22359,7 +22359,7 @@
     "id": "2485",
     "title": "The next question is, would you rather have more money or more time? I think I w...",
     "text": "The next question is, would you rather have more money or more time? I think I would...",
-    "summary": "Summary: The next question is, would you rather have more money or more time? I think I would... \u00a0I think I'd... ",
+    "summary": "Summary: The next question is, would you rather have more money or more time? I think I would...  I think I'd... ",
     "keywords": "time, think, want, things, talk",
     "sentiment": "Positive",
     "sentiment_score": 0.333
@@ -22422,16 +22422,16 @@
     "id": "2492",
     "title": "The next question and final question is have you ever had your house booked? Not...",
     "text": "The next question and final question is have you ever had your house booked? Not my house, no. But one time years ago we had a push chair that we kept in front porch which wasn't locked and there was a big storm one night and the next morning the push chair wasn't there so obviously some",
-    "summary": "Summary: Not my house, no. But one time years ago we had a push chair that we kept in front porch which wasn't locked and there was a big storm one night and the next morning the push chair wasn't there. So obviously some \u00a0some \u00a0people have booked my house. ",
+    "summary": "Summary: Not my house, no. But one time years ago we had a push chair that we kept in front porch which wasn't locked and there was a big storm one night and the next morning the push chair wasn't there. So obviously some  some  people have booked my house. ",
     "keywords": "time, want, think, things, talk",
     "sentiment": "Neutral",
     "sentiment_score": 0.0
   },
   {
     "id": "2493",
-    "title": "\u00a38 for a trim and then I've seen other salons that advertise for more than \u00a328 f...",
-    "text": "\u00a38 for a trim and then I've seen other salons that advertise for more than \u00a328 for a re-style. Yeah, I think it depends on what you want done. The next question is, have you ever got a tattoo done? No, I haven't.",
-    "summary": "Summary: I think it depends on what you want done. \u00a38 for a trim and then I've seen other salons that advertise for more than \u00a328 for a re-style. No, I haven't ever got a tattoo done. ",
+    "title": "£8 for a trim and then I've seen other salons that advertise for more than £28 f...",
+    "text": "£8 for a trim and then I've seen other salons that advertise for more than £28 for a re-style. Yeah, I think it depends on what you want done. The next question is, have you ever got a tattoo done? No, I haven't.",
+    "summary": "Summary: I think it depends on what you want done. £8 for a trim and then I've seen other salons that advertise for more than £28 for a re-style. No, I haven't ever got a tattoo done. ",
     "keywords": "want, think, time, things, talk",
     "sentiment": "Positive",
     "sentiment_score": 0.125
@@ -22791,7 +22791,7 @@
     "id": "2533",
     "title": "listen to the radio in the morning while I'm on my way to work. However, it just...",
     "text": "listen to the radio in the morning while I'm on my way to work. However, it just depends on the day really because if I'm very tired, I don't listen to the radio. I find that in the morning they still play songs that are very loud and so if I'm very tired and I haven't slept well.",
-    "summary": "Summary: If I'm very tired, I don't listen to the radio. I find that in the morning they still play songs that are very loud and so if I\u2019m very tired and I haven\u2019t slept well. ",
+    "summary": "Summary: If I'm very tired, I don't listen to the radio. I find that in the morning they still play songs that are very loud and so if I’m very tired and I haven’t slept well. ",
     "keywords": "really, don, just, want, things",
     "sentiment": "Negative",
     "sentiment_score": -0.177
@@ -22926,7 +22926,7 @@
     "id": "2548",
     "title": "So many native speakers might find cuss words to be vulgar, inappropriate, dirty...",
     "text": "So many native speakers might find cuss words to be vulgar, inappropriate, dirty, crass.",
-    "summary": "Summary: So many native speakers might find cuss words to be vulgar, inappropriate, dirty, crass. So many nativeakers might find  cuss Words to be\u00a0vulgar,\u00a0inappropriate\u00a0and dirty. ",
+    "summary": "Summary: So many native speakers might find cuss words to be vulgar, inappropriate, dirty, crass. So many nativeakers might find  cuss Words to be vulgar, inappropriate and dirty. ",
     "keywords": "want, time, think, things, talk",
     "sentiment": "Negative",
     "sentiment_score": -0.267
@@ -23023,9 +23023,9 @@
   },
   {
     "id": "2559",
-    "title": "Game\uc870K...",
-    "text": "Game\uc870K",
-    "summary": "Summary: Game\uc870K ",
+    "title": "Game조K...",
+    "text": "Game조K",
+    "summary": "Summary: Game조K ",
     "keywords": "want, time, think, things, talk",
     "sentiment": "Neutral",
     "sentiment_score": 0.0
@@ -23870,7 +23870,7 @@
   {
     "id": "2653",
     "title": "being kayaking or paddle surfing for example. I think it is quite fun and you al...",
-    "text": "being kayaking or paddle surfing for example. I think it is quite fun and you also learn a lot of new skills. My second favourite activity to do in the summer holidays is going to the mountains. In England especially in the area where I live there are quite a lot of mountains and the landscapes are truly beautiful. So I like taking picnic, hiking and camping in these areas. It is nice to see the wildlife as well. My third favourite activity to do in the summer is attending music festivals or outdoor concerts. Summer is a very popular season for music festivals because of the good weather. In England there are quite a lot of festivals. The most famous ones are glass-domry, Reading and Leads festivals. I'm sure that you will have heard of them. A lot of famous artists perform at these festivals and it's better than a concert because it's a whole experience. You spend the entire day there with your friends or your family. There are different events, different food stands and... and it's a fun day out. It is true that it can be quite expensive. It's normally about \u00a3100 per ticket per day, so if you spend a weekend at a festival, it isn't exactly cheap, but I think it's a typical... on our activity that a lot of people enjoy. My fourth favourite activity to do during the holidays is to learn a new skill or a new hobby. Every year I set myself a goal, which could be learning a new language and your skill like painting or... crafting and it is a good way to not be bored during the summer. Sometimes when it's a rainy day or you don't feel too motivated, you might feel bored so it's good to have an activity that you can do and then at the end of the summer.",
+    "text": "being kayaking or paddle surfing for example. I think it is quite fun and you also learn a lot of new skills. My second favourite activity to do in the summer holidays is going to the mountains. In England especially in the area where I live there are quite a lot of mountains and the landscapes are truly beautiful. So I like taking picnic, hiking and camping in these areas. It is nice to see the wildlife as well. My third favourite activity to do in the summer is attending music festivals or outdoor concerts. Summer is a very popular season for music festivals because of the good weather. In England there are quite a lot of festivals. The most famous ones are glass-domry, Reading and Leads festivals. I'm sure that you will have heard of them. A lot of famous artists perform at these festivals and it's better than a concert because it's a whole experience. You spend the entire day there with your friends or your family. There are different events, different food stands and... and it's a fun day out. It is true that it can be quite expensive. It's normally about £100 per ticket per day, so if you spend a weekend at a festival, it isn't exactly cheap, but I think it's a typical... on our activity that a lot of people enjoy. My fourth favourite activity to do during the holidays is to learn a new skill or a new hobby. Every year I set myself a goal, which could be learning a new language and your skill like painting or... crafting and it is a good way to not be bored during the summer. Sometimes when it's a rainy day or you don't feel too motivated, you might feel bored so it's good to have an activity that you can do and then at the end of the summer.",
     "summary": "Summary: My second favourite activity to do in the summer holidays is going to the mountains. My third favourite activity is attending music festivals or outdoor concerts. Summer is a very popular season for music festivals because of the good weather. My fourth favourite activity to do during the holidays is to learn a new skill or a new hobby. Every year I set myself a goal, which could be learning a new language and your skill like painting or... crafting. It is a good way to not be bored during the summer. ",
     "keywords": "lot, good, different, think, like",
     "sentiment": "Positive",
@@ -23906,8 +23906,8 @@
   {
     "id": "2657",
     "title": "residents spent more than 62.3 billion pounds on visits abroad. That means that ...",
-    "text": "residents spent more than 62.3 billion pounds on visits abroad. That means that they spent \u00a3670 on average per person, which is around 775 euros. I was quite surprised when I read this because that means that a couple would spend about \u00a31,300 every time that they abroad which is quite a lot. The main reason why people went abroad that year was for holidays, nearly two thirds which is nearly 66% of people who are holiday makers and travelled for this reason. This was followed by visiting family or friends overseas. Unsurprisingly, the number of business trips fell that year. But they were still...",
-    "summary": "Summary: Residents spent more than 62.3 billion pounds on visits abroad. That means that they spent \u00a3670 on average per person, which is around 775 euros. A couple would spend about \u00a31,300 every time that they abroad. ",
+    "text": "residents spent more than 62.3 billion pounds on visits abroad. That means that they spent £670 on average per person, which is around 775 euros. I was quite surprised when I read this because that means that a couple would spend about £1,300 every time that they abroad which is quite a lot. The main reason why people went abroad that year was for holidays, nearly two thirds which is nearly 66% of people who are holiday makers and travelled for this reason. This was followed by visiting family or friends overseas. Unsurprisingly, the number of business trips fell that year. But they were still...",
+    "summary": "Summary: Residents spent more than 62.3 billion pounds on visits abroad. That means that they spent £670 on average per person, which is around 775 euros. A couple would spend about £1,300 every time that they abroad. ",
     "keywords": "people, lot, time, want, things",
     "sentiment": "Neutral",
     "sentiment_score": 0.077
@@ -23970,7 +23970,7 @@
     "id": "2664",
     "title": "the next city was the Leacock. What year was that? That was in the year 1999....",
     "text": "the next city was the Leacock. What year was that? That was in the year 1999.",
-    "summary": "Summary: The next city was the Leacock. What year was that? That was in the year 1999. The next city to be the next was the\u00a0Leacock\u00a0in 1999. ",
+    "summary": "Summary: The next city was the Leacock. What year was that? That was in the year 1999. The next city to be the next was the Leacock in 1999. ",
     "keywords": "want, time, think, things, talk",
     "sentiment": "Neutral",
     "sentiment_score": 0.0
@@ -23987,7 +23987,7 @@
   {
     "id": "2666",
     "title": "helps you to be happier in your life if you have money available to you. So, do ...",
-    "text": "helps you to be happier in your life if you have money available to you. So, do you think that richer people are happier than poorer people? No, not necessarily. I think that maybe poorer people know how much money they have and they live within their means. Whereas richer people may have more... they buy some sweets and then they have less money they can see how much they've spent and it just teaches them the value of money and they might realize that money doesn't grow on trees. True, very true. I think that often pocket money is linked to a reward system. For example, if they keep their room tidy or healthy. around the house then they get more pocket money and I think that's a good idea too. Now we're going to be talking about saving money. What are good ways to save money? I think that a monthly saving scheme is a good idea whether it's \u00a35 a month or \u00a310 a month whatever you can afford it's... builds up over the year or alternatively a piggy bank or money box where you put your loose change at the end of the week and that soon adds up and you find you have a lot of money at the end of the year. A lot of people can't save a lot of their money and so by saving a small amount. It helps towards an event like Christmas or birthday presents. I think that's the best way to say if you haven't got a lot of money. And what do you think is a waste of money? I think that buying a lot of clothes can be a waste of money. Many young people go to clothes shops every weekend and... because it's fast fashion and cheap fashion. They're buying a lot of clothes when they have enough clothes at home, but that's part of being young. Do you think that people only waste money on shopping? Well, I think that some families buy takeaway meals every weekend, which is fine, but... They could save money and make them food at home themselves. Yes, I think that a lot of people go to coffee shops as well. And if you buy a coffee out every day, then that's about two pounds a day, which adds up. But I think that if people are working and this is part of their social life, then it's... fine, but if somebody is struggling to save money, then maybe they should write down all these cups of coffee that they're buying or small items that they're buying and see how much they're spending in one week. This could easily be saved and put towards Christmas presents or birthday presents, I think.",
+    "text": "helps you to be happier in your life if you have money available to you. So, do you think that richer people are happier than poorer people? No, not necessarily. I think that maybe poorer people know how much money they have and they live within their means. Whereas richer people may have more... they buy some sweets and then they have less money they can see how much they've spent and it just teaches them the value of money and they might realize that money doesn't grow on trees. True, very true. I think that often pocket money is linked to a reward system. For example, if they keep their room tidy or healthy. around the house then they get more pocket money and I think that's a good idea too. Now we're going to be talking about saving money. What are good ways to save money? I think that a monthly saving scheme is a good idea whether it's £5 a month or £10 a month whatever you can afford it's... builds up over the year or alternatively a piggy bank or money box where you put your loose change at the end of the week and that soon adds up and you find you have a lot of money at the end of the year. A lot of people can't save a lot of their money and so by saving a small amount. It helps towards an event like Christmas or birthday presents. I think that's the best way to say if you haven't got a lot of money. And what do you think is a waste of money? I think that buying a lot of clothes can be a waste of money. Many young people go to clothes shops every weekend and... because it's fast fashion and cheap fashion. They're buying a lot of clothes when they have enough clothes at home, but that's part of being young. Do you think that people only waste money on shopping? Well, I think that some families buy takeaway meals every weekend, which is fine, but... They could save money and make them food at home themselves. Yes, I think that a lot of people go to coffee shops as well. And if you buy a coffee out every day, then that's about two pounds a day, which adds up. But I think that if people are working and this is part of their social life, then it's... fine, but if somebody is struggling to save money, then maybe they should write down all these cups of coffee that they're buying or small items that they're buying and see how much they're spending in one week. This could easily be saved and put towards Christmas presents or birthday presents, I think.",
     "summary": "Summary: Do you think that richer people are happier than poorer people? No, not necessarily. I think that maybe poorer people know how much money they have and they live within their means. A lot of people can't save a lot of their money and so by saving a small amount. It helps towards an event like Christmas or birthday presents. Some families buy takeaway meals every weekend, which is fine, but... They could sav. If you buy a coffee out every day, then that's about two pounds a day, which adds up. This could easily be saved and put towards Christmas presents or birthday presents. ",
     "keywords": "think, people, lot, good, say",
     "sentiment": "Positive",
@@ -24014,8 +24014,8 @@
   {
     "id": "2669",
     "title": "list of things that you would like to spend money on but you wouldn't really go ...",
-    "text": "list of things that you would like to spend money on but you wouldn't really go out and have a coffee at a coffee shop. No, I look at that \u00a32 or \u00a3250 and think that I could buy some craft materials with that money and so I wouldn't buy a coffee.",
-    "summary": "Summary: \"I look at that \u00a32 or \u00a3250 and think that I could buy some craft materials with that money and so I wouldn't buy a coffee\" ",
+    "text": "list of things that you would like to spend money on but you wouldn't really go out and have a coffee at a coffee shop. No, I look at that £2 or £250 and think that I could buy some craft materials with that money and so I wouldn't buy a coffee.",
+    "summary": "Summary: \"I look at that £2 or £250 and think that I could buy some craft materials with that money and so I wouldn't buy a coffee\" ",
     "keywords": "things, really, think, like, want",
     "sentiment": "Positive",
     "sentiment_score": 0.2
@@ -24400,9 +24400,9 @@
   },
   {
     "id": "2712",
-    "title": "They also set price. So you might have to buy a present for \u00a310 or \u00a320 so that s...",
-    "text": "They also set price. So you might have to buy a present for \u00a310 or \u00a320 so that some people don't spend more money than others. On Christmas Eve families set up the special table for the feast and wait for Santa Claus to come on the night of the 24th of December. They also leave out some biscuits and milk for a centre and some carrots for the raindex. On Christmas morning children usually wake up early to see what Santa Claus has brought them. He usually leaves the gifts in stockings or in a sack or maybe under the tree. on your family's tradition. Everyone gathers around the Christmas tree to see what presents he has brought. People also hand out the presents that they have brought for their family members or friends. Later on at lunchtime people dig in and enjoy the festive meal together. People usually eat turkey, gravy and vegetables on Christmas day and it's quite a big meal. Families usually get together for this Christmas dinner and later on other family members or friends come round to visit. After everyone has sat down and enjoyed the meal, people just hang out together, play games or watch a holiday movie. The children usually enjoy the gifts that they have been given. In the evening, there are some people who head out to churches to attend Christmas services. is a time for gratitude and reflection. So a lot of people look back on the year and appreciate the good moments that they have had with their friends and their family. There are some people who enjoy the presents more, but there are others who love coming together and spending quality time. Last week I went to a music festival. As it is summer there are a lot of music festivals at the moment. The weather is great, it is warm and it's a great time to enjoy live music outdoors. I don't know if you have been to a music festival recently but...",
-    "summary": "Summary: On Christmas Eve families set up the special table for the feast and wait for Santa Claus to come on the night of the 24th of December. They also set price. So you might have to buy a present for \u00a310 or \u00a320 so that some people don't spend more money than others. Christmas is a time for gratitude and reflection. People look back on the good moments that they have had with their friends and family. There are some people who enjoy the presents more than others. N. n went to a music festival recently but didn't bring his camera. He wanted to take a photo of his friends and family. But he didn't want to show off his new camera. ",
+    "title": "They also set price. So you might have to buy a present for £10 or £20 so that s...",
+    "text": "They also set price. So you might have to buy a present for £10 or £20 so that some people don't spend more money than others. On Christmas Eve families set up the special table for the feast and wait for Santa Claus to come on the night of the 24th of December. They also leave out some biscuits and milk for a centre and some carrots for the raindex. On Christmas morning children usually wake up early to see what Santa Claus has brought them. He usually leaves the gifts in stockings or in a sack or maybe under the tree. on your family's tradition. Everyone gathers around the Christmas tree to see what presents he has brought. People also hand out the presents that they have brought for their family members or friends. Later on at lunchtime people dig in and enjoy the festive meal together. People usually eat turkey, gravy and vegetables on Christmas day and it's quite a big meal. Families usually get together for this Christmas dinner and later on other family members or friends come round to visit. After everyone has sat down and enjoyed the meal, people just hang out together, play games or watch a holiday movie. The children usually enjoy the gifts that they have been given. In the evening, there are some people who head out to churches to attend Christmas services. is a time for gratitude and reflection. So a lot of people look back on the year and appreciate the good moments that they have had with their friends and their family. There are some people who enjoy the presents more, but there are others who love coming together and spending quality time. Last week I went to a music festival. As it is summer there are a lot of music festivals at the moment. The weather is great, it is warm and it's a great time to enjoy live music outdoors. I don't know if you have been to a music festival recently but...",
+    "summary": "Summary: On Christmas Eve families set up the special table for the feast and wait for Santa Claus to come on the night of the 24th of December. They also set price. So you might have to buy a present for £10 or £20 so that some people don't spend more money than others. Christmas is a time for gratitude and reflection. People look back on the good moments that they have had with their friends and family. There are some people who enjoy the presents more than others. N. n went to a music festival recently but didn't bring his camera. He wanted to take a photo of his friends and family. But he didn't want to show off his new camera. ",
     "keywords": "people, time, lot, don, good",
     "sentiment": "Positive",
     "sentiment_score": 0.194
@@ -25346,7 +25346,7 @@
   {
     "id": "2817",
     "title": "Is petrol expensive where you live? Yes, petrol is quite expensive where I live....",
-    "text": "Is petrol expensive where you live? Yes, petrol is quite expensive where I live. At the moment the petrol costs \u00a31.57. per litre. That's 179 in euros. How can we use less petrol? Well, I think that it's difficult to use less petrol if you have to go to work. If you work from home, then obviously, you don't use so much. But if you have to go to work and you don't have the option of using public transport, then it's quite hard. If you live in a city and you can use the underground or a train or a bus, then it's easier. There are more and more electric cars on the road as well, so they use less petrol, but the problem is that they are very expensive. So the people that don't have enough money to buy an electric car can't reduce the amount of petrol that's... they use.",
+    "text": "Is petrol expensive where you live? Yes, petrol is quite expensive where I live. At the moment the petrol costs £1.57. per litre. That's 179 in euros. How can we use less petrol? Well, I think that it's difficult to use less petrol if you have to go to work. If you work from home, then obviously, you don't use so much. But if you have to go to work and you don't have the option of using public transport, then it's quite hard. If you live in a city and you can use the underground or a train or a bus, then it's easier. There are more and more electric cars on the road as well, so they use less petrol, but the problem is that they are very expensive. So the people that don't have enough money to buy an electric car can't reduce the amount of petrol that's... they use.",
     "summary": "Summary: It's difficult to use less petrol if you have to go to work. If you live in a city and you can use the underground or a train or a bus, then it's easier. There are more and more electric cars on the road as well. But they are very expensive. So the people that don't have enough money to buy an electric car can't reduce the amount of petrol that's... they use. ",
     "keywords": "don, people, think, want, things",
     "sentiment": "Neutral",
@@ -25621,5 +25621,445 @@
     "keywords": "want, time, think, things, talk",
     "sentiment": "Neutral",
     "sentiment_score": 0.0
+  },
+  {
+    "id": 2848,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "It's led by Qatar. It started 20, 25 years ago when they opened El Jazeera. I th",
+    "text": "It's led by Qatar. It started 20, 25 years ago when they opened El Jazeera. I think they unleashed all of their forces that had been lying in weight, thinking they would finish us off once and for. They kept it on a slow burn and after October the 7th they just opened up the floodgates and they had operatives in every single western city and they just instructed them to put their nefarious plans into practice.",
+    "summary": "Summary: Qatar unleashed all of their forces that had been lying in weight, thinking they would finish us off once and for. After October the 7th they just opened up the floodgates and they had operatives in every single western city.",
+    "keywords": "qatar, jazeera, floodgates, operatives, western",
+    "sentiment": "negative",
+    "sentiment_score": -0.1238
+  },
+  {
+    "id": 2849,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "Practice and this is what we've seen in the last 2 and a half years. Hello and w",
+    "text": "Practice and this is what we've seen in the last 2 and a half years. Hello and welcome to the ILTV podcast. I'm Ion Hoffman, Executive Editor of ILTV and we are so happy to welcome back our viewers and our listeners. Now today we have an incredibly special guest we've brought in Sylvan Adams, the president of the World Jewish Congress here in Israel.",
+    "summary": "Summary: Ion Hoffman is the Executive Editor of ILTV. Sylvan Adams is the president of the World Jewish Congress here in Israel.",
+    "keywords": "iltv, podcast, hoffman, jewish, israel",
+    "sentiment": "positive",
+    "sentiment_score": 0.3238
+  },
+  {
+    "id": 2850,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "Welcome Sylvan. Nice to be here. Thank you. Of course, no, Sylvan.",
+    "text": "Welcome Sylvan. Nice to be here. Thank you. Of course, no, Sylvan.",
+    "summary": "Summary: Sylvan: Of course, no, Sylvan. Nice to be here. Thank you.",
+    "keywords": "sylvan, welcome, course, thank, nice",
+    "sentiment": "positive",
+    "sentiment_score": 0.7
+  },
+  {
+    "id": 2851,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "I want to start by letting our viewers get to know you a little bit better. You ",
+    "text": "I want to start by letting our viewers get to know you a little bit better. You were born and raised in Canada. You built your career there. Take me back to that journey.",
+    "summary": "Summary: \"I want to start by letting our viewers get to know you a little bit better. You were born and raised in Canada. Take me back to that journey\"",
+    "keywords": "viewers, canada, born, start, raised",
+    "sentiment": "positive",
+    "sentiment_score": 0.1042
+  },
+  {
+    "id": 2852,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "When did Israel stop becoming just an idea and start becoming a place that you k",
+    "text": "When did Israel stop becoming just an idea and start becoming a place that you knew you would call home? So firstly I grew up in a Zionist home. Both of my parents came from Romania and had passed through Palestine. Actually my mother was the story of Exodus.",
+    "summary": "Summary: Both of my parents came from Romania and had passed through Palestine. My mother was the story of Exodus. So firstly I grew up in a Zionist home.",
+    "keywords": "zionist, israel, palestine, exodus, home",
+    "sentiment": "positive",
+    "sentiment_score": 0.2875
+  },
+  {
+    "id": 2853,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "She came on a boat after the war in 1947 and was turned away by the British and ",
+    "text": "She came on a boat after the war in 1947 and was turned away by the British and ended up spending a six months in an internment camp in Cyprus. Until the state was declared and she was able to come here and she did her high school in Israel in Jaffa. And my father came during the war. He was conscripted into conscripted and a good word into slave labor by the Romanian fascists.",
+    "summary": "Summary: She came on a boat after the war in 1947 and was turned away by the British and ended up spending a six months in an internment camp in Cyprus. Until the state was declared and she was able to come here and she did her high school in Israel in Jaffa. And my father came during the war. He was conscripted into conscripts and a good word into slave labor by the Romanian fascists.",
+    "keywords": "internment, jaffa, cyprus, slave, israel",
+    "sentiment": "positive",
+    "sentiment_score": 0.34
+  },
+  {
+    "id": 2854,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "And so they were starving them to death and my father saw that this was not a go",
+    "text": "And so they were starving them to death and my father saw that this was not a good prospect for him. So he managed to escape and he came to Palestine. He fought in the war of independence. And for different reasons the two of them ended up in Canada and they met in Canada.",
+    "summary": "Summary: My father saw that this was not a good prospect for him. So he managed to escape and he came to Palestine. He fought in the war of independence. And for different reasons the two of them ended up in Canada and they met in Canada.",
+    "keywords": "palestine, starving, independence, war, fought",
+    "sentiment": "negative",
+    "sentiment_score": -0.175
+  },
+  {
+    "id": 2855,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "And so as I said I grew up in a Zionist home and I had visited Israel several ti",
+    "text": "And so as I said I grew up in a Zionist home and I had visited Israel several times. I had family here. And I had been on a couple of summer programs. I had been on the Kibbutz.",
+    "summary": "Summary: \"I grew up in a Zionist home and I had visited Israel several times. I had family here. And I had been on a couple of summer programs,\" he says.",
+    "keywords": "zionist, kibbutz, israel, visited, family",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "id": 2856,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "After I finished all of my studies I decided to travel the world before I got se",
+    "text": "After I finished all of my studies I decided to travel the world before I got serious about my career. And as the weather in Europe kept getting colder during the year I kept moving south and I ended up in Israel. And I went to the Kibbutz office in Tel Aviv. I went to Kibbutz Archie which is the most hardcore Kibbutz.",
+    "summary": "Summary: After he finished all of his studies I decided to travel the world before I got serious about my career. And as the weather in Europe kept getting colder during the year I kept moving south and I ended up in Israel. I went to Kibbutz Archie which is the most hardcore Kib butz.",
+    "keywords": "kibbutz, israel, aviv, travel, europe",
+    "sentiment": "positive",
+    "sentiment_score": 0.0833
+  },
+  {
+    "id": 2857,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "What year was this? So this was in 1983. And I meet this astonishing person from",
+    "text": "What year was this? So this was in 1983. And I meet this astonishing person from the United Kingdom, volunteer like me, who became my future wife. And so we met on the Kibbutz all those years ago.",
+    "summary": "Summary: \"I meet this astonishing person from the United Kingdom, volunteer like me, who became my future wife. And so we met on the Kibbutz all those years ago,\" he says.",
+    "keywords": "kibbutz, 1983, year, met, years",
+    "sentiment": "positive",
+    "sentiment_score": 0.25
+  },
+  {
+    "id": 2858,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "And so a few years ago on a cold dark Montreal Winters night I came home after w",
+    "text": "And so a few years ago on a cold dark Montreal Winters night I came home after work and I asked my wife Margaret. What do you think about moving to Israel? And she said two things. I always thought we would end up there and let's do it.",
+    "summary": "Summary: \"I always thought we would end up there and let's do it,\" he says. \"I asked my wife Margaret. What do you think about moving to Israel?\"",
+    "keywords": "israel, montreal, moving, winters, wife",
+    "sentiment": "negative",
+    "sentiment_score": -0.3167
+  },
+  {
+    "id": 2859,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "It'll be an adventure. Wow. It gives me chills. So that's my story.",
+    "text": "It'll be an adventure. Wow. It gives me chills. So that's my story.",
+    "summary": "Summary: \"It'll be an adventure. Wow. It gives me chills. So that's my story\"",
+    "keywords": "adventure, chills, story, wow, gives",
+    "sentiment": "positive",
+    "sentiment_score": 0.1
+  },
+  {
+    "id": 2860,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "We were Zionists. And so she said I always thought we would end up there because",
+    "text": "We were Zionists. And so she said I always thought we would end up there because this was in our blood. And we are Zionists. And there is no better expression of Zionism than with your feet.",
+    "summary": "Summary: She said she always thought we would end up there because this was in our blood. And we are Zionists. And there is no better expression of Zionism than with your feet.",
+    "keywords": "zionism, zionists, feet, blood, end",
+    "sentiment": "negative",
+    "sentiment_score": -0.25
+  },
+  {
+    "id": 2861,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "100% Now before you took your feet over here to Israel you obviously were a very",
+    "text": "100% Now before you took your feet over here to Israel you obviously were a very successful businessman in Canada. And so we were able to accumulate quite a lot of wealth, talk to me a little bit about the lessons that you learned from the work that you did there and what you've been able to bring here to the country. So when I moved here I wanted to change my life. I'd done I'd been I'd been doing I'd been working in in the real estate sector as a developer for for many years.",
+    "summary": "Summary: Before moving to Israel you were a very successful businessman in Canada. Talk to me a little bit about the lessons that you learned from the work that you did there and what you've been able to bring here.",
+    "keywords": "israel, canada, change, wealth, estate",
+    "sentiment": "positive",
+    "sentiment_score": 0.3554
+  },
+  {
+    "id": 2862,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "I could do this work with my eyes closed really and I wanted to do something dif",
+    "text": "I could do this work with my eyes closed really and I wanted to do something different. So I haven't done business in Israel. I came here really with a with a different mission with the more philanthropic perspective. And what I like to say is when I lived in Canada I was very charitable.",
+    "summary": "Summary: \"I could do this work with my eyes closed really and I wanted to do something different. So I haven't done business in Israel. I came here really with a with a different mission with the more philanthropic perspective\"",
+    "keywords": "israel, philanthropic, charitable, canada, business",
+    "sentiment": "positive",
+    "sentiment_score": 0.2257
+  },
+  {
+    "id": 2863,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "When I moved to Israel I became a philanthropist. The difference being I have a ",
+    "text": "When I moved to Israel I became a philanthropist. The difference being I have a structure. I have a I it was more it was more opportunistic when I was in Canada. And as I said I was I was quite charitable.",
+    "summary": "Summary: I was more opportunistic when I was in Canada. When I moved to Israel I became a philanthropist. The difference being I have a structure. And as I said, I was quite charitable.",
+    "keywords": "philanthropist, charitable, israel, difference, canada",
+    "sentiment": "positive",
+    "sentiment_score": 0.5333
+  },
+  {
+    "id": 2864,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "I invested in in a lot of Jewish institutions and community community things. Bu",
+    "text": "I invested in in a lot of Jewish institutions and community community things. But in coming here I wanted to I wanted to make a difference. I wanted to change things and and be able to make a difference. And I I took it on in a more professional manner.",
+    "summary": "Summary: \"I wanted to change things and and be able to make a difference. And I I took it on in a more professional manner\"",
+    "keywords": "jewish, community, invested, change, institutions",
+    "sentiment": "positive",
+    "sentiment_score": 0.275
+  },
+  {
+    "id": 2865,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "And really your philanthropy has evolved a lot over the years. I mean I've been ",
+    "text": "And really your philanthropy has evolved a lot over the years. I mean I've been fortunate to know you in so many different hats and you know from the infrastructure you were giving to institution sports and then culture and then really sort of the soft I guess diplomacy as you call it into really where today you've been much more directed in being able to work now with the world Jewish Congress. What changed in the way that you see your impact? How did you move from one to the other talk to me about that trajectory?",
+    "summary": "Summary: I've been fortunate to know you in so many different hats. And really your philanthropy has evolved a lot over the years. How did you move from one to the other talk about that trajectory.",
+    "keywords": "philanthropy, diplomacy, jewish, culture, congress",
+    "sentiment": "positive",
+    "sentiment_score": 0.1802
+  },
+  {
+    "id": 2866,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "So I don't see that I've moved. When I came to Israel I recognize that we were v",
+    "text": "So I don't see that I've moved. When I came to Israel I recognize that we were very bad at telling our story. We we are misunderstood around the world. And and so one of the ideas that I had was to show the Israel that I know no one love Israel that every first time visitor who comes.",
+    "summary": "Summary: \"I don't see that I've moved. When I came to Israel I recognize that we were very bad at telling our story. We we are misunderstood around the world,\" he says.",
+    "keywords": "israel, moved, visitor, telling, misunderstood",
+    "sentiment": "negative",
+    "sentiment_score": -0.0533
+  },
+  {
+    "id": 2867,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "Is really surprised and impressed to see. And that's what I say I love the idea ",
+    "text": "Is really surprised and impressed to see. And that's what I say I love the idea of bringing tourists. And so what I started to do was large scale projects that brought eyeballs to Israel by a large large numbers via their by their TV screens. So if they couldn't physically come.",
+    "summary": "Summary: \"I love the idea of bringing tourists. And so what I started to do was large scale projects that brought eyeballs to Israel by a large large numbers via their by their TV screens,\" he says.",
+    "keywords": "tourists, israel, projects, bringing, impressed",
+    "sentiment": "positive",
+    "sentiment_score": 0.3204
+  },
+  {
+    "id": 2868,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "Well hundreds of millions of people could could watch us on TV. So this was the ",
+    "text": "Well hundreds of millions of people could could watch us on TV. So this was the this was the thought behind the big bicycle race. You know we were seen by nearly a billion people incredible. And I'll tell you how I knew knew it was working.",
+    "summary": "Summary: \"We were seen by nearly a billion people incredible. And I'll tell you how I knew knew it was working,\" he said.",
+    "keywords": "bicycle, millions, watch, hundreds, billion",
+    "sentiment": "positive",
+    "sentiment_score": 0.15
+  },
+  {
+    "id": 2869,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "The Gerald Italia came to Israel in 2018 from 2018 to 2019 Israel led the world ",
+    "text": "The Gerald Italia came to Israel in 2018 from 2018 to 2019 Israel led the world in tourism growth. So I know it was working this sort of introduction. To this beautiful country. And there's nothing better than having physical visitors of course bringing bring virtual visitors is on one level.",
+    "summary": "Summary: The Gerald Italia came to Israel in 2018 from 2018 to 2019 Israel led the world in tourism growth.",
+    "keywords": "tourism, israel, visitors, italia, virtual",
+    "sentiment": "positive",
+    "sentiment_score": 0.45
+  },
+  {
+    "id": 2870,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "Every physical visitor that comes here or virtually every every visitor that com",
+    "text": "Every physical visitor that comes here or virtually every every visitor that comes to Israel is is is surprised and impressed by what they see. And it changes their view forever. And then they become ambassadors. And it's it can it can be a kind of a viral thing.",
+    "summary": "Summary: Every physical visitor that comes here or virtually every every visitors that comes to Israel is is is surprised and impressed by what they see. And it changes their view forever. And then they become ambassadors. It's a kind of a viral thing.",
+    "keywords": "israel, ambassadors, visitor, viral, surprised",
+    "sentiment": "positive",
+    "sentiment_score": 0.425
+  },
+  {
+    "id": 2871,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "Where we create friends friendships and build alliances around the world. And th",
+    "text": "Where we create friends friendships and build alliances around the world. And that was that was the thought behind those those large scale projects bringing twice I brought the world's most famous athlete Leonel Messi once with his national team from Argentina. And and once to play a friendly against all of why and once when he was playing for his club Paris Saint-Germain during covid when the football stadiums in in Europe were all closed due to due to covid while we were open we were ahead of the curve in at that time and we were opening up. And so we were able to host the championship game of the French soccer league right here in Tel Aviv incredible and you really have had an amazing focus on sports and bringing these famous people lately it's a shift that I would say though a little bit more to maybe not necessarily only sports figures but other kinds of figures if you thought about today what would be the most important who would be the most important visitors to come to the state of Israel to help move that agenda forward so the reason I I focused on sports.",
+    "summary": "Summary: Tel Aviv has hosted the world's most famous athlete Leonel Messi twice. The Israeli capital has also hosted the French soccer league's championship game. The Israeli Prime Minister has asked the country's top sports stars to visit the country. David Beckham, Michael Jordan and Yasser Arafat are among those to have made the trip.",
+    "keywords": "messi, sports, athlete, aviv, famous",
+    "sentiment": "positive",
+    "sentiment_score": 0.1966
+  },
+  {
+    "id": 2872,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "Other than liking sports myself but it it's really that's not that's not really ",
+    "text": "Other than liking sports myself but it it's really that's not that's not really wasn't a relevant consideration but is that sports actually draws the largest audiences of any activity on the Olympic games is the number one watched activity followed by the the World Cup of soccer and all these all these things look I gave you the numbers for the for the zero these are in the world. And enormous enormous numbers of huge audiences that are very and who are these people who are typically watching the silent majority people who are not political who don't have a dog in this fight who don't really care about what's happening who don't know very much about us and showing a nicer side than what the media typically portrays we're introducing ourselves to these audiences of huge audiences of people who are not really good at this. So October 7th I'm clearly marked a turning point though for Israel and certainly for Jews worldwide how did that say change you personally and tell me you know did it change how you think about where your energy and resources need to go. So I would say October the 7th didn't change my perspective of our neighborhood I want to tell you may perhaps some people around the world were shocked to learn of the savagery and that was inflicted upon us by by evil people by an evil culture for me that was no surprise I have to say I know I know the neighborhood and I know our neighbors I know what how they grow up.",
+    "summary": "Summary: Sports draws the largest audiences of any activity on the Olympic games is the number one watched activity followed by the the World Cup of soccer and all these all these things. And enormous enormous numbers of huge audiences that are very. \"I know I know the neighborhood and I know our neighbors I know what how they grow up. So I would say October the 7th didn't change my perspective of our neighborhood\"",
+    "keywords": "olympic, sports, jews, israel, audiences",
+    "sentiment": "negative",
+    "sentiment_score": -0.0537
+  },
+  {
+    "id": 2873,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "I know what they're taught and so it didn't change my perspective on that it sho",
+    "text": "I know what they're taught and so it didn't change my perspective on that it shook my confidence in our leaders and in particular in our in our military it shook my confidence as it probably did many Israelis to think that this such a thing could happen how could we how could we miss it how could we miss the signs that we were fooled. And you know we built this high tech military defenses and they just knocked them over with low tech white Toyota's and motorcycles and they just they just walked in in doubt by the thousands you know 5000 invaders using the most primitive methods just walked in and savaged us and then our reaction was which was so slow and it was so it was so tragic and it was so tragic. It was it's really it was hard for me to understand I still don't understand it today to tell you the truth I haven't seen any kind of reasonable explanation that that tells me of about all the failures on on October the 7th but in the aftermath of October the 7th literally on October the 8th before we invaded Gaza before there were any casualties to worry about in Gaza. Before our military was mobilized while we were still counting our dead in fact there were demonstrations against us against the victim and so it tell it told me that an anti-semitism that perhaps we all thought had had disappeared again we knew there were pockets of anti-semitism but this again this this was another surprise to me that.",
+    "summary": "Summary: \"I know what they're taught and so it didn't change my perspective on that\" \"It shook my confidence in our leaders and in particular in our in our military\" \"I still don't understand it today to tell you the truth\" Before our military was mobilized while we were still counting our dead in fact there were demonstrations against us against the victim. We knew there were pockets of anti-semitism but this again this this was another surprise to me that. l the failures on on October the 7th but in the aftermath of October the 8th.",
+    "keywords": "gaza, israelis, casualties, mobilized, aftermath",
+    "sentiment": "neutral",
+    "sentiment_score": -0.0179
+  },
+  {
+    "id": 2874,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "This late and anti-semitism was right there was right there and ready to be mobi",
+    "text": "This late and anti-semitism was right there was right there and ready to be mobilized and I believe it was mobilized by organized forces I think they saw our weakness on October the 7th they saw our military failures and they thought okay and I'll tell you who the they is in a moment. So it's led by Qatar that started 20 25 years ago when they opened Al-Jazeera and I think they unleashed all of their forces that had been lying in weight thinking they would finish us off once and for all. So again we see the how organized it is I'll give a perfect example when the when the tent camps popped up on US campuses they popped up all at the same time and interestingly they all had the same tent supplier. So somebody was organizing this somebody was paying for this and as I said I think that they they kept it on a slow burn and after October the 7th they just opened opened up the floodgates and they had they have operatives in every single western city and they just instructed them to put their their nefarious plans into practice and this is what we've seen in the last two and a half years.",
+    "summary": "Summary: Qatar started 20 25 years ago when they opened Al-Jazeera and I think they unleashed all of their forces that had been lying in weight thinking they would finish us off once and for all. So again we see the how organized it is. When the when the tent camps popped up on US campuses they popped up all at the same time and interestingly they all had the same tent supplier. \"We've seen what we've seen in the last two and a half years. hey had they have operatives in every single western city and they just instructed them to put their their nefarious plans into practice\"",
+    "keywords": "mobilized, qatar, jazeera, camps, operatives",
+    "sentiment": "positive",
+    "sentiment_score": 0.1222
+  },
+  {
+    "id": 2875,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "It's interesting because you hear a very similar story and I was in Australia re",
+    "text": "It's interesting because you hear a very similar story and I was in Australia recently and met with Jeremy Leebler who I'm sure you're familiar with and he expressed a very similar viewpoint who's funding these things how do they have the same suppliers there's obviously an outside force and just like you said he's who believed that it was Qatar. So I think Qatar is the main culprit of course aided and abetted by their access of evil which includes the Iranians and we know about his balai and you know with their pockets all over the world. So the Iranians are involved in this the Chinese the Chinese have joined not because they have an issue with Jews or with Israel I don't think they have a beef with us. This is their way to disrupt western society and we are the we are the first line of defense for for Western for our Western civilization and the West needs to wake up so China and of course Russia which is a you know a perennial troublemaker for the same reason this China again I don't think Russia has a problem Putin seems to like Israel he likes BB he seems to like us.",
+    "summary": "Summary: Qatar is the main culprit of course aided and abetted by their access of evil which includes the Iranians and we know about his balai and you know with their pockets all over the world. So the Iranians are involved in this the Chinese the Chinese have joined not because they have an issue with Jews or with Israel I don't think they have a beef with us. This is their way to disrupt western society and we are the Russia is a perennial troublemaker for the same reason this China again I don't think Russia has a problem. Putin seems to like Israel he likes BB he seems toLike us.",
+    "keywords": "qatar, iranians, israel, china, russia",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0466
+  },
+  {
+    "id": 2876,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "So the fact that they they also are participating in this access of evil campaig",
+    "text": "So the fact that they they also are participating in this access of evil campaign against the surround the world is a way of them attacking the West and again our allies are so called allies who are so strategically blind to to to the reality and are pandering to the extreme leftists the this alliance of most of the world. So the most of of Muslims radical Muslims extreme leftists in their societies in in in in the hope of appeasing them you can never appease those people you can never appease terrorists you can never appease haters you can never appease anarchists and revolutionaries they'll never be appeased you they'll only be encouraged and also for perhaps electoral considerations in some some some of these countries. So I can tell you for example the Canadian Prime Minister he knows he was elected because he was able to draw on enough of those votes in a system of first pass the post where I will remind everybody Justin Trudeau came to had a majority government with 38% of the popular vote. So you just need a plurality in each of the in each of the constituencies to win.",
+    "summary": "Summary: Most of Muslims radical Muslims extreme leftists in their societies. So the fact that they they also are participating in this access of evil campaign against the surround the world is a way of them attacking the West. \"Justin Trudeau came to had a majority government with 38% of the popular vote. So you just need a plurality in each of the inEach of the constituencies to win,\" he said.",
+    "keywords": "terrorists, muslims, revolutionaries, leftists, constituencies",
+    "sentiment": "positive",
+    "sentiment_score": 0.1167
+  },
+  {
+    "id": 2877,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "So you need to move a few votes and and so of course by by having a large scale ",
+    "text": "So you need to move a few votes and and so of course by by having a large scale Muslim immigration to all of these countries. So the vastly out number of course their Jewish population. So the countries and the governments are pandering to the Muslims but you know at the same time we do see as you mentioned you know of course there's the organized anti-Semitism Qatar Iran Russia China as you mentioned but anti-Semitism is coming out of the woodwork in so many different places as you mentioned the left the right it's starting to just it's not starting it is surging and is been surging for a number of years really since COVID even before October 7th. Now the Jewish community has invested billions and billions of dollars in trying to combat the rise of anti-Semitism I would argue failing miserably.",
+    "summary": "Summary: Anti-Semitism is coming out of the woodwork in so many different places as you mentioned the left the right it's starting to just it's not starting it is surging. The Jewish community has invested billions and billions of dollars in trying to combat the rise of anti-Semitism I would argue failing miserably.",
+    "keywords": "semitism, jewish, muslims, muslim, qatar",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "id": 2878,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "Why does the problem keep getting worse where should the dollars be going if the",
+    "text": "Why does the problem keep getting worse where should the dollars be going if they aren't going to the right place. So first of all I want to speak to what you're saying on the right and on the left. So the Qataris are very smart they buy people on the right and on the left. So Tucker Carlson for example on the right he wasn't he wasn't that to Israel when he worked for Fox no Fox News a number of years ago and he also didn't own a housing guitar back then.",
+    "summary": "Summary: The Qataris are very smart they buy people on the right and on the left. Where should the dollars be going if they aren't going to the right place.",
+    "keywords": "qataris, israel, dollars, housing, news",
+    "sentiment": "positive",
+    "sentiment_score": 0.1701
+  },
+  {
+    "id": 2879,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "So you know he's a he's a he's a paid Qataris operative an apologist and says ou",
+    "text": "So you know he's a he's a he's a paid Qataris operative an apologist and says outrageous things and people I it's amazing to me that people can actually find him even remotely palatable because he says things that are demonstrably not true. But so the Qataris they the yes they have they have their paid operatives they have their useful idiots on the on the left. But then again they've tried to find opinion leaders on the right and do the same. So we they're very smart they're very very smart and they have they're basically the most the most.",
+    "summary": "Summary: \"He's a paid Qataris operative an apologist and says outrageous things and people I it's amazing to me that people can actually find him even remotely palatable,\" she said.",
+    "keywords": "qataris, apologist, leaders, idiots, smart",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0477
+  },
+  {
+    "id": 2880,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "But the Muslim Brotherhood the Muslim Brotherhood around the world with their ne",
+    "text": "But the Muslim Brotherhood the Muslim Brotherhood around the world with their new shiny Trojan horse Mamdanin mayor Mamdanin in New York. And they with who was elected with foreign money so we need to wake up they we know what they've done on campuses they've spent they've spent hundreds of millions of dollars billions of dollars by the way their total campaign is a trillion dollars but they they have infinite amounts of money. And they have the largest gas reserves in the entire world and and they and they and they want to see a Muslim brotherhood brotherhood caliphate around the world. So now I'll go back to your question which was about our reaction.",
+    "summary": "Summary: Mamdanin mayor Mamdanin in New York. And they with who was elected with foreign money so we need to wake up they we know what they've done on campuses.",
+    "keywords": "brotherhood, caliphate, mamdanin, muslim, reaction",
+    "sentiment": "neutral",
+    "sentiment_score": -0.0065
+  },
+  {
+    "id": 2881,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "So first of all let's understand they have a 20 year head start on us they have ",
+    "text": "So first of all let's understand they have a 20 year head start on us they have a trillion dollars that they've invested into this how do we fight back. It's not that easy. So we need to we need to pull our resources and we are not weaklings we have resources. We have resources and we have allies.",
+    "summary": "Summary: \"We are not weaklings we have resources. We have resources and we have allies,\" he said. \"It's not that easy. We need to we need to pull our resources\"",
+    "keywords": "allies, weaklings, trillion, resources, fight",
+    "sentiment": "positive",
+    "sentiment_score": 0.2278
+  },
+  {
+    "id": 2882,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "So and I'm going to speak directly to them right now. The big social media platf",
+    "text": "So and I'm going to speak directly to them right now. The big social media platform today young people are getting their their their their information their news it used to be from Walter Cronkite back in back in my day people don't even know what you're your listeners won't even know what your crime. So we you know who who who gave us the news and and you know and we believed and we believed and it moved it moved from there to to advocacy journalism so polarization not just reporting the news but but but giving the news from a certain perspective. Well it's gone a couple of iterations further ultimately well went through the comedy shows where people were watching John Stewart and getting getting their information from from him.",
+    "summary": "Summary: The big social media platform today young people are getting their their their information their news it used to be from Walter Cronkite back in back in my day. So and I'm going to speak directly to them right now.",
+    "keywords": "journalism, news, media, advocacy, stewart",
+    "sentiment": "positive",
+    "sentiment_score": 0.0733
+  },
+  {
+    "id": 2883,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "And you know this is if this is where you're getting your news you're you're onl",
+    "text": "And you know this is if this is where you're getting your news you're you're only getting one one version and you know and if you need to be spoon fed what's happening in your world with lumps of sugar with with comedy comedy routines well it just tells you that the people are disengaged from from all of this and then it's gone one step further now to podcasts like this and social media and we we have resources we need to pull those resources our problem is we don't take it seriously and I'm going to say I was pleased to hear the prime minister BB. I was pleased to hear him begin to say and I just heard it in the last month or two where he's added an eighth front so we had seven adversaries physical military adversaries in the region we were fighting a war. On seven fronts he's added an eighth front which is worldwide anti-semitism and the hatred that is being focused against us and so as I said the Qataris have a huge head start but we're they only have money look at what we have. We could get the platforms Mark Zuckerberg.",
+    "summary": "Summary: \"If you need to be spoon fed what's happening in your world with lumps of sugar with with comedy comedy routines well it just tells you that the people are disengaged from from all of this\" \"We we have resources we need to pull those resources our problem is we don't take it seriously\" The Qataris have a huge head start but we're they only have money look at what we have. We could get the platforms Mark Zuckerberg.",
+    "keywords": "zuckerberg, minister, qataris, news, podcasts",
+    "sentiment": "positive",
+    "sentiment_score": 0.0909
+  },
+  {
+    "id": 2884,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "The elephants who Larry and David Ellison who are about to buy the US tick tock ",
+    "text": "The elephants who Larry and David Ellison who are about to buy the US tick tock which is one of the big big platforms Elon Musk calls himself a phylo-semit okay imagine getting these people in a room the Google the Google folks. Imagine getting say great brain and Larry page and imagine getting all these folks in a room and and brainstorming to deal with this problem we could catch up like this and it wouldn't cost a trillion dollars. And I argue I would argue to them that they'll even have more credibility their platforms will have more credibility if they cut out all of the bots and all of the fake things that are being propagated against Western values and since they are capitalists since they are in the business of of of. Rip how shall I put it of encouraging.",
+    "summary": "Summary: Larry and David Ellison who are about to buy the US tick tock which is one of the big big platforms Elon Musk calls himself a phylo-semit okay imagine getting these people in a room the Google the Google folks. Imagine getting say great brain and Larry page and imagine getting all these folks in a Room and and brainstorming to deal with this problem we could catch up like this and it wouldn't cost a trillion dollars.",
+    "keywords": "capitalists, bots, ellison, musk, platforms",
+    "sentiment": "positive",
+    "sentiment_score": 0.225
+  },
+  {
+    "id": 2885,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "The truth. And and reporting the truth I would think that they would be natural ",
+    "text": "The truth. And and reporting the truth I would think that they would be natural allies I think we need to just get organized of course and I'm not even talking about the entertainment world where again Steven Spielberg and others where we we just need to mobilize our resources we are we have so much we are so strong when we're united. And yet strategically we we don't know how to get there perhaps perhaps my role I'm newly elected to my new title of at the world Jewish Congress but perhaps I could get all those people into a room and we could have some we could start to have some of those discussions. Well that was going to be my question how do you do it and I think the answer is you then let's get it going and I'd like to be a fly on the wall if you could pull this meeting off I'd love to be there.",
+    "summary": "Summary: I think we need to just get organized of course and I'm not even talking about the entertainment world where again Steven Spielberg and others where we we just need to mobilize our resources. And yet strategically we we don't know how to get there.",
+    "keywords": "meeting, allies, jewish, discussions, congress",
+    "sentiment": "positive",
+    "sentiment_score": 0.2883
+  },
+  {
+    "id": 2886,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "And imagine working with Israel the startup nation that has all this AI innovati",
+    "text": "And imagine working with Israel the startup nation that has all this AI innovation imagine that we pulled all of our resources together we could come up with a strategy and because we are on the side of good. Of course of course of course good always wins over evil and all we need to do is get organized well I definitely agree with you the good wins over evil and to truth rises to the top but you know even here in Israel as you I'm sure experienced just in the time you know that you've been here we are so divided there are issues like the already draft law that we're dealing with now that is sound small but is a huge internal issue a lot of emotions around it very devices debates before the war we had the judicial reform. You know at this point in time do you believe that we are on a trajectory to see increased you as unity. So in the aftermath of October the seventh we had a golden moment of unity unity amongst the citizens of Israel by the way we were saved by the citizens I told you that my my confidence in the in the military leadership wobbled that day and in the aftermath until we started winning until we started producing the high tech victories those science fiction amazing victories.",
+    "summary": "Summary: \"Good always wins over evil and all we need to do is get organized\" \"Imagine working with Israel the startup nation that has all this AI innovation\" \"If we pulled all of our resources together we could come up with a strategy\" \"I told you that my my confidence in the in the military leadership wobbled that day and in the aftermath until we started winning,\" he said. \"Until we started producing the high tech victories those science fiction amazing victories\"",
+    "keywords": "israel, ai, draft, war, strategy",
+    "sentiment": "positive",
+    "sentiment_score": 0.2243
+  },
+  {
+    "id": 2887,
+    "genre": "genre2_news",
+    "source_file": "news_episode_01.txt",
+    "title": "And in fact they were so ingenious that nobody would believe them so the beapers",
+    "text": "And in fact they were so ingenious that nobody would believe them so the beapers in Lebanon and our 12th they wore and having operatives and bases in Iran under their nose this is this is this is wilder than than than movies. But so of course we fought back and we are we are so much safer than we were on October the sixth today in the aftermath of all of these conflicts but reputationally we've taken a massive massive head but again coming back to your question about about unity in the aftermath of October the seventh we saw unity here in Israel amongst those brave citizens who saved us amongst the generous citizens who came into the street to feed the soldiers and everything we pulled our resources when when the soldiers didn't have enough equipment while we the generous spirit of Israelis came out and it didn't matter there was no there was no division at that moment we were unified and likewise the diaspora jeep diaspora jeewery that perhaps was a little bit estranged from Israel reconnected with Israel and there we and in October the 7th again in the most tragic terms but created October the 8th Jews that understood you know that we have one Jewish state that is there for us and I like to say that Israel belongs to all Jews native born Israelis immigrants such as such as us and to diaspora Jews it belongs to each and every one of us and those October the 8th Jews reconnected with Israel so we did have this moment where we saw unity we can't let that fray and it is fraying as you as you described because we have issues that divide us but we need to somehow overcome it's okay to have differences of opinion differences of perspective differences of political philosophy but ultimately what we are much stronger when we are united then when when we are divided we every time we were as divided as we were the prior to October the 7th you mentioned the judicial reform that were demonstrations and we were really divided every time in history starting with the destruction of our two holy temples when the Jews were divided this is when catastrophe be fell our people and so we we have to learn from the lessons of history the we have to learn the lessons from history and and and and and find ways to be united with all the differences with all the things that the normal differences that people people can can have amongst themselves we don't have to agree on everything and I look again I look at my role at the world Jewish Congress as some but somewhat of a unifier to try to find common ground between people but between people who have different ideas and that's both within Israel and also between Israel and and and the diaspora and so with that unfortunately we are out of town but I love that ending of a call for Jewish unity a call for a new new and positive future for the Jewish people",
+    "summary": "Summary: \"We are so much safer than we were on October the sixth today in the aftermath of all of these conflicts but reputationally we've taken a massive massive head,\" he said. In October the 7th again in the most tragic terms but created October the 8th Jews that understood that we have one Jewish state that is there for us. Israel belongs to all Jews native born Israelis immigrants such as such as us and to diaspora Jews it belongs to each and every one of us. I look again I look at my role at the world Jewish Congress as some but somewhat of a unifier to try to find common ground between people but between people who have different ideas. me we were as divided as we were the prior to October the 7th. \"I love that ending of a call for Jewish unity,\" he said. \"A call for a new new and positive future for the Jewish people\"",
+    "keywords": "israelis, israel, lebanon, jewish, jews",
+    "sentiment": "positive",
+    "sentiment_score": 0.0701
   }
 ]

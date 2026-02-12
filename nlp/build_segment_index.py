@@ -1,154 +1,94 @@
+import os
 import json
-import csv
 from pathlib import Path
-from textblob import TextBlob
 
-EMBEDDING_FILE = "results/segmented_embedding.txt"
-SUMMARY_FILE = "results/segment_summaries.txt"
-KEYWORD_FILE = "results/segment_keywords.csv"
-OUTPUT_FILE = "results/segments_final.json"
+# -----------------------------
+# PATH CONFIG
+# -----------------------------
 
-# ------------------------
-# Load embedding segments
-# ------------------------
+BASE_DIR = Path(__file__).resolve().parent.parent
 
-print("📥 Loading embedding segments...")
+PROCESSED_TEXT_DIR = BASE_DIR / "data" / "processed_text"
+
+SUMMARY_DIR = BASE_DIR / "results" / "summaries"
+KEYWORD_FILE = BASE_DIR / "results" / "visualizations" / "segment_keywords.csv"
+
+SEGMENT_OUT = BASE_DIR / "results" / "segments_final.json"
+
+os.makedirs(SEGMENT_OUT.parent, exist_ok=True)
+
+# -----------------------------
+# LOAD OPTIONAL DATA
+# -----------------------------
+
+summary_map = {}
+
+if SUMMARY_DIR.exists():
+    for f in SUMMARY_DIR.glob("*.json"):
+        with open(f, "r", encoding="utf-8") as fp:
+            data = json.load(fp)
+            summary_map.update(data)
+
+# -----------------------------
+# BUILD SEGMENTS
+# -----------------------------
 
 segments = []
-current_id = None
-current_text = []
+global_id = 1
 
-with open(EMBEDDING_FILE, "r", encoding="utf-8") as f:
-    for line in f:
-        line = line.strip()
+print("📥 Loading cleaned transcripts...")
 
-        # Match: --- SEGMENT 12 ---
-        if line.startswith("--- SEGMENT"):
-            if current_id is not None:
-                segments.append({
-                    "id": str(current_id),
-                    "text": " ".join(current_text).strip()
-                })
+for genre_folder in sorted(PROCESSED_TEXT_DIR.iterdir()):
 
-            current_id = (
-                line.replace("---", "")
-                .replace("SEGMENT", "")
-                .replace("-", "")
-                .strip()
-            )
+    if not genre_folder.is_dir():
+        continue
 
-            current_text = []
+    genre = genre_folder.name
+    print(f"\n📂 Processing genre: {genre}")
 
-        elif line:
-            current_text.append(line)
+    for txt_file in sorted(genre_folder.glob("*.txt")):
 
-    # last segment
-    if current_id is not None:
-        segments.append({
-            "id": str(current_id),
-            "text": " ".join(current_text).strip()
-        })
+        with open(txt_file, "r", encoding="utf-8") as f:
+            text = f.read().strip()
 
-print(f"📊 Total embedding segments: {len(segments)}")
+        if not text:
+            continue
 
-if len(segments) == 0:
-    print("❌ ZERO segments parsed — stopping.")
-    exit()
+        # ---------
+        # SIMPLE SPLIT INTO PARAGRAPH SEGMENTS
+        # ---------
 
-# ------------------------
-# Load summaries
-# ------------------------
+        raw_chunks = [c.strip() for c in text.split("\n\n") if c.strip()]
 
-summaries = {}
+        for chunk in raw_chunks:
 
-if Path(SUMMARY_FILE).exists():
-    print("📄 Loading summaries...")
+            seg = {
+                "id": global_id,
+                "genre": genre,
+                "source_file": txt_file.name,
+                "title": chunk[:80] + "...",
+                "text": chunk,
+                "summary": "",
+                "keywords": "",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0,
+            }
 
-    with open(SUMMARY_FILE, "r", encoding="utf-8") as f:
-        current = None
-        buffer = []
+            # attach summary if exists
+            if str(global_id) in summary_map:
+                seg["summary"] = summary_map[str(global_id)]
 
-        for line in f:
-            line = line.strip()
+            segments.append(seg)
+            global_id += 1
 
-            if line.startswith("SEGMENT"):
-                if current:
-                    summaries[current] = " ".join(buffer)
 
-                current = (
-                    line.replace("SEGMENT", "")
-                    .replace(":", "")
-                    .strip()
-                )
+print(f"\n📊 Total segments created: {len(segments)}")
 
-                buffer = []
+# -----------------------------
+# SAVE FINAL INDEX
+# -----------------------------
 
-            else:
-                buffer.append(line)
+with open(SEGMENT_OUT, "w", encoding="utf-8") as f:
+    json.dump(segments, f, indent=2, ensure_ascii=False)
 
-        if current:
-            summaries[current] = " ".join(buffer)
-
-else:
-    print("⚠ No summary file found.")
-
-# ------------------------
-# Load keywords CSV
-# ------------------------
-
-keywords = {}
-
-if Path(KEYWORD_FILE).exists():
-    print("🔑 Loading keywords...")
-
-    with open(KEYWORD_FILE, newline="", encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-
-        for row in reader:
-            seg_id = row["Segment"].strip()
-            kw = row["Keywords"].strip()
-            keywords[seg_id] = kw
-
-else:
-    print("⚠ No keyword CSV found.")
-
-# ------------------------
-# Merge everything + sentiment
-# ------------------------
-
-final_segments = []
-
-print("🧠 Running sentiment analysis...")
-
-for seg in segments:
-    sid = seg["id"]
-    text = seg["text"]
-
-    blob = TextBlob(text)
-    polarity = blob.sentiment.polarity
-
-    label = (
-        "Positive" if polarity > 0.1 else
-        "Negative" if polarity < -0.1 else
-        "Neutral"
-    )
-
-    final_segments.append({
-        "id": sid,
-        "title": text[:80] + "...",
-        "text": text,
-        "summary": summaries.get(sid, ""),
-        "keywords": keywords.get(sid, ""),
-        "sentiment": label,
-        "sentiment_score": round(polarity, 3)
-    })
-
-# ------------------------
-# Save JSON
-# ------------------------
-
-with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-    json.dump(final_segments, f, indent=2)
-
-print(f"✅ Final segment index saved to: {OUTPUT_FILE}")
-print(f"📊 Total segments indexed: {len(final_segments)}")
+print(f"\n✅ Final segment index saved to: {SEGMENT_OUT}")

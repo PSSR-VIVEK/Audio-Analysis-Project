@@ -63,6 +63,25 @@ An end-to-end AI-powered pipeline for podcast audio analysis. This project proce
   - Visual color coding (🟢 Positive, 🔴 Negative, 🔵 Neutral)
   - Sentiment scores from -1.0 to +1.0
 
+### 🧪 System Testing & Upload Feature (Week 6)
+- **Upload & Analyze Tab**:
+  - Upload any audio file (WAV, MP3, M4A)
+  - Full NLP pipeline runs in real-time
+  - Whisper transcription → Sentence splitting → Topic segmentation → Summarization → Keywords → Sentiment
+  - Progress bar with stage-by-stage feedback
+  - Interactive results with segment timeline, word clouds, and sentiment pie chart
+
+- **Multi-Genre Support**:
+  - Genre 1: Education (2,847 segments from English learning podcasts)
+  - Genre 2: News (40 segments from current affairs podcasts)
+  - Genre filter in sidebar for easy switching
+
+- **System Testing**:
+  - Comprehensive testing across 7 areas
+  - 8 issues documented with severity levels
+  - User feedback collected from 3 testers
+  - Bug fixes for segment selection and navigation
+
 ---
 
 ## 📅 Project Timeline
@@ -125,12 +144,32 @@ An end-to-end AI-powered pipeline for podcast audio analysis. This project proce
 
 ---
 
+### Week 6: System Testing, Upload Feature & Feedback
+**Objective**: Add real-time audio analysis, test the system, and collect user feedback
+
+**Completed**:
+- ✅ "Upload & Analyze" tab with full NLP pipeline
+- ✅ Reusable pipeline module (`app/upload_analyzer.py`)
+- ✅ Multi-genre support (education + news)
+- ✅ News sentiment re-analysis (fixed 100% neutral issue)
+- ✅ News keywords regenerated with KeyBERT
+- ✅ System testing across 7 areas (`testing_log.md`)
+- ✅ User feedback collection — 3 respondents (`feedback_responses.md`)
+- ✅ Bug fixes: segment selection, timeline navigation, Prev/Next buttons
+
+**Output**:
+- Upload & Analyze feature (`app/upload_analyzer.py`)
+- Testing log (`testing_log.md`)
+- Feedback form & responses (`feedback_form.md`, `feedback_responses.md`)
+- Fixed UI bugs in `app/app.py`
+
 ## 📁 Project Structure
 
 ```
 Podcast_AI_Project/
 ├── app/                          # Web application
-│   ├── app.py                    # Main Streamlit dashboard
+│   ├── app.py                    # Main Streamlit dashboard (Genre Browser + Upload)
+│   ├── upload_analyzer.py        # Real-time audio analysis pipeline
 │   └── utils.py                  # Helper functions
 │
 ├── asr/                          # Automatic Speech Recognition
@@ -165,6 +204,9 @@ Podcast_AI_Project/
 │   ├── segmented_baseline.txt    # Baseline segments
 │   └── segmented_embedding.txt   # Embedding segments
 │
+├── testing_log.md                # Week 6 system testing results
+├── feedback_form.md              # User feedback template
+├── feedback_responses.md         # Collected feedback (3 testers)
 ├── requirements.txt              # Python dependencies
 └── README.md                     # This file
 ```
@@ -321,12 +363,13 @@ streamlit run app/app.py
 ## 📊 Results
 
 ### Dataset Statistics
-- **Total Audio Segments**: 2,847
-- **Total Transcripts**: 2,847 JSON files
-- **Topic Segments**: 2,847 distinct segments
-- **Summaries Generated**: 2,847 (2-3 sentences each)
-- **Keywords Extracted**: 14,235 (5 per segment)
-- **Sentiment Scores**: 2,847 (all segments analyzed)
+- **Total Audio Segments**: 2,887 (2,847 education + 40 news)
+- **Genres**: 2 (Education, News)
+- **Total Transcripts**: 2,887 JSON files
+- **Topic Segments**: 2,887 distinct segments
+- **Summaries Generated**: 2,887 (2-3 sentences each)
+- **Keywords Extracted**: 14,435+ (5 per segment)
+- **Sentiment Scores**: 2,887 (all segments analyzed)
 
 ### Output Files
 - **Master Data File**: `segments_final.json` (2.7 MB)
@@ -335,11 +378,14 @@ streamlit run app/app.py
 - **Segmented Transcripts**: `segmented_embedding.txt` (1.4 MB)
 
 ### Dashboard Features
-- ✅ Interactive timeline with 2,847 segments
+- ✅ Interactive timeline with 2,887 segments
 - ✅ Color-coded sentiment visualization
 - ✅ Pagination (50 segments per page)
 - ✅ Real-time keyword cloud generation
 - ✅ Comprehensive segment details
+- ✅ Upload & Analyze for custom audio files
+- ✅ Multi-genre filtering
+- ✅ Sentiment pie chart for uploaded audio
 - ✅ Responsive design
 
 ---
@@ -367,18 +413,13 @@ streamlit run app/app.py
 - Data integration and presentation
 - User experience design
 
----
-
-## 📝 Future Enhancements
-
-- [ ] Speaker diarization (identify different speakers)
-- [ ] Multi-language support
-- [ ] Advanced topic modeling (LDA, BERTopic)
-- [ ] Export functionality (PDF reports, CSV)
-- [ ] Audio playback integration
-- [ ] Search functionality
-- [ ] Custom sentiment model training
-- [ ] Real-time processing
+### Week 6: Testing, Upload & Feedback
+- Upload & Analyze with full NLP pipeline
+- Multi-genre support (education + news)
+- System testing (7 areas, 8 issues documented)
+- User feedback collection (3 respondents)
+- Bug fixes and UI improvements
+- News sentiment re-analysis
 
 ---
 
@@ -411,5 +452,5 @@ For questions or feedback, please open an issue on GitHub or contact via the rep
 
 ---
 
-**Last Updated**: February 9, 2026  
-**Project Status**: Week 5 Complete ✅
+**Last Updated**: February 12, 2026  
+**Project Status**: Week 6 Complete ✅
