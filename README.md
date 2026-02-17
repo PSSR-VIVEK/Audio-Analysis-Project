@@ -1,4 +1,4 @@
-# 🎙️ Automated Podcast Transcription & Analysis Project
+# Automated Podcast Transcription & Analysis Project
 
 An end-to-end AI-powered pipeline for podcast audio analysis. This project processes raw audio, transcribes it using OpenAI's Whisper model, performs topic segmentation, generates summaries, extracts keywords, analyzes sentiment, and presents everything through an interactive web dashboard.
 
@@ -6,7 +6,7 @@ An end-to-end AI-powered pipeline for podcast audio analysis. This project proce
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## 📋 Table of Contents
+## Table of Contents
 - [Features](#-features)
 - [Project Timeline](#-project-timeline)
 - [Project Structure](#-project-structure)
@@ -17,23 +17,23 @@ An end-to-end AI-powered pipeline for podcast audio analysis. This project proce
 
 ---
 
-## ✨ Features
+## Features
 
-### 🎵 Audio Processing (Week 1-2)
+### Audio Processing (Week 1-2)
 - **Audio Preprocessing Pipeline**:
   - Auto-conversion of MP3/WAV to compatible formats
   - Resampling to 16kHz for optimal ASR performance
   - Noise reduction and audio normalization
   - Smart chunking (30s segments) for efficient processing
 
-### 🗣️ Speech Recognition (Week 1-2)
+### Speech Recognition (Week 1-2)
 - **ASR (Automatic Speech Recognition)**:
   - Transcribes audio using OpenAI's Whisper model (`base` model)
   - Processes 30-second chunks for memory efficiency
   - Outputs transcriptions in JSON format
   - Handles 2,847+ audio segments
 
-### 📊 NLP Analysis (Week 3-4)
+### NLP Analysis (Week 3-4)
 - **Topic Segmentation**:
   - Baseline segmentation using sentence boundaries
   - Advanced embedding-based segmentation
@@ -49,7 +49,7 @@ An end-to-end AI-powered pipeline for podcast audio analysis. This project proce
   - Top 5 keywords per segment
   - CSV output for easy analysis
 
-### 🎨 Visualization Dashboard (Week 5)
+### Visualization Dashboard (Week 5)
 - **Interactive Web Application**:
   - Built with Streamlit framework
   - Interactive timeline with color-coded sentiment
@@ -63,7 +63,7 @@ An end-to-end AI-powered pipeline for podcast audio analysis. This project proce
   - Visual color coding (🟢 Positive, 🔴 Negative, 🔵 Neutral)
   - Sentiment scores from -1.0 to +1.0
 
-### 🧪 System Testing & Upload Feature (Week 6)
+### System Testing & Upload Feature (Week 6)
 - **Upload & Analyze Tab**:
   - Upload any audio file (WAV, MP3, M4A)
   - Full NLP pipeline runs in real-time
@@ -84,16 +84,16 @@ An end-to-end AI-powered pipeline for podcast audio analysis. This project proce
 
 ---
 
-## 📅 Project Timeline
+## Project Timeline
 
 ### Week 1-2: Audio Processing & Transcription
 **Objective**: Build foundation for audio-to-text conversion
 
 **Completed**:
-- ✅ Audio preprocessing pipeline (resampling, noise reduction, chunking)
-- ✅ Whisper ASR integration
-- ✅ Batch processing for large audio files
-- ✅ JSON transcript generation
+- Audio preprocessing pipeline (resampling, noise reduction, chunking)
+- Whisper ASR integration
+- Batch processing for large audio files
+- JSON transcript generation
 
 **Output**: 2,847 transcribed audio segments
 
@@ -103,10 +103,10 @@ An end-to-end AI-powered pipeline for podcast audio analysis. This project proce
 **Objective**: Organize transcripts into meaningful segments
 
 **Completed**:
-- ✅ Baseline topic segmentation (sentence-based)
-- ✅ Embedding-based segmentation (semantic similarity)
-- ✅ BART-large-CNN summarization
-- ✅ Resumable summarization pipeline
+- Baseline topic segmentation (sentence-based)
+- Embedding-based segmentation (semantic similarity)
+- BART-large-CNN summarization
+- Resumable summarization pipeline
 
 **Output**: 
 - Segmented transcripts (`segmented_baseline.txt`, `segmented_embedding.txt`)
@@ -118,9 +118,9 @@ An end-to-end AI-powered pipeline for podcast audio analysis. This project proce
 **Objective**: Extract important terms from each segment
 
 **Completed**:
-- ✅ TF-IDF vectorization implementation
-- ✅ Top-5 keyword extraction per segment
-- ✅ CSV export for analysis
+- TF-IDF vectorization implementation
+- Top-5 keyword extraction per segment
+- CSV export for analysis
 
 **Output**: `segment_keywords.csv` with 14,235 keywords
 
@@ -130,12 +130,12 @@ An end-to-end AI-powered pipeline for podcast audio analysis. This project proce
 **Objective**: Create interactive dashboard for data exploration
 
 **Completed**:
-- ✅ Interactive timeline with sentiment color-coding
-- ✅ TextBlob sentiment analysis (2,847 segments)
-- ✅ Keyword cloud visualization
-- ✅ Data integration into master JSON file
-- ✅ Streamlit web application with pagination
-- ✅ Professional UI with clear formatting
+- Interactive timeline with sentiment color-coding
+- TextBlob sentiment analysis (2,847 segments)
+- Keyword cloud visualization
+- Data integration into master JSON file
+- Streamlit web application with pagination
+- Professional UI with clear formatting
 
 **Output**: 
 - Interactive dashboard (`app/app.py`)
@@ -148,14 +148,14 @@ An end-to-end AI-powered pipeline for podcast audio analysis. This project proce
 **Objective**: Add real-time audio analysis, test the system, and collect user feedback
 
 **Completed**:
-- ✅ "Upload & Analyze" tab with full NLP pipeline
-- ✅ Reusable pipeline module (`app/upload_analyzer.py`)
-- ✅ Multi-genre support (education + news)
-- ✅ News sentiment re-analysis (fixed 100% neutral issue)
-- ✅ News keywords regenerated with KeyBERT
-- ✅ System testing across 7 areas (`testing_log.md`)
-- ✅ User feedback collection — 3 respondents (`feedback_responses.md`)
-- ✅ Bug fixes: segment selection, timeline navigation, Prev/Next buttons
+- "Upload & Analyze" tab with full NLP pipeline
+- Reusable pipeline module (`app/upload_analyzer.py`)
+- Multi-genre support (education + news)
+- News sentiment re-analysis (fixed 100% neutral issue)
+- News keywords regenerated with KeyBERT
+- System testing across 7 areas (`testing_log.md`)
+- User feedback collection — 3 respondents (`feedback_responses.md`)
+- Bug fixes: segment selection, timeline navigation, Prev/Next buttons
 
 **Output**:
 - Upload & Analyze feature (`app/upload_analyzer.py`)
@@ -169,17 +169,17 @@ An end-to-end AI-powered pipeline for podcast audio analysis. This project proce
 **Objective**: Consolidate all work, finalize technical documentation, and prepare for system demonstration.
 
 **Completed**:
-- ✅ Comprehensive Technical Project Report (Sections 1-9)
-- ✅ Final Presentation Preparation (10-12 slides)
-- ✅ System Demonstration Readiness
-- ✅ Code Refinements & Minor Polish
+- Comprehensive Technical Project Report (Sections 1-9)
+- Final Presentation Preparation (10-12 slides)
+- System Demonstration Readiness
+- Code Refinements & Minor Polish
 
 **Output**:
 - Final Project Report (PDF/MD)
 - Presentation Materials
 - System Screenshots
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Podcast_AI_Project/
@@ -229,7 +229,7 @@ Podcast_AI_Project/
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -262,7 +262,7 @@ Podcast_AI_Project/
 
 ---
 
-## 💻 Usage
+## Usage
 
 ### 1. Audio Preprocessing
 Place your podcast files (`.mp3` or `.wav`) in `data/wav_clean/`:
@@ -345,7 +345,7 @@ streamlit run app/app.py
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Audio Processing
 - **librosa** - Audio analysis and feature extraction
@@ -376,7 +376,7 @@ streamlit run app/app.py
 
 ---
 
-## 📊 Results
+## Results
 
 ### Dataset Statistics
 - **Total Audio Segments**: 2,887 (2,847 education + 40 news)
@@ -394,19 +394,19 @@ streamlit run app/app.py
 - **Segmented Transcripts**: `segmented_embedding.txt` (1.4 MB)
 
 ### Dashboard Features
-- ✅ Interactive timeline with 2,887 segments
-- ✅ Color-coded sentiment visualization
-- ✅ Pagination (50 segments per page)
-- ✅ Real-time keyword cloud generation
-- ✅ Comprehensive segment details
-- ✅ Upload & Analyze for custom audio files
-- ✅ Multi-genre filtering
-- ✅ Sentiment pie chart for uploaded audio
-- ✅ Responsive design
+- Interactive timeline with 2,887 segments
+- Color-coded sentiment visualization
+- Pagination (50 segments per page)
+- Real-time keyword cloud generation
+- Comprehensive segment details
+- Upload & Analyze for custom audio files
+- Multi-genre filtering
+- Sentiment pie chart for uploaded audio
+- Responsive design
 
 ---
 
-## 🎯 Key Features Demonstrated
+## Key Features Demonstrated
 
 ### Week 1-2: Foundation
 - Audio preprocessing pipeline
@@ -446,7 +446,7 @@ streamlit run app/app.py
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **PSSR Vivek**
 - GitHub: [@PSSR-VIVEK](https://github.com/PSSR-VIVEK)
@@ -454,13 +454,13 @@ streamlit run app/app.py
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - OpenAI Whisper for ASR capabilities
 - Hugging Face for transformer models
@@ -469,14 +469,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 📞 Contact
+## Contact
 
 For questions or feedback, please open an issue on GitHub or contact via the repository.
 
 ---
 
 **Last Updated**: February 17, 2026  
-**Project Status**: Week 7 Complete ✅
+**Project Status**: Week 7 Complete 
 
 ---
 
@@ -506,6 +506,7 @@ The primary objective of this project is to build an end-to-end AI pipeline that
 - **Accessibility:** Provides textual alternatives for hearing-impaired users.
 - **Content Discovery:** Allows users to search for topics and keywords within audio archives.
 - **Media Monitoring:** Enables analysis of sentiment and discussion topics in news broadcasts.
+- **Journalism:** Helps reporters quickly digest long interviews or press briefings.
 
 ---
 
